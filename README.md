@@ -1,5 +1,5 @@
 
-12.15 **Shoulders**  
+12.15 **Shoulders** asdfasdfasdfasdf  
 12.14 **Legs_____** back squat 235 x 8 x 5 RDL 195 x 12 x 5 DB lunge 52 x 30 x 2   
 
 12.13 **Cardio___** run 2 miles - sprints  
