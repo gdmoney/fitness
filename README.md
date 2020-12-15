@@ -1,5 +1,5 @@
 
-12.15 ***Shoulders***    **DB OH press:** asdfasdfasdfasdf  
+12.15 ***Shoulders***    **BB OH press:** asdfasdfasdfasdf  
 12.14 ***Legs***          **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2   
 
 12.13 ***Cardio***         **run:** 2 miles - sprints  
