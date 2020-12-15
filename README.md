@@ -1,5 +1,5 @@
-12.15 ***Shoulders***   **BB OH press:**   • **lat raise:**   • **front raise:**  
-12.14 ***Legs***      **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2  
+12.15 ***Shoulders***  **BB OH press:**   • **lat raise:**   • **front raise:**  
+12.14 ***Legs***    **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2  
 
 12.13 ***Cardio***     **run:** 2 miles - sprints  
 12.12 ***Pull***     **pullups:** 15x2,12,10x2 • **chinups:** 15x2,12x3 • **BB row-OH/UH:** 185x10x6 • **BB curl:** 125x8x3 • **BB curl-rvrs:** 65x10x3  
