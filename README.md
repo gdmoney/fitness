@@ -35,9 +35,9 @@
 
 11.15 ***`Push     `*** **BB OH press:** 100x30,28,18,16,16 • **BB bench press:** 150x30,28,25,23,17  
 11.14 ***`Pull     `*** **pullups:** 15,14,13,12,12 • **chinups:** 15,14,13,13,15 • **BB row-OH/UH:** 185x10x6 • **BB curl:** 115x10x3  
-11.13 ***`Chest/Tri`*** **BB bench press:** 225x12,11,9,8,8 • **bench dip-wghtd:** 20x5 • **DB bench press:** 52x50,40x2,35x2  
+11.13 ***`Chest/Tri`*** **BB bench press:** 225x12,11,9,8,8 • **bench dip-wghtd:** 20x5 • **DB bench press:** 52x50,40,40,35,35  
 11.12 ***`Legs     `*** **DB squat-wghtd:** 105x12x5  
-11.11 ***`Shoulders`*** **BB OH press:** 145x8,7,7,6,6 • **lat raise:** 35x15x5 • **DB OH press:** 52x20,18x2,14x2  
+11.11 ***`Shoulders`*** **BB OH press:** 145x8,7,7,6,6 • **lat raise:** 35x15x5 • **DB OH press:** 52x20,18,18,14,14  
 11.10 ***`Pull     `*** **pullups:** 15,14,12,10x2 • **chinups:** 15,14,12x3 • **BB row-OH/UH:** 135x15x6 • **BB curl:** 125x6x3  
 11.09 ***`Legs     `*** **back squat:** 225x10,10,8,8,8 
 
