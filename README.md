@@ -27,7 +27,7 @@
 
 11.22 ***`Cardio   `*** **run:** 2 miles  
 11.21 ***`Pull     `*** **pullups:** 15x2,12,10x2 • **chinups:** 15x2,13,12x2 • **BB row-OH/UH:** 185x10x6 • **BB curl:** 125x8,7,6  
-11.20 ***`Chest/Tri`*** **BB bench press:** 225x4, 245x2, 275x1, 300x1, 315xF, 225x8x3 • **bench dip-wghtd:** 20x5 • **DB bench press:** 52x50x3  
+11.20 ***`Chest/Tri`*** **BB bench press:** 225x4, 245x2, 275x1, 300x1, 315xF, 225x8x3 • **bench dip-wghtd:** 20x5 • **DB bench press:** 52x50x3  
 11.19 ***`Legs     `*** **back squat:** 185x12x5 • **DB lunge:** 52x30x3  
 11.18 ***`Shoulders`*** **BB OH press:** 145x5, 165x4, 175x2, 165x4, 145x8x3 • **lat raise:** 35x15x5 • **DB OH press:** 52x18,16,15  
 11.17 ***`Pull     `*** **pullups-wghtd:** 5x5 • **chinups-wghtd:** 5x5 • **DB row:** 52x35x4 • **DB curl:** 52x8x4  
