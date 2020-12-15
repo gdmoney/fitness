@@ -1,4 +1,4 @@
-<pre>
+
 12.15 Shoulders  
 12.14 Legsback squat 235 x 8 x 5 RDL 195 x 12 x 5 DB lunge 52 x 30 x 2   
 
@@ -15,4 +15,4 @@ The action of every agent <br />
   into the world <br />
 starts <br />
   from their physical selves. <br />
-</pre>
+
