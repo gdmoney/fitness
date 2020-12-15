@@ -1,6 +1,6 @@
 
 12.15 **Shoulders** asdfasdfasdfasdf  
-12.14 **Legs**         **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2   
+12.14 **Legs**          **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2   
 
 12.13 **Cardio____** **run:** 2 miles - sprints  
 12.12 **Pull_______** **pullups:** 15,15,12,10,10 • **chinups:** 15,15,12,12,12 • **BB row-OH/UH:** 185x10x6 • **BB curl:** 125x8x3 • **BB curl-rvrs:** 65x10x3  
