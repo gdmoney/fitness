@@ -1,4 +1,3 @@
-
 12.15 ***Shoulders***    **BB OH press:**   • **lat raise:**   • **front raise:**  
 12.14 ***Legs***          **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2  
 
