@@ -1,3 +1,4 @@
+12.16 ***`Pull     `*** **pullups-wghtd:** 5x5 • **chinups-wghtd:** 5x5 • **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x6x3 • **BB curl-rvrs:** 75x10x3  
 12.15 ***`Shoulders`*** **BB OH press:** 135x10x5 • **lat raise:** 35x15x5 • **front raise:** 35x10x5  
 12.14 ***`Legs     `*** **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2  
 
