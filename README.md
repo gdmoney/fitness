@@ -1,3 +1,4 @@
+12.18 ***`Chest/Tri`*** **BB bench press:** 275x1, 275x1, 295x1, 315xF, 315xF, 225x8x3  
 12.17 ***`Legs     `*** **back squat:** 195x12x5 • **RDL:** 195x12x5  
 12.16 ***`Pull     `*** **pullups-wghtd:** 5x5 • **chinups-wghtd:** 5x5 • **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x6x3 • **BB curl-rvrs:** 75x10x3  
 12.15 ***`Shoulders`*** **BB OH press:** 135x10x5 • **lat raise:** 35x15x5 • **front raise:** 35x10x5  
