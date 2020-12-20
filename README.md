@@ -1,4 +1,5 @@
-12.19 ***`Pull     `*** **pullups:** 15,15,12,11,10 • **chinups:** 15,15,13,13,12 • **BB row-OH/UH:** 185x12x6 • **BB curl:** 125x8x3 • **BB curl-rvrs:** 75x10x3    
+12.20 ***`Cardio   `*** **run:** 2 miles - hills
+12.19 ***`Pull     `*** **pullups:** 15x2,12,11,10 • **chinups:** 15x2,13x2,12 • **BB row-OH/UH:** 185x12x6 • **BB curl:** 125x8x3 • **BB curl-rvrs:** 75x10x3    
 12.18 ***`Chest/Tri`*** **BB bench press:** 275x1, 275x1, 295x1, 315xF, 315xF, 225x8x3  
 12.17 ***`Legs     `*** **back squat:** 195x12x5 • **RDL:** 195x12x5  
 12.16 ***`Pull     `*** **pullups-wghtd:** 5x5 • **chinups-wghtd:** 5x5 • **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x6x3 • **BB curl-rvrs:** 75x10x3  
