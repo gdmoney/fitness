@@ -1,4 +1,4 @@
-12.24 ***`Legs     `*** 
+12.24 ***`Legs     `***   
 12.23 ***`Pull     `*** **pullups-wghtd:** 5x3 • **chinups-wghtd:** 5x3 • **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x6x3 • **BB curl-rvrs:** 75x10x3  
 12.22 ***`Chest/Tri`*** **BB bench press:** 225x4, 275x1, 315xF, 225x10x3 • **skull crushers:** 95x12x3 • **bench dip-wghtd:** 25x5  
 12.21 ***`Legs     `*** **back squat:** 245x8x5 • **RDL:** 205x12x5 • **DB lunge:** 52x30x1  
