@@ -1,4 +1,4 @@
-12.25 ***`Shoulders`*** **BB OH press:** 145x10x5 • **lat raise:** 35x15x5 • **front raise:** 35x10x5  
+12.25 ***`Shoulders`*** **BB OH press:** 145x8x5 • **lat raise:** 35x15x5 • **front raise:** 35x10x5  
 12.24 ***`Legs     `*** **back squat:** 195x12x5 • **RDL:** 225x8x5 • **DB lunge:** 52x30x1  
 12.23 ***`Pull     `*** **pullups-wghtd:** 5x3 • **chinups-wghtd:** 5x3 • **BB row-OH/UH:** 195x12x6 • **BB curl:** 135x6x3 • **BB curl-rvrs:** 75x10x3  
 12.22 ***`Chest/Tri`*** **BB bench press:** 225x4, 275x1, 315xF, 225x10x3 • **skull crushers:** 95x12x3 • **bench dip-wghtd:** 25x5  
