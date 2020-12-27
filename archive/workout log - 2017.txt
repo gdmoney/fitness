@@ -1,0 +1,251 @@
+Date	Distance	Type		Pace/Details								Notes
+----	--------	----		------------								-----
+1/2	1.5		Gym		(spartacus x 2)								
+1/5	3		Interval	(1m x 2 @ 6:00 pace w/200m jogging rest)				Treadmill
+1/7	15k		Race		(1:03:10 | 6:45 pace | 13th overall)					*** Resolution Run ***
+1/7	2		Easy		(warm up/warm down)
+
+1/11			Gym		(100 pushups, 50 rolls)
+1/15			Swim		(Cortina pool with Tina)
+
+1/16	2		Gym		(spartacus x 1)
+
+1/24	6.5		Interval	(varied)								Treadmill
+1/26	5		Interval	(1m x 3 @ 6:00 pace w/200m jogging rest)				Treadmill
+1/28	4.5		Tempo		(3m @ 6:00 pace)							Treadmill
+1/29	5		Easy		(with Jako)								Lake
+
+2/1	5		Interval	(800m x 6 6:00 pace w/200m jogging rest; 1% incline)			Treadmill
+2/4	5		Easy/Sprints	(400m x 2 sprints per lap)						Street
+
+2/6	1		Gym		(elliptical 30 min)
+2/8	1		Gym		(elliptical 10 min, bicycle 10 min)
+2/9	1		Gym		(elliptical 10 min)
+2/10	1		Gym		(elliptical 10 min, arms)
+2/12	10k		RACE		(39:25 | 6:27 pace | 2nd in age group)					*** Coronado 10k ***
+
+2/15	1		Gym		(elliptical 15 min, arms)
+2/17	1		Gym		(spartacus x 2)
+2/19	5		Easy		(with Jako)								Lake
+
+2/20	5		Med+Sprints	(400m x 2 sprints per lap)						Street
+2/22			Gym		(150 pushups | 25 x 6 )
+2/25	1		Gym		(elliptical 10 min)
+
+2/27	1		Gym		(elliptical 30 min)
+3/2	1.5		Gym		(elliptical 30 min)
+3/3			Gym		(100 pushups | 25 x 4)
+3/4	1.5		Gym		(bike 10 min)
+
+3/11	4		Prog/Gym	(elliptical 10 min)
+3/12	1		Gym		(spartacus x 1)
+
+3/17	4.5		Progressive	(800m intervals)							Treadmill
+3/19	1.5		Gym		(elliptical 20 min)
+
+3/20	4.5		Progressive	(800m intervals)							Treadmill
+3/22	4.5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+3/24	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+3/26	5		Easy		(with Jako)								Lake
+
+3/28	4.5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+3/29	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+3/30	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+3/31	1		Gym		(elliptical 20 min)
+4/2	5		Easy		(with Jako)								Lake
+
+4/3	5		Easy+Sprints	(400m x 2 sprints per lap)						Street
+4/4	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+4/7	5		Progressive	(800m intervals | 6.5mph to 11.0mph(400m))				Treadmill
+4/9			Gym		(200 pushups | 25 x 8)
+
+4/10	5		Progressive	(800m intervals | 6.5mph to 11.0mph(400m))				Treadmill
+4/12	2		Gym		(elliptical 15 min)
+4/14	5.25		Progressive	(800m intervals | 6.5mph to 11.0mph)					Treadmill
+
+4/17	2		Gym		(elliptical 15 min)
+4/19	2		Gym		(elliptical 15 min)
+4/22			Gym		(elliptical 30 min)
+
+4/24	4		Progressive	(800m intervals | 6.5mph to 10.0mph)					Treadmill
+4/25	2		Gym		(elliptical 15 min)
+4/26	5.25		Progressive	(800m intervals | 6.5mph to 11.0mph)					Treadmill
+4/27	3		Hills											Mountain
+4/28	1.5		Hike		(with Tina and Jako)							Mountain
+
+5/2	6.5		Interval	(2m, 1.5m, 1.0m, 0.5m @ 6:00 pace w/200m jogging rest)			Treadmill
+5/3			Gym		(100 pushups | 25 x 4)
+5/4	3		Progressive	(800m intervals | 6.5mph to 9.0mph					Treadmill
+5/5			Gym		(100 pushups | 25 x 4)
+5/6	2.5		Hills											Mountain
+5/7	1		Gym		(elliptical 30 min)
+
+5/8			Gym		(100 pushups | 25 x 4)
+5/8	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+5/9			Gym		(50 burpees | 10 x 5)
+5/10			Gym		(100 pushups | 25 x 4)
+5/10	5		Progressive	(800m intervals | 6.5mph to 11.0mph(400m))				Treadmill
+5/11			Gym		(100 pushups | 25 x 4)
+5/13	3		Hills											Mountain
+
+5/15	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+5/16			Gym		(100 pushups | 25 x 4)
+5/16			Gym		(elliptical 30 min)
+5/17			Gym		(100 pushups | 25 x 4)
+5/18			Gym		(100 pushups | 25 x 4)
+5/19			Gym		(100 pushups | 25 x 4)
+5/20	2.5		Hills											Mountain
+5/20			Gym		(50 pushups  | 25 x 2)
+5/21	2.5		Hills											Mountain
+5/21			Gym		(100 pushups | 25 x 4)
+
+5/22	5		Easy		(with Jako)								Miramar College
+5/24	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+5/26	2.5		Progressive										Treadmill
+5/28	2.5		Hills											Mountain
+
+5/29	3		Hills											Mountain
+5/31			Gym		(elliptical 30 min)
+6/1			Gym		(elliptical 30 min)
+6/2	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+
+6/5			Gym		(elliptical 30 min)
+6/6			Gym		(elliptical 20 min)
+6/9	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+
+6/13	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+6/15			Gym		(elliptical 30 min)
+6/16	1		Gym		(spartacus x 1)
+
+6/20	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+6/22	3		Hills											Mountain
+6/23			Gym		(elliptical 30 min)
+6/25			Gym		(elliptical 30 min)
+
+6/26	4.5		Interval	(1m x 3 @ 6:00 pace w/200m jogging rest)				Treadmill
+6/27			Gym		(elliptical 30 min)
+6/28			Swim		(600 | 200 free + 100 breast/back x 2)					Cortina
+6/29			Gym		(elliptical 20 min)
+6/30			Swim		(600 | 200 free + 100 breast/back x 2)					Cortina
+
+7/3	4.5		Interval	(1m x 3 @ 6:00 pace w/200m jogging rest)				Treadmill
+7/4			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/5			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/6	4		Hike		(with Otto and Jako)							Torrey Pines
+7/7			Swim		(700  | 250 free + 100 breast/back x 2)					Cortina
+7/9			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+
+7/10			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/11			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/12			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/13			Swim		(700  | 250 free + 100 breast/back x 2)					Cortina
+7/14			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/14			Swim		(500 free)								Cortina
+7/15			Swim		(500 free)								Cortina
+7/16			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+
+7/17			Swim		(1000 | 250 free + 100 breast/back x 3)					Cortina
+7/18			Swim		(700  | 250 free + 100 breast/back x 2)					Cortina
+7/22			Swim		(100 free)
+
+7/24			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+7/26	3		Hills											Mountain			
+7/27			Swim		(500 free)
+7/28			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+7/29			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+7/30	4.5		Progressive	(800m intervals | 6.5mph to 10.0mph)					Treadmill
+
+7/31			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+8/1			Gym		(elliptical 20 min)
+8/2			Swim		(600  | 500 free + 100 breast/back x 1)					Cortina
+8/4			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+8/6			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+
+8/8	4.25		Progressive	(800m intervals | 6.5mph to 10.0mph)					Treadmill
+8/9			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina
+8/10	4.25		Progressive	(800m intervals | 6.5mph to 10.0mph)					Treadmill
+8/11			Swim		(600  | 500 free + 100 breast/back)					Cortina
+
+8/14			Swim		(600  | 500 free + 100 breast/back)					Cortina
+8/15	3		Hills											Mountain
+8/16			Swim		(600  | 500 free + 100 breast/back)					Cortina
+8/17			Gym		(elliptical 20 min)
+8/18			Swim		(600  | 500 free + 100 breast/back)					Cortina
+
+8/21			Swim		(600  | 500 free + 100 breast/back)					Cortina
+8/22	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+8/23			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina	
+8/24	3		Hills											Mountain
+8/25			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina	
+
+8/29			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina	
+8/30			Swim		(1200 | 500 free + 100 breast/back x 2)					Cortina	
+9/3	4		Interval	(1m x 3 @ 6:15 pace w/200m jogging rest)				Treadmill
+		
+9/4			Swim		(1500 | 400 free + 100 breast/back x 3)					Miramar College	
+9/7	5		Interval	(1m x 4 @ 6:15 pace w/200m jogging rest)				Treadmill
+9/10	10k		RACE		(43:27 | 6:48 pace | 1st in age group | 7th overall)			*** Aloha Run ***
+9/10	3		Easy		(with Tina)
+9/10	1		Easy		(warm up/warm down)
+
+9/12	5.25		Interval	(1m x 4 @ 6:15 pace w/200m jogging rest)				Treadmill
+9/15	1		Gym		(spartacus x 2)
+9/16			Swim		(1250 | 200 free + 50 breast/back x 5)					Miramar College
+9/17	10		Easy+Tempo	(5 easy w/Jako + 5 tempo)						Lake
+
+9/21	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+9/22			Gym		(elliptical 30 min)
+
+9/25	5		Progressive	(800m intervals | 6.5mph to 10.5mph)					Treadmill
+9/26			Gym		(elliptical 30 min)
+9/30	10		Easy+Tempo	(5 easy + 5 Tempo @ 6:52 pace)						Lake
+10/1			Swim		(500 | small pool)							Miramar College
+
+10/3			Gym		(100 pushups | 25 x 4)
+10/4			Gym		(100 pushups | 25 x 4)
+9/26			Gym		(elliptical 30 min)
+8/15	2.5		Hills											Mountain
+
+10/9			Swim		(1500 | 200 free + 50 breast/back x 6)					Miramar College
+10/10	4		Interval	(1m x 3 @ 6:00 pace w/200m jogging rest)				Treadmill
+10/14	3		Hills											Mountain
+10/14			Swim		(1000 | 200 free + 50  breast/back x 4)					Miramar College
+10/15			Swim		(1500 | 400 free + 100 breast/back x 3)					Miramar College
+
+10/16			Gym		(elliptical 30 min)
+10/17					(can't remember)
+
+< sick >
+
+10/25	5.25		Progressive 	(800m intervals | 6.0mph to 10.5mph)					Treadmill
+10/29			Swim		(1500 | 400 free + 100 breast/back x 2 + 200 free + 50 b/b x 2)		Miramar College
+
+11/2			Gym		(elliptical 20 min)
+11/2	5		Progressive	(800m intervals | 6.0mph to 10.0mph)					Treadmill
+11/3	1		Gym		(spartacus x 2)
+
+11/7			Gym		(elliptical 30 min)
+11/11														*** Glamis ***
+11/12														*** Glamis ***
+
+11/13	4		Progressive 	(800m intervals | 6.5mph to 10.0mph)					Treadmill
+11/16			Gym		(elliptical 30 min)
+11/17	3.25		Tempo		(2m @ 6:00 pace)							Treadmill
+
+11/20			Gym		(pushups | 20 x 5)
+11/22			Gym		(pushups | 20 x 5)
+11/23	5k		RACE		(ran with Tina)								*** Thank You Run ***	
+
+11/30	5.25		Progressive 	(800m intervals | 6.0mph to 10.5mph)					Treadmill
+
+< sick >
+
+12/27			Gym		(elliptical 30 min)
+12/28	5		Progressive 	(800m intervals | 6.0mph to 10.5mph(400))				Treadmill
+12/30	5		Interval	(800m x 7 @ 6:00 pace w/200m jogging rest)				Treadmill
+12/31	3		Hills											Mountain
+
+
+=========================
+YEARLY TOTAL:	396 miles
+=========================

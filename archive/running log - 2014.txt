@@ -1,0 +1,89 @@
+Date	Miles	Type		Pace					Notes
+----	-----	----		----					-----
+
+1/9	6	Long
+1/10	5	Tempo/Hills
+1/11	5	Tempo		(7:25, 7:15, 7:20, 7:25, 7:00)
+
+1/14	7	Long
+
+1/28	5	Progressive	(9:00, 8:30, 8:00, 7:30, 7:00)
+
+4/12	5	Slow
+4/13	5	Slow
+
+5/21	3	Slow
+5/22	3	Slow
+
+6/21	6	Slow
+6/22	5	Slow
+
+7/16	3	Slow
+7/17	4	Slow
+7/19	5	Slow
+7/20	5	Tempo
+
+7/22	4.5	Slow
+7/23	4.5	Slow
+7/26    4.5	Slow
+
+8/11	4	Slow
+8/12	4	Slow
+8/13	4	Slow
+8/14	5	Tempo		(8:00)
+
+8/30	5	Tempo		(8:00)
+8/31	3	Tempo		(7:30)
+
+9/23	4	Tempo		(8:00)
+9/25	4	Tempo		(7:30)
+
+9/29	5	Tempo		(7:30)
+10/2	5	Hills
+
+10/7	3.5	Hills
+10/8	5	Tempo		(8:00, 8:00, 7:30, 7:30, 7:00)
+10/12	5	Short		(Slow, 6:25, 6:25)
+
+10/14	5	Hills
+10/17	5	Hills		(8:20)
+
+10/20	5	Progressive	(8:30, 8:00, 7:30, 7:00, 6:30)
+10/22	5	Hills		(8:05)
+10/23	5	Tempo		(7:30)
+
+10/27	4	Hills		(7:55)
+10/29	4	Tempo		(7:15)
+11/1	6	Tempo		(7:15)
+
+11/7	9	Tempo/Hills	(7:55)					*** RAGNAR ***
+11/8	4	Tempo		(7:00)					*** RAGNAR ***
+11/8	8	Tempo/Hills	(8:15)					*** RAGNAR ***
+
+11/11	4	Tempo		(7:30)					Treadmill
+11/13	4	Tempo		(7:30)					Treadmill
+11/15	5	Tempo		(7:00)
+
+11/18	5	Tempo/Hills	(7:45)
+11/22	8	Tempo		(7:07)
+
+11/25	5	Tempo/Hills	(7:30)
+11/27	10k	Tempo		(44:11 | 7:08 pace)			*** Thank You Run ***
+11/29	6	Progressive	(8:15, 7:45, 7:15, 6:45, 6:30, WD)
+
+12/2	6	Tempo		(7:30, 7:30, 7:00, 7:00, 6:30, 6:30)	Treadmill
+12/4	5	Tempo/Hills	(7:30)
+12/6	5	Interval	(6 x 400 @ 5:50 pace)
+
+12/9	6	Progressive	(7:30, 7:30, 7:00, 7:00, 6:30, 6:30)	Treadmill
+12/11	5	Tempo/Hills	(7:30)
+12/13	6	Tempo		(slow, 6:30, 6:30, 6:30)		Treadmill
+12/14	5	Tempo		(8:00, 6:30, 6:30, 6:30, 7:45)
+
+12/16	5	Tempo		(7:30, 7:00, 7:00, 7:00, 6:30)
+12/18	5	Tempo/Hills	(7:20)
+12/21	10k	Tempo		(41:18 | 6:40 pace | 1st in division)	*** Hot Buttered Run ***
+
+12/23	4.5	Tempo		(7:00, 6:30, 6:30, 6:30, 6:00)		Treadmill
+12/25	5	Tempo/Hills	(7:15)
+12/28	5	Interval	(6 x 400 @ 5:40 pace)

@@ -1,0 +1,48 @@
+Date	Miles	Type		Notes
+----	-----	----		-----
+
+6/8	5	Slow
+6/9	5	Tempo
+
+6/11	4	Tempo
+6/14	6	Tempo
+6/16	5	Interval	(400s)
+
+6/18	8	Long
+6/21	5	Interval	(400s)
+6/23	5	Tempo		(7:30)
+
+6/26	8	Long		(7:50)
+
+7/2	3	Hills
+
+7/9	6	Progressive	(9:00,8:30,8:00,7:30,7:00,WD)
+
+7/20	5	Tempo
+7/21	5	Tempo
+
+7/23	5	Tempo
+
+8/1	3	Tempo
+
+9/7	5	Tempo
+
+12/3	5	Slow
+12/4	4	Slow	
+12/6	5	Tempo
+12/7	5	Tempo		(8:00)
+
+12/10	5	Tempo
+12/11	5	Tempo
+12/13	5	Tempo	 
+12/14	5	Tempo		(8:00,7:45,7:50,7:30,7:20)
+
+12/17	5	Tempo
+12/18	5	Tempo
+
+12/26	5	Tempo
+12/28	5	Tempo		(7:50,7:35,7:25,7:35,7:25)
+
+12/30	5	Tempo/Hills	(7:50)
+
+

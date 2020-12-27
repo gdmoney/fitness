@@ -1,0 +1,248 @@
+Date	Dstnc	Type		Pace								Notes
+----	-----	----		----								-----
+1/1	10	Long		(7:55)
+1/3	5	Tempo		(4m @ 6:45)
+
+1/6	5	Tempo/Hills	(7:20)
+1/8	5	Interval	(400 x 8 @ 5:30 pace w/400m jogging rest)			Treadmill
+1/11	5k	Race		(21:09 | 6:25 pace | 2nd overall)				*** Rum Run ***
+
+1/14	5	Tempo/Hills	(7:10)
+1/16	5	Interval	(800 x  5 @ 6:00 pace)						Treadmill
+1/18	10	Long		(7:00)
+
+1/21	5	Progressive	(7:45, 7:15, 6:50, 6:20, 6:07)
+1/23	5	Intervals	(400 x 8 @ 5:30 pace w/400m jogging rest)			Treadmill
+
+1/27	5	Tempo/Hills	(7:08)
+1/29	6	Interval	(400 x 16 @ 6:00 pace w/100m jogging rest)			Treadmill
+1/31	10	Tempo		(6:50)
+
+2/3	5.5	Interval	(800 x 8 @ 6:00 pace w/200m jogging rest)			Treadmill
+2/5	5	Tempo/Hills	(7:09)
+2/7	5.5	Interval	(2m x 2, 1m x 1 @ 6:13, 6:09, 6:18 w/2min rest)		
+
+2/10	6	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest)			Treadmill
+2/12	4	Easy
+2/15	10k	Race		(39:59 | 6:27 pace | 3rd in division)				*** Coronado 10k ***
+
+2/21	10	Long
+2/21	5	Tempo		(6:50)
+
+2/24	4	Progressive	(7:30, 7:00, 6:30, 6:00)					Treadmill
+2/26	5	Tempo/Hills	(7:06)
+2/28	5	Tempo		(6:42)
+
+3/3	7	Long/Hills
+3/8	4	Tempo		(6:40)
+
+3/9	10	Long/Hills	(8:00)
+3/11	5	Interval	(1m x 4 @ 6:00 pace w/200m jogging rest)			Treadmill
+3/15	10	Tempo		(6:55)
+
+3/16	5	Easy/Hills	(8:30)
+3/17		Gym		(elliptical)
+3/19	6	Interval	(800 x 8 @ 6:00 pace w/200m jogging rest)			Treadmill
+3/22	8	Tempo		(6m @ 6:40 pace)
+
+3/23	10	Long/Hills	(7:57)
+3/25	7	Interval	(400 x 16 @ 6:00 pace w/200m jogging rest; H:4,8,12,16)		Treadmill
+
+3/30	10	Long/Hills	(7:28)
+4/1	4	Hill Sprints	(100 x 8)
+4/5	5	Tempo		(2m @ 5:45, 6:05)
+
+4/6	11	Long/Hills/HS	(7:48 | 100 x 5)
+4/8	6	Interval	(1m x 4 @ 6:10 pace w/2min jogging rest)
+4/12	7	Tempo		(4m @ 6:35)
+
+4/13	10	Long/Hills	(7:25)
+4/15	8	Interval	(800 x 10 @ 6:00 pace w/200m jogging rest; H:8,10)		Treadmill
+4/17	2	Gym		(legs, elliptical)
+
+4/20	10	Long/Hills	(7:45)
+4/22	4	Easy
+4/25	6	Interval	(1m x 4 @ 6:00 pace w/400m jogging rest)			Treadmill
+
+4/27	6	Tempo		(5m @ 6:15)							Treadmill
+4/29	4	Interval	(400m x 16 @ 6:00 pace w/45sec rest)				Grass
+
+5/4	5.5	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00)					Treadmill
+5/6	5	Tempo		(4m @ 6:35)							Grass
+5/9	10	Tempo		(6:45)
+
+5/11	4	Easy										Treadmill
+5/12	4	Hill Sprints	(100 x 12)
+5/13	3	Easy
+5/15	7	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest)			Treadmill
+
+5/18	4	Easy
+5/19	5	Tempo/Hills	(6:48)
+5/23	10	Tempo		(8m @ 6:39)
+
+5/26	5	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00)					Treadmill
+5/31	13.1	Race		(1:33:26 | 7:08 pace)						*** SD R'n'R ***
+
+6/6	5	Tempo/Hills
+
+6/8	4	Progressive	(8:00, 7:30, 7:00, 6:30)					Treadmill
+6/12	7	Tempo		(6:40)
+6/14	5	Walking
+
+6/15	6	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00, 5:30 800m)			Treadmill
+6/17	5	Hill Sprints	(100 x 12)
+6/21	6	Tempo		(5m @ 6:50)
+
+6/23	6.5	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest)			Treadmill
+6/24	1	Gym		(Spartacus x 3)
+6/26	6.5	Easy		(8:00)								Treadmill
+6/28	5	Tempo/Hills	(7:27)
+
+7/1	8	Interval	(800 x 10 @ 6:00 pace w/200m jogging rest; H:5,10)		Treadmill
+7/3	2	Gym		(Spartacus x 3)
+7/5	10	Long/Tempo	(6:50)
+
+7/6	4	Easy		(8:30)								Treadmill
+7/7	2	Gym		(Spartacus x 3)
+7/9	6	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00, 5:30 800m)			Treadmill
+7/10	5	Tempo/Hills	(6:58)
+
+7/14	9	Easy/Hills
+7/15	5	Easy
+7/17	7	Tempo
+
+7/20	9	Long
+7/22		Gym		(10 burpees x 5 @ 2:00)
+7/23	7	Tempo
+
+7/28	6	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00, 5:30 800m)			Treadmill
+7/30	1	Gym		(Spartacus x 3)
+7/31	5	Tempo
+8/2	6	Tempo		(5m @ 6:38)
+
+8/4		Swim		(1000)
+8/5	6.5	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest)			Treadmill
+8/6		Swim		(1000)
+8/7	10	Long/Hills	(7:17)
+8/9		Swim		(1000)
+
+8/10	1	Gym		(Spartacus x 3)
+8/11		Swim		(1200)
+8/12	7	Interval	(800 x 10 @ 6:00 pace w/200m jogging rest; H:5,10)		Treadmill
+8/13		Swim		(1000)
+8/16	6	Tempo		(5m @ 6:15)							Treadmill
+
+8/17		Swim		(1000)
+8/18		Swim		(1000)
+8/19	1	Gym		(Spartacus x 3)
+8/20		Swim		(1000)
+8/21	6.5	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00, 5:30)				Treadmill
+8/22		Swim		(1000)
+
+8/25	2	Gym		(Spartacus x 3)
+8/26	6.5	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest)			Treadmill
+8/27		Swim		(1000)
+8/28		Swim		(500)
+8/29	6.5	Progressive	(8:00, 7:30, 7:00, 6:30, 6:00, 5:30)				Treadmill
+8/30		Swim		(1000)
+
+8/31	2	Gym		(Spartacus x 3)
+9/1		Swim		(500)
+9/1	7	Interval	(800 x 10 @ 6:00 pace w/200m jogging rest; H:5,10)		Treadmill
+9/2		Swim		(1000)
+9/4	10	Long/Hills	(7:08)
+9/5	5	Easy		(8:00)								Treadmill
+9/6		Swim		(1200)
+
+9/7	2	Gym		(Spartacus x 3)
+9/8	5	Tempo		(3m @ 6:00)							Treadmill
+9/9		Swim		(1200)
+9/10	5	Hill Sprints	(100 x 12)
+9/12	3	Progressive	(8:30, 8:00, 7:30, 7:00, 6:30, 6:00, 5:30, 5:00)		Treadmill
+9/13	5k	Race		(19:32 | 6:07 pace | actual distance 3.2 | 4th overall)		*** Aloha 5k ***
+9/13	5k	Easy		(ran with Tina)
+9/13		Swim		(500)
+
+9/14		Swim		(1200)
+9/15	1	Gym		(Spartacus x 3)
+9/16	6.5	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest)			Treadmill
+9/20	5	Easy		(8:00)
+
+9/21		Swim		(1200)
+9/22	7	Interval	(800 x 10 @ 6:00 pace w/200m jogging rest; H:4,7,10)		Treadmill
+9/23	2	Gym		(Spartacus x 3)
+9/24		Swim		(500)
+9/27	8	Tempo		(6m @ 6:37)
+
+9/28	4	Easy		(8:30)								Grass
+9/29		Swim		(1500)
+9/30	1	Gym		(Spartacus x 3)
+10/2	6	Interval	(800 x 5 @ 6:00 pace w/400m jogging rest)
+10/3		Swim		(1000)
+10/4	5	Easy		(9:30)
+
+10/6		Swim		(1500)
+10/7		Gym		(Spartacus x 3)
+10/8		Swim		(1500)
+10/9	8	Tempo		(5m @ 6:37)
+10/10	10	Long		(8:45)
+
+10/13		Swim		(1500)
+10/14	6	Interval	(800 x 6 @ 6:00 pace w/400m jogging rest)
+10/15	1	Gym		(Spartacus x 3)
+10/17	13	Long+MP		(10m @ 8:10 + 2m @ 6:40)
+
+10/20	7	Interval	(800 x 6 @ 6:00 pace w/400m jogging rest)
+10/21	1	Gym		(Spartacus x 3)
+10/22		Swim		(1000)
+
+10/28	7	Easy/Hills
+11/1	11	Tempo/Long	(9m @ 7:00)
+
+11/3	7	Interval	(800 x 6 @ 6:00 pace w/400m jogging rest)
+11/4	1	Gym		(Spartacus x 2)
+11/6	9.5	Tempo		(6:57 | trail, uphill, hot)					*** RAGNAR ***
+11/6	7.5	Tempo		(6:35 | night, downhill)					*** RAGNAR ***
+11/7	6	Progressive	(7:00 | hot)							*** RAGNAR ***
+
+11/10	1	Gym		(Spartacus x 2)
+11/12	6.5	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest; 1% incline)		Treadmill
+11/14	2	Gym		(Spartacus x 2)
+
+11/17	10	Easy/Hills	(8:05 pace w/4 x 400m sprints)
+11/18	2	Gym		(Spartacus x 2)
+11/22	5	Tempo/Hills	(1.7m @ 6:33)
+
+11/24	9	Interval	(800 x 8 @ 6:00 pace w/400m jogging rest)
+11/26	10k	Race		(41:08 | 6:32 pace | actual distance 6.3 | 8th overall)		*** Thank You Run ***
+11/27		Gym		(200 pushups)
+11/28		Swim		(1200)
+
+11/30		Swim		(1500)
+12/1	10.5	Easy+Tempo	(5m @ 9:15 + 5m @ 6:30)						Treadmill
+12/3	1	Gym		(Spartacus x 2)
+12/4		Swim		(1500)
+
+12/7		Swim		(1200)
+12/8	7	Interval	(1m x 5 @ 6:00 pace w/200m jogging rest; 1% incline)		Treadmill
+12/9		Swim		(1500)
+12/11		Swim		(1500)
+12/12	13	Easy+Tempo	(6m easy + 6m @ 6:32)
+
+12/14		Swim		(1500)
+12/15	7	Interval	(800 x 10 @ 6:00 pace w/200m jogging rest; 1% incline)		Treadmill
+12/16		Swim		(1500)
+12/17	5	Easy		(walking)	
+12/18		Swim		(1500)
+12/20	10k	Race		(38:40 | 6:16 pace | 1st in age group | 12th overall)		*** Hot Buttered Run ***
+
+12/25	5	Easy
+12/27	13.1	Race		(1:27:25 | 6:37 pace | actual distance 13.2)			*** Holiday Half ***
+
+12/31	8	Easy
+1/3	5	Easy/Walking	(with Tina and Jako)
+
+
+=========================
+YEARLY TOTAL:	886 miles
+=========================
