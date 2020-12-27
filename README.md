@@ -1,4 +1,4 @@
-12.27 ***`Cardio   `*** **run:** 2 miles - sprints
+12.27 ***`Cardio   `*** **run:** 2 miles - sprints  
 12.26 ***`Pull     `*** **pullups:** 15,14,12 • **chinups:** 15,14,12 • **BB row-OH/UH:** 185x12x6 • **BB curl:** 125x8x3 • **BB curl-rvrs:** 75x10x3  
 12.25 ***`Shoulders`*** **BB OH press:** 145x8x5 • **lat raise:** 35x15x5 • **front raise:** 35x10x5  
 12.24 ***`Legs     `*** **back squat:** 195x12x5 • **RDL:** 225x8x5 • **DB lunge:** 52x30x1  
