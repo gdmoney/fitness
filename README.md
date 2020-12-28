@@ -1,7 +1,7 @@
 ### Workout log and progress tracking.
 
 *****
-**[Progress](/progress.md)** • **[2020 goals](/2020-goals.md)**
+**[Progress](/progress.md)** • **[2021 goals](/2021-goals.md)** • **[2020 goals](/2020-goals.md)**
 
 *****
 
