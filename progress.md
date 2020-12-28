@@ -1,4 +1,4 @@
-### Progress
+## Progress
 
 | Month      | Back Squat   | Bench Press  | Deadlift     | Pullups      | OH Press     | BB Curl      |
 | :--------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |

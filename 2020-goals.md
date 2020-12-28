@@ -1,4 +1,4 @@
-### 2020 Goals
+## 2020 Goals
 
  - [x] 20 pullups
  - [ ] 315 bench
