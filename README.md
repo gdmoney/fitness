@@ -1,7 +1,8 @@
 **Workout log and progress tracking.**
 
 *****
-[progress](/progress.md) • [2020 goals](/2020-goals.md)  
+[progress](/progress.md) • [2020 goals](/2020-goals.md)
+
 *****
 
 12.27 ***`Cardio   `*** **run:** 2 miles - sprints  
