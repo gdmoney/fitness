@@ -1,4 +1,4 @@
-**Workout log and progress tracking.**
+### Workout log and progress tracking.
 
 *****
 **[Progress](/progress.md)** • **[2020 goals](/2020-goals.md)**
