@@ -5,7 +5,7 @@
 
 *****
 
-12.29 ***`Bench/Curl`*** **BB bench press:** 185x6,225x4,245x2,275x1,295x1,315xFx2,245x6x3 • **BB curl:** 125x2,145x1,165xF,145x6x3  
+12.29 ***`Bench/Curl`*** **BB bench press:** 185x6,225x4,245x2,275x1,295x1,315xFx2,245x6x3 • **BB curl:** 125x2,145x1,165xF,145x6x3  
 12.28 ***`Full body `*** **DB front squat:** 52x20x1 • **DB OH press:** 45x20x1 • **DB row:** 52x35x1 • **DB curl:** 40x12x1 • **lat/front raise:** 30x15x1
 
 12.27 ***`Cardio    `*** **run:** 2 miles - sprints  
