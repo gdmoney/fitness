@@ -6,7 +6,7 @@
 *****
 
 12.29 ***`Bench/Curl`*** **BB bench press:** 185x6,225x4,245x2,275x1,295x1,315xFx2,245x6x3 • **BB curl:** 125x2,145x1,165xF,145x6x3  
-12.28 ***`Full body `*** **DB front squat:** 52x20x1 • **DB OH press:** 45x20x1 • **DB row:** 52x35x1 • **DB curl:** 40x12x1 • **lat/front raise:** 30x15x1
+12.28 ***`Full body `*** **DB front squat:** 52x20x1 • **DB OH press:** 45x20x1 • **DB row:** 52x35x1 • **DB curl:** 40x12x1 • **lat/front raise:** 30x15x1  
 
 12.27 ***`Cardio    `*** **run:** 2 miles - sprints  
 12.26 ***`Pull      `*** **pullups:** 15,14,12 • **chinups:** 15,14,12 • **BB row-OH/UH:** 185x12x6 • **BB curl:** 125x8x3 • **BB curl-rvs:** 75x10x3  
@@ -38,7 +38,7 @@
 12.03 ***`Legs      `*** **back squat:** 195x12x5 • **DB lunge:** 52x30x3  
 12.02 ***`Shoulders `*** **BB OH press:** 145x4, 165x2, 185xF, 145x10,8,7 • **lat raise:** 35x15x5 • **DB OH press:** 52x20,18,18  
 12.01 ***`Pull      `*** **pullups-wghtd:** 5x3 • **chinups-wghtd:** 5x3 • **BB row-OH/UH:** 185x10x10 • **BB curl:** 125x8x3  
-11.30 ***`Legs      `*** **back squat:** 185x4, 205x4, 225x4, 245x2, 265x2, 275x1, 225x6x3
+11.30 ***`Legs      `*** **back squat:** 185x4, 205x4, 225x4, 245x2, 265x2, 275x1, 225x6x3  
 
 11.29 ***`Cardio    `*** **burpees:** 10  
 11.28 ***`Pull      `*** **pullups:** 20,14,13,13,12 • **chinups:** 15,14,13x2,12 • **BB row-OH/UH:** 185x10x10 • **BB curl:** 115x10x3  
@@ -62,7 +62,7 @@
 11.12 ***`Legs      `*** **DB squat-wghtd:** 105x12x5  
 11.11 ***`Shoulders `*** **BB OH press:** 145x8,7,7,6,6 • **lat raise:** 35x15x5 • **DB OH press:** 52x20,18,18,14,14  
 11.10 ***`Pull      `*** **pullups:** 15,14,12,10x2 • **chinups:** 15,14,12x3 • **BB row-OH/UH:** 135x15x6 • **BB curl:** 125x6x3  
-11.09 ***`Legs      `*** **back squat:** 225x10,10,8,8,8 
+11.09 ***`Legs      `*** **back squat:** 225x10,10,8,8,8  
 
 11.08 ***`Push      `*** **pushups:** 60,50,40,36,30  
 11.07 ***`Pull      `*** **pullups-ntrl:** 20,18,18,17,16  
@@ -70,4 +70,4 @@
 11.05 ***`Legs      `*** **back squat:** 225x8x5 • **DB lunge:** 52x30x2  
 11.04 ***`Shoulders `*** **BB OH press:** 135x10x4,9 • **lat raise:** 30x15x5 • **DB OH press:** 52x19,17,15,15,15  
 11.03 ***`Pull      `*** **pullups:** 12,12,10,10,10 • **chinups:** 12x5 • **BB row-OH/UH:** 135x15x6 • **BB curl:** 115x8x3  
-11.02 ***`Legs      `*** **back squat:** 225x6x5
+11.02 ***`Legs      `*** **back squat:** 225x6x5  
