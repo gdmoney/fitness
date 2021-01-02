@@ -11,8 +11,9 @@
 | Thursday  | Legs - 2  | deadlift - M    | squat - V       | DB Lunge        |                 |
 | Friday    | Push - 2  | OH press - M    | bench press - V | dip - V         | skull crushers  |
 | Saturday  | Pull - 2  | BB row - M      | BB curl         | pullups - V     | chinups - V     |
-| Sunday    | Cardio    | run - sprints   | run - hills     |                 |                 |
+| Sunday    | Cardio*   | run - sprints   | run - hills     |                 |                 |
 
 
 **M** - main  
 **V** - variation
+* - alternate between sprints and hills
