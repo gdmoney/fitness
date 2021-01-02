@@ -23,7 +23,7 @@
 12.19 ***`Pull      `*** **pullups:** 15x2,12,11,10 • **chinups:** 15x2,13x2,12 • **BB row-OH/UH:** 185x12x6 • **BB curl:** 125x8x3 • **BB curl-rvs:** 75x10x3  
 12.18 ***`Chest/Tri `*** **BB bench press:** 275x1, 275x1, 295x1, 315xF, 315xF, 225x8x3  
 12.17 ***`Legs      `*** **back squat:** 195x12x5 • **RDL:** 195x12x5  
-12.16 ***`Pull      `*** **pullups-wghtd:** 5x3 • **chinups-wghtd:** 5x3 • **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x6x3 • **BB curl-rvs:** 75x10x3  
+12.16 ***`Pull      `*** **pullups-wghtd:** 5x3 • **chinups-wghtd:** 5x3 • **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x6x3 • **BB curl-rvs:** 75x10x3  
 12.15 ***`Shoulders `*** **BB OH press:** 135x10x5 • **lat raise:** 35x15x5 • **front raise:** 35x10x5  
 12.14 ***`Legs      `*** **back squat:** 235x8x5 • **RDL:** 195x12x5 • **DB lunge:** 52x30x2  
 
