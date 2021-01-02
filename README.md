@@ -13,6 +13,8 @@
 01.05 ***`Push-1    `***   
 01.04 ***`Legs-1    `***   
 
+### 2020
+
 01.03 ***`Cardio    `*** **run:**  
 01.02 ***`Deadlift  `*** **deadlift:**  
 01.01 ***`Pull      `*** **pullups:** 22 • **BB row-OH/UH:** 185x12x6 • **BB curl-rvs:** 75x10x3  
