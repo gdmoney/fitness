@@ -5,6 +5,16 @@
 
 *****
 
+01.10 ***`Cardio    `***   
+01.09 ***`Pull-2    `***   
+01.08 ***`Push-2    `***   
+01.07 ***`Legs-2    `***   
+01.06 ***`Pull-1    `***   
+01.05 ***`Push-1    `***   
+01.04 ***`Legs-1    `***   
+
+01.03 ***`Cardio    `*** **run:**  
+01.02 ***`Deadlift  `*** **deadlift:**  
 01.01 ***`Pull      `*** **pullups:** 22 • **BB row-OH/UH:** 185x12x6 • **BB curl-rvs:** 75x10x3  
 12.31 ***`OH Press  `*** **BB OH press:** 115x4, 145x2, 165x1, 185xF, 175x1, 145x8x3  
 12.30 ***`Squat     `*** **back squat:** 185x4, 225x4, 245x2, 275x1, 285x1, 245x6x3  
