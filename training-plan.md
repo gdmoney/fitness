@@ -14,7 +14,7 @@
 | Sunday    | `Cardio` `*` | run - sprints   | run - hills     |                 |                 |
 
 
-**M** - main  
-**V** - variation  
-**W** - weighted  
+**M** - Main  
+**V** - Variation  
+**W** - Weighted  
 `*` - alternate weekly between sprints and hills
