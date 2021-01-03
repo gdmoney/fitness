@@ -1,7 +1,7 @@
 ### Workout log, goals, and progress tracking.
 
 *****
-**[Exercise Plan](/exercise-plan.md) • [Progress](/progress.md) • [2021 Goals](/2021-goals.md) • [2020 Goals](/2020-goals.md)**
+**[Training Plan](/exercise-plan.md) • [Progress](/progress.md) • [2021 Goals](/2021-goals.md) • [2020 Goals](/2020-goals.md)**
 
 *****
 
@@ -16,8 +16,8 @@
 *****
 ### 2020
 
-01.03 ***`Cardio    `*** **run:**  
-01.02 ***`Deadlift  `*** **deadlift:**  
+01.03 ***`Cardio    `*** **run:** 2 miles - hills  
+01.02 ***`Deadlift  `*** **deadlift:** 185x12x5, 225x10x3  
 01.01 ***`Pull      `*** **pullups:** 22 • **BB row-OH/UH:** 185x12x6 • **BB curl-rvs:** 75x10x3  
 12.31 ***`OH Press  `*** **BB OH press:** 115x4, 145x2, 165x1, 185xF, 175x1, 145x8x3  
 12.30 ***`Squat     `*** **back squat:** 185x4, 225x4, 245x2, 275x1, 285x1, 245x6x3  
