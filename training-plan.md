@@ -1,4 +1,4 @@
-## Exercise Plan
+## Training Plan
 
 
 ### 2021 - Q1
