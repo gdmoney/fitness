@@ -9,7 +9,7 @@
 01.09 ***`Pull-2    `***   
 01.08 ***`Push-2    `***   
 01.07 ***`Legs-2    `***   
-01.06 ***`Pull-1    `***   
+01.06 ***`Pull-1    `*** **pullups-wghtd:** 5x2 • **chinups-wghtd:** 5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
 01.05 ***`Push-1    `*** **BB bench press:** 245x8,6,6 • **BB OH press:** 135x8x3 • **bench dip-wghtd:** 20x3 • **skull crushers:** 95x12x3  
 01.04 ***`Legs-1    `*** **back squat:** 225x8x5 • **RDL:** 225x10x5 • **DB lunge:** 52x30x1  
 
