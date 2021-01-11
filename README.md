@@ -5,14 +5,14 @@
 
 *****
 
-01.10 ***`Cardio    `*** **R&R**    
-01.09 ***`Pull-2    `*** **R&R**    
+01.10 ***`Cardio    `*** **rest**    
+01.09 ***`Pull-2    `*** **rest**    
 01.08 ***`Push-2    `*** **BB bench press:** 225x10,10,8,7,6 • **lat/front raise:** 30x25x3  
 01.07 ***`Legs-2    `*** **air lunge:** 40 x 5 • **RDL:** 145x15x5  
 01.06 ***`Pull-1    `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
 01.05 ***`Push-1    `*** **BB bench press:** 245x8,6,6 • **BB OH press:** 135x8x3 • **bench dip-wtd:** 20x3 • **skull crushers:** 95x12x3  
 01.04 ***`Legs-1    `*** **back squat:** 225x8x5 • **RDL:** 225x10x5 • **DB lunge:** 52x30x1  
-- **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt ok but the pain was still there. Decided to rest on **Sat** and **Sun**.
+- **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt ok but the pain was still there. **Sat** and **Sun** - decided to rest in hopes to recover from the injury.
 
 *****
 ### 2020
