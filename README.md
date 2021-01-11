@@ -5,9 +5,9 @@
 
 *****
 
-01.10 ***`Cardio    `***   
-01.09 ***`Pull-2    `***   
-01.08 ***`Push-2    `***   
+01.10 ***`Cardio    `*** **R&R**    
+01.09 ***`Pull-2    `*** **R&R**    
+01.08 ***`Push-2    `*** **BB bench press:** 225x10,10,8,7,6 • **lat/front raise:** 30x25x3  
 01.07 ***`Legs-2    `*** **air lunge:** 40 x 5 • **RDL:** 145x15x5  
 01.06 ***`Pull-1    `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
 01.05 ***`Push-1    `*** **BB bench press:** 245x8,6,6 • **BB OH press:** 135x8x3 • **bench dip-wtd:** 20x3 • **skull crushers:** 95x12x3  
