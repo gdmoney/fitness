@@ -11,13 +11,13 @@
 01.14 ***`Legs-2    `***   
 01.13 ***`Pull-1    `***   
 01.12 ***`Push-1    `***   
-01.11 ***`Legs-1    `***   
-- **Mon** - 
+01.11 ***`Legs-1    `*** **air lunge:** 40x3 • **DB lunge:** 25x40x3, 52x30x3 • **RDL:** 135x15x2, 185x12x2, 225x10x3  
+- **Mon** - still had a slight pain so didn't want to risk it with squats; lunges and RDL felt good. **Tue** - 
 
 01.10 ***`Cardio    `*** **rest**  
 01.09 ***`Pull-2    `*** **rest**  
 01.08 ***`Push-2    `*** **BB bench press:** 225x10,10,8,7,6 • **lat/front raise:** 30x25x3  
-01.07 ***`Legs-2    `*** **air lunge:** 40 x 5 • **RDL:** 145x15x5  
+01.07 ***`Legs-2    `*** **air lunge:** 40x5 • **RDL:** 145x15x5  
 01.06 ***`Pull-1    `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
 01.05 ***`Push-1    `*** **BB bench press:** 245x8,6,6 • **BB OH press:** 135x8x3 • **bench dip-wtd:** 20x3 • **skull crushers:** 95x12x3  
 01.04 ***`Legs-1    `*** **back squat:** 225x8x5 • **RDL:** 225x10x5 • **DB lunge:** 52x30x1  
