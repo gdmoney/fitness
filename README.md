@@ -12,7 +12,7 @@
 01.13 ***`Pull-1    `***   
 01.12 ***`Push-1    `*** **BB bench press:** 265x4x5 • **BB OH press:** 135x10x5  
 01.11 ***`Legs-1    `*** **air lunge:** 40x3 • **DB lunge:** 25x40x3, 52x30x2 • **RDL:** 135x15x2, 185x12x2, 225x10x3  
-- **Mon** - still had a slight pain so didn't want to risk it with squats; lunges and RDL felt good. **Tue** - felt good on both bench and beltless OH press; I'm wondering if my injury was really caused by the belt. **Wed** - 
+- **Mon** - still had a slight pain so didn't want to risk it with squats; lunges and RDL felt good. **Tue** - felt good on both bench and beltless OH press; I'm wondering if my injury really was caused by the belt. **Wed** - 
 
 01.10 ***`Cardio    `*** **rest**  
 01.09 ***`Pull-2    `*** **rest**  
