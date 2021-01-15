@@ -5,7 +5,7 @@
 
 | Month      | Squat        | Bench        | Deadlift     | Pullups      | OH Press     | BB Curl      |
 | :--------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| January    |              |              |              |              |              |              |
+| January    |              |              | 345          |              |              |              |
 | February   |              |              |              |              |              |              |
 | March      |              |              |              |              |              |              |
 | April      |              |              |              |              |              |              |

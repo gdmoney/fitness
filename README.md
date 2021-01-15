@@ -8,7 +8,7 @@
 01.17 ***`Cardio    `***   
 01.16 ***`Pull-2    `***   
 01.15 ***`Push-2    `***   
-01.14 ***`Legs-2    `***   
+01.14 ***`Legs-2    `*** **deadlift:** 225x10x2, 245x8x2, 265x6x2, 285x4x2, 305x2x2, 325x1x1, 345x1x1  
 01.13 ***`Pull-1    `*** **pullups:** 10x5 • **chinups:** 10x5 • **BB row-OH/UH:** 185x12x6 • **DB curl:** 52x10x3  
 01.12 ***`Push-1    `*** **BB bench press:** 265x4x5 • **BB OH press:** 135x10x5  
 01.11 ***`Legs-1    `*** **air lunge:** 40x3 • **DB lunge:** 25x40x3, 52x30x2 • **RDL:** 135x15x2, 185x12x2, 225x10x3  
