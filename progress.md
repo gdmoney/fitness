@@ -3,20 +3,12 @@
 
 ### 2021
 
-| Month      | Squat        | Bench        | Deadlift     | Pullups      | OH Press     | Push Press   | BB Curl      |
-| :--------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| January    |              |              | 345          |              |              |              |              |
-| February   |              |              |              |              |              |              |              |
-| March      |              |              |              |              |              |              |              |
-| April      |              |              |              |              |              |              |              |
-| May        |              |              |              |              |              |              |              |
-| June       |              |              |              |              |              |              |              |
-| July       |              |              |              |              |              |              |              |
-| August     |              |              |              |              |              |              |              |
-| September  |              |              |              |              |              |              |              |
-| October    |              |              |              |              |              |              |              |
-| November   |              |              |              |              |              |              |              |
-| December   |              |              |              |              |              |              |              |
+| Month           | Squat        | Bench        | Deadlift     | Pullups      | OH Press     | Push Press   | BB Curl      |
+| :-------------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
+| Jan - Feb - Mar |              |              | 345          |              |              | 165          |              |
+| Apr - May - Jun |              |              |              |              |              |              |              |
+| Jul - Aug - Sep |              |              |              |              |              |              |              |
+| Oct - Nov - Dec |              |              |              |              |              |              |              |
 
 
 

@@ -14,7 +14,7 @@
 | *Sunday*    | **`Cardio*`**  | run - sprints   | run - hills     |                 |                 |
 
 
-**M** - Main  
-**V** - Variation  
+**M** - Main: standard movement, heavy, 2-6 reps
+**V** - Variation: different movements, lighter, speed work, 8-15 reps  
 **W** - Weighted  
 `*` - alternate weekly between sprints and hills
