@@ -5,6 +5,15 @@
 
 *****
 
+01.24 ***`Cardio    `*** **run:**  
+01.23 ***`Pull-2    `***   
+01.22 ***`Push-2    `***   
+01.21 ***`Legs-2    `***   
+01.20 ***`Pull-1    `***   
+01.19 ***`Push-1    `***   
+01.18 ***`Legs-1    `***   
+- **Mon** - 
+
 01.17 ***`Cardio    `*** **run:** 2 miles - sprints  
 01.16 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x8x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
 01.15 ***`Push-2    `*** **push press:** 135x10x2, 145x8x2, 155x6x2, 165x4x2 • **BB bench press:** 225,10x3,9,7 • **lat/front raise:** 30x25x3  
