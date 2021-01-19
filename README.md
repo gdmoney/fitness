@@ -12,7 +12,7 @@
 01.20 ***`Pull-1    `***   
 01.19 ***`Push-1    `***   
 01.18 ***`Legs-1    `*** **back squat:** 185x12x5 • **RDL:** 185x12x5 • **good morning:** 95x12x5 • **DB lunge:** 52x30x2  
-- Started a new 8-week program: 6 weeks of progressively increasing weight every week, deload on week 7, and PR tests on week 8. **Mon** - beltless squats were challenging; no pain. **Tue** -  
+- Started a new 8-week program: 6 weeks of progressively increasing weight every week, deload on week 7, and PR tests on week 8. **Mon** - beltless squats were challenging; RDL and GM less so; no pain. **Tue** -  
 
 01.17 ***`Cardio    `*** **run:** 2 miles - sprints  
 01.16 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x8x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
