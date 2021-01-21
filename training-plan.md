@@ -7,10 +7,10 @@
 | :---------- | :------------- | :-------------- | :-------------- | :-------------- | :-------------- |
 | *Monday*    | **`Legs - 1`** | squat - M       | deadlift - V    | DB lunge        |                 |
 | *Tuesday*   | **`Push - 1`** | bench press - M | OH press        | DB flys         | skull crushers  |
-| *Wednesday* | **`Pull - 1`** | pullups - W     | chinups - W     | BB row - V      | DB curl         |
+| *Wednesday* | **`Pull - 1`** | pullups - W     | chinups - W     | BB row          | DB curl         |
 | *Thursday*  | **`Legs - 2`** | deadlift - M    | squat - V       | DB lunge        |                 |
 | *Friday*    | **`Push - 2`** | push press      | bench press - V | DB flys         | lat/front raise |
-| *Saturday*  | **`Pull - 2`** | BB row - M      | BB curl         | pullups         | chinups         |
+| *Saturday*  | **`Pull - 2`** | BB row          | BB curl         | pullups         | chinups         |
 | *Sunday*    | **`Cardio*`**  | run - sprints   | run - hills     |                 |                 |
 
 
