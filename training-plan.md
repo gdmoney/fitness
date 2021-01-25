@@ -17,5 +17,5 @@
 **M** - Main: standard movement, heavy, 2-12 reps
 **V** - Variation: different movements, lighter, volume/speed work/paused  
 **W** - Weighted  
-`*`   - alternate intensity
+`*`   - alternate intensity  
 `**`  - alternate weekly between sprints and hills
