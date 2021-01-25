@@ -5,14 +5,23 @@
 
 *****
 
-01.24 ***`Cardio    `***   
-01.23 ***`Pull-2    `***   
-01.22 ***`Push-2    `***   
+01.24 ***`Cardio    `*** **run:** 2 miles - hills  
+01.24 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
+01.22 ***`Push-2    `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
+01.21 ***`Legs-2    `*** **deadlift:** 245x10x5 • **back squat-psd:** 145x10x5 • **DB lunge:** 52x30x2  
+01.20 ***`Pull-1    `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 195x10x6 • **DB curl:** 52x10x3  
+01.19 ***`Push-1    `*** **BB bench press:** 205x10x5 • **push press:** 115x10x5 • **DB fly:** 35x15x3  
+01.18 ***`Legs-1    `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x2  
+- **Week 2:** 10 reps on main movements. **Mon** - 
+
+01.24 ***`Cardio    `*** **run:** 2 miles - sprints  
+01.24 ***`Pull-2    `*** **BB row-OH/UH:** 185x12x6 • **BB curl:** 105x12x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
+01.22 ***`Push-2    `*** **push press:** 135x12x3 • **bench press-psd:** 165x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
 01.21 ***`Legs-2    `*** **deadlift:** 225x12x5 • **back squat-psd:** 135x10x5 • **DB lunge:** 52x30x2  
 01.20 ***`Pull-1    `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 185x12x6 • **DB curl:** 52x10x3  
-01.19 ***`Push-1    `*** **BB bench press:** 185x12x5 • **BB OH press:** 125x12x5 • **DB flys:** 35x15x3  
+01.19 ***`Push-1    `*** **BB bench press:** 185x12x5 • **BB OH press:** 125x12x5 • **DB fly:** 35x15x3  
 01.18 ***`Legs-1    `*** **back squat:** 185x12x5 • **RDL:** 185x12x5 • **good morning:** 95x12x5 • **DB lunge:** 52x30x2  
-- Started a new 8-week program: 6 weeks of progressively increasing weight every week, deload on week 7, and 1-rep max tests on week 8. **Week 1:** 12 reps on main movements. **Mon** - beltless squats were challenging; RDL and GM less so; no pain. **Tue** - felt like shit after sleeping poorly because of Meu-Meu; bench felt light; OH press was challenging, especially the last 2 sets; no pain. **Wed:** - felt like crap after hanging out with sick Lu all day but had a decent workout overall; no pain. **Thur:** felt pretty good; no pain. **Fri** - 
+- Started a new 8-week program: 6 weeks of progressively increasing weight every week, deload on week 7, and 1-rep max tests on week 8. **Week 1:** 12 reps on main movements. **Mon** - beltless squats were challenging; RDL and GM less so; no pain. **Tue** - felt like shit after sleeping poorly because of Meu-Meu; bench felt light; OH press was challenging, especially the last 2 sets; no pain. **Wed:** - felt like crap after hanging out with sick Lu all day but had a decent workout overall; no pain. **Thur:** felt pretty good; no pain. **Fri** - two heavy OH press movements per week is a bit much; start alternating intensity between OH press and push press. **Sat** - got rained out. **Sun** - felt strong after a rest day.
 
 01.17 ***`Cardio    `*** **run:** 2 miles - sprints  
 01.16 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 135x8x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
