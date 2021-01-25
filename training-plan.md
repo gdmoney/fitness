@@ -11,11 +11,11 @@
 | *Thursday*  | **`Legs - 2`** | deadlift - M    | squat - V       | DB lunge        |                 |
 | *Friday*    | **`Push - 2`** | push press*     | bench press - V | DB fly          | lat/front raise |
 | *Saturday*  | **`Pull - 2`** | BB row          | BB curl         | pullups         | chinups         |
-| *Sunday*    | **`Cardio**`** | run - sprints   | run - hills     |                 |                 |
+| *Sunday*    | **`Cardio`**   | run - sprints** | run - hills**   |                 |                 |
 
 
-**M** - Main: standard movement, heavy, 2-12 reps
+**M** - Main: standard movement, heavy, 2-12 reps  
 **V** - Variation: different movements, lighter, volume/speed work/paused  
 **W** - Weighted  
-`*`   - alternate intensity  
+`*`   - alternate intensity between OH press and push press  
 `**`  - alternate weekly between sprints and hills
