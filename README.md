@@ -5,13 +5,13 @@
 
 *****
 
-01.24 ***`Cardio    `*** **run:** 2 miles - hills  
-01.24 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
-01.22 ***`Push-2    `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
-01.21 ***`Legs-2    `*** **deadlift:** 245x10x5 • **back squat-psd:** 145x10x5 • **DB lunge:** 52x30x2  
-01.20 ***`Pull-1    `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 195x10x6 • **DB curl:** 52x10x3  
-01.19 ***`Push-1    `*** **BB bench press:** 205x10x5 • **push press:** 115x10x5 • **DB fly:** 35x15x3  
-01.18 ***`Legs-1    `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x2  
+01.31 ***`Cardio    `*** **run:** 2 miles - hills  
+01.30 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
+01.29 ***`Push-2    `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
+01.28 ***`Legs-2    `*** **deadlift:** 245x10x5 • **back squat-psd:** 145x10x5 • **DB lunge:** 52x30x2  
+01.27 ***`Pull-1    `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 195x10x6 • **DB curl:** 52x10x3  
+01.26 ***`Push-1    `*** **BB bench press:** 205x10x5 • **push press:** 115x10x5 • **DB fly:** 35x15x3  
+01.25 ***`Legs-1    `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x2  
 - **Week 2:** 10 reps on main movements. **Mon** - 
 
 01.24 ***`Cardio    `*** **run:** 2 miles - sprints  
