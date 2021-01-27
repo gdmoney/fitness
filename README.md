@@ -12,7 +12,7 @@
 01.27 ***`Pull-1    `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 195x10x6 • **DB curl:** 52x10x3  
 01.26 ***`Push-1    `*** **BB bench press:** 205x10x5  
 01.26 ***`Legs-1    `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x1  
-- **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggrevated my side injury again. RDL, GM, and lunge were OK. Bench was light but really painful so I decided so skip push press and accessory work. **Wed** - 
+- **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggrevated my side injury again. RDL, GM, and lunge were OK. Bench felt light but was really painful so I decided so skip push press and accessory work. **Wed** - 
 
 01.24 ***`Cardio    `*** **run:** 2 miles - sprints  
 01.24 ***`Pull-2    `*** **BB row-OH/UH:** 185x12x6 • **BB curl:** 105x12x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
