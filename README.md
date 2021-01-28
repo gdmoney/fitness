@@ -9,10 +9,10 @@
 01.30 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
 01.29 ***`Push-2    `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
 01.28 ***`Legs-2    `*** **deadlift:** 245x10x5 • **back squat-psd:** 145x10x5 • **DB lunge:** 52x30x2  
-01.27 ***`Pull-1    `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 195x10x6 • **DB curl:** 52x10x3  
+01.27 ***`Pull-1    `*** **BB row-OH/UH:** 195x10x10  
 01.26 ***`Push-1    `*** **BB bench press:** 205x10x5  
 01.26 ***`Legs-1    `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x1  
-- **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggrevated my side injury again. RDL, GM, and lunge were OK. Bench felt light but was really painful so I decided so skip push press and accessory work. **Wed** - 
+- **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggrevated my side injury again. RDL, GM, and lunge were OK. Bench felt light but was really painful so I decided so skip push press and accessory work. **Wed** - side pain was bearable on rows but really bad on pullups and curls so I skipped those. - **Thur:** - 
 
 01.24 ***`Cardio    `*** **run:** 2 miles - sprints  
 01.24 ***`Pull-2    `*** **BB row-OH/UH:** 185x12x6 • **BB curl:** 105x12x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
