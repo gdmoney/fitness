@@ -12,7 +12,7 @@
 01.27 ***`Pull-1    `*** **BB row-OH/UH:** 195x10x10  
 01.26 ***`Push-1    `*** **BB bench press:** 205x10x5  
 01.26 ***`Legs-1    `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x1  
-- **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggravated my side injury again. RDL, GM, and lunge were OK. Bench felt light but was really painful so I decided so skip push press and accessory work. **Wed** - side pain was bearable on rows but really bad on pullups and curls so I skipped those. **Thur:** - some pain on deadlift but was bearable; didn't want to risk it on squats. **Fri** - got rained out. **Sat** - did both push and pull in the AM; felt pretty good; pain is still there but it's tolerable. **Sun:** - 
+- **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggravated my side injury again. RDL, GM, and lunge were OK. Bench felt light but was really painful so I decided so skip push press and accessory work. **Wed** - side pain was bearable on rows but really bad on pullups and curls so I skipped those. **Thur:** - some pain on deadlift but was bearable; didn't want to risk it on squats. **Fri** - got rained out. **Sat** - did both push and pull in the AM; felt pretty good; pain is still there but it's tolerable.
 
 01.24 ***`Cardio    `*** **run:** 2 miles - sprints  
 01.24 ***`Pull-2    `*** **BB row-OH/UH:** 185x12x6 • **BB curl:** 105x12x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
@@ -40,7 +40,7 @@
 01.06 ***`Pull-1    `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
 01.05 ***`Push-1    `*** **BB bench press:** 245x8,6,6 • **BB OH press:** 135x8x3 • **bench dip-wtd:** 20x3 • **skull crushers:** 95x12x3  
 01.04 ***`Legs-1    `*** **back squat:** 225x8x5 • **RDL:** 225x10x5 • **DB lunge:** 52x30x1  
-- **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt ok but the pain was still there. **Sat** and **Sun** - decided to fully rest in hopes to recover from my injury.
+- **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt OK but the pain was still there. **Sat** and **Sun** - decided to fully rest in hopes to recover from my injury.
 
 *****
 ### 2020
