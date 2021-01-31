@@ -5,7 +5,7 @@
 
 *****
 
-01.31 ***`Cardio    `*** **run:** 1 mile jog with Meu 
+01.31 ***`Cardio    `*** **run:** 1 mile jog with Meu  
 01.30 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3  
 01.30 ***`Push-2    `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5  
 01.28 ***`Legs-2    `*** **deadlift:** 245x10x5  
