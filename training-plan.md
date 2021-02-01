@@ -23,15 +23,15 @@
 
 ### 2021 - Q2
 
-| Day         | Movement               | Exercise - 1          | Exercise - 2          | Exercise - 3    | Exercise - 4       |
-| :---------- | :--------------------- | :-------------------- | :-------------------- | :-------------- | :----------------- |
-| *Monday*    | **`Squat-M + Pull-1`** | back squat            | pullups               | BB row          | DB curl            |
-| *Tuesday*   | **`DL-V + Push-1`**    | RDL                   | good morning          | bench press - M | OH/push press - V* |
-| *Wednesday* | **`Cardio-1`**         | run - sprints         |                       |                 |                    |
-| *Thursday*  | **`Squat-V + Pull-2`** | front/paused squat**  | chinups               | BB row          | BB curl            |
-| *Friday*    | **`DL-M + Push-2`**    | OH/push press - M*    | bench press - V       | accessory-1     | accessory-2        |
-| *Saturday*  | **`Cardio-2`**         | run - hills           |                       |                 |                    |
-| *Sunday*    | **`Recovery`**         |                       |                       |                 |                    |
+| Day         | Movement               | Exercise - 1          | Exercise - 2          | Exercise - 3     | Exercise - 4       |
+| :---------- | :--------------------- | :-------------------- | :-------------------- | :--------------- | :----------------- |
+| *Monday*    | **`Squat-M + Pull-1`** | back squat            | pullups               | BB row           | DB curl            |
+| *Tuesday*   | **`DL-V + Push-1`**    | RDL                   | good morning          | bench press - M  | OH/push press - V* |
+| *Wednesday* | **`Cardio-1`**         | run - sprints         |                       |                  |                    |
+| *Thursday*  | **`Squat-V + Pull-2`** | front/paused squat**  | chinups               | BB row           | BB curl            |
+| *Friday*    | **`DL-M + Push-2`**    | deadlift              | OH/push press - M*    | bench press - V  |                    |
+| *Saturday*  | **`Cardio-2`**         | run - hills           |                       |                  |                    |
+| *Sunday*    | **`Recovery`**         |                       |                       |                  |                    |
 
 `*`   - alternate weekly between OH press and push press  
 `**`  - alternate weekly between front squat and paused squat
