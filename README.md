@@ -5,6 +5,15 @@
 
 *****
 
+02.07 ***`Cardio    `***  
+02.06 ***`Pull-2    `***  
+02.05 ***`Push-2    `***  
+02.04 ***`Legs-2    `***  
+02.03 ***`Pull-1    `***  
+02.02 ***`Push-1    `***  
+02.01 ***`Legs-1    `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x10x5 • **DB lunge:** 52x30x2  
+- **Week 3:** 8 reps on main movements. **Mon** -
+
 01.31 ***`Cardio    `*** **run:** 1 mile jog with Meu  
 01.30 ***`Pull-2    `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3  
 01.30 ***`Push-2    `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5  
