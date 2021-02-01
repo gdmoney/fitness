@@ -17,8 +17,8 @@
 **M** - Main: standard movement, heavy, 2-12 reps  
 **V** - Variation: different movements, lighter, volume/technique/speed work/paused  
 **W** - Weighted  
-`* ` - alternate weekly between OH press and push press  
-`**` - alternate weekly between sprints and hills
+`* ` - alternate weekly between OH press and push press  
+`**` - alternate weekly between sprints and hills
 
 
 ### 2021 - Q2
