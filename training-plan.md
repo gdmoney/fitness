@@ -9,7 +9,7 @@
 | *Tuesday*   | **`Push - 1`** | bench press - M       | OH/push press - V*    | accessory-1     | accessory-2     |
 | *Wednesday* | **`Pull - 1`** | pullups - W           | chinups - W           | BB row          | DB curl         |
 | *Thursday*  | **`Legs - 2`** | deadlift - M          | squat - V             | DB lunge        |                 |
-| *Friday*    | **`Push - 2`** | OH/push press - M*    | bench press - V       | accessory-1     | accessory-2     |
+| *Friday*    | **`Push - 2`** | OH/push press - M*    | bench press - V       | accessory-3     | accessory-4     |
 | *Saturday*  | **`Pull - 2`** | BB row                | BB curl               | pullups         | chinups         |
 | *Sunday*    | **`Cardio  `** | run - sprints/hills** |                       |                 |                 |
 
