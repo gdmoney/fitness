@@ -5,12 +5,12 @@
 
 *****
 
-02.07 ***`Cardio    `***  
-02.06 ***`Pull-2    `***  
-02.05 ***`Push-2    `***  
-02.04 ***`Legs-2    `***  
-02.03 ***`Pull-1    `***  
-02.02 ***`Push-1    `*** **BB bench press:** 225x8x5 • **BB OH press:** 105x20x5 • **DB fly:** 40x15x3  
+02.07 ***`Cardio    `***   
+02.06 ***`Pull-2    `***   
+02.05 ***`Push-2    `***   
+02.04 ***`Legs-2    `***   
+02.03 ***`Pull-1    `***   
+02.02 ***`Push-1    `*** **BB bench press:** 225x8x5 • **BB OH press:** 105x20x5 • **DB fly:** 40x15x3  
 02.01 ***`Legs-1    `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x10x5 • **DB lunge:** 52x30x2  
 - **Week 3:** 8 reps on main movements. **Mon** - squats were challenging and caused quite a bit of side pain; used the belt on squats and RDL but kept it much looser than before so I don't know if it helped. **Tue** - 
 
