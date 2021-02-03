@@ -9,10 +9,10 @@
 02.06 ***`Pull-2 `***   
 02.05 ***`Push-2 `***   
 02.04 ***`Legs-2 `***   
-02.03 ***`Pull-1 `***   
-02.02 ***`Push-1 `*** **BB bench press:** 225x8x5 • **BB OH press:** 105x20x5 • **DB fly:** 40x15x3  
+02.03 ***`Pull-1 `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 205x8x6 • **DB curl:** 52x10x3  
+02.02 ***`Push-1 `*** **BB bench press:** 225x8x5 • **BB OH press:** 105x20x3 • **DB fly:** 40x15x3 • **skull crush:** 95x12x3  
 02.01 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x10x5 • **DB lunge:** 52x30x2  
-- **Week 3:** 8 reps on main movements. **Mon** - squats were challenging and caused quite a bit of side pain; used the belt on squats and RDL but kept it much looser than before, so I don't know if it helped. **Tue** - 
+- **Week 3:** 8 reps on main movements. **Mon** - squats were challenging and caused quite a bit of side pain; used the belt on squats and RDL but kept it much looser than before, so I don't know if it helped. **Tue** - bench was moderately heavy; OH press was heavier; quite a bit of pain on skull crushers. **Wed** - 
 
 01.31 ***`Cardio `*** **run:** 1 mile jog with Meu  
 01.30 ***`Pull-2 `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3  
