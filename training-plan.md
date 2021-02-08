@@ -23,7 +23,7 @@
 
 ### 2021 - Q2
 
-| Day         | Movement               | Exercise - 1          | Exercise - 2          | Exercise - 3     | Exercise - 4       |
+| Day         | Movement(s)            | Exercise - 1          | Exercise - 2          | Exercise - 3     | Exercise - 4       |
 | :---------- | :--------------------- | :-------------------- | :-------------------- | :--------------- | :----------------- |
 | *Monday*    | **`Squat-M + Pull-1`** | back squat            | pullups               | BB row           | DB curl            |
 | *Tuesday*   | **`DL-V + Push-1   `** | RDL                   | good morning          | bench press - M  | OH/push press - V* |
