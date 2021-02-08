@@ -28,10 +28,11 @@
 | *Monday*    | **`Squat-M + Pull-1`** | back squat            | pullups               | BB row           | DB curl            |
 | *Tuesday*   | **`DL-V + Push-1   `** | RDL                   | good morning          | bench press - M  | OH/push press - V* |
 | *Wednesday* | **`Cardio-1        `** | run - sprints         |                       |                  |                    |
-| *Thursday*  | **`Squat-V + Pull-2`** | front/paused squat**  | chinups               | BB row           | BB curl            |
+| *Thursday*  | **`Squat-V + Pull-2`** | front/paused squat**  | BB row                | BB curl          | chinups            |
 | *Friday*    | **`DL-M + Push-2   `** | deadlift              | OH/push press - M*    | bench press - V  | dips               |
-| *Saturday*  | **`Cardio-2        `** | run - hills           |                       |                  |                    |
-| *Sunday*    | **`Accessory       `** | skull crushers        | DB fly                | lat/front raise  |                    |
+| *Saturday*  | **`Accessory       `** | skull crushers        | DB fly                | lat/front raise  |                    |
+| *Sunday*    | **`Cardio-2        `** | run - hills           |                       |                  |                    |
+
 
 `* ` - alternate weekly between OH press and push press  
 `**` - alternate weekly between front squat and paused squat
