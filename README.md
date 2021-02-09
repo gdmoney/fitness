@@ -11,8 +11,8 @@
 02.11 ***`Legs-2 `***   
 02.10 ***`Pull-1 `***   
 02.09 ***`Push-1 `***   
-02.08 ***`Legs-1 `*** **back squat:** 245x6x5 • **RDL:** 245x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x30x2  
-- **Week 4:** 6 reps on main movements. **Mon** -
+02.08 ***`Legs-1 `*** **back squat:** 245x6,4x4 • **RDL:** 245x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x30x2  
+- **Week 4:** 6 reps on main movements. **Mon** - couldn't do more than 4 reps on the squats without sacrificing the form too much; only a slight side pain. **Tue** - 
 
 02.07 ***`Cardio `*** **BB row-OH/UH:** 205x8x6 • **BB curl:** 125x8x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
 02.06 ***`Pull-2 `*** **rest**  
