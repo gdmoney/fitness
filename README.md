@@ -7,7 +7,7 @@
 
 02.14 ***`Cardio `***   
 02.13 ***`Pull-2 `***   
-02.12 ***`Push-2 `*** **BB OH press:** 155x6x5 • **bench press-psd:** 195x10x5 • **bench dip-wtd:** 20x3 • **lat/front raise:** 30x25x3  
+02.12 ***`Push-2 `*** **BB OH press:** 155x6x5 • **bench press-psd:** 195x10x5 • **bench dip-wtd:** 20x5 • **lat/front raise:** 30x25x3  
 02.11 ***`Legs-2 `*** **deadlift:** 285x6x5 • **back squat-psd:** 155x8x5  
 02.10 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row:** 215x6x6 • **DB curl:** 52x8x3  
 02.09 ***`Push-1 `*** **BB bench press:** 245x6x5 • **push press:** 105x15x3 • **DB fly:** 45x12x3 • **skull crushers:** 75x12x3  
