@@ -7,16 +7,16 @@
 
 02.14 ***`Cardio `***   
 02.13 ***`Pull-2 `***   
-02.12 ***`Push-2 `***   
-02.11 ***`Legs-2 `*** **deadlift:** 285x6x5 • **back squat-psd:** 155x8x5 • **DB lunge:** 52x30x2  
+02.12 ***`Push-2 `*** **BB OH press:** 155x6x5 • **bench press-psd:** 195x10x5 • **bench dip-wtd:** 20x3 • **lat/front raise:** 30x25x3  
+02.11 ***`Legs-2 `*** **deadlift:** 285x6x5 • **back squat-psd:** 155x8x5  
 02.10 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row:** 215x6x6 • **DB curl:** 52x8x3  
 02.09 ***`Push-1 `*** **BB bench press:** 245x6x5 • **push press:** 105x15x3 • **DB fly:** 45x12x3 • **skull crushers:** 75x12x3  
 02.08 ***`Legs-1 `*** **back squat:** 245x6,4x4 • **RDL:** 245x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x30x2  
-- **Week 4:** 6 reps on main movements. **Mon** - couldn't do more than 4 reps on the squats without sacrificing the form too much; 75# on skull crushers was a little too light; only a slight side pain. **Tue** - bench felt moderate; slight ache in the shoulders during push press; very little side pain. **Wed** - decent workout; very little side pain. **Thur** - 
+- **Week 4:** 6 reps on main movements. **Mon** - couldn't do more than 4 reps on the squats without sacrificing the form too much; 75# on skull crushers was a little too light; only a slight side pain. **Tue** - bench felt moderate; slight ache in the shoulders during push press; very little side pain. **Wed** - decent workout; very little side pain. **Thur** - felt good; side pain only when putting on and taking off the belt. **Fri** - 
 
 02.07 ***`Cardio `*** **BB row-OH/UH:** 205x8x6 • **BB curl:** 125x8x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
 02.06 ***`Pull-2 `*** **rest**  
-02.05 ***`Push-2 `*** **OH press:** 145x6x5 • **bench press-psd:** 185x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
+02.05 ***`Push-2 `*** **push press:** 145x6x5 • **bench press-psd:** 185x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
 02.04 ***`Legs-2 `*** **deadlift:** 265x8x5 • **back squat-psd:** 145x8x5  
 02.03 ***`Pull-1 `*** **pullups:** 10x3 • **chinups:** 10x3  
 02.02 ***`Push-1 `*** **BB bench press:** 225x8x5 • **BB OH press:** 105x20x3 • **DB fly:** 40x15x3 • **skull crushers:** 95x12x3  
@@ -25,7 +25,7 @@
 
 01.31 ***`Cardio `*** **run:** 1 mile jog with Meu  
 01.30 ***`Pull-2 `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3  
-01.30 ***`Push-2 `*** **OH press:** 135x10x5 • **bench press-psd:** 175x10x5  
+01.30 ***`Push-2 `*** **BB OH press:** 135x10x5 • **bench press-psd:** 175x10x5  
 01.28 ***`Legs-2 `*** **deadlift:** 245x10x5  
 01.27 ***`Pull-1 `*** **BB row-OH/UH:** 195x10x10  
 01.26 ***`Push-1 `*** **BB bench press:** 205x10x5  
