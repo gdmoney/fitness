@@ -9,7 +9,7 @@
 02.13 ***`Pull-2 `***   
 02.12 ***`Push-2 `*** **BB OH press:** 155x6x5 • **bench press-psd:** 195x10x5 • **bench dip-wtd:** 20x5 • **lat/front raise:** 30x25x3  
 02.11 ***`Legs-2 `*** **deadlift:** 285x6x5 • **back squat-psd:** 155x8x5  
-02.10 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row:** 215x6x6 • **DB curl:** 52x8x3  
+02.10 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
 02.09 ***`Push-1 `*** **BB bench press:** 245x6x5 • **push press:** 105x15x3 • **DB fly:** 45x12x3 • **skull crushers:** 75x12x3  
 02.08 ***`Legs-1 `*** **back squat:** 245x6,4x4 • **RDL:** 245x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x30x2  
 - **Week 4:** 6 reps on main movements. **Mon** - couldn't do more than 4 reps on the squats without sacrificing the form too much; 75# on skull crushers was a little too light; only a slight side pain. **Tue** - bench felt moderate; slight ache in the shoulders during push press; very little side pain. **Wed** - decent workout; very little side pain. **Thur** - felt good; side pain only when putting on and taking off the belt. **Fri** - 
