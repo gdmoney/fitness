@@ -3,15 +3,15 @@
 
 ### 2021 - Q1
 
-| Day         | Movement       | Exercise - 1          | Exercise - 2          | Exercise - 3    | Exercise - 4    |
-| :---------- | :------------- | :-------------------- | :-------------------- | :-------------- | :-------------- |
-| *Monday*    | **`Legs - 1`** | squat - M             | RDL                   | good morning    | DB lunge        |
-| *Tuesday*   | **`Push - 1`** | bench press - M       | OH/push press - V*    | accessory-1     | accessory-2     |
-| *Wednesday* | **`Pull - 1`** | pullups - W           | chinups - W           | BB row          | DB curl         |
-| *Thursday*  | **`Legs - 2`** | deadlift - M          | squat - V             | DB lunge        |                 |
-| *Friday*    | **`Push - 2`** | OH/push press - M*    | bench press - V       | accessory-3     | accessory-4     |
-| *Saturday*  | **`Pull - 2`** | BB row                | BB curl               | pullups         | chinups         |
-| *Sunday*    | **`Cardio  `** | run - sprints/hills** |                       |                 |                 |
+| Day         | Movement       | Exercise - 1          | Exercise - 2        | Exercise - 3      | Exercise - 4      |
+| :---------- | :------------- | :-------------------- | :------------------ | :---------------- | :---------------- |
+| *Monday*    | **`Legs - 1`** | squat - M             | RDL                 | good morning      | DB lunge          |
+| *Tuesday*   | **`Push - 1`** | bench press - M       | OH/push press - V*  | skull crushers    | lat/front raise   |
+| *Wednesday* | **`Pull - 1`** | pullups - W           | chinups - W         | BB row            | DB curl           |
+| *Thursday*  | **`Legs - 2`** | deadlift - M          | squat - V           | DB lunge          |                   |
+| *Friday*    | **`Push - 2`** | OH/push press - M*    | bench press - V     | bench dip - W     | DB fly            |
+| *Saturday*  | **`Pull - 2`** | BB row                | BB curl             | pullups           | chinups           |
+| *Sunday*    | **`Cardio  `** | run - sprints/hills** |                     |                   |                   |
 
 
 **M** - Main: standard movement, heavy, 2-12 reps  
