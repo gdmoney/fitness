@@ -5,12 +5,12 @@
 
 | Day         | Movement       | Exercise - 1          | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :-------------------- | :------------------ | :---------------- | :---------------- |
-| *Monday*    | **`Legs - 1`** | squat - M             | RDL                 | good morning      | DB lunge          |
-| *Tuesday*   | **`Push - 1`** | bench press - M       | OH/push press - V*  | skull crushers    | lat/front raise   |
-| *Wednesday* | **`Pull - 1`** | pullups - W           | chinups - W         | BB row            | DB curl           |
-| *Thursday*  | **`Legs - 2`** | deadlift - M          | squat - V           | DB lunge          |                   |
-| *Friday*    | **`Push - 2`** | OH/push press - M*    | bench press - V     | bench dip - W     | DB fly            |
-| *Saturday*  | **`Pull - 2`** | BB row                | BB curl             | pullups           | chinups           |
+| *Monday*    | **`Pull - 1`** | pullups - W           | chinups - W         | BB row            | DB curl           |
+| *Tuesday*   | **`Push - 1`** | bench press - M       | bench dip - W       | DB fly            | lat/front raise   |
+| *Wednesday* | **`Legs - 1`** | squat - M             | RDL                 | good morning      | DB lunge          |
+| *Thursday*  | **`Pull - 2`** | BB row                | BB curl             | pullups           | chinups           |
+| *Friday*    | **`Push - 2`** | OHpress/push press*   | bench press - V     | skull crushers    | DB fly            |
+| *Saturday*  | **`Legs - 2`** | deadlift - M          | squat - V           | DB lunge          |                   |
 | *Sunday*    | **`Cardio  `** | run - sprints/hills** |                     |                   |                   |
 
 
@@ -21,7 +21,7 @@
 `**` - alternate weekly between sprints and hills
 
 
-### 2021 - Q2
+### 2021 - Q2 (WIP)
 
 | Day         | Movement(s)            | Exercise - 1          | Exercise - 2         | Exercise - 3       | Exercise - 4       |
 | :---------- | :--------------------- | :-------------------- | :------------------- | :----------------- | :----------------- |
