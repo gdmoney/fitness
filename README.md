@@ -12,7 +12,7 @@
 02.10 ***`Legs-1 `***   
 02.09 ***`Push-1 `*** **BB bench press:** 265x4x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
 02.08 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
-- **Week 5:** 4 reps on main movements. Switching to Pull-Push-Legs. **Mon** - felt good; pullup/chinup form was better than last week. **Tue** - 
+- **Week 5:** 4 reps on main movements. Switching to Pull-Push-Legs. **Mon** - felt good; pullup/chinup form was better than last week. **Tue** - felt pretty good considering I slept poorly the night before. **Wed** - 
 
 02.14 ***`Cardio `*** **rest**  
 02.13 ***`Pull-2 `*** **BB row-OH/UH:** 215x6x6 • **BB curl:** 135x6x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
