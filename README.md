@@ -9,7 +9,7 @@
 02.13 ***`Legs-2 `***   
 02.12 ***`Push-2 `***   
 02.11 ***`Pull-2 `***   
-02.10 ***`Legs-1 `***   
+02.10 ***`Legs-1 `*** **back squat:** 265x4x5 • **RDL:** 265x4x5 • **good morning:** 125x10x5 • **DB lunge:** 52x30x2  
 02.09 ***`Push-1 `*** **BB bench press:** 265x4x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
 02.08 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
 - **Week 5:** 4 reps on main movements. Switching to Pull-Push-Legs. **Mon** - felt good; pullup/chinup form was better than last week. **Tue** - felt pretty good considering I slept poorly the night before. **Wed** - 
