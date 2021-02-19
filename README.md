@@ -7,12 +7,12 @@
 
 02.21 ***`Cardio `***   
 02.20 ***`Legs-2 `***   
-02.19 ***`Push-2 `***   
+02.19 ***`Push-2 `*** **push press:** 165x4x5 • **bench press-psd:** 205x8x5 • **skull crushers:** 85x12x3 • **DB fly:** 45x12x3  
 02.18 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 145x6x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.17 ***`Legs-1 `*** **back squat:** 245x4x5 • **RDL:** 265x4x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x2  
 02.16 ***`Push-1 `*** **BB bench press:** 265x4x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
 02.15 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
-- **Week 5:** 4 reps on main movements. Switching to Pull-Push-Legs. **Mon** - felt good; pullup/chinup form was better than last week. **Tue** - felt pretty good considering I slept poorly the night before. **Wed** - squats were really tough again; I tried to improve my form over last week but had limited success; I should drop the weight and focus on improving my form before going up in weight; RDL felt light, probably due to having a couple of extra days in between. **Thur** - 
+- **Week 5:** 4 reps on main movements. Switching to Pull-Push-Legs. **Mon** - felt good; pullup/chinup form was better than last week. **Tue** - felt pretty good considering I slept poorly the night before. **Wed** - squats were really tough again; I tried to improve my form over last week but had limited success; I should drop the weight and focus on improving my form before going up in weight; RDL felt light, probably due to having a couple of extra days in between. **Thur** - felt good; very little pain. **Fri** - 
 
 02.14 ***`Cardio `*** **rest**  
 02.13 ***`Pull-2 `*** **BB row-OH/UH:** 215x6x6 • **BB curl:** 135x6x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
