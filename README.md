@@ -8,7 +8,7 @@
 02.21 ***`Cardio `***   
 02.20 ***`Legs-2 `***   
 02.19 ***`Push-2 `***   
-02.18 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 145x6x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
+02.18 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 145x4x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.17 ***`Legs-1 `*** **back squat:** 245x4x5 • **RDL:** 265x4x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x2  
 02.16 ***`Push-1 `*** **BB bench press:** 265x4x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
 02.15 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
