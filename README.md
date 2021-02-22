@@ -5,11 +5,11 @@
 
 *****
 
-02.28 ***`Cardio `*** 
-02.27 ***`Legs-2 `*** 
-02.26 ***`Push-2 `*** 
-02.25 ***`Pull-2 `*** 
-02.24 ***`Legs-1 `*** 
+02.28 ***`Cardio `***   
+02.27 ***`Legs-2 `***   
+02.26 ***`Push-2 `***   
+02.25 ***`Pull-2 `***   
+02.24 ***`Legs-1 `***   
 02.23 ***`Push-1 `*** **BB bench press:** 285x2x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
 02.22 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row:** 225x6x5 • **DB curl:** 52x8x3  
 - **Week 6:** 2 reps on main movements. **Mon** - 
