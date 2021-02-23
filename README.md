@@ -15,7 +15,7 @@
 - **Week 6:** 2 reps on main movements. **Mon** - felt like shit after sleeping poorly for two nights in a row and being slightly hung over; still had pain in the lower back but it was manageable. **Tue** - 
 
 02.21 ***`Cardio `*** **rest**  
-02.20 ***`Legs-2 `*** **deadlift:** 305x4x5 • **back squat-psd:** 165x8x5  
+02.20 ***`Legs-2 `*** **deadlift:** 305x4x5 • **back squat-psd:** 165x6x5  
 02.19 ***`Push-2 `*** **push press:** 165x4x5 • **bench press-psd:** 205x8x5 • **skull crushers:** 85x12x3 • **DB fly:** 45x12x3  
 02.18 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 145x4x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.17 ***`Legs-1 `*** **back squat:** 245x4x5 • **RDL:** 265x4x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x2  
