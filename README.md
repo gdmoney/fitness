@@ -9,10 +9,10 @@
 02.27 ***`Legs-2 `***   
 02.26 ***`Push-2 `***   
 02.25 ***`Pull-2 `***   
-02.24 ***`Legs-1 `***   
+02.24 ***`Legs-1 `*** **back squat:** 185x6x5 • **RDL:** 265x4x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x2  
 02.23 ***`Push-1 `*** **BB bench press:** 285x2x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
 02.22 ***`Pull-1 `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row:** 225x6x3 • **DB curl:** 52x8x2  
-- **Week 6:** 2 reps on main movements. **Mon** - felt like shit after sleeping poorly for two nights in a row and being slightly hung over; still had pain in the lower back but it was manageable. **Tue** - 
+- **Week 6:** 2 reps on main movements. **Mon** - felt like shit after sleeping poorly for two nights in a row and being slightly hung over; still had pain in the lower back but it was manageable. **Tue** - back felt much better, only a slight pain but it was stiff so my leg drive was lacking on bench, which was moderately heavy. **Wed** - 
 
 02.21 ***`Cardio `*** **rest**  
 02.20 ***`Legs-2 `*** **deadlift:** 305x4x5 • **back squat-psd:** 165x6x5  
