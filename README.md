@@ -6,7 +6,7 @@
 *****
 
 02.28 ***`Cardio `***   
-02.27 ***`Legs-2 `***   
+02.27 ***`Legs-2 `*** **deadlift:** 325x2x5 • **back squat-psd:** 175x6x5  
 02.26 ***`Push-2 `*** **OH press:** 175x2x5 • **bench press-psd:** 215x8x5 • **skull crushers:** 85x12x3 • **DB fly:** 45x12x3  
 02.25 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 155x2x5 • **BB curl-rvs:** 80x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.24 ***`Legs-1 `*** **back squat:** 205x6x5 • **RDL:** 265x6x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x1  
