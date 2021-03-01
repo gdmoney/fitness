@@ -5,6 +5,15 @@
 
 *****
 
+03.07 ***`Cardio `*** **rest**  
+03.06 ***`Legs-2 `*** **rest**  
+03.05 ***`Push-2 `*** **OH press:** 75x6x3 • **bench press-psd:** 135x8x2 • **deadlift:** 135x6x3  
+03.04 ***`Pull-2 `*** **BB row:** 135x6x3 • **BB curl:** 75x6x3 • **BB curl-rvs:** 45x8x3 • **pullups:** 6x2 • **chinups:** 6x2  
+03.03 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x1  
+03.02 ***`Push-1 `*** **BB bench press:** 135x8x3 • **bench dip:** 15x3 • **DB fly:** 25x8x2 • **lat/front raise:** 15x15x2  
+03.01 ***`Pull-1 `*** **pullups:** 6x2 • **chinups:** 6x2 • **BB row:** 135x6x3 • **DB curl:** 30x8x2  
+- **Week 6:** deload week; 50% intentsity, 50% volume, 6-8 reps. **Mon** - 
+
 02.28 ***`Cardio `*** **rest**  
 02.27 ***`Legs-2 `*** **deadlift:** 325x2x5 • **back squat-psd:** 185x4x5  
 02.26 ***`Push-2 `*** **OH press:** 175x2x3 • **bench press-psd:** 215x8x5 • **skull crushers:** 85x12x3 • **DB fly:** 45x12x3  
