@@ -11,8 +11,8 @@
 03.04 ***`Pull-2 `*** **BB row:** 135x6x3 • **BB curl:** 75x6x2 • **BB curl-rvs:** 45x8x2 • **pullups:** 5x2 • **chinups:** 5x2  
 03.03 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x1  
 03.02 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x8x2 • **lat/front raise:** 15x15x2  
-03.01 ***`Pull-1 `*** **pullups-wtd:** 3x2 • **chinups-wtd** 3x2 • **BB row:** 135x6x3 • **DB curl:** 25x8x2  
-- **Week 7:** deload week - 50% intentsity, 50% volume, 6-8 reps. **Mon** - 
+03.01 ***`Pull-1 `*** **pullups-wtd:** 5x2 • **chinups-wtd** 5x2 • **BB row:** 135x8x3  
+- **Week 7:** deload week - 50% of 1RM intentsity, 50% volume (2-3 sets instead of 3-5), 6-8 reps. **Mon** - used a 30# DB for weighted pullups instead of the 60# weight vest; felt more like a warmup then a workout. **Tue** - 
 
 02.28 ***`Cardio `*** **rest**  
 02.27 ***`Legs-2 `*** **deadlift:** 325x2x5 • **back squat-psd:** 185x4x5  
