@@ -5,6 +5,13 @@
 
 *****
 
+03.11 ***`       `*** **rest**  
+03.10 ***`       `*** **rest**  
+03.09 ***`Bench  `*** **BB bench press:** 135x4, 155x4, 185x3, 205x3, 225x2, 245x2, 265x1, 285x1, 295x1, 305x1, 315x1  
+03.09 ***`Squat  `*** **back squat:** 95x4, 135x2, 160x2, 185x, 205x1, 225x1, 245x1, 265x1, 175x1  
+03.08 ***`       `*** **rest**  
+- **Week 8:** 1 rep max tests. **Mon** - rested one more day after a long weekend trip to Vegas. **Tue** - started at around 5:30; felt strong but not my strongest. **Squat:** tried to focus on good form and depth; the last lift was challenging but I probably could've gone up another 10#; I was still happy though because my form this time was much better than my last 275#. **Bench**: the lighter weights moved really fast; heavier weights felt a little heavier than usual; form was OK but I noticed in the videos that my butt was coming off the bench slightly and I kept shuffling my feet after unracking the bar; overall I was very happy with 315#. **Wed** - rest. **Thur** - rest. **Fri** - 
+
 03.07 ***`Cardio `*** **rest**  
 03.06 ***`Legs-2 `*** **rest**  
 03.05 ***`Push-2 `*** **OH press:** 95x8x3 • **bench press-psd:** 135x8x3 • **deadlift:** 155x6x3  
