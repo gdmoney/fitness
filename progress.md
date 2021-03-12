@@ -5,7 +5,7 @@
 
 | Period          | Squat        | Bench - Max  | Bench - BW AMRAP | Deadlift     | Pullups      | OH Press     | Push Press   | BB Curl      |
 | :-------------- | :----------: | :----------: | :--------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| Jan - Feb - Mar | 275          | 315          |                  | 345          |              |              | 165          |              |
+| Jan - Feb - Mar | 275          | 315          |                  | 375          |              | 180          | 165          |              |
 | Apr - May - Jun |              |              |                  |              |              |              |              |              |
 | Jul - Aug - Sep |              |              |                  |              |              |              |              |              |
 | Oct - Nov - Dec |              |              |                  |              |              |              |              |              |

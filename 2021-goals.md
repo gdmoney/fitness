@@ -2,7 +2,8 @@
 
  - [ ]  300 squat
  - [ ]  325 bench
- - [ ]  375 deadlift
- - [ ]  25 pullups
+ - [x]  375 deadlift
+ - [ ]  425 deadlift - updated
+ - [ ]  20 pullups
  - [ ]  200 OH press
  - [ ]  175 BB curl
