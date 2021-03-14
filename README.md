@@ -5,7 +5,7 @@
 
 *****
 
-03.14 ***`Pullups`*** **Pullups:**  18  
+03.14 ***`Pullups`*** **pullups:**  18  
 03.13 ***`Cardio `*** **run:** 2 mile tempo  
 03.12 ***`OH Prss`*** **OH press:** 95x4, 115x2, 135x1, 155x1x2, 165x1, 175x1, 180x1  
 03.12 ***`DL     `*** **deadlift:** 135x8, 185x4, 225x2, 275x1, 295x1, 315x1, 335x1, 355x1, 375x1, 405xFx2  
