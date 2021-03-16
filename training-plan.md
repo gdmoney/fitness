@@ -21,7 +21,7 @@
 `**` - alternate weekly between sprints and hills
 
 
-### 2021 - Q2 (WIP)
+### 4 day (WIP)
 
 | Day         | Movement(s)            | Exercise - 1          | Exercise - 2         | Exercise - 3       | Exercise - 4       |
 | :---------- | :--------------------- | :-------------------- | :------------------- | :----------------- | :----------------- |
