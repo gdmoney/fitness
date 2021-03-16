@@ -13,7 +13,7 @@
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.16 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
 - Started a new 8-week program. +5 pounds on bench, OH/push press, BB row and +10 on deadlift and RDL.
-- **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superseted bench and BB row; the last bench set was tough; pull was a little weak, probably due to Saturday's max test; no pain. **Wed** - 
+- **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superseted bench and BB row; the last bench set was tough; pull was a little weak, probably due to Saturday's max pullup test; no pain. **Wed** - 
 
 03.14 ***`Pullups`*** **pullups:**  18  
 03.13 ***`Cardio `*** **run:** 2 mile tempo  
