@@ -12,7 +12,7 @@
 03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.16 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
-- Started a new 8-week program. +5 pounds on bench, OH/push press, BB row, BB curl and +10 on deadlift and RDL.
+- Started a new 8-week program. +5 pounds on bench, OH/push press, BB row, and BB curl. +10 pounds on deadlift and RDL.
 - **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superset bench and BB row; the last bench set was tough; pull was a little weak, probably due to Sunday's max pullup test; no pain. **Wed** - started at 4 pm, chest was sore but otherwise felt good; beltless squats were tough, especially the last two sets, but I kept good form throughout. **Thur** - 
 
 03.14 ***`Pullups`*** **pullups:**  18  
