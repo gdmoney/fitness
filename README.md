@@ -9,7 +9,7 @@
 03.20 ***`Legs-2 `***   
 03.19 ***`Push-2 `***   
 03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x5 • **BB curl-rvs:** 75x12x5 • **pullups:** 10x3 • **chinups:** 10x3  
-03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x2  
+03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.16 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
 - Started a new 8-week program. +5 pounds on bench, OH/push press, BB row, BB curl and +10 on deadlift and RDL.
