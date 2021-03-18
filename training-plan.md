@@ -1,7 +1,7 @@
 ## Training Plan
 
 
-### 2021 - Q1
+### 2021 - Q1/Q2
 
 | Day         | Movement       | Exercise - 1          | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :-------------------- | :------------------ | :---------------- | :---------------- |
@@ -10,7 +10,7 @@
 | *Wednesday* | **`Legs - 1`** | squat - M             | RDL                 | good morning      | DB lunge          |
 | *Thursday*  | **`Pull - 2`** | BB row                | BB curl             | pullups           | chinups           |
 | *Friday*    | **`Push - 2`** | OH press/push press*  | bench press - V     | skull crushers    | DB fly            |
-| *Saturday*  | **`Legs - 2`** | deadlift - M          | squat - V           | DB lunge          |                   |
+| *Saturday*  | **`Legs - 2`** | deadlift - M          | squat - V           | BSS               |                   |
 | *Sunday*    | **`Cardio  `** | run - sprints/hills** |                     |                   |                   |
 
 
