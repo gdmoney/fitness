@@ -17,8 +17,8 @@
 **M** - Main: standard movement, heavy, 2-12 reps  
 **V** - Variation: different movements, lighter, volume/technique/speed/paused  
 **W** - Weighted  
-`*  ` - alternate weekly between OH press and push press  
-`** ` - alternate weekly between front squat and paused back squat  
+`*  ` - alternate weekly between OH press and push press  
+`** ` - alternate weekly between front squat and paused back squat  
 `***` - alternate weekly between sprints and hills
 
 
