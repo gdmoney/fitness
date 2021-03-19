@@ -34,5 +34,5 @@
 | *Saturday*  | **`Cardio-2        `** | run - hills           |                      |                    |                    |
 | *Sunday*    | **`rest            `** |                       |                      |                    |                    |
 
-`* ` - alternate weekly between front squat and paused back squat
-`**` - alternate weekly between OH press and push press 
+`* ` - alternate weekly between front squat and paused back squat  
+`**` - alternate weekly between OH press and push press
