@@ -32,7 +32,7 @@
 | *Thursday*  | **`Pull-2 + Squat-V`** | BB row                | BB curl              | squat - V*         | BSS                |
 | *Friday*    | **`DL-M + Push-2   `** | deadlift              | OH/push press**      | bench press - V    | dips               |
 | *Saturday*  | **`Cardio-2        `** | run - hills           |                      |                    |                    |
-| *Sunday*    | **`rest            `** |                       |                      |                    |                    |
+| *Sunday*    | **`Rest            `** |                       |                      |                    |                    |
 
 `* ` - alternate weekly between front squat and paused back squat  
 `**` - alternate weekly between OH press and push press
