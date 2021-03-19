@@ -27,10 +27,10 @@
 | Day         | Movement(s)            | Exercise - 1          | Exercise - 2         | Exercise - 3       | Exercise - 4       |
 | :---------- | :--------------------- | :-------------------- | :------------------- | :----------------- | :----------------- |
 | *Monday*    | **`Squat-M + Pull-1`** | squat - M             | DB lunge             | pullups            | BB row             |
-| *Tuesday*   | **`Push-1 + DL-V   `** | bench press - M       | skull crushers       | RDL                | good morning       |
+| *Tuesday*   | **`Push-1 + DL-V   `** | bench press - M       | bench dip - W        | RDL                | good morning       |
 | *Wednesday* | **`Cardio-1        `** | run - sprints         |                      |                    |                    |
 | *Thursday*  | **`Pull-2 + Squat-V`** | BB row                | BB curl              | squat - V*         | BSS                |
-| *Friday*    | **`DL-M + Push-2   `** | deadlift              | OH/push press**      | bench press - V    | dips               |
+| *Friday*    | **`DL-M + Push-2   `** | deadlift              | OH/push press**      | bench press - V    | skull crushers     |
 | *Saturday*  | **`Cardio-2        `** | run - hills           |                      |                    |                    |
 | *Sunday*    | **`Rest            `** |                       |                      |                    |                    |
 
