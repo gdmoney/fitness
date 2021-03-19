@@ -3,22 +3,23 @@
 
 ### 2021 - Q1/Q2
 
-| Day         | Movement       | Exercise - 1          | Exercise - 2        | Exercise - 3      | Exercise - 4      |
-| :---------- | :------------- | :-------------------- | :------------------ | :---------------- | :---------------- |
-| *Monday*    | **`Pull - 1`** | pullups - W           | chinups - W         | BB row            | DB curl           |
-| *Tuesday*   | **`Push - 1`** | bench press - M       | bench dip - W       | DB fly            | lat/front raise   |
-| *Wednesday* | **`Legs - 1`** | squat - M             | RDL                 | good morning      | DB lunge          |
-| *Thursday*  | **`Pull - 2`** | BB row                | BB curl             | pullups           | chinups           |
-| *Friday*    | **`Push - 2`** | OH press/push press*  | bench press - V     | skull crushers    | DB fly            |
-| *Saturday*  | **`Legs - 2`** | deadlift - M          | squat - V           | BSS               |                   |
-| *Sunday*    | **`Cardio  `** | run - sprints/hills** |                     |                   |                   |
+| Day         | Movement       | Exercise - 1           | Exercise - 2        | Exercise - 3      | Exercise - 4      |
+| :---------- | :------------- | :--------------------- | :------------------ | :---------------- | :---------------- |
+| *Monday*    | **`Pull - 1`** | pullups - W            | chinups - W         | BB row            | BB curl - rvs     |
+| *Tuesday*   | **`Push - 1`** | bench press - M        | bench dip - W       | DB fly            | lat/front raise   |
+| *Wednesday* | **`Legs - 1`** | squat - M              | RDL                 | good morning      | DB lunge          |
+| *Thursday*  | **`Pull - 2`** | BB row                 | BB curl             | pullups           | chinups           |
+| *Friday*    | **`Push - 2`** | OH press/push press*   | bench press - V     | skull crushers    | DB front raise    |
+| *Saturday*  | **`Legs - 2`** | deadlift - M           | squat - V**         | BSS               |                   |
+| *Sunday*    | **`Cardio  `** | run - sprints/hills*** |                     |                   |                   |
 
 
 **M** - Main: standard movement, heavy, 2-12 reps  
 **V** - Variation: different movements, lighter, volume/technique/speed/paused  
 **W** - Weighted  
-`* ` - alternate weekly between OH press and push press  
-`**` - alternate weekly between sprints and hills
+`*  ` - alternate weekly between OH press and push press  
+`** ` - alternate weekly between front squat and paused back squat
+`***` - alternate weekly between sprints and hills
 
 
 ### 4 day (WIP)

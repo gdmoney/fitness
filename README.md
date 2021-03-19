@@ -6,14 +6,14 @@
 *****
 
 03.21 ***`Cardio `***   
-03.20 ***`Legs-2 `***   
-03.19 ***`Push-2 `***   
-03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x5 • **BB curl-rvs:** 75x12x5 • **pullups:** 10x3 • **chinups:** 10x3  
+03.20 ***`Legs-2 `*** **deadlift:** 235x12x5 • **front squat:** nnnx12x5 • **BSS:** nnxnnx3  
+03.19 ***`Push-2 `*** **OH press:** 130x12x5 • **bench press-psd:** 190x10x5 • **skull crushers:** 85x12x3 • **DB front raise:** 35x20x3  
+03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
 03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.16 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
 - Started a new 8-week program. +5 pounds on bench, OH/push press, BB row, and BB curl. +10 pounds on deadlift and RDL.
-- **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superset bench and BB row; the last bench set was tough; pull was a little weak, probably due to Sunday's max pullup test; no pain. **Wed** - started at 4 pm, chest was sore but otherwise felt good; beltless squats were tough, especially the last two sets, but I kept good form throughout. **Thur** - 
+- **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superset bench and BB row; the last bench set was tough; pull was a little weak, probably due to Sunday's max pullup test; no pain. **Wed** - started at 4 pm, chest was sore but otherwise felt good; beltless squats were tough, especially the last two sets, but I kept good form throughout. **Thur** - started at 6:30, chest and legs were sore but felt good. **Fri** - 
 
 03.14 ***`Pullups`*** **pullups:**  18  
 03.13 ***`Cardio `*** **run:** 2 mile tempo  
