@@ -5,7 +5,16 @@
 
 *****
 
-03.21 ***`Cardio `***   
+03.28 ***`Cardio `*** 
+03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 190x5x5 • **BSS:** 52x20x3  
+03.26 ***`Push-2 `*** **OH press:** 140x10x5 • **bench press-psd:** 200x8x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
+03.25 ***`Pull-2 `*** **BB row:** 200x10x5 • **BB curl:** 120x10x3 • **pullups:** 10x3 • **chinups:** 10x3  
+03.24 ***`Legs-1 `*** **back squat:** 195x10x5 • **RDL:** 215x10x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
+03.23 ***`Push-1 `*** **BB bench press:** 200x12x5 • **bench dip-wtd:** 25x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
+03.22 ***`Pull-1 `*** **pullups-wtd:** nxn • **chinups-wtd:** nxn • **BB row:** 200x10x5 • **BB curl-rvs:** 80x12x3  
+- **Week 2:** 10 reps on main movements. **Mon** - 
+
+03.21 ***`Cardio `*** **walk**: 4 miles at the lake with the fam  
 03.20 ***`Legs-2 `*** **deadlift:** 235x12x5 • **front squat:** 135x8x5 • **BSS:** 40x20x3  
 03.19 ***`Push-2 `*** **OH press:** 130x12x5 • **bench press-psd:** 190x10x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
 03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
@@ -13,15 +22,15 @@
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.16 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
 - Started a new 8-week program. +5 pounds on bench, OH/push press, BB row, and BB curl. +10 pounds on deadlift and RDL.
-- **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superset bench and BB row; the last bench set was tough; pull was a little weak, probably due to Sunday's max pullup test; no pain. **Wed** - started at 4 PM, chest was sore but otherwise felt good; beltless squats were tough, especially the last two sets, but I kept good form throughout. **Thur** - started at 6:30 PM, chest and legs were sore but felt good. **Fri** - legs were still sore but felt good; OH press and bench press last sets were tough. **Sat** - front squat form needs work, bar kept sliding forward and down; go up in weight on BSS. **Sun** - 
+- **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superset bench and BB row; the last bench set was tough; pull was a little weak, probably due to Sunday's max pullup test; no pain. **Wed** - started at 4 PM, chest was sore but otherwise felt good; beltless squats were tough, especially the last two sets, but I kept good form throughout. **Thur** - started at 6:30 PM, chest and legs were sore but felt good. **Fri** - legs were still sore but felt good; OH press and bench press last sets were tough. **Sat** - front squat form needs work, bar kept sliding forward and down; go up in weight on BSS. **Sun** - back and shoulders were sore so the walk felt good to loosen up.
 
 03.14 ***`Pullups`*** **pullups:**  18  
-03.13 ***`Cardio `*** **run:** 2 mile tempo  
+03.13 ***`Cardio `*** **run:** 2 miles - tempo  
 03.12 ***`OH Prss`*** **OH press:** 95x4, 115x2, 135x1, 155x1x2, 165x1, 175x1, 180x1  
 03.12 ***`DL     `*** **deadlift:** 135x8, 185x4, 225x2, 275x1, 295x1, 315x1, 335x1, 355x1, 375x1, 405xFx2  
 03.09 ***`Bench  `*** **BB bench press:** 135x4, 155x4, 185x3, 205x3, 225x2, 245x2, 265x1, 285x1, 295x1, 305x1, 315x1  
 03.09 ***`Squat  `*** **back squat:** 95x4, 135x2, 160x2, 185x2, 205x1, 225x1, 245x1, 265x1, 275x1  
-03.08 ***`Cardio `*** **run:** 2 mile tempo  
+03.08 ***`Cardio `*** **run:** 2 miles - tempo  
 - **Week 8:** 1 rep max tests. **Mon** - rested one more day after a long weekend trip to Vegas. **Tue** - started at around 5:30 PM, felt strong but not my strongest. **Squat:** tried to focus on good form and depth; the last lift was challenging but I probably could've gone up another 10#; I'm still happy with the 275 PR though because my form this time was much better than my last 275. **Bench**: lighter weights were moving fast, heavier weights felt a little slower than usual; form was OK but I noticed in the videos that my butt was coming off the bench slightly and I kept shuffling my feet after unracking the bar; overall I'm very happy with the 315 PR and I feel better about being on track to 325 by the EOY. **Wed** - rest day, no aches or pain. **Thur** - rest day. **Fri** - started in the morning around 9:30; felt strong. **Deadlift:** felt good; form was better but I still need to stand up a little later so that my back isn't doing most of the heavy pulling; I missed 405 twice (second attempt was much closer than the first) but I'm still happy with the 375 PR; I'm going to change my 2021 goal to 425; add grip work and maybe start experimenting with mixed grip. **OH Press:** needs a lot of work, my form is inconsistent; I started out with thumbless grip but switched to a regular grip at 175; I got a 180 PR but I'm not thrilled with it due to poor form. **Sat** - rest and light cardio, no aches or pain. **Sun** - was slightly hung over but 18 pullups is still solid.
 
 03.07 ***`Cardio `*** **rest**  
