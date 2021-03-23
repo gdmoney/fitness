@@ -39,7 +39,7 @@
 03.04 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x8x3 • **BB curl-rvs:** 45x10x3 • **pullups:** 5x2 • **chinups:** 5x2  
 03.04 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x2  
 03.02 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x15x3 • **lat/front raise:** 15x25x3  
-03.01 ***`Pull-1 `*** **pullups-wtd:** 5x2 • **chinups-wtd** 5x2 • **BB row:** 135x8x3  
+03.01 ***`Pull-1 `*** **pullups-wtd:** 30x5x2 • **chinups-wtd** 30x5x2 • **BB row:** 135x8x3  
 - **Week 7:** deload week - 50% of 1RM intentsity, 50% volume (2-3 sets instead of 3-5), 6-8 reps. **Mon** - used a 30# DB for weighted pullups instead of the 60# weight vest; felt more like a warmup than a workout. **Tue** - everything felt really light again. **Wed** - got rained out. **Thur** - doubled up. **Fri** - added deadlift to a push day; only OH press felt like work.
 
 02.28 ***`Cardio `*** **rest**  
@@ -48,7 +48,7 @@
 02.25 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 155x2x5 • **BB curl-rvs:** 80x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.24 ***`Legs-1 `*** **back squat:** 205x6x5 • **RDL:** 265x6x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x1  
 02.23 ***`Push-1 `*** **BB bench press:** 285x2x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
-02.22 ***`Pull-1 `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row:** 225x6x3 • **DB curl:** 52x8x2  
+02.22 ***`Pull-1 `*** **pullups-wtd:** 60x5x2 • **chinups-wtd:** 60x5x2 • **BB row:** 225x6x3 • **DB curl:** 52x8x2  
 - **Week 6:** 2 reps on main movements. **Mon** - felt like shit after sleeping poorly for two nights in a row and being slightly hung over; still had pain in the lower back but it was manageable. **Tue** - back felt much better, only a slight pain but it was stiff so my leg drive was lacking on bench, which was moderately heavy. **Wed** - focused on perfect squat form and felt like I got a better leg workout; RDL felt light so I went for 6 reps; very little side or back pain. **Thur** - felt good; no pain. **Fri** - OH press was tough, RIR 0; bench was moderately heavy. **Sat** - deadlift felt really good; focused on good form on squat; no pain. **Sun** - rest.
 
 02.21 ***`Cardio `*** **rest**  
@@ -57,14 +57,14 @@
 02.18 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 145x4x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.17 ***`Legs-1 `*** **back squat:** 245x4x5 • **RDL:** 265x4x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x2  
 02.16 ***`Push-1 `*** **BB bench press:** 265x4x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
-02.15 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
+02.15 ***`Pull-1 `*** **pullups-wtd:** 60x5x3 • **chinups-wtd:** 60x5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
 - **Week 5:** 4 reps on main movements. Switching to Pull-Push-Legs. **Mon** - felt good; pullup/chinup form was better than last week. **Tue** - felt pretty good considering I slept poorly the night before. **Wed** - squats were really tough again; I tried to improve my form over last week but had limited success; I should drop the weight and focus on improving my form before going up in weight; RDL felt light, probably due to having a couple of extra days in between. **Thur** - felt good; switching to only overhand on BB row; very little pain. **Fri** - felt good; slight ache in the shoulders during push press, need to keep focusing on good form; go for 215x8 on paused bench next week. **Sat** - felt good; slight pinch in the lower left back during DL, need to use my legs more and back less. **Sun** - decided to rest to heal my back.
 
 02.14 ***`Cardio `*** **rest**  
 02.13 ***`Pull-2 `*** **BB row-OH/UH:** 215x6x6 • **BB curl:** 135x6x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.12 ***`Push-2 `*** **BB OH press:** 155x6x5 • **bench press-psd:** 195x8x5 • **bench dip-wtd:** 20x3 • **lat/front raise:** 30x25x3  
 02.11 ***`Legs-2 `*** **deadlift:** 285x6x5 • **back squat-psd:** 155x8x5  
-02.10 ***`Pull-1 `*** **pullups-wtd:** 5x3 • **chinups-wtd:** 5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
+02.10 ***`Pull-1 `*** **pullups-wtd:** 60x5x3 • **chinups-wtd:** 60x5x3 • **BB row-OH/UH:** 215x6x6 • **DB curl:** 52x8x3  
 02.09 ***`Push-1 `*** **BB bench press:** 245x6x5 • **push press:** 105x15x3 • **DB fly:** 45x12x3 • **skull crushers:** 75x12x3  
 02.08 ***`Legs-1 `*** **back squat:** 245x6,4x4 • **RDL:** 245x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x30x2  
 - **Week 4:** 6 reps on main movements. **Mon** - couldn't do more than 4 reps on the squats without sacrificing the form too much; 75# on skull crushers was a little too light; only a slight side pain. **Tue** - bench felt moderate; slight ache in the shoulders during push press; very little side pain. **Wed** - decent workout; very little side pain. **Thur** - felt good; side pain only when putting on and taking off the belt. **Fri** - felt good; could've done 10 reps on bench. **Sat** - felt good.
@@ -110,7 +110,7 @@
 01.09 ***`Pull-2 `*** **rest**  
 01.08 ***`Push-2 `*** **BB bench press:** 225x10,10,8,7,6 • **lat/front raise:** 30x25x3  
 01.07 ***`Legs-2 `*** **air lunge:** 40x5 • **RDL:** 145x15x5  
-01.06 ***`Pull-1 `*** **pullups-wtd:** 5x2 • **chinups-wtd:** 5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
+01.06 ***`Pull-1 `*** **pullups-wtd:** 60x5x2 • **chinups-wtd:** 60x5x2 • **BB row-OH/UH:** 185x12x10 • **DB curl:** 52x8x5  
 01.05 ***`Push-1 `*** **BB bench press:** 245x8,6,6 • **BB OH press:** 135x8x3 • **bench dip-wtd:** 20x3 • **skull crushers:** 95x12x3  
 01.04 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x10x5 • **DB lunge:** 52x30x1  
 - **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt OK but the pain was still there. **Sat** and **Sun** - decided to fully rest in hopes to recover from my injury.
