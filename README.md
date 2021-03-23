@@ -10,8 +10,8 @@
 03.26 ***`Push-2 `*** **OH press:** 140x10x5 • **bench press-psd:** 200x8x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
 03.25 ***`Pull-2 `*** **BB row:** 200x10x5 • **BB curl:** 120x10x3 • **pullups:** 10x3 • **chinups:** 10x3  
 03.24 ***`Legs-1 `*** **back squat:** 195x10x5 • **RDL:** 215x10x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
-03.23 ***`Push-1 `*** **BB bench press:** 200x10x5 • **bench dip-wtd:** 25x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
-03.22 ***`Pull-1 `*** **pullups-wtd:** nxn • **chinups-wtd:** nxn • **BB row:** 200x10x5 • **BB curl-rvs:** 80x12x3  
+03.23 ***`Push-1 `*** **BB bench press:** 210x10x5 • **bench dip-wtd:** 25x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
+03.22 ***`Pull-1 `*** **pullups-wtd:** 30x4,45x4,60x3 • **chinups-wtd:** 30x4,45x4,60x3 • **BB row:** 200x10x5 • **BB curl-rvs:** 80x12x3  
 - **Week 2:** 10 reps on main movements. **Mon** - 
 
 03.21 ***`Cardio `*** **walk**: 4 miles at the lake with the fam  
