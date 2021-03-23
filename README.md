@@ -7,7 +7,7 @@
 
 03.28 ***`Cardio `***   
 03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 195x5x5 • **BSS:** 52x20x3  
-03.26 ***`Push-2 `*** **OH press:** 140x10x5 • **bench press-psd:** 200x8x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
+03.26 ***`Push-2 `*** **OH press:** 140x10x5 • **bench press-psd:** 210x8x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
 03.25 ***`Pull-2 `*** **BB row:** 200x10x5 • **BB curl:** 120x10x3 • **pullups:** 10x3 • **chinups:** 10x3  
 03.24 ***`Legs-1 `*** **back squat:** 195x10x5 • **RDL:** 215x10x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.23 ***`Push-1 `*** **BB bench press:** 210x10x5 • **bench dip-wtd:** 25x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
