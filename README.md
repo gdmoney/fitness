@@ -7,16 +7,16 @@
 
 03.28 ***`Cardio `***   
 03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 195x5x5 • **BSS:** 52x20x3  
-03.26 ***`Push-2 `*** **OH press:** 140x10x5 • **bench press-psd:** 210x8x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
+03.26 ***`Push-2 `*** **OH press:** 140x10x5 • **bench press-psd:** 210x8x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 03.25 ***`Pull-2 `*** **BB row:** 200x10x5 • **BB curl:** 120x10x3 • **pullups:** 10x3 • **chinups:** 10x3  
 03.24 ***`Legs-1 `*** **back squat:** 195x10x5 • **RDL:** 215x10x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.23 ***`Push-1 `*** **BB bench press:** 210x10x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.22 ***`Pull-1 `*** **pullups-wtd:** 30x4, 45x4 ,60x3 • **chinups-wtd:** 30x4, 45x4, 60x3 • **BB row:** 200x10x5 • **BB curl-rvs:** 80x12x3  
-- **Week 2:** 10 reps on main movements. **Mon** - felt good, no pain. **Tue** - felt good; only the last couple reps of the last bench set were tough. **Wed** - 
+- **Week 2:** 10 reps on main movements. **Mon** - felt good, no pain. **Tue** - felt good; only the last couple reps of the last bench set were tough. **Wed** - kept good form on squat, tried a narrower stance which seemed to engage quads a bit more. **Thur** - 
 
 03.21 ***`Cardio `*** **walk**: 4 miles at the lake with the fam  
 03.20 ***`Legs-2 `*** **deadlift:** 235x12x5 • **front squat:** 135x8x5 • **BSS:** 40x20x3  
-03.19 ***`Push-2 `*** **OH press:** 130x12x5 • **bench press-psd:** 190x10x5 • **skull crushers:** 75x12x3 • **DB front raise:** 35x20x3  
+03.19 ***`Push-2 `*** **OH press:** 130x12x5 • **bench press-psd:** 190x10x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
 03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  

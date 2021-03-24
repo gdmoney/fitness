@@ -9,7 +9,7 @@
 | *Tuesday*   | **`Push - 1`** | bench press - M        | bench dip - W       | DB fly            | lat/front raise   |
 | *Wednesday* | **`Legs - 1`** | squat - M              | RDL                 | good morning      | DB lunge          |
 | *Thursday*  | **`Pull - 2`** | BB row                 | BB curl             | pullups           | chinups           |
-| *Friday*    | **`Push - 2`** | OH press/push press*   | bench press - V     | skull crushers    | DB front raise    |
+| *Friday*    | **`Push - 2`** | OH press/push press*   | bench press - V     | skull crushers    | cross body raise  |
 | *Saturday*  | **`Legs - 2`** | deadlift - M           | squat - V**         | BSS               |                   |
 | *Sunday*    | **`Cardio  `** | run - sprints/hills*** |                     |                   |                   |
 
