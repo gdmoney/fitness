@@ -5,14 +5,23 @@
 
 *****
 
-03.28 ***`Cardio `***   
+04.04 ***`Cardio `***   
+04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat-psd:** 145x8x5 • **DB BSS:** 52x20x3  
+04.02 ***`Push-2 `*** **OH press:** 150x8x3 • **bench press-psd:** 230x6x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
+04.01 ***`Pull-2 `*** **BB row:** 210x8x5 • **BB curl:** 130x8x5 • **pullups:** 10x3 • **chinups:** 10x3  
+03.31 ***`Legs-1 `*** **back squat:** 205x8x5 • **RDL:** 235x8x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
+03.30 ***`Push-1 `*** **BB bench press:** 230x8x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
+03.29 ***`Pull-1 `*** **pullups-wtd:** 25x4, 45x4, 75x2 • **chinups-wtd:** 25x4, 45x4, 75x2 • **BB row:** 210x8x5 • **BB curl-rvs:** 85x10x3  
+- **Week 3:** 8 reps on main movements. **Mon** - 
+
+03.28 ***`Cardio `*** **rest**  
 03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 195x5x5 • **DB BSS:** 52x20x3  
 03.26 ***`Push-2 `*** **push press:** 145x8x3 • **bench press-psd:** 210x8x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 03.25 ***`Pull-2 `*** **BB row:** 200x10x5 • **BB curl:** 120x10x5 • **pullups:** 10x3 • **chinups:** 10x3  
 03.24 ***`Legs-1 `*** **back squat:** 195x10x5 • **RDL:** 215x10x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.23 ***`Push-1 `*** **BB bench press:** 210x10x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.22 ***`Pull-1 `*** **pullups-wtd:** 30x4, 45x4, 60x3 • **chinups-wtd:** 30x4, 45x4, 60x3 • **BB row:** 200x10x5 • **BB curl-rvs:** 80x12x3  
-- **Week 2:** 10 reps on main movements. **Mon** - felt good, no pain. **Tue** - felt good; only the last couple reps of the last bench set were tough. **Wed** - kept good form on squat, tried a narrower stance which seemed to engage quads a bit more. **Thur** - got rained out. **Fri** - doubled up on Pull and Push; push press last set was tough but my form was better; bench was a little lighter than expected. **Sat** - deadlift last two sets were tough, but I kept good form for the most part, much better than last week, and I didn't have any lower back pain afterward; still, it's tough to maintain good form throughout a long set, so consider lower rep ranges come next cycle, starting with 8 or even 6; paused squats felt good, solid quad engagement. **Sun** - 
+- **Week 2:** 10 reps on main movements. **Mon** - felt good, no pain. **Tue** - felt good; only the last couple reps of the last bench set were tough. **Wed** - kept good form on squat, tried a narrower stance which seemed to engage quads a bit more. **Thur** - got rained out. **Fri** - doubled up on Pull and Push; push press last set was tough but my form was better; bench was a little lighter than expected. **Sat** - deadlift last two sets were tough, but I kept good form for the most part, much better than last week, and I didn't have any lower back pain afterward; still, it's tough to maintain good form throughout a long set, so consider lower rep ranges come next cycle, starting with 8 or even 6; paused squats felt good, solid quad engagement. **Sun** - rested and played with Luka most of the day; no pain or stiffness; solid training week.
 
 03.21 ***`Cardio `*** **walk**: 4 miles at the lake with the fam  
 03.20 ***`Legs-2 `*** **deadlift:** 235x12x5 • **front squat:** 135x8x5 • **DB BSS:** 40x20x3  
