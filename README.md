@@ -6,7 +6,7 @@
 *****
 
 04.04 ***`Cardio `***   
-04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat-psd:** 145x8x5 • **DB BSS:** 52x20x3  
+04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
 04.02 ***`Push-2 `*** **OH press:** 150x8x3 • **bench press-psd:** 230x6x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 04.01 ***`Pull-2 `*** **BB row:** 210x8x5 • **BB curl:** 130x8x5 • **pullups:** 10x3 • **chinups:** 10x3  
 03.31 ***`Legs-1 `*** **back squat:** 205x8x5 • **RDL:** 235x8x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
