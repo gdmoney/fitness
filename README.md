@@ -11,8 +11,8 @@
 04.01 ***`Pull-2 `*** **BB row:** 210x8x5 • **BB curl:** 130x8x5 • **pullups:** 10x3 • **chinups:** 10x3  
 03.31 ***`Legs-1 `*** **back squat:** 205x8x5 • **RDL:** 235x8x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.30 ***`Push-1 `*** **BB bench press:** 230x8x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
-03.29 ***`Pull-1 `*** **pullups-wtd:** 25x4, 45x4, 75x2 • **chinups-wtd:** 25x4, 45x4, 75x2 • **BB row:** 210x8x5 • **BB curl-rvs:** 85x10x3  
-- **Week 3:** 8 reps on main movements. **Mon** - 
+03.29 ***`Pull-1 `*** **pullups-wtd:** 25x4, 45x4, 65x2 • **chinups-wtd:** 25x4, 45x4, 65x4 • **BB row:** 210x8x5 • **BB curl-rvs:** 80x12x3  
+- **Week 3:** 8 reps on main movements. **Mon** - videoed my BB row for the first time and I'm far too upright so I'm not engaging the lats much, consider dropping the weight if I'm not able to bend over more. **Tue** - 
 
 03.28 ***`Cardio `*** **rest**  
 03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 195x5x5 • **DB BSS:** 52x20x3  
