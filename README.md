@@ -5,14 +5,23 @@
 
 *****
 
-04.04 ***`Cardio `***   
+04.11 ***`Cardio `***   
+04.10 ***`Legs-2 `*** **deadlift:** 275x6x5 • **back squat-psd:** 205x5x5 • **DB BSS:** 52x20x3  
+04.09 ***`Push-2 `*** **push press:** 160x6x3, 135x8x2 • **bench press-psd:** 250x3x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
+04.08 ***`Pull-2 `*** **BB row:** 220x6x5 • **BB curl:** 140x6x5 • **pullups:** 10x2 • **chinups:** 10x2  
+04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **RDL:** 255x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x20x3  
+04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
+04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x12x5 • **BB curl-rvs:** 80x12x3  
+- **Week 4:** 6 reps on main movements. **Mon** - 
+
+04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
 04.02 ***`Push-2 `*** **OH press:** 150x8x3, 135x8x2 • **bench press-psd:** 230x6x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 04.01 ***`Pull-2 `*** **BB row:** 210x8x5 • **BB curl:** 130x8x5 • **pullups:** 10x2 • **chinups:** 10x2  
 03.31 ***`Legs-1 `*** **back squat:** 205x8x5 • **RDL:** 235x8x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.30 ***`Push-1 `*** **BB bench press:** 230x8x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.29 ***`Pull-1 `*** **pullups-wtd:** 25x5, 45x4, 65x2 • **chinups-wtd:** 25x5, 45x4, 65x4 • **BB row:** 210x8x5 • **BB curl-rvs:** 80x12x3  
-- **Week 3:** 8 reps on main movements. **Mon** - videoed my BB row for the first time and I'm far too upright, so I'm not engaging the lats much; consider dropping the weight if I'm not able to bend over more. **Tue** - didn't feel highly energetic at 4:30 PM; bench felt moderate, last couple of reps on the last two sets were tough; tweaked my right forearm on wtd pullups the night before. **Wed** - 12:30 PM start time in the hot sun also wasn't optimal; squat felt moderate/heavy; RDL felt light. **Thur** - BB row form was better; curl felt good but I didn't have much left afterward for pullups. **Fri** - OH press form was better but the bar path is still not straight; bench felt heavy so I rested longer in between sets. **Sat** - both deadlift and front squat form were better than last week and both also felt lighter. **Sun** - 
+- **Week 3:** 8 reps on main movements. **Mon** - videoed my BB row for the first time and I'm far too upright, so I'm not engaging the lats much; consider dropping the weight if I'm not able to bend over more. **Tue** - didn't feel highly energetic at 4:30 PM; bench felt moderate, last couple of reps on the last two sets were tough; tweaked my right forearm on wtd pullups the night before. **Wed** - 12:30 PM start time in the hot sun also wasn't optimal; squat felt moderate/heavy; RDL felt light. **Thur** - BB row form was better; curl felt good but I didn't have much left afterward for pullups. **Fri** - OH press form was better but the bar path is still not straight; bench felt heavy so I rested longer in between sets. **Sat** - both deadlift and front squat form were better than last week and both also felt lighter. **Sun** - rested and hung out with Luka at the pool; another solid training week.
 
 03.28 ***`Cardio `*** **rest**  
 03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 195x5x5 • **DB BSS:** 52x20x3  
