@@ -11,8 +11,8 @@
 04.08 ***`Pull-2 `*** **BB row:** 220x6x5 • **BB curl:** 140x6x5 • **pullups:** 10x2 • **chinups:** 10x2  
 04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **RDL:** 255x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x20x3  
 04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
-04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x12x5 • **BB curl-rvs:** 80x12x3  
-- **Week 4:** 6 reps on main movements. **Mon** - 
+04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x15x5  
+- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups felt light/moderate, go up in reps and/or sets next week; aggravated my right forearm. **Tue** - 
 
 04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
