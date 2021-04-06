@@ -35,5 +35,5 @@
 | *Sunday*    | **`Rest            `** |                       |                      |                    |                    |
 
 `*  ` - alternate weekly between front squat and paused back squat  
-`** ` - alternate weekly between OH press and push press
+`** ` - alternate weekly between OH press and push press  
 `***` - alternate weekly between paused and Larsen press
