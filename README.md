@@ -9,10 +9,10 @@
 04.10 ***`Legs-2 `*** **deadlift:** 295x6x5 • **back squat-psd:** 205x3x5 • **DB BSS:** 52x20x3  
 04.09 ***`Push-2 `*** **push press:** 160x6x3 • **bench press-psd:** 250x3x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 04.08 ***`Pull-2 `*** **BB row:** 220x6x5 • **BB curl:** 140x6x5 • **pullups:** 10x2 • **chinups:** 10x2  
-04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **RDL:** 255x6x5 • **good morning:** 125x10x5 • **DB lunge:** 52x20x3  
+04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
 04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x15x5  
-- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups felt light/moderate, go up in reps and/or sets next week; aggravated my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - 
+- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups felt light/moderate, go up in reps and/or sets next week; aggravated my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat felt moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - 
 
 04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
