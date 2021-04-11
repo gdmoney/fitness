@@ -5,14 +5,14 @@
 
 *****
 
-04.11 ***`Cardio `***   
-04.10 ***`Legs-2 `*** **deadlift:** 295x6x5 • **back squat-psd:** 205x3x5 • **DB BSS:** 52x20x3  
+04.10 ***`Cardio `*** **swim:** 1,200 yards  
+04.10 ***`Legs-2 `*** **back squat-psd:** 205x5x5 • **front squat:** 155x8x5  
 04.09 ***`Push-2 `*** **OH press:** 160x6x3, 135x10x2 • **bench press-psd:** 250x3x5  
 04.08 ***`Pull-2 `*** **rest**  
 04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
 04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x15x5  
-- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups felt light/moderate, go up in reps and/or sets next week; aggravated my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat felt moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - pulling movements hurt my forearm so I skipped the Pull day and rested. **Fri** - tried push press but my form was crap so did OH press instead; stick with OH press for now until push press form gets better; felt moderate/heavy; bench felt moderate; try to go for 3 reps at least a couple times next week. **Sat** - 
+- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups felt light/moderate, go up in reps and/or sets next week; aggravated my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat felt moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - pulling movements hurt my forearm so I skipped the Pull day and rested. **Fri** - tried push press but my form was crap so did OH press instead; stick with OH press for now until push press form gets better; felt moderate/heavy; bench felt moderate; try to go for 3 reps at least a couple times next week. **Sat** - both squats felt moderate and form was good; forearm felt better after swimming but still didn't want to risk it with deadlift. **Sun** - 
 
 04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
