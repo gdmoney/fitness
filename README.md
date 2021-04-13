@@ -11,8 +11,8 @@
 04.15 ***`Pull-2 `*** **TBD**  
 04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
 04.13 ***`Push-1 `*** **BB bench press:** 270x4x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
-04.12 ***`Pull-1 `*** **TBD**  
-- **Week 5:** 4 reps on main movements. **Mon** - 
+04.12 ***`Pull-1 `*** **rest**  
+- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - 
 
 04.11 ***`Cardio `*** **swim:** 1,000 meters 
 04.10 ***`Cardio `*** **swim:** 1,200 yards  
