@@ -9,10 +9,10 @@
 04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x8x5  
 04.16 ***`Push-2 `*** **OH press:** 170x4x3, 135x10x2 • **bench press-psd:** 250x3x5  
 04.15 ***`Pull-2 `*** **TBD**  
-04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
+04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **BB lunge:** 95x20x3  
 04.13 ***`Push-1 `*** **BB bench press:** 270x4x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.12 ***`Pull-1 `*** **rest**  
-- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - 
+- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for 5-6 next week with 235; pecs were quite sore. **Thur** - 
 
 04.11 ***`Cardio `*** **swim:** 1,000 meters 
 04.10 ***`Cardio `*** **swim:** 1,200 yards  
@@ -22,7 +22,7 @@
 04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
 04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x15x5  
-- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups were light/moderate, go up in reps and/or sets next week; hurt my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat were moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - pulling movements hurt my forearm so I skipped the Pull day and rested. **Fri** - tried push press but my form was crap so did OH press instead; stick with OH press for now until push press form gets better; were moderate/heavy; bench were moderate; try to go for 3 reps at least a couple times next week. **Sat** - both squats felt moderate and form was good; forearm felt better after swimming but still didn't want to risk it with deadlift. **Sun** - did cardio again. Mediocre training week due to the forearm injury.
+- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups were light/moderate, go up in reps and/or sets next week; hurt my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat was moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - pulling movements hurt my forearm so I skipped the Pull day and rested. **Fri** - tried push press but my form was crap so did OH press instead; stick with OH press for now until push press form gets better; were moderate/heavy; bench was moderate; try to go for 3 reps at least a couple times next week. **Sat** - both squats felt moderate and form was good; forearm felt better after swimming but still didn't want to risk it with deadlift. **Sun** - did cardio again. Mediocre training week due to the forearm injury.
 
 04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
