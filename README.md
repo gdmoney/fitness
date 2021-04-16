@@ -6,7 +6,7 @@
 *****
 
 04.18 ***`Cardio `***   
-04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x8x5  
+04.17 ***`Legs-2 `*** **back squat-psd:** 225x4x5 • **front squat:** 165x6x5 • **BB lunge:** 105x20x3  
 04.16 ***`Push-2 `*** **OH press:** 170x4x3, 135x10x2 • **bench press-psd:** 250x3x5  
 04.15 ***`Pull-2 `*** **rest**  
 04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **BB lunge:** 95x20x3  
