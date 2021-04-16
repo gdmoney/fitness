@@ -8,13 +8,13 @@
 04.18 ***`Cardio `***   
 04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x8x5  
 04.16 ***`Push-2 `*** **OH press:** 170x4x3, 135x10x2 • **bench press-psd:** 250x3x5  
-04.15 ***`Pull-2 `*** **TBD**  
+04.15 ***`Pull-2 `*** **rest**  
 04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **BB lunge:** 95x20x3  
 04.13 ***`Push-1 `*** **BB bench press:** 270x4x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.12 ***`Pull-1 `*** **rest**  
-- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for 5-6 next week with 235; pecs were quite sore. **Thur** - 
+- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for 5-6 next week with 235; pecs were quite sore. **Thur** - forearm is getting better but it's not healed yet. **Fri** - 
 
-04.11 ***`Cardio `*** **swim:** 1,000 meters 
+04.11 ***`Cardio `*** **swim:** 1,000 meters  
 04.10 ***`Cardio `*** **swim:** 1,200 yards  
 04.10 ***`Legs-2 `*** **back squat-psd:** 205x5x5 • **front squat:** 155x8x5  
 04.09 ***`Push-2 `*** **OH press:** 160x6x3, 135x10x2 • **bench press-psd:** 250x3x5  
