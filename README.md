@@ -5,14 +5,23 @@
 
 *****
 
-04.18 ***`Cardio `***   
+04.25 ***`Cardio `*** **TBD**  
+04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **front squat:** 175x6x5 • **BB lunge:** 115x20x3  
+04.23 ***`Push-2 `*** **OH press:** 180x2x3, 135x10x2 • **bench press-psd:** 290x1x5  
+04.22 ***`Pull-2 `*** **TBD**  
+04.21 ***`Legs-1 `*** **back squat:** 235x5x5 • **good morning:** 125x12x5 • **BB lunge:** 115x20x3  
+04.20 ***`Push-1 `*** **BB bench press:** 290x2x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
+04.19 ***`Pull-1 `*** **TBD**  
+- **Week 6:** 2 reps on main movements. **Mon** - 
+
+04.18 ***`Cardio `*** **rest**  
 04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x6x5 • **BB lunge:** 105x20x3  
 04.16 ***`Push-2 `*** **OH press:** 170x4x3, 135x10x2 • **bench press-psd:** 270x2x5  
 04.15 ***`Pull-2 `*** **rest**  
 04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **BB lunge:** 95x20x3  
 04.13 ***`Push-1 `*** **BB bench press:** 270x4x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.12 ***`Pull-1 `*** **rest**  
-- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for reps 5-6 next week with 235; pecs were quite sore. **Thur** - forearm is getting better but it's not healed yet. **Fri** - OH press was moderate/heavy; bench was heavy; no pain. **Sat** - back squat was heavy; front squat was moderate/heavy; go up 115 on lunge. **Sun** - 
+- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for reps 5-6 next week with 235; pecs were quite sore. **Thur** - forearm is getting better but it's not healed yet. **Fri** - OH press was moderate/heavy; bench was heavy; no pain. **Sat** - back squat was heavy; front squat was moderate/heavy; go up 115 on lunge. **Sun** - rested. **Recap** - I'm happy with Push and Legs but forearm is still hurts; it's getting better but very slowly.
 
 04.11 ***`Cardio `*** **swim:** 1,000 meters  
 04.10 ***`Cardio `*** **swim:** 1,200 yards  
@@ -22,7 +31,7 @@
 04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
 04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.05 ***`Pull-1 `*** **pullups-ntrl-wtd:** 25x5, 50x4, 75x3 • **chinups-wtd:** 25x5, 50x4, 75x3 • **BB row:** 185x15x5  
-- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups were light/moderate, go up in reps and/or sets next week; hurt my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat was moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - pulling movements hurt my forearm so I skipped the Pull day and rested. **Fri** - tried push press but my form was crap so did OH press instead; stick with OH press for now until push press form gets better; were moderate/heavy; bench was moderate; try to go for 3 reps at least a couple times next week. **Sat** - both squats felt moderate and form was good; forearm felt better after swimming but still didn't want to risk it with deadlift. **Sun** - did cardio again. Mediocre training week due to the forearm injury.
+- **Week 4:** 6 reps on main movements. **Mon** - pullups/chinups were light/moderate, go up in reps and/or sets next week; hurt my right forearm. **Tue** - forearm pain was bad and it sapped my energy; bench was moderate/heavy. **Wed** - squat was moderate, go for 5-6 reps next week with 225; forearm still hurts so I skipped RDL; should've done BB lunge instead of air lunge. **Thur** - pulling movements hurt my forearm so I skipped the Pull day and rested. **Fri** - tried push press but my form was crap so did OH press instead; stick with OH press for now until push press form gets better; were moderate/heavy; bench was moderate; try to go for 3 reps at least a couple times next week. **Sat** - both squats felt moderate and form was good; forearm felt better after swimming but still didn't want to risk it with deadlift. **Sun** - did cardio again. **Recap** - mediocre training week due to the forearm injury.
 
 04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
@@ -31,7 +40,7 @@
 03.31 ***`Legs-1 `*** **back squat:** 205x8x5 • **RDL:** 235x8x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.30 ***`Push-1 `*** **BB bench press:** 230x8x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.29 ***`Pull-1 `*** **pullups-wtd:** 25x5, 45x4, 65x2 • **chinups-wtd:** 25x5, 45x4, 65x4 • **BB row:** 210x8x5 • **BB curl-rvs:** 80x12x3  
-- **Week 3:** 8 reps on main movements. **Mon** - videoed my BB row for the first time and I'm far too upright, so I'm not engaging the lats much; consider dropping the weight if I'm not able to bend over more. **Tue** - didn't feel highly energetic at 4:30 PM; bench was moderate, last couple of reps on the last two sets were tough; tweaked my right forearm on wtd pullups the night before. **Wed** - 12:30 PM start time in the hot sun also wasn't optimal; squat was moderate/heavy; RDL was light. **Thur** - BB row form was better; curl felt good but I didn't have much left afterward for pullups. **Fri** - OH press form was better but the bar path is still not straight; bench was heavy so I rested longer in between sets. **Sat** - both deadlift and front squat form were better than last week and both also felt lighter. **Sun** - rested and hung out with Luka at the pool. Another solid training week.
+- **Week 3:** 8 reps on main movements. **Mon** - videoed my BB row for the first time and I'm far too upright, so I'm not engaging the lats much; consider dropping the weight if I'm not able to bend over more. **Tue** - didn't feel highly energetic at 4:30 PM; bench was moderate, last couple of reps on the last two sets were tough; tweaked my right forearm on wtd pullups the night before. **Wed** - 12:30 PM start time in the hot sun also wasn't optimal; squat was moderate/heavy; RDL was light. **Thur** - BB row form was better; curl felt good but I didn't have much left afterward for pullups. **Fri** - OH press form was better but the bar path is still not straight; bench was heavy so I rested longer in between sets. **Sat** - both deadlift and front squat form were better than last week and both also felt lighter. **Sun** - rested and hung out with Luka at the pool. **Recap** - another solid training week.
 
 03.28 ***`Cardio `*** **rest**  
 03.27 ***`Legs-2 `*** **deadlift:** 255x10x5 • **back squat-psd:** 195x5x5 • **DB BSS:** 52x20x3  
@@ -40,7 +49,7 @@
 03.24 ***`Legs-1 `*** **back squat:** 195x10x5 • **RDL:** 215x10x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.23 ***`Push-1 `*** **BB bench press:** 210x10x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
 03.22 ***`Pull-1 `*** **pullups-wtd:** 30x4, 45x4, 60x3 • **chinups-wtd:** 30x4, 45x4, 60x3 • **BB row:** 200x10x5 • **BB curl-rvs:** 80x12x3  
-- **Week 2:** 10 reps on main movements. **Mon** - felt good, no pain. **Tue** - felt good; only the last couple reps of the last bench set were tough. **Wed** - kept good form on squat, tried a narrower stance which seemed to engage quads a bit more. **Thur** - got rained out. **Fri** - doubled up on Pull and Push; push press last set was tough but my form was better; bench was a little lighter than expected. **Sat** - deadlift last two sets were tough, but I kept good form for the most part, much better than last week, and I didn't have any lower back pain afterward; still, it's tough to maintain good form throughout a long set, so consider lower rep ranges come next cycle, starting with 8 or even 6; paused squats felt good, solid quad engagement. **Sun** - rested and played with Luka most of the day; no pain or stiffness. Solid training week.
+- **Week 2:** 10 reps on main movements. **Mon** - felt good, no pain. **Tue** - felt good; only the last couple reps of the last bench set were tough. **Wed** - kept good form on squat, tried a narrower stance which seemed to engage quads a bit more. **Thur** - got rained out. **Fri** - doubled up on Pull and Push; push press last set was tough but my form was better; bench was a little lighter than expected. **Sat** - deadlift last two sets were tough, but I kept good form for the most part, much better than last week, and I didn't have any lower back pain afterward; still, it's tough to maintain good form throughout a long set, so consider lower rep ranges come next cycle, starting with 8 or even 6; paused squats felt good, solid quad engagement. **Sun** - rested and played with Luka most of the day; no pain or stiffness. **Recap** - solid training week.
 
 03.21 ***`Cardio `*** **walk**: 4 miles at the lake with the fam  
 03.20 ***`Legs-2 `*** **deadlift:** 235x12x5 • **front squat:** 135x8x5 • **DB BSS:** 40x20x3  

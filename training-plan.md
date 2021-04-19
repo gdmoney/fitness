@@ -9,15 +9,14 @@
 | *Tuesday*   | **`Push - 1`** | bench press - M        | bench dip - W       | DB fly            | lat/front raise   |
 | *Wednesday* | **`Legs - 1`** | squat - M              | RDL                 | good morning      | BB lunge          |
 | *Thursday*  | **`Pull - 2`** | BB row - M             | BB curl             | pullups           | chinups           |
-| *Friday*    | **`Push - 2`** | OH press/push press*   | bench press - V     | skull crushers    | cross body raise  |
-| *Saturday*  | **`Legs - 2`** | deadlift - M           | squat - V**         | BSS               |                   |
+| *Friday*    | **`Push - 2`** | OH press               | bench press - V     | skull crushers    | cross body raise  |
+| *Saturday*  | **`Legs - 2`** | deadlift - M           | squat - V*          | BSS               |                   |
 | *Sunday*    | **`Cardio  `** | run or swim            |                     |                   |                   |
 
 **M** - Main: standard movement, heavy, 2-12 reps  
 **V** - Variation: different movements, lighter, volume/technique/speed/paused  
 **W** - Weighted  
-`*  ` - alternate weekly between OH press and push press  
-`** ` - alternate weekly between front squat and paused back squat  
+`*  ` - alternate weekly between front squat and paused back squat 
 
 *****
 
