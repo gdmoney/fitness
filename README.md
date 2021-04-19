@@ -21,7 +21,7 @@
 04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **BB lunge:** 95x20x3  
 04.13 ***`Push-1 `*** **BB bench press:** 270x4x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.12 ***`Pull-1 `*** **rest**  
-- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for reps 5-6 next week with 235; pecs were quite sore. **Thur** - forearm is getting better but it's not healed yet. **Fri** - OH press was moderate/heavy; bench was heavy; no pain. **Sat** - back squat was heavy; front squat was moderate/heavy; go up 115 on lunge. **Sun** - rested. **Recap** - I'm happy with Push and Legs but forearm is still hurts; it's getting better but very slowly.
+- **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for reps 5-6 next week with 235; pecs were quite sore. **Thur** - forearm is getting better but it's not healed yet. **Fri** - OH press was moderate/heavy; bench was heavy; no pain. **Sat** - back squat was heavy; front squat was moderate/heavy; go up 115 on lunge. **Sun** - rested. **Recap** - I'm happy with Push and Legs but forearm still hurts so I didn't do any Pull movements or deadlift.
 
 04.11 ***`Cardio `*** **swim:** 1,000 meters  
 04.10 ***`Cardio `*** **swim:** 1,200 yards  
