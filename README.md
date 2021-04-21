@@ -12,7 +12,7 @@
 04.21 ***`Legs-1 `*** **back squat:** 235x5x5 • **good morning:** 125x12x5 • **BB lunge:** 115x20x3  
 04.20 ***`Push-1 `*** **BB bench press:** 290x2x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.19 ***`Pull-1 `*** **TBD**  
-- **Week 6:** 2 reps on main movements. **Mon** - 
+- **Week 6:** 2 reps on main movements. **Mon** - rested again, forearm still hurts. **Tue** - bench was heavy but I kept good form except for the very last rep which caused pain in both shoulders; wrist wraps helped, start using them with 250+. **Wed** - 
 
 04.18 ***`Cardio `*** **rest**  
 04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x6x5 • **BB lunge:** 105x20x3  
