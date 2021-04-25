@@ -5,14 +5,14 @@
 
 *****
 
-04.25 ***`Push-2 `*** **OH press:** 180x2x3, 135x10x2 • **bench press-psd:** 290x1x5  
+04.25 ***`Push-2 `*** **OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
 04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **BB lunge:** 115x20x3  
 04.23 ***`Pull-2 `*** **rest**  
 04.22 ***`Pull-2 `*** **rest**  
 04.21 ***`Legs-1 `*** **back squat:** 235x5x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 04.20 ***`Push-1 `*** **BB bench press:** 290x2x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 04.19 ***`Pull-1 `*** **rest**  
-- **Week 6:** 2 reps on main movements. **Mon** - rested again, forearm still hurts. **Tue** - bench was heavy but I kept good form except for the very last rep which caused pain in both shoulders; wrist wraps helped, start using them with 250+. **Wed** - squat was heavy but I maintained good form for the most part, except for the last 1-2 reps; supersetted GM and lunge. **Thur** - rested. **Fri** - rested. **Sat** - squat was moderate/heavy with good form, could've done 4 reps; lunge is getting stronger, go up to 125; skipped front squat to prevent aggravating the shoulders. **Sun** - 
+- **Week 6:** 2 reps on main movements. **Mon** - rested again, forearm still hurts. **Tue** - bench was heavy but I kept good form except for the very last rep which caused pain in both shoulders; wrist wraps helped, start using them with 250+. **Wed** - squat was heavy but I maintained good form for the most part, except for the last 1-2 reps; supersetted GM and lunge. **Thur** - rested. **Fri** - rested. **Sat** - squat was moderate/heavy with good form, could've done 4 reps; lunge is getting stronger, go up to 125; skipped front squat to prevent aggravating the shoulders. **Sun** - rushed the workout in the morning and ran out of time; OH press was heavy, started the 2nd set too low and only got one rep, consider dropping the weight and focusing on full ROM. **Recap** - Another mixed week due to the nagging forearm injury.
 
 04.18 ***`Cardio `*** **rest**  
 04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x6x5 • **BB lunge:** 105x20x3  
