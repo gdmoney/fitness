@@ -5,6 +5,15 @@
 
 *****
 
+05.02 ***`Cardio `*** **TBD**  
+05.01 ***`Legs-2 `*** **deadlift:** 135x6x3** • **back squat-psd:** 135x3x5 • **BB lunge:** 95x20x2  
+04.30 ***`Push-2 `*** **OH press:** 95x8x3 • **bench press-psd:** 135x8x3  
+04.29 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x8x3 • **pullups:** 5x2 • **chinups:** 5x2  
+04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **BB lunge:** 95x20x2  
+04.27 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3
+04.26 ***`Pull-1 `*** **pullups:** 5x2 • **chinups** 5x2 • **BB row:** 135x8x3  
+- **Week 7:** deload week - 50% of 1RM intentsity, 50% volume (2-3 sets instead of 3-5), 6-8 reps. **Mon** - 
+
 04.25 ***`Push-2 `*** **OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
 04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **BB lunge:** 115x20x3  
 04.23 ***`Pull-2 `*** **rest**  
@@ -77,7 +86,7 @@
 03.04 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x2  
 03.02 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x15x3 • **lat/front raise:** 15x25x3  
 03.01 ***`Pull-1 `*** **pullups-wtd:** 30x5x2 • **chinups-wtd** 30x5x2 • **BB row:** 135x8x3  
-- **Week 7:** deload week - 50% of 1RM intentsity, 50% volume (2-3 sets instead of 3-5), 6-8 reps. **Mon** - used a 30# DB for weighted pullups instead of the 60# weight vest; felt more like a warmup than a workout. **Tue** - everything felt really light again. **Wed** - got rained out. **Thur** - doubled up. **Fri** - added deadlift to a push day; only OH press felt like work.
+- **Week 7:** deload week - 50% of 1RM intentsity, 50% volume (2-3 sets instead of 3-5), 6-8 reps. **Mon** - used a 30# DB for weighted pullups instead of the 60# weight vest; felt more like a warmup than a workout. **Tue** - everything felt really light again. **Wed** - got rained out. **Thur** - doubled up on Legs and Pull. **Fri** - added deadlift to the Push day; only OH press felt like work.
 
 02.28 ***`Cardio `*** **rest**  
 02.27 ***`Legs-2 `*** **deadlift:** 325x2x5 • **back squat-psd:** 185x4x5  
