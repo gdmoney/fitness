@@ -6,7 +6,7 @@
 *****
 
 05.02 ***`Cardio `*** **TBD**  
-05.01 ***`Legs-2 `*** **deadlift:** 135x6x3 • **back squat-psd:** 135x3x5 • **BB lunge:** 95x10x2  
+05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x3x5 • **BB lunge:** 95x10x2  
 04.30 ***`Push-2 `*** **OH press:** 95x8x3 • **bench press-psd:** 135x8x3  
 04.29 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x8x3 • **pullups-ntrl:** 5x2 • **chinups:** 5x2  
 04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x6x3 • **BB lunge:** 95x10x2  
