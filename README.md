@@ -12,7 +12,7 @@
 04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 135x6x3 • **BB lunge:** 95x10x2  
 04.27 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x12x3  
 04.27 ***`Pull-1 `*** **pullups-ntrl:** 10x2 • **chinups** 6x2 • **BB row:** 135x8x3  
-- **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push. Did pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it most on BB row. **Wed** - 
+- **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it most on BB row. **Wed** - 
 
 04.25 ***`Push-2 `*** **OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
 04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **BB lunge:** 115x20x3  
