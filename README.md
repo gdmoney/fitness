@@ -5,14 +5,23 @@
 
 *****
 
-05.02 ***`Cardio `*** **TBD**  
-05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x3x3 • **BB lunge:** 95x10x2  
+05.09 ***`Cardio `***   
+05.08 ***`Legs-2 `***   
+05.07 ***`Push-2 `***   
+05.06 ***`Pull-2 `***    
+05.05 ***`Legs-1 `***   
+05.04 ***`Push-1 `***   
+05.03 ***`Pull-1 `***   
+- **Week 8:** 1 rep max tests. **Mon** - 
+
+05.02 ***`Cardio `*** **rest**  
+05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x4x3 • **BB lunge:** 95x10x3  
 04.30 ***`Push-2 `*** **OH press:** 95x6x3 • **bench press-psd:** 155x4x3 • **cross body raise:** 20x20x3  
 04.29 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x6x3 • **pullups-ntrl:** 6x2 • **chinups:** 6x2  
 04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x8x3 • **good morning:** 95x6x3 • **BB lunge:** 95x10x2  
 04.27 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x12x3  
 04.27 ***`Pull-1 `*** **pullups-ntrl:** 10x2 • **chinups** 6x2 • **BB row:** 135x8x3  
-- **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it the most on BB row. **Wed** - felt the forearm a bit on the RDL but it's wasn't bad; light deadlift should be ok to start with. **Thur** - curl didn't cause any forearm pain, go up in weight. **Fri** - felt good. **Sat** - 
+- **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it the most on BB row. **Wed** - felt the forearm a bit on the RDL but it's wasn't bad; light deadlift should be ok to start with. **Thur** - curl didn't cause any forearm pain, go up in weight. **Fri** - felt good. **Sat** - no forearm pain on deadlift, start loading it up again. **Sun** - rest. **Recap** - better week overall, felt good starting Pull movements again.
 
 04.25 ***`Push-2 `*** **OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
 04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **BB lunge:** 115x20x3  
