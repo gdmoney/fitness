@@ -11,8 +11,8 @@
 05.06 ***`Pull-2 `***    
 05.05 ***`Legs-1 `***   
 05.04 ***`Push-1 `***   
-05.03 ***`Pull-1 `***   
-- **Week 8:** 1 rep max tests. **Mon** - 
+05.03 ***`Pull-1 `*** **rest**  
+- **Week 8:** 1 rep max tests. **Mon** - rest day. **Tue** - 
 
 05.02 ***`Cardio `*** **rest**  
 05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x4x3 • **BB lunge:** 95x10x3  
