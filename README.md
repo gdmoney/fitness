@@ -12,7 +12,7 @@
 05.05 ***`Legs-1 `***   
 05.04 ***`Push-1 `*** **BB bench press:** 135x8, 155x4, 185x3, 205x3, 225x2, 245x1, 265x1, 285x1, 295x1, 305x1, 315xF, 320x1  
 05.03 ***`Pull-1 `*** **rest**  
-- **Week 8:** 1 rep max tests. **Mon** - rest day. **Tue** - started at 7:30 pm, didn't feel great because I was sleep deprived thanks to Lu; heavier weights were moving slowly and my form was poor; lift-off and breathing cadence were inconsistent; forgot to use wrist straps until 305, which moved slower than in the last cycle; form was really bad on the missed 315; took a deep breath before unracking on my last rep, which I think helped; I hit the J-cups on the way up but still got it; I'm definitely happy with my new 320 PR but there's a lot of opportunity for improvement on the technique front. **Wed** - 
+- **Week 8:** 1 rep max tests. **Mon** - rest day. **Tue** - started at 7:30 pm, didn't feel great because I was sleep deprived thanks to Lu; heavier weights were moving slowly and my form was poor; lift-off and breathing cadence were inconsistent; forgot to use wrist straps until 305, which moved slower than in the last cycle; form was really bad on the missed 315; took a deep breath before unracking on my last rep, which I think helped; I hit the J-cups on the way up but still got it; I'm definitely happy with my new 320 PR but there's a lot of opportunity for improvement on the technique front; ache in both shoulders. **Wed** - 
 
 05.02 ***`Cardio `*** **rest**  
 05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x4x3 • **BB lunge:** 95x10x3  
