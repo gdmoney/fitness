@@ -7,12 +7,12 @@
 
 05.09 ***`Cardio `***   
 05.08 ***`Legs-2 `***   
-05.07 ***`Push-2 `***   
-05.06 ***`Pull-2 `***    
-05.05 ***`Legs-1 `***   
+05.07 ***`Push-2 `*** **rest**  
+05.06 ***`Pull-2 `*** **back squat:** 135x4, 155x2, 185x2, 205x1, 225x1, 245x1, 255x1, 265x1, 275x1, 285x1, 295x1, 300x1  
+05.05 ***`Legs-1 `*** **rest**  
 05.04 ***`Push-1 `*** **BB bench press:** 135x8, 155x4, 185x3, 205x3, 225x2, 245x1, 265x1, 285x1, 295x1, 305x1, 315xF, 320x1  
 05.03 ***`Pull-1 `*** **rest**  
-- **Week 8:** 1 rep max tests. **Mon** - rest day. **Tue** - started at 7:30 pm, didn't feel great because I was sleep deprived thanks to Lu; heavier weights were moving slowly and my form was poor; lift-off and breathing cadence were inconsistent; forgot to use wrist straps until 305, which moved slower than in the last cycle; form was really bad on the missed 315; took a deep breath before unracking on my last rep, which I think helped; I hit the J-cups on the way up but still got it; I'm definitely happy with my new 320 PR but there's a lot of opportunity for improvement on the technique front; ache in both shoulders. **Wed** - 
+- **Week 8:** 1 rep max tests. **Mon** - rest day. **Tue** - started at 7:30 pm, didn't feel great because I was sleep deprived thanks to Lu. Heavier weights were moving slowly and my form was poor; lift-off and breathing cadence were inconsistent; forgot to use wrist straps until 305, which moved slower than in the last cycle; form was really bad on the missed 315; took a deep breath before unracking on my last rep, which I think helped. I hit the J-cups on the way up but still got it. I'm definitely happy with my new 320 PR but there's a lot of opportunity for improvement on the technique front. Ache in both shoulders. **Wed** - rested day; left shoulder is better but the right one still hurts like a bitch. **Thur** - started around 7 pm, felt pretty good. I was pretty sure I would get a new PR but didn't expect 300, which is a 25 lb improvement and the form was better. I put on the belt at 225, for the first time the entire cycle. What I think helped: (1) my back was rested, not having done any heavy deadlifts since week 3, (2) I gripped the bar hard and pressed up on it slightly which provided a more solid platform, (3) but mostly, I think it was the focused work on good form throughout the cycle. Start using the belt in the second half of the next cycle. **Fri** - 
 
 05.02 ***`Cardio `*** **rest**  
 05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x4x3 • **BB lunge:** 95x10x3  
