@@ -10,7 +10,7 @@
 05.14 ***`Push-2 `*** **OH press:** 125x12x3 • **bench press-psd:** 185x6x5  
 05.13 ***`Pull-2 `*** **BB row:** 185x12x5 • **DB row:** 90x12x5 • **pullups-ntrl:** nnx3 • **chinups:** nnx3  
 05.12 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 185x12x5 • **good morning:** 125x12x5 • **BB lunge:** 125x20x5  
-05.11 ***`Push-1 `*** **BB bench press:** 185x12x5 • **OH press-psd:** 115x12x3  
+05.11 ***`Push-1 `*** **BB bench press:** 185x12x5 • **OH press-psd:** 115x10x3  
 05.11 ***`Pull-1 `*** **pullups-ntrl:** 16 • **BB row** 185x12x5 • **DB row:** 90x12x5  
 - **Mon** - was hung over and bitched out. **Tue** - doubled up on Push and Pull. Bench was moderate for the first 3 sets and then heavy; OH press was moderate. Right shoulder pain got worse after bench, left one is fine. **Wed** - 
 
