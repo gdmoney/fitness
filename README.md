@@ -12,7 +12,7 @@
 05.19 ***`Push-1 `*** **rest**  
 05.18 ***`Pull-1 `*** **BB row:** 195x10x5 • **DB row:** 90x24x5 • **DB shrug:** 90x10x5  
 05.17 ***`Legs-1 `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
-- **Mon** - squat was moderate; RDL was light; no shoulder pain. **Tue** - slight firght forearm pain on BB row. **Wed** - rest. **Thur** - squat was moderate, go for 5 next week on 225; RDL was light again; shoulder is feeling better. **Fri** - 
+- **Mon** - squat was moderate; RDL was light; no shoulder pain. **Tue** - slight right forearm pain on BB row. **Wed** - rest. **Thur** - squat was moderate, go for 5 next week on 225; RDL was light; shoulder is feeling better. **Fri** - superset the two rows; no pain. **Sat** - 
 
 05.16 ***`Cardio `*** **rest**  
 05.15 ***`Legs-2 `*** **back squat-psd:** 185x8x5 • **RDL:** 185x12x5 • **good morning:** 115x12x5 • **BB BSS:** 95x20x3  
