@@ -5,14 +5,23 @@
 
 *****
 
-05.23 ***`Cardio `*** **TBD**  
-05.22 ***`Legs-3 `*** **front squat:** 165x8x5 • **RDL:** 205x10x5 • **good morning:** 115x12x5 • **BB BSS:** 115x20x3  
+05.30 ***`Cardio `*** **TBD**  
+05.29 ***`Legs-3 `*** **TBD**  
+05.28 ***`Pull-2 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
+05.27 ***`Legs-2 `*** **back squat-psd:** 225x5x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
+05.26 ***`Push-1 `*** **DB bench press:** nnxnnxn • **DB OH press:** nnxnnxn  
+05.25 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
+05.24 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
+- **Mon** -  
+
+05.23 ***`Cardio `*** **rest**  
+05.22 ***`Legs-3 `*** **rest**  
 05.21 ***`Pull-2 `*** **BB row:** 195x10x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
 05.20 ***`Legs-2 `*** **back squat-psd:** 205x6x5 • **RDL:** 205x10x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 05.19 ***`Push-1 `*** **rest**  
 05.18 ***`Pull-1 `*** **BB row:** 195x10x5 • **DB row:** 90x24x5 • **DB shrug:** 90x10x5  
 05.17 ***`Legs-1 `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
-- **Mon** - squat was moderate; RDL was light; no shoulder pain. **Tue** - slight right forearm pain on BB row. **Wed** - rest. **Thur** - squat was moderate, go for 5 next week on 225; RDL was light; shoulder is feeling better. **Fri** - superset the two rows; no pain. **Sat** - 
+- **Mon** - squat was moderate; RDL was light; no shoulder pain. **Tue** - slight right forearm pain on BB row. **Wed** - rest. **Thur** - squat was moderate, go for 5 next week on 225; RDL was light; shoulder is feeling better. **Fri** - superset the two rows; no pain. **Sat** - ended up hanging out with Luka all day. **Sun** - rest. **Recap** - OK training week; Legs feel stronger than ever, Pull feels solid; right shoulder and forearm still haven't recovered; start adding some light Push movements next week.
 
 05.16 ***`Cardio `*** **rest**  
 05.15 ***`Legs-2 `*** **back squat-psd:** 185x8x5 • **RDL:** 185x12x5 • **good morning:** 115x12x5 • **BB BSS:** 95x20x3  
