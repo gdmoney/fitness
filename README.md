@@ -10,9 +10,9 @@
 05.28 ***`Pull-2 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
 05.27 ***`Legs-2 `*** **back squat-psd:** 225x5x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 05.26 ***`Push-1 `*** **DB bench press:** nnxnnxn • **DB OH press:** nnxnnxn  
-05.25 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
-05.24 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
-- **Mon** -  
+05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
+05.25 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
+- **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good. **Wed** - 
 
 05.23 ***`Cardio `*** **rest**  
 05.22 ***`Legs-3 `*** **rest**  
