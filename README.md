@@ -6,13 +6,13 @@
 *****
 
 05.30 ***`Cardio `*** **TBD**  
-05.29 ***`Legs-3 `*** **TBD**  
-05.28 ***`Pull-2 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
-05.27 ***`Legs-2 `*** **back squat-psd:** 225x5x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
+05.29 ***`Legs-3 `*** **rest**  
+05.28 ***`Pull-2 `*** **rest**  
+05.27 ***`Legs-2 `*** **rest**  
 05.26 ***`Push-1 `*** **DB bench press:** 40x20x5 • **DB OH press:** 40x20x5  
 05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
 05.25 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
-- **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good; RDL was light. **Wed** - 
+- **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good; RDL was light. **Wed** - rest day. **Thur** - felt strong on the row but it aggravated my forearm again. **Fri** - rest day; forearm hurt like a bitch. **Sat** - rest day. **Sun** - 
 
 05.23 ***`Cardio `*** **rest**  
 05.22 ***`Legs-3 `*** **rest**  
