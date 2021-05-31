@@ -7,13 +7,17 @@
 | :---------- | :------------- | :-------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
 | *Sunday*    | **`rest    `** |                 |                |                |                |                |                |
 | *Saturday*  | **`Cardio-2`** | run - hills     |                |                |                |                |                |
-| *Friday*    | **`Upper-2 `** | OH press - M    | Larsen press   | chinup-wtd     | lying tri ext  | inverted row   | Lu raise       |
+| *Friday*    | **`Upper-2 `** | OH press - M    | Larsen press   | chinup - W     | lying tri ext  | inverted row   | Lu raise       |
 | *Thursday*  | **`Lower-2 `** | deadlift        | back squat - V | hip thrust     | side plank     |                |                |
 | *Wednesday* | **`Cardio-1`** | run - sprints   |                |                |                |                |                |
 | *Tuesday*   | **`Upper-1 `** | bench press     | OH press - V   | BB row         | pushup         | pullup         | rear delt fly  |
 | *Monday*    | **`Lower-1 `** | back squat - M  | RDL            | reverse lunge  | plank          |                |                |
 
+**M** - Main: standard movement, heavier  
+**V** - Variation: different movements, lighter, volume/technique/speed/paused  
+**W** - Weighted  
 
+*****
 
 ### 2021 - Q2 (April/May)
 
