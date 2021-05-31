@@ -11,7 +11,7 @@
 06.03 ***`Lower-2`*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.02 ***`Cardio `*** **run:** 2 miles - tempo  
 06.01 ***`Upper-1`*** **bench press:** 225x8x4 • **OH press:** 105x10x4 • **BB row:** 125x10x4 • **pushup:** 15x4 • **pullup:** 12x4 • **rear delt fly:** 15x3  
-05.31 ***`Lower-1 `*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
+05.31 ***`Lower-1`*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
 - Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring. **Tue** - 
 
 05.30 ***`Cardio `*** **rest**  
