@@ -14,7 +14,7 @@
 | *Monday*    | **`Lower-1 `** | back squat - M  | RDL            | reverse lunge  | plank          |                |                |
 
 **M** - Main: standard movement, heavier  
-**V** - Variation: different movements, lighter, volume/technique/speed/paused  
+**V** - Variation: different movement, lighter, volume/technique/speed/paused  
 **W** - Weighted  
 
 *****
