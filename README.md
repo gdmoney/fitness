@@ -5,7 +5,7 @@
 
 *****
 
-06.06 ***`Rest   `*** **rest**   
+06.06 ***`Rest   `*** **rest**  
 06.05 ***`Cardio `*** **run:** 2 miles - tempo  
 06.04 ***`Upper-2`*** **OH press:** 125x8x4 • **Larsen press:** 190x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 85x12x4 • **inverted row:** 12x4 • **Lu raise:** 10x12x3  
 06.03 ***`Lower-2`*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
