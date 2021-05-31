@@ -10,10 +10,10 @@
 06.04 ***`Upper-2`*** **OH press:** 125x8x4 • **Larsen press:** 190x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 85x12x4 • **inverted row:** 12x4 • **Lu raise:** 10x12x3  
 06.03 ***`Lower-2`*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.02 ***`Cardio `*** **run:** 2 miles - tempo  
-06.01 ***`Upper-1`*** **bench press:** 225x8x4 • **OH press:** 105x10x4 • **BB row:** 125x10x4 • **pushup:** 15x4 • **pullup:** 12x4 • **rear delt fly:** 15x3  
+06.01 ***`Upper-1`*** **bench press:** 225x8x4 • **OH press:** 105x10x4 • **BB row:** 125x10x4 • **pushup:** 15x4 • **pullup:** 12x4 • **rear delt fly:** nnx15x3  
 05.31 ***`Lower-1`*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
 
-- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring. **Tue** - 
+- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring. **Tue** -
 
 05.30 ***`Cardio `*** **rest**  
 05.29 ***`Legs-3 `*** **rest**  
@@ -187,7 +187,7 @@
 01.20 ***`Pull-1 `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 185x12x6 • **DB curl:** 52x10x3  
 01.19 ***`Push-1 `*** **BB bench press:** 185x12x5 • **BB OH press:** 125x12x5 • **DB fly:** 35x15x3  
 01.18 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 185x12x5 • **good morning:** 95x12x5 • **DB lunge:** 52x30x2  
-- Started a new 8-week program: 6 weeks of progressively increasing weight every week, deload on week 7, and 1-rep max tests on week 8. 
+- Started a new 8-week program: 6 weeks of progressively increasing weight every week, deload on week 7, and 1-rep max tests on week 8.
 - **Week 1:** 12 reps on main movements. **Mon** - beltless squats were challenging; RDL and GM less so; no pain. **Tue** - felt like shit after sleeping poorly because of Meu-Meu; bench felt light; OH press was challenging, especially the last 2 sets; no pain. **Wed** - felt like crap after hanging out with sick Lu all day but had a decent workout overall; no pain. **Thur** - felt pretty good; no pain. **Fri** - two heavy OH press movements per week is a bit much; start alternating intensity between OH press and push press. **Sat** - got rained out. **Sun** - felt strong after a rest day.
 
 01.17 ***`Cardio `*** **run:** 2 miles - sprints  
