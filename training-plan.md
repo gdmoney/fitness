@@ -5,7 +5,7 @@
 
 | Day         | Movement       | Exercise - 1    | Exercise - 2   | Exercise - 3   | Exercise - 4   | Exercise - 5   | Exercise - 6   |
 | :---------- | :------------- | :-------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
-| *Sunday*    | **`rest    `** |                 |                |                |                |                |                |
+| *Sunday*    | **`Rest    `** |                 |                |                |                |                |                |
 | *Saturday*  | **`Cardio-2`** | run - hills     |                |                |                |                |                |
 | *Friday*    | **`Upper-2 `** | OH press - M    | Larsen press   | chinup - W     | lying tri ext  | inverted row   | Lu raise       |
 | *Thursday*  | **`Lower-2 `** | deadlift        | back squat - V | hip thrust     | side plank     |                |                |
