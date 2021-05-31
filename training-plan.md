@@ -1,7 +1,21 @@
 ## Training Plan
 
 
-### 2021 - Q2
+### 2021 - Q2 (June)
+
+| Day         | Movement       | Exercise - 1    | Exercise - 2   | Exercise - 3   | Exercise - 4   | Exercise - 5   | Exercise - 6   |
+| :---------- | :------------- | :-------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
+| *Sunday*    | **`rest    `** |                 |                |                |                |                |                |
+| *Saturday*  | **`Cardio-2`** | run - hills     |                |                |                |                |                |
+| *Friday*    | **`Upper-2 `** | OH press - M    | Larsen press   | chinup-wtd     | lying tri ext  | inverted row   | Lu raise       |
+| *Thursday*  | **`Lower-2 `** | deadlift        | back squat - V | hip thrust     | side plank     |                |                |
+| *Wednesday* | **`Cardio-1`** | run - sprints   |                |                |                |                |                |
+| *Tuesday*   | **`Upper-1 `** | bench press     | OH press - V   | BB row         | pushup         | pullup         | rear delt fly  |
+| *Monday*    | **`Lower-1 `** | back squat - M  | RDL            | reverse lunge  | plank          |                |                |
+
+
+
+### 2021 - Q2 (April/May)
 
 | Day         | Movement       | Exercise - 1           | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :--------------------- | :------------------ | :---------------- | :---------------- |
@@ -16,7 +30,7 @@
 **M** - Main: standard movement, heavy, 2-12 reps  
 **V** - Variation: different movements, lighter, volume/technique/speed/paused  
 **W** - Weighted  
-`*  ` - alternate weekly between front squat and paused back squat 
+`*  ` - alternate weekly between front squat and paused back squat
 
 *****
 
