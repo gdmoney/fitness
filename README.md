@@ -7,7 +7,7 @@
 
 06.06 ***`Rest    `*** **rest**  
 06.05 ***`Cardio-2`*** **run:** 2 miles - hills  
-06.04 ***`Upper-2 `*** **OH press:** 125x8x4 • **Larsen press:** 190x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 85x12x4 • **inverted row:** 12x4 • **Lu raise:** 10x12x3  
+06.04 ***`Upper-2 `*** **OH press:** 125x8x4 • **Larsen press:** 190x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 85x12x4 • **inverted row:** 12x4 • **Lu raise:** 5x12x3  
 06.03 ***`Lower-2 `*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.02 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.01 ***`Upper-1 `*** **bench press:** 225x8x4 • **OH press:** 105x10x4 • **BB row:** 125x10x4 • **pushup:** 15x4 • **pullup:** 12x4 • **rear delt fly:** nnx15x3  
