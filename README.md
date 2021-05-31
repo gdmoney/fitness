@@ -12,6 +12,7 @@
 06.02 ***`Cardio `*** **run:** 2 miles - tempo  
 06.01 ***`Upper-1`*** **bench press:** 225x8x4 • **OH press:** 105x10x4 • **BB row:** 125x10x4 • **pushup:** 15x4 • **pullup:** 12x4 • **rear delt fly:** 15x3  
 05.31 ***`Lower-1`*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
+
 - Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring. **Tue** - 
 
 05.30 ***`Cardio `*** **rest**  
@@ -21,6 +22,7 @@
 05.26 ***`Push-1 `*** **DB bench press:** 40x20x5 • **DB OH press:** 40x20x5  
 05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
 05.25 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
+
 - **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good; RDL was light. **Wed** - rest day. **Thur** - felt strong on the row but it aggravated my forearm again. **Fri** - rest day; forearm hurt like a bitch. **Sat** - rest day; ended up wrenching most of the day **Sun** - rest/wrench day again. **Recap** - shitty week hampered by ongoing forearm and shouler injuries; only put in two days of work.
 
 05.23 ***`Cardio `*** **rest**  
