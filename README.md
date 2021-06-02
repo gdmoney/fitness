@@ -13,7 +13,7 @@
 06.01 ***`Upper-1 `*** **bench press:** 135x8x4 • **OH press:** 75x10x4 • **DB row:** 90x10x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 05.31 ***`Lower-1 `*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
 
-- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painles; BB row causes right forearm pain so stick to DB row for now; no pain on neutral grip pullups; also ran in the morning. **Wed** - sprints felt great. **Thur** - 3
+- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painles; BB row causes right forearm pain so stick to DB row for now; no pain on neutral grip pullups; also ran in the morning. **Wed** - sprints felt great. **Thur** - 2
 
 05.30 ***`Cardio `*** **rest**  
 05.29 ***`Legs-3 `*** **rest**  
