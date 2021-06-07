@@ -21,7 +21,6 @@
 06.02 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.01 ***`Upper-1 `*** **bench press:** 135x8x4 • **OH press:** 75x10x4 • **DB row:** 90x10x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 05.31 ***`Lower-1 `*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
-
 - Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painless; BB row causes right forearm pain so stick to DB row for now; skipped pushups; no pain on neutral grip pullups; ran in the morning. **Wed** - sprints felt great. **Thur** - first deadlift in 3 weeks, no shoulder pain, slight forearm pain but it's manageable; deadlift, squat, and hip thrust all felt light. **Fri** - no pain on the first 3 movements, slight forearm pain on tri extensions; skipped the inverted row as it was causing too much forearm pain just like BB row did. Go up in weight on both OHP and bench press next week. **Sat** - rest day. **Sun** - rest day. **Recap** - Solid week overall. Shoulder is feeling much better and I'm starting to go up in weight on Push movements. Right forearm still hurts but only prevents me from doing pronated Pull movements.
 
 05.30 ***`Cardio `*** **rest**  
@@ -31,7 +30,6 @@
 05.26 ***`Push-1 `*** **DB bench press:** 40x20x5 • **DB OH press:** 40x20x5  
 05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
 05.25 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
-
 - **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good; RDL was light. **Wed** - rest day. **Thur** - felt strong on the row but it aggravated my forearm again. **Fri** - rest day; forearm hurt like a bitch. **Sat** - rest day; ended up wrenching most of the day **Sun** - rest/wrench day again. **Recap** - shitty week hampered by ongoing forearm and shouler injuries; only put in two days of work.
 
 05.23 ***`Cardio `*** **rest**  
