@@ -6,6 +6,15 @@
 *****
 
 06.06 ***`Rest    `*** **TBD**  
+06.05 ***`Cardio-2`*** **run:** 2 miles - hills
+06.04 ***`Upper-2 `*** **OH press:** 125x8x4 • **Larsen press:** 155x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 65x12x4 • **Lu raise:** 5x15x3  
+06.03 ***`Lower-2 `*** **deadlift:** 265x5x4 • **back squat:** 185x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
+06.02 ***`Cardio-1`*** **run:** 2 miles - sprints  
+06.01 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 105x10x4 • **DB row:** 90x10x4 • **pullup:** 8x4 • **rear delt fly:** 10x20x3  
+05.31 ***`Lower-1 `*** **back squat:** 215x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
+- **Mon** - 
+
+06.06 ***`Rest    `*** **TBD**  
 06.05 ***`Cardio-2`*** **rest**  
 06.04 ***`Upper-2 `*** **OH press:** 95x8x4 • **Larsen press:** 135x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 55x12x4 • **Lu raise:** 5x12x3  
 06.03 ***`Lower-2 `*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
@@ -13,7 +22,7 @@
 06.01 ***`Upper-1 `*** **bench press:** 135x8x4 • **OH press:** 75x10x4 • **DB row:** 90x10x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 05.31 ***`Lower-1 `*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
 
-- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painless; BB row causes right forearm pain so stick to DB row for now; skipped pushups; no pain on neutral grip pullups; ran in the morning. **Wed** - sprints felt great. **Thur** - first deadlift in 3 weeks, no shoulder pain, slight forearm pain but it's manageable; deadlift, squat, and hip thrust all felt light. **Fri** - no pain on the first 3 movements, slight forearm pain on tri extensions; skipped the inverted row as it was causing too much forearm pain just like BB row did. Go up in weight on both OHP and bench press next week. **Sat** - rest day. **Sun** -
+- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painless; BB row causes right forearm pain so stick to DB row for now; skipped pushups; no pain on neutral grip pullups; ran in the morning. **Wed** - sprints felt great. **Thur** - first deadlift in 3 weeks, no shoulder pain, slight forearm pain but it's manageable; deadlift, squat, and hip thrust all felt light. **Fri** - no pain on the first 3 movements, slight forearm pain on tri extensions; skipped the inverted row as it was causing too much forearm pain just like BB row did. Go up in weight on both OHP and bench press next week. **Sat** - rest day. **Sun** - rest day. **Recap** - Solid week overall. Shoulder is feeling much better and I'm starting to go up in weight on Push movements. Right forearm still hurts but only prevents me from doing pronated Pull movements.
 
 05.30 ***`Cardio `*** **rest**  
 05.29 ***`Legs-3 `*** **rest**  
