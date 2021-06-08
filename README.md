@@ -12,7 +12,7 @@
 06.09 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 95x10x4 • **DB row:** 90x10x4 • **pullup:** 8x4 • **rear delt fly:** 10x20x3  
 06.07 ***`Lower-1 `*** **back squat:** 215x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
-- **Mon** - 
+- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - 
 
 06.06 ***`Rest    `*** **TBD**  
 06.05 ***`Cardio-2`*** **rest**  
