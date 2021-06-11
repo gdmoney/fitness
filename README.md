@@ -12,7 +12,7 @@
 06.09 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 95x10x4 • **DB row:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 06.07 ***`Lower-1 `*** **back squat:** 215x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
-- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row and pullups, no shoulder pain on bench and OHP. **Wed** -
+- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row and pullups, no shoulder pain on bench and OHP. **Wed** - rest day. **Thur** - deadlift form still doesn't feel right, I'm lifting with my back too much; squat was good. **Fri** -
 
 06.06 ***`Rest    `*** **TBD**  
 06.05 ***`Cardio-2`*** **rest**  
