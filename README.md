@@ -2,7 +2,6 @@
 
 *****
 **[Training Plan](/training-plan.md) • [Progress](/progress.md) • [2021 Goals](/2021-goals.md) • [2020 Goals](/2020-goals.md)**
-
 *****
 
 06.13 ***`Rest    `***  
