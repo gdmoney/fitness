@@ -5,16 +5,25 @@
 
 *****
 
-06.13 ***`Rest    `***  
-06.12 ***`Cardio-2`*** **run:** 2 miles - hills  
+06.20 ***`Rest    `*** **rest**  
+06.19 ***`Cardio-2`*** **run:** - 2 miles - hills  
+06.18 ***`Upper-2 `*** **OH press:** 115x8x4 • **Larsen press:** 175x8x4 • **chinup-wtd:** 20x8x4 • **tri ext:** 70x12x4 • **Lu raise:** 5x15x3  
+06.17 ***`Lower-2 `*** **deadlift:** 270x5x4 • **back squat:** 190x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
+06.16 ***`Cardio-1`*** **run:** - 2 miles - sprints  
+06.15 ***`Upper-1 `*** **bench press:** 175x8x4 • **OH press:** 105x10x4 • **DB row:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 7.5x15x3  
+06.14 ***`Lower-1 `*** **back squat:** 220x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
+- **Mon** - 
+
+06.13 ***`Rest    `*** **rest**  
+06.12 ***`Cardio-2`*** **rest**  
 06.11 ***`Upper-2 `*** **OH press:** 105x8x4 • **Larsen press:** 155x8x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 65x12x4 • **Lu raise:** 5x15x3  
 06.10 ***`Lower-2 `*** **deadlift:** 265x5x4 • **back squat:** 185x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.09 ***`Cardio-1`*** **rest**  
 06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 95x10x4 • **DB row:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 06.07 ***`Lower-1 `*** **back squat:** 215x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
-- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row and pullups, no shoulder pain on bench and OHP. **Wed** - rest day. **Thur** - deadlift form still doesn't feel right, I'm lifting with my back too much; squat was good. **Fri** - no pain on any of the movements; continue to go up in weight on Push exercises next week. **Sat** - 
+- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row and pullups, no shoulder pain on bench and OHP. **Wed** - rest day. **Thur** - deadlift form still doesn't feel right, I'm lifting with my back too much; squat was good. **Fri** - no pain on any of the movements; continue to go up in weight on Push exercises next week. **Sat** - rest/wrench day. **Sun** - rest/wrench day. **Recap** - Another solid week. I look forward to going up in weight on bench and OHP next week.
 
-06.06 ***`Rest    `*** **TBD**  
+06.06 ***`Rest    `*** **rest**  
 06.05 ***`Cardio-2`*** **rest**  
 06.04 ***`Upper-2 `*** **OH press:** 95x8x4 • **Larsen press:** 135x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 55x12x4 • **Lu raise:** 5x12x3  
 06.03 ***`Lower-2 `*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
