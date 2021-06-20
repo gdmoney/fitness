@@ -5,6 +5,15 @@
 
 *****
 
+06.27 ***`Rest    `*** **rest**  
+06.26 ***`Cardio-2`*** **TBD**  
+06.25 ***`Upper-2 `*** **TBD**  
+06.24 ***`Lower-2 `*** **deadlift:** 275x5x4 • **back squat:** 195x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
+06.23 ***`Cardio-1`*** **TBD**  
+06.22 ***`Upper-1 `*** **TBD**  
+06.21 ***`Lower-1 `*** **back squat:** 225x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
+- **Mon** -
+
 06.20 ***`Rest    `*** **rest**  
 06.19 ***`Cardio-2`*** **rest**  
 06.18 ***`Upper-2 `*** **OH press:** 115x8x4 • **Larsen press:** 175x8x4 • **chinup-wtd:** 20x8x4 • **tri ext:** 70x12x4 • **Lu raise:** 5x15x3  
