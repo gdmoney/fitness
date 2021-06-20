@@ -6,13 +6,13 @@
 *****
 
 06.20 ***`Rest    `*** **rest**  
-06.19 ***`Cardio-2`*** **run:** - 2 miles - hills  
+06.19 ***`Cardio-2`*** **rest**  
 06.18 ***`Upper-2 `*** **OH press:** 115x8x4 • **Larsen press:** 175x8x4 • **chinup-wtd:** 20x8x4 • **tri ext:** 70x12x4 • **Lu raise:** 5x15x3  
 06.17 ***`Lower-2 `*** **deadlift:** 270x5x4 • **back squat:** 190x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
-06.16 ***`Cardio-1`*** **run:** - 2 miles - sprints  
+06.16 ***`Cardio-1`*** **rest**  
 06.15 ***`Upper-1 `*** **bench press:** 175x8x4 • **OH press:** 105x10x4 • **DB row:** 90x20x4 • **pullup:** 9x4 • **rear delt fly:** 7.5x15x3  
 06.14 ***`Lower-1 `*** **back squat:** 220x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
-- **Mon** - RDL form was better, keep focusing on greater ROM but with a straight back and on loading the hamstrings. **Tue** - both Push and Pull movements felt stronger than last week; slight forearm pain on pullups. **Wed** - 
+- **Mon** - RDL form was better, keep focusing on greater ROM but with a straight back and on loading the hamstrings. **Tue** - both Push and Pull movements felt stronger than last week; slight forearm pain on pullups. **Wed** - rest. **Thur** - focused on good deadlift form, I think it's getting a little better. **Fri** - aggravated my right shoulder and forearm/elbow again on Larsen press. **Sat** - rest. **Sun** - rest/wrenching. **Recap** - week was going great until I re-injured myself, so not a good week overall.
 
 06.13 ***`Rest    `*** **rest**  
 06.12 ***`Cardio-2`*** **rest**  
