@@ -12,7 +12,7 @@
 06.23 ***`Cardio-1`*** **TBD**  
 06.22 ***`Upper-1 `*** **TBD**  
 06.21 ***`Lower-1 `*** **back squat:** 225x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
-- **Mon** -
+- **Mon** - squat was heavy but I kept good form; surprisingly the last two sets felt easier. RDL form was also better. Go up to 75 sec on plank. **Tue** - 
 
 06.20 ***`Rest    `*** **rest**  
 06.19 ***`Cardio-2`*** **rest**  
