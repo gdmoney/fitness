@@ -6,12 +6,12 @@
 *****
 
 06.27 ***`Rest    `*** **rest**  
-06.26 ***`Cardio-2`*** **TBD**  
-06.25 ***`Upper-2 `*** **TBD**  
+06.26 ***`Lower-3 `*** **TBD**  
+06.25 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.24 ***`Lower-2 `*** **deadlift:** 275x5x4 • **back squat:** 195x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
-06.23 ***`Cardio-1`*** **run:** 2 miles - sprints
+06.23 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.22 ***`Lower-1 `*** **back squat:** 225x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
-- **Mon** - rest day, felt like shit after drinking on Sun. **Tue** - squat was heavy but I kept good form; surprisingly the last two sets felt easier; RDL form was also better. Go up to 75 sec on plank. **Wed** - went for a run in the AM which felt good. **Thur** - deadlift was moderate, form was better but I'm still re-bending the knees a bit; squat was moderate with good form. **Fri** - 
+- **Mon** - rest day, felt like shit after drinking on Sun. **Tue** - squat was heavy but I kept good form; surprisingly the last two sets felt easier; RDL form was also better. Go up to 75 sec on plank. **Wed** - went for a run in the AM which felt good. **Thur** - deadlift was moderate, form was better but I'm still re-bending the knees a bit; squat was moderate with good form. **Fri** - AM run. **Sat** - 
 
 06.20 ***`Rest    `*** **rest**  
 06.19 ***`Cardio-2`*** **rest**  
