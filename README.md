@@ -5,6 +5,14 @@
 
 *****
 
+07.03 ***`Rest    `*** **rest**  
+07.02 ***`Lower-3 `*** **back squat-psd:** 215x5x4 • **BB lunge:** 115x20x4 • **good morning:** 95x12x4  
+07.01 ***`Cardio-2`*** **run:** 2 miles - sprints  
+06.30 ***`Lower-2 `*** **deadlift:** 280x5x4 • **back squat:** 200x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
+06.29 ***`Cardio-1`*** **run:** 2 miles - sprints  
+06.28 ***`Lower-1 `*** **back squat:** 230x5x4 • **RDL:** 205x8x4 • **reverse lunge:** 80x10x4 • **plank:** 60secx3  
+- **Mon** -
+
 06.27 ***`Rest    `*** **rest**  
 06.26 ***`Lower-3 `*** **back squat-psd:** 210x5x4 • **BB lunge:** 115x20x4 • **good morning:** 95x12x4  
 06.25 ***`Cardio-2`*** **run:** 2 miles - sprints  
