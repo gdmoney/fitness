@@ -5,6 +5,7 @@
 
 *****
 
+07.04 ***`Rest    `*** **rest**  
 07.03 ***`Rest    `*** **rest**  
 07.02 ***`Lower-3 `*** **back squat-psd:** 215x5x4 • **BB lunge:** 115x20x4 • **good morning:** 95x12x4  
 07.01 ***`Cardio-2`*** **run:** 2 miles - sprints  
