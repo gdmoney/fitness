@@ -11,7 +11,7 @@
 07.01 ***`Lower-2 `*** **deadlift:** 280x5x4 • **back squat:** 200x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
 06.30 ***`Cardio-1`*** **rest**  
 06.29 ***`Lower-1 `*** **back squat:** 230x5x4 • **RDL:** 205x8x4 • **reverse lunge:** 80x10x4 • **plank:** 60secx3  
-- **Mon** - rest day, felt like shit after sleeping poorly. **Tue** - squat was moderate/heavy, form was good; RDL form was also better. **Wed** - rest. **Thur** - 
+- **Mon** - rest day, felt like shit after sleeping poorly. **Tue** - squat was moderate/heavy, form was good; RDL form was also better. **Wed** - rest. **Thur** - deadlift was tough; squat was light/moderate. **Fri** - 
 
 06.27 ***`Rest    `*** **rest**  
 06.26 ***`Lower-3 `*** **back squat-psd:** 210x5x4 • **BB lunge:** 115x20x4 • **good morning:** 95x12x4  
