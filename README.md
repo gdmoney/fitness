@@ -6,12 +6,10 @@
 *****
 
 07.11 ***`Rest    `*** **rest**  
-07.10 ***`Lower-3 `*** **back squat-psd:** 220x5x4 • **BB lunge:** 115x20x4 • **good morning:** 95x12x4  
-07.09 ***`Cardio-2`*** **run:** 2 miles - sprints  
-07.08 ***`Lower-2 `*** **deadlift:** 285x5x4 • **back squat:** 205x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
-07.07 ***`Cardio-1`*** **run:** 2 miles - sprints  
+07.10 ***`Lower-3 `*** **rest**  
+07.07 ***`Lower-2 `*** **deadlift:** 285x5x4 • **back squat:** 205x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
 07.06 ***`Lower-1 `*** **back squat:** 235x5x4 • **RDL:** 205x8x4 • **reverse lunge:** 80x10x4 • **plank:** 60secx3  
-- **Mon** - rest day hanging out with Goga. **Tue** -
+- **Mon** - rest day hanging out with Goga. **Tue** - squat was moderate/heavy with good form; noticed the bar is uneven with the left side being lower. **Wed** - deadlift was significantly easier than last week, even with back-to-back Lower days; starting with the hips lower helps by engaging the legs more. **Thur/Fri/Sat/Sun** - rest days visiting Zuka in WC. **Recap** - short but decent week. Elbow is finally starting to feel better.
 
 07.04 ***`Rest    `*** **rest**  
 07.03 ***`Lower-3 `*** **back squat-psd:** 215x5x4 • **good morning:** 95x12x4  
