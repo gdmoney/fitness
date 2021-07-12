@@ -10,7 +10,7 @@
 07.04 ***`Session-2`*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4 • **rack chin-up:** 12x4 • **DB bench press:** 40x20x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 5x15x3  
 07.04 ***`Cardio-2 `*** **run:** 2 miles - hills  
 07.04 ***`Session-3`*** **back squat:** 210x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3 • **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 60x3  
-07.04 ***`Cardio-3 `*** **swim**  
+07.04 ***`Cardio-3 `*** **swim:** TBD  
 07.04 ***`Rest     `*** **rest**  
 - Started Block 2 of Alec Enkiri's program. **Mon** - 
 
