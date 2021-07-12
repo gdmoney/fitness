@@ -5,7 +5,7 @@
 
 *****
 
-07.04 ***`Session-1`*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x10x4 • **plank-wght:** 25x60x3 • **OH press/shrug:** 60x15x3  
+07.04 ***`Session-1`*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x10x4 • **plank-wght:** 25x60x3 • **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.04 ***`Cardio-1 `*** **run:** 2 miles - sprints  
 07.04 ***`Session-2`*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4 • **rack chin-up:** 12x4 • **DB bench press:** 40x20x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 5x15x3  
 07.04 ***`Cardio-2 `*** **run:** 2 miles - hills  
