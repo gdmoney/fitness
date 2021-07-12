@@ -5,7 +5,7 @@
 
 *****
 
-07.12 ***`Lower-1 `*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x10x4 • **plank-wght:** 25x60x3  
+07.12 ***`Lower-1 `*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x10x4 • **plank-wtd:** 25x60x3  
 07.12 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.13 ***`Cardio-1`*** **run:** 2 miles - sprints  
 07.14 ***`Lower-2 `*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4  
