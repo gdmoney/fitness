@@ -14,7 +14,7 @@
 07.16 ***`Lower-3 `*** **back squat:** 210x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
 07.16 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 60x3  
 07.17 ***`Cardio-3`*** **swim:** TBD  
-07.18 ***`Rest     `*** **rest**  
+07.18 ***`Rest    `*** **rest**  
 - Started Block 2 of Alec Enkiri's program. **Mon** - 
 
 07.11 ***`Rest    `*** **rest**  
