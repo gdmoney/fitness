@@ -1,7 +1,25 @@
 ## Training Plan
 
 
-### 2021 - Q2 (June)
+### 2021 - Q2 (July/August)
+
+| Day         | Movement        | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4   | Exercise - 5   | Exercise - 6       |
+| :---------- | :-------------- | :-------------- | :------------- | :--------------- | :------------- | :------------- | :----------------- |
+| *Monday*    | **`Session-1`** | back squat - M  | RDL            | front rack lunge | plank - W      | OH press       | OH shrug           |
+| *Tuesday*   | **`Cardio-1 `** | run - sprints   |                |                  |                |                |                    |
+| *Wednesday* | **`Session-2`** | deadlift - M    | goblet squat   | chin-up - V      | DB bench press | rear delt fly  | Lu raise           |
+| *Thursday*  | **`Cardio-2 `** | run - hills     |                |                  |                |                |                    |
+| *Friday*    | **`Session-3`** | back squat - V  | hip thrust     | good morning     | suitcase hold  | DB OH press    | rear delt iso hold |
+| *Saturday*  | **`Cardio-3 `** | swim            |                |                  |                |                |                    |
+| *Sunday*    | **`Rest     `** |                 |                |                  |                |                |                    |
+
+**M** - Main: standard movement, heavier  
+**V** - Variation: different movement, lighter, volume/technique/speed/paused  
+**W** - Weighted  
+
+*****
+
+### 2021 - Q2 (June/July)
 
 | Day         | Movement       | Exercise - 1    | Exercise - 2   | Exercise - 3   | Exercise - 4   | Exercise - 5   | Exercise - 6   |
 | :---------- | :------------- | :-------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
