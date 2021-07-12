@@ -5,6 +5,15 @@
 
 *****
 
+07.04 ***`Session-1`*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x10x4 • **plank-wght:** 25x60x3 • **OH press/shrug:** 60x15x3  
+07.04 ***`Cardio-1 `*** **run:** 2 miles - sprints  
+07.04 ***`Session-2`*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4 • **rack chin-up:** 12x4 • **DB bench press:** 40x20x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 5x15x3  
+07.04 ***`Cardio-2 `*** **run:** 2 miles - hills  
+07.04 ***`Session-3`*** **back squat:** 210x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3 • **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 60x3  
+07.04 ***`Cardio-3 `*** **swim**  
+07.04 ***`Rest     `*** **rest**  
+- Started Block 2 of Alec Enkiri's program. **Mon** - 
+
 07.11 ***`Rest    `*** **rest**  
 07.10 ***`Lower-3 `*** **rest**  
 07.07 ***`Lower-2 `*** **deadlift:** 285x5x4 • **back squat:** 205x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
