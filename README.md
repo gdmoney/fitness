@@ -5,7 +5,7 @@
 
 *****
 
-07.12 ***`Lower-1 `*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x10x4 • **plank-wtd:** 25x60x3  
+07.12 ***`Lower-1 `*** **back squat:** 240x4x4 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
 07.12 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.13 ***`Cardio-1`*** **run:** 2 miles - sprints  
 07.14 ***`Lower-2 `*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4  
@@ -15,7 +15,7 @@
 07.16 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 60x3  
 07.17 ***`Cardio-3`*** **swim:** TBD  
 07.18 ***`Rest    `*** **rest**  
-- Started Block 2 of Alec Enkiri's program. **Mon** - 
+- Started Block 2 of Alec Enkiri's program. **Mon** - used a belt on squat for the first time in since my last PR attempt and it helped; front rack lunge was light but balancing made it more challenging; weighted plank was tough; OH press last set was a bit tougher than expected but no shoulder pain. **Tue** - 
 
 07.11 ***`Rest    `*** **rest**  
 07.10 ***`Lower-3 `*** **rest**  
