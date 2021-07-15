@@ -9,13 +9,12 @@
 07.12 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.13 ***`Cardio-1`*** **rest**  
 07.14 ***`Lower-2 `*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4  
-07.14 ***`Upper-2 `*** **rack chin-up:** 12x4 • **DB bench press:** 40x20x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 5x15x3  
-07.15 ***`Cardio-2`*** **run:** 2 miles - hills  
+07.15 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 5x15x3  
 07.16 ***`Lower-3 `*** **back squat:** 210x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
 07.16 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 60x3  
 07.17 ***`Cardio-3`*** **swim:** TBD  
 07.18 ***`Rest    `*** **rest**  
-- Started Block 2 of Alec Enkiri's program. **Mon** - used a belt on squat for the first time in since my last PR attempt and it helped; front rack lunge was light but balancing made it more challenging; weighted plank was tough; OH press last set was a bit tougher than expected but no shoulder pain. **Tue** - ended up taking a rest day as I was quite tired from Monday's workout. **Wed** - 
+- Started Block 2 of Alec Enkiri's program. **Mon** - used a belt on squat for the first time in since my last PR attempt and it helped; front rack lunge was light but balancing made it more challenging; weighted plank was tough; OH press last set was a bit tougher than expected but no shoulder pain. **Tue** - ended up taking a rest day as I was quite tired from Monday's workout. **Wed** - deadlift was a bit lighter than I expected; it's easier to stay focused and maintain good form with lower rep sets; goblet squat was light/moderate; go for 20 reps next week. **Thur** - skipped rack chin-up as it didn't agree with my right elbow; DB bench press was painless. **Fri** - 
 
 07.11 ***`Rest    `*** **rest**  
 07.10 ***`Lower-3 `*** **rest**  
