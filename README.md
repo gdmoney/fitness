@@ -5,6 +5,15 @@
 
 *****
 
+07.25 ***`Rest    `*** **rest**  
+07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
+07.23 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
+07.22 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 10x15x3  
+07.21 ***`Lower-2 `*** **deadlift:** 295x3x5 • **goblet squat:** 90x20x4  
+07.20 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
+07.19 ***`Lower-1 `*** **back squat:** 245x4x5 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
+- **Week 2**. **Mon** -
+
 07.18 ***`Rest    `*** **rest**  
 07.17 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
 07.16 ***`Lower-3 `*** **back squat:** 210x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
@@ -13,7 +22,7 @@
 07.13 ***`Cardio-1`*** **rest**  
 07.12 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.12 ***`Lower-1 `*** **back squat:** 240x4x5 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
-- Started Block 2 (6 weeks) of Alec Enkiri's program. **Mon** - used a belt on squat for the first time since my last PR attempt and it helped; front rack lunge was light but balancing made it challenging; weighted plank was tough; OH press last set was a bit tougher than expected but w/o shoulder pain. **Tue** - ended up taking a rest day as I was quite tired from Monday's workout. **Wed** - deadlift was a bit lighter than I expected with good form; it's easier to stay focused and maintain good form with lower rep sets; goblet squat was light/moderate; go for 20 reps next week. **Thur** - skipped rack chin-up as it didn't agree with my right elbow; DB bench press was painless. **Fri** - squat was light/moderate with improved form; good morning felt light. **Sat** - suitcase hold aggravates the elbow a little, don't extend the arm fully. **Sun** -
+- Started Block 2 (6 weeks) of Alec Enkiri's program. **Week 1**. **Mon** - used a belt on squat for the first time since my last PR attempt and it helped; front rack lunge was light but balancing made it challenging; weighted plank was tough; OH press last set was a bit tougher than expected but w/o shoulder pain. **Tue** - ended up taking a rest day as I was quite tired from Monday's workout. **Wed** - deadlift was a bit lighter than I expected with good form; it's easier to stay focused and maintain good form with lower rep sets; goblet squat was light/moderate; go for 20 reps next week. **Thur** - skipped rack chin-up as it didn't agree with my right elbow; DB bench press was painless. **Fri** - squat was light/moderate with improved form; good morning felt light. **Sat** - suitcase hold aggravates the elbow a little, don't extend the arm fully. **Sun** - rest. **Recap** - solid week; lower movements are going really well and the elbow is improving.
 
 07.11 ***`Rest    `*** **rest**  
 07.10 ***`Lower-3 `*** **rest**  
