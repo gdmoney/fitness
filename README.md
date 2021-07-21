@@ -12,7 +12,7 @@
 07.21 ***`Lower-2 `*** **deadlift:** 295x3x5 • **goblet squat:** 90x20x4  
 07.20 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.19 ***`Lower-1 `*** **back squat:** 245x4x5 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
-- **Week 2:** **Mon** - squat was moderate/heavy with good form but I still have a tendency to lean forward on occasion; RDL was moderate with good form; lunge was better than last week but the right big toe still hurts; plank was also easier than last week. **Tue** - 
+- **Week 2:** **Mon** - squat was moderate/heavy with good form but I still have a tendency to lean forward on occasion; RDL was moderate with good form; lunge was better than last week but the right big toe still hurts; plank was also easier than last week. **Tue** - OH press felt lighter than last week. **Wed** - 
 
 07.18 ***`Rest    `*** **rest**  
 07.17 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
