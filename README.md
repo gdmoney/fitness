@@ -5,6 +5,15 @@
 
 *****
 
+08.01 ***`Rest    `*** **rest**  
+07.31 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
+07.30 ***`Lower-3 `*** **back squat:** 220x8x3 • **hip thrust:** 155x15x4 • **good morning:** 70x15x3  
+07.29 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 10x15x3  
+07.28 ***`Lower-2 `*** **deadlift:** 300x3x5 • **goblet squat:** 90x20x4  
+07.27 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
+07.26 ***`Lower-1 `*** **back squat:** 250x4x5 • **RDL:** 225x8x4 • **front rack lunge:** 95x20x4 • **plank-wtd:** 25x60x3  
+- **Week 3:** **Mon** -
+
 07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
 07.24 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
