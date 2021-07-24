@@ -7,12 +7,12 @@
 
 07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
-07.23 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
+07.24 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
 07.22 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 10x15x3  
 07.21 ***`Lower-2 `*** **deadlift:** 295x3x5 • **goblet squat:** 90x20x4  
 07.20 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
 07.19 ***`Lower-1 `*** **back squat:** 245x4x5 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
-- **Week 2:** **Mon** - squat was moderate/heavy with good form but I still have a tendency to lean forward on occasion; RDL was moderate with good form; lunge was better than last week but the right big toe still hurts; plank was also easier than last week. **Tue** - OH press felt lighter than last week. **Wed** - deadlift was moderate with good form; goblet squat was a bitch. **Thur** - DB bench is easier on the shoulder than BB bench but it was still a bit sore afterwards; delt fly felt easier, go for 12.5 next week; go for 15 on Lu raise next week. **Fri** - 
+- **Week 2:** **Mon** - squat was moderate/heavy with good form but I still have a tendency to lean forward on occasion; RDL was moderate with good form; lunge was better than last week but the right big toe still hurts; plank was also easier than last week. **Tue** - OH press felt lighter than last week. **Wed** - deadlift was moderate with good form; goblet squat was a bitch. **Thur** - DB bench is easier on the shoulder than BB bench but it was still a bit sore afterwards; delt fly felt easier, go for 12.5 next week; go for 15 on Lu raise next week. **Fri** - rest. **Sat** - squat was moderate/heavy probably due to having slept poorly the night before; hip thrust is much easier with a pad. **Sun** - rest. **Recap** - solid week again; my deadlift is finally starting to look decent; squat is still not great but is getting better; shoulder and elbow are still hurting.
 
 07.18 ***`Rest    `*** **rest**  
 07.17 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
