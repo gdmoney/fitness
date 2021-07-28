@@ -10,9 +10,9 @@
 07.30 ***`Lower-3 `*** **back squat:** 220x8x3 • **hip thrust:** 155x15x4 • **good morning:** 70x15x3  
 07.29 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 10x15x3  
 07.28 ***`Lower-2 `*** **deadlift:** 300x3x5 • **goblet squat:** 90x20x4  
-07.27 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
+07.27 ***`Upper-1 `*** **rest**  
 07.26 ***`Lower-1 `*** **back squat:** 250x4x3 • **RDL:** 225x8x4 • **front rack lunge:** 95x20x4 • **plank-wtd:** 25x60x3  
-- **Week 3:** **Mon** - squat was moderate/heavy; cracked by lower left rib; I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - 
+- **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - 
 
 07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
