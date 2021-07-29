@@ -12,7 +12,7 @@
 07.28 ***`Lower-2 `*** **deadlift:** 300x3x5 • **goblet squat:** 90x20x4  
 07.27 ***`Upper-1 `*** **rest**  
 07.26 ***`Lower-1 `*** **back squat:** 250x4x3 • **RDL:** 225x8x4 • **front rack lunge:** 95x20x4 • **plank-wtd:** 25x60x3  
-- **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - 
+- **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - another rest day; I think it's a abdominal side muscle pain rather than a cracked rib; pain is a bit less today. **Thur** - 
 
 07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
