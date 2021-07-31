@@ -6,7 +6,7 @@
 *****
 
 08.01 ***`Rest    `*** **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
-07.31 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 12.5x20x3  
+07.31 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 12.5x20x3 • **Lu raise:** 12.5x15x3  
 07.30 ***`Lower-3 `*** **OH press:** 65x15x3 • **OH shrug:** 65x15x3 • **Lu raise:** 12.5x15x3  
 07.29 ***`Upper-2 `*** **rehab work**  
 07.28 ***`Lower-2 `*** **rest**  
