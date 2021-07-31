@@ -5,14 +5,14 @@
 
 *****
 
-08.01 ***`Rest    `*** **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
-07.31 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 12.5x20x3 • **Lu raise:** 12.5x15x3  
+08.01 ***`Rest    `*** **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3 • **Lu raise:** 12.5x15x3  
+07.31 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 12.5x20x3  
 07.30 ***`Lower-3 `*** **OH press:** 65x15x3 • **OH shrug:** 65x15x3 • **Lu raise:** 12.5x15x3  
 07.29 ***`Upper-2 `*** **rehab work**  
 07.28 ***`Lower-2 `*** **rest**  
 07.27 ***`Upper-1 `*** **rest**  
 07.26 ***`Lower-1 `*** **back squat:** 250x4x3 • **RDL:** 225x8x4 • **front rack lunge:** 95x20x4 • **plank-wtd:** 25x60x3  
-- **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - another rest day; I think it's a abdominal side muscle pain rather than a cracked rib; pain is a bit less today. **Thur** - did rehab work. **Fri** - OH press and shrug irritated the side injury a little but not too bad. **Sat** -
+- **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - another rest day; I think it's a abdominal side muscle pain rather than a cracked rib; pain is a bit less today. **Thur** - did rehab work. **Fri** - OH press and shrug irritated the side injury a little but not too bad. **Sat** - side injury is feeling a little better. **Sun** - 
 
 07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
