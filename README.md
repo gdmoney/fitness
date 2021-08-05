@@ -6,13 +6,13 @@
 *****
 
 08.08 ***`Rest    `*** **rest**  
-08.07 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
+08.07 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3 • **Lu raise:** 12.5x15x3  
 08.06 ***`Lower-3 `*** **back squat:** 220x8x3 • **hip thrust:** 155x15x4 • **good morning:** 70x15x3  
-08.05 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 15x20x3 • **Lu raise:** 12.5x15x3  
+08.05 ***`Upper-2 `*** **pushups:** 20x5 • **rear delt fly:** 15x20x3  
 08.04 ***`Lower-2 `*** **deadlift:** 300x3x5 • **goblet squat:** 52.5x20x4  
 08.03 ***`Upper-1 `*** **OH press:** 95x10x3 • **OH shrug:** 95x10x3 • **Lu raise:** 12.5x15x3  
 08.02 ***`Lower-1 `*** **back squat:** 225x4x2 • **rehab work**  
-- **Week 3 (repeat):** **Mon** - tried squat but the side pain started to get worse so I stopped and did shoulder/elbow rehab work with bands, which felt better than dumbbells. **Tue** - decided to go up in weight on OH press and shrug, no shoulder pain. **Wed** - surprisingly, deadlift didn't aggravate the side injury much; weight was moderate; I went light on the goblet squat. **Thur** -
+- **Week 3 (repeat):** **Mon** - tried squat but the side pain started to get worse so I stopped and did shoulder/elbow rehab work with bands, which felt better than dumbbells. **Tue** - decided to go up in weight on OH press and shrug, no shoulder pain. **Wed** - surprisingly, deadlift didn't aggravate the side injury much; weight was moderate; I went light on the goblet squat. **Thur** - did pushups instead of DB press and it felt great without any shoulder pain. **Fri** -
 
 08.01 ***`Rest    `*** **DB OH press:** 25x20x3 • **rear delt iso hold:** 30x3 • **Lu raise:** 12.5x15x3  
 07.31 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 12.5x20x3  
