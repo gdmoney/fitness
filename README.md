@@ -5,6 +5,15 @@
 
 *****
 
+08.15 ***`Rest    `*** **TBD**  
+08.14 ***`Upper-3 `*** **TBD**  
+08.13 ***`Lower-3 `*** **TBD**  
+08.12 ***`Upper-2 `*** **TBD**  
+08.11 ***`Lower-2 `*** **run:** 3 miles @ 10min pace - treadmill
+08.10 ***`Upper-1 `*** **rest**  
+08.09 ***`Lower-1 `*** **rest**  
+- **Mon** - saw a sports medicine specialist doctor; he diagnosed me with tendinitis in both shoulders and the right elbow and recommended full rest for 8 weeks. I'll also be seeing a physical therapist for both. My plan is to start focusing on cardio for the next couple of weeks and go from there. It will also help me lose the weight I've gained over the last few months. Goal is to get back down to 215 from my current 230. **Tue** - rest. **Wed** - went for a run in the gym; I had a moderate side pain initially but it got gradually better. **Thur** - 
+
 08.08 ***`Rest    `*** **rest**  
 08.07 ***`Upper-3 `*** **rest**  
 08.06 ***`Lower-3 `*** **rest**  
