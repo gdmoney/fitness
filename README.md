@@ -6,9 +6,9 @@
 *****
 
 08.15 ***`Rest    `*** **TBD**  
-08.14 ***`Upper-3 `*** **elliptical:** 30 min - level 5  
+08.14 ***`Upper-3 `*** **elliptical:** 30 min @ level 5  
 08.13 ***`Lower-3 `*** **run:** 3 miles @ 10 min pace - treadmill  
-08.12 ***`Upper-2 `*** **elliptical:** 30 min - level 5  
+08.12 ***`Upper-2 `*** **elliptical:** 30 min @ level 5  
 08.11 ***`Lower-2 `*** **run:** 3 miles @ 10 min pace - treadmill  
 08.10 ***`Upper-1 `*** **rest**  
 08.09 ***`Lower-1 `*** **rest**  
