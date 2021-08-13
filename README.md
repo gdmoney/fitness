@@ -5,7 +5,7 @@
 
 *****
 
-08.15 ***`Rest    `*** **TBD**  
+08.15 ***`Rest    `*** **TBD**  
 08.14 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
 08.13 ***`Cardio-1`*** **run:** 3 miles @ 10 min pace - treadmill  
 08.12 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
