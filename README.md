@@ -10,14 +10,14 @@
 08.20 ***`Cardio-1`*** **TBD**  
 08.19 ***`Cardio-2`*** **TBD**  
 08.18 ***`Cardio-1`*** **TBD**  
-08.17 ***`Cardio-2`*** **TBD**  
-08.16 ***`Cardio-1`*** **run:** 4 miles @ 9:30 pace (treadmill)  
+08.17 ***`Cardio-2`*** **elliptical:** 30 min (hotel)
+08.16 ***`Cardio-1`*** **run:** 4 miles @ 9:30 pace (hotel treadmill)  
 - **Mon** - upped both mileage and pace from last week; felt good. **Tue** - 
 
 08.15 ***`Rest    `*** **rest**  
-08.14 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
+08.14 ***`Cardio-2`*** **elliptical:** 30 min
 08.13 ***`Cardio-1`*** **run:** 3 miles @ 10:00 pace (treadmill)  
-08.12 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
+08.12 ***`Cardio-2`*** **elliptical:** 30 min
 08.11 ***`Cardio-1`*** **run:** 3 miles @ 10:00 pace (treadmill)  
 08.10 ***`Cardio-2`*** **rest**  
 08.09 ***`Cardio-1`*** **rest**  
