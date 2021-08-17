@@ -11,8 +11,8 @@
 08.19 ***`Cardio-2`*** **TBD**  
 08.18 ***`Cardio-1`*** **TBD**  
 08.17 ***`Cardio-2`*** **TBD**  
-08.16 ***`Cardio-1`*** **TBD**  
-- **Mon** - 
+08.16 ***`Cardio-1`*** **run:** 4 miles @ 9:30 pace (treadmill)  
+- **Mon** - upped both mileage and pace from last week; felt goodl. **Tue** - 
 
 08.15 ***`Rest    `*** **rest**  
 08.14 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
