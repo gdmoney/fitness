@@ -16,9 +16,9 @@
 
 08.15 ***`Rest    `*** **rest**  
 08.14 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
-08.13 ***`Cardio-1`*** **run:** 3 miles @ 10 min pace - treadmill  
+08.13 ***`Cardio-1`*** **run:** 3 miles @ 10:00 pace (treadmill)  
 08.12 ***`Cardio-2`*** **elliptical:** 30 min @ level 5  
-08.11 ***`Cardio-1`*** **run:** 3 miles @ 10 min pace - treadmill  
+08.11 ***`Cardio-1`*** **run:** 3 miles @ 10:00 pace (treadmill)  
 08.10 ***`Cardio-2`*** **rest**  
 08.09 ***`Cardio-1`*** **rest**  
 - **Mon** - saw a sports medicine specialist doctor; he diagnosed me with tendinitis in both shoulders and the right elbow and recommended full rest for 8 weeks. I'll also be seeing a physical therapist for both. My plan is to start focusing on cardio for the next couple of weeks and go from there. It will also help me lose the weight I've gained over the last few months. Goal is to get back down to 215 from my current 235. **Tue** - rest. **Wed** - went for a run in the gym; I had a moderate side pain initially but it got gradually better. **Thur** - hit the elliptical for 30 minutes, was sweating profusely. **Fri** - did another 3 mile run, it felt easier than the previous one; up the distance and/or pace next week; side pain was less than before, I think the muscle relaxer and the pain killer are helping. **Sat** - hit the elliptical again; it felt easier than the last time; go up in resistance next week. **Sun** - rest. **Recap** - focusing on cardio as I rest and rehab shoulders, elbow, and side. It sucks not being able to lift but doing cardio again feel great.
