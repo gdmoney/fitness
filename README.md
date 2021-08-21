@@ -6,13 +6,13 @@
 *****
 
 08.22 ***`Rest    `*** **rest**  
-08.21 ***`Cardio-2`*** **TBD**  
+08.21 ***`Cardio-2`*** **elliptical:** 35 min  
 08.20 ***`Cardio-1`*** **run:** 5 miles (lake)  
 08.19 ***`Cardio-2`*** **elliptical:** 30 min  
 08.18 ***`Cardio-1`*** **rest**  
 08.17 ***`Cardio-2`*** **elliptical:** 30 min (hotel)  
 08.16 ***`Cardio-1`*** **run:** 4 miles @ 9:30 pace (hotel treadmill)  
-- **Mon** - upped both mileage and pace from last week; felt good. **Tue** - hit the hotel elliptical in the morning; didn't get as good of a workout as on my home gym machine. **Wed** - travel day. **Thur** - home gym elliptical, upped the resistance slightly from last week yet it felt easier; go for 35-40 min next time. **Fri** - ran at the lake for the first time in years; felt good to run outside; maintained a decent pace for the most part. **Sat** - 
+- **Mon** - upped both mileage and pace from last week; felt good. **Tue** - hit the hotel elliptical in the morning; didn't get as good of a workout as on my home gym machine. **Wed** - travel day. **Thur** - home gym elliptical, upped the resistance slightly from last week yet it felt easier; go for 35-40 min next time. **Fri** - ran at the lake for the first time in years; felt good to run outside; maintained a decent pace for the most part. **Sat** - elliptical keeps getting easier; continue to go up in duration and intensity; followed it up with a 2 mile walk at the lake with the kids. **Sun** - 
 
 08.15 ***`Rest    `*** **rest**  
 08.14 ***`Cardio-2`*** **elliptical:** 30 min  
