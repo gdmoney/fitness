@@ -19,7 +19,7 @@
 
 *****
 
-### 2021 - June-July
+### 2021 - June/July
 
 | Day         | Movement       | Exercise - 1    | Exercise - 2   | Exercise - 3   | Exercise - 4   | Exercise - 5   | Exercise - 6   |
 | :---------- | :------------- | :-------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
@@ -37,7 +37,7 @@
 
 *****
 
-### 2021 - April-May
+### 2021 - April/May
 
 | Day         | Movement       | Exercise - 1           | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :--------------------- | :------------------ | :---------------- | :---------------- |
@@ -56,7 +56,7 @@
 
 *****
 
-### 2021 - January-February-March
+### 2021 - January/February/March
 
 | Day         | Movement       | Exercise - 1           | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :--------------------- | :------------------ | :---------------- | :---------------- |
