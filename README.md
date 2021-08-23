@@ -10,9 +10,9 @@
 08.27 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace (treadmill)  
 08.26 ***`Cardio-2`*** **elliptical:** 40 min  
 08.25 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace (treadmill)  
-08.24 ***`Cardio-2`*** **elliptical:** 40 min
+08.24 ***`Cardio-2`*** **elliptical:** 40 min  
 08.23 ***`Cardio-1`*** **run:** 3 miles @ 9:00 pace (treadmill)  
-- **Mon** - felt eas; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** -
+- **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** -
 
 08.22 ***`Rest    `*** **rest**  
 08.21 ***`Cardio-2`*** **elliptical:** 35 min  
