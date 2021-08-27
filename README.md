@@ -12,7 +12,7 @@
 08.25 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace (treadmill)  
 08.25 ***`Cardio-2`*** **elliptical:** 40 min  
 08.23 ***`Cardio-1`*** **run:** 3 miles @ 9:00 pace (treadmill)  
-- **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - 
+- **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - felt easy but broke good sweat; go for 8:30 pace next week. **Sat** - 
 
 08.22 ***`Rest    `*** **rest**  
 08.21 ***`Cardio-2`*** **elliptical:** 35 min  
