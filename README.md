@@ -5,14 +5,14 @@
 
 *****
 
-08.29 ***`Rest    `*** **rest**  
+08.29 ***`Rest    `*** **run:** 2 miles @ 9:00 pace • **DB OH press-std:** 40x20x4  
 08.28 ***`Cardio-2`*** **elliptical:** 10 min • **run:** 2 miles @ 9:00 pace • **pulldowns:** 20x4 • **goblet squat:** 75x20x4  
 08.27 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace  
 08.26 ***`Cardio-2`*** **elliptical:** 40 min  
 08.25 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace  
 08.25 ***`Cardio-2`*** **elliptical:** 40 min  
 08.23 ***`Cardio-1`*** **run:** 3 miles @ 9:00 pace  
-- **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - felt easy but broke good sweat; go for 8:30 pace next week. **Sat** - hit the hotel gym in the AM; elliptical machine didn't feel right so I cut it short; pulldowns and goblet squat felt great; keep adding resistance exercises. **Sun** - 
+- **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - felt easy but broke good sweat; go for 8:30 pace next week. **Sat** - hit the hotel gym in the AM; elliptical machine didn't feel right so I cut it short; pulldowns and goblet squat felt great; keep adding resistance exercises. **Sun** - decided to work out instead of taking a rest day; no pain on DB OH press. **Recap** - good week; I'm continuing to make good progress on cardio and I'm starting to add strength exercises once again.
 
 08.22 ***`Rest    `*** **rest**  
 08.21 ***`Cardio-2`*** **elliptical:** 35 min  
