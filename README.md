@@ -6,13 +6,13 @@
 *****
 
 09.05 ***`Rest    `*** **rest**  
-09.04 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press-std:** 40x20x4 • **pulldowns:** 20x4  
+09.04 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldowns:** 20x4  
 09.03 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x20x4  
-09.02 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press-std:** 40x20x4 • **pulldowns:** 20x4  
+09.02 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldowns:** 20x4  
 09.01 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x20x4  
-08.31 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press-std:** 40x20x4 • **pulldowns:** 20x4  
+08.31 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldowns:** 20x4  
 08.30 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x20x4  
-- **Mon** - run was relatively easy, just boring; goblet squat was also easier than last week; felt great afterwards. **Tue** - 
+- **Mon** - run was relatively easy, just boring; goblet squat was also easier than last week; felt great afterwards. **Tue** - hotel treadmill feels awkward; no side or shoulder pain on OH press. **Wed** - 
 
 08.29 ***`Rest    `*** **run:** 2 miles @ 9:00 pace • **DB OH press-std:** 40x20x4  
 08.28 ***`Cardio-2`*** **elliptical:** 10 min • **run:** 2 miles @ 9:00 pace • **pulldowns:** 20x4 • **goblet squat:** 75x20x4  
