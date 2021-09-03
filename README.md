@@ -2,20 +2,19 @@
 
 *****
 **[Training Plan](/training-plan.md) • [Progress](/progress.md) • [2021 Goals](/2021-goals.md) • [2020 Goals](/2020-goals.md)**  
-
 *****
 
 09.05 ***`Rest    `*** **rest**  
-09.04 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldowns:** 20x4  
-09.03 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x20x4  
-09.02 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldowns:** 20x4  
-09.01 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x20x4  
+09.04 ***`Cardio-2`*** **run:** 5 miles (lake) • **DB OH press:** 40x15x4 • **DB fly:** 25x20x4  
+09.03 ***`Cardio-1`*** **elliptical:** 40 min • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
+09.02 ***`Cardio-2`*** **rest**   
+09.01 ***`Cardio-1`*** **rest**  
 08.31 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldowns:** 20x4  
-08.30 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x20x4  
-- **Mon** - run was relatively easy, just boring; goblet squat was also easier than last week; felt great afterwards. **Tue** - hotel treadmill feels awkward; no side or shoulder pain on OH press. **Wed** - 
+08.30 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x15x4  
+- **Mon** - run was relatively easy, just boring; goblet squat was also easier than last week; felt great afterwards. **Tue** - hotel treadmill feels awkward; no side or shoulder pain on OH press. **Wed** - had a 5:30 call time. **Thur** - travel day. **Fri** - 
 
 08.29 ***`Rest    `*** **run:** 2 miles @ 9:00 pace • **DB OH press-std:** 40x20x4  
-08.28 ***`Cardio-2`*** **elliptical:** 10 min • **run:** 2 miles @ 9:00 pace • **pulldowns:** 20x4 • **goblet squat:** 75x20x4  
+08.28 ***`Cardio-2`*** **elliptical:** 10 min • **run:** 2 miles @ 9:00 pace • **pulldowns:** 20x4 • **goblet squat:** 75x15x4  
 08.27 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace  
 08.26 ***`Cardio-2`*** **elliptical:** 40 min  
 08.25 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace  
