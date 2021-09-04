@@ -6,7 +6,7 @@
 *****
 
 09.05 ***`Rest    `*** **run:** 5 miles (lake) • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
-09.04 ***`Cardio-2`*** **elliptical:** 30 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4
+09.04 ***`Cardio-2`*** **elliptical:** 30 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
 09.03 ***`Cardio-1`*** **rest**  
 09.02 ***`Cardio-2`*** **rest**  
 09.01 ***`Cardio-1`*** **rest**  
