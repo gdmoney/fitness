@@ -7,7 +7,7 @@
 
 09.12 ***`Rest   `*** **rest**  
 09.11 ***`Cardio `*** **elliptical:** 30 min  
-09.10 ***`Upper-2`*** **run:** 2 miles @ 8:00 pace• **DB OH press:** 40x15x4 • **pulldown:** 20x4  
+09.10 ***`Upper-2`*** **run:** 2 miles @ 8:00 pace • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
 09.09 ***`Lower-2`*** **elliptical:** 15 min • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4 • **plank:** 60secx3  
 09.08 ***`Cardio `*** **run:** 4 miles @ 8:00 pace  
 09.07 ***`Upper-1`*** **elliptical:** 15 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
