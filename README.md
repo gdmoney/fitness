@@ -5,14 +5,23 @@
 
 *****
 
-09.05 ***`Rest    `*** **run:** 5 miles (lake) • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
+09.12 ***`Rest   `*** **rest**  
+09.11 ***`Cardio `*** **elliptical:** 30 min  
+09.10 ***`Upper-2`*** **run:** 2 miles @ 8:00 pace• **DB OH press:** 40x15x4 • **pulldown:** 20x4  
+09.09 ***`Lower-2`*** **elliptical:** 15 min • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4 • **plank:** 60secx3
+09.08 ***`Cardio `*** **run:** 4 miles @ 8:00 pace  
+09.07 ***`Upper-1`*** **elliptical:** 15 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
+09.06 ***`Lower-1`*** **run:** 2 miles @ 8:00 pace • **BB squat:** 185x10x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
+- **Mon** -
+
+09.05 ***`Rest    `*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
 09.04 ***`Cardio-2`*** **elliptical:** 30 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
 09.03 ***`Cardio-1`*** **rest**  
 09.02 ***`Cardio-2`*** **rest**  
 09.01 ***`Cardio-1`*** **rest**  
 08.31 ***`Cardio-2`*** **elliptical:** 10 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
 08.30 ***`Cardio-1`*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 75x15x4  
-- **Mon** - run was relatively easy, just boring; goblet squat was also easier than last week; felt great afterwards. **Tue** - hotel treadmill feels awkward; no side or shoulder pain on OH press. **Wed** - had a 5:30 call time. **Thur** - travel day. **Fri** - hung out with Lee. **Sat** - 30 min on the elliptical is sufficient with enough intensity and resistance. **Sun** - 
+- **Mon** - run was relatively easy, just boring; goblet squat was also easier than last week; felt great afterwards. **Tue** - hotel treadmill feels awkward; no side or shoulder pain on OH press. **Wed** - had a 5:30 call time. **Thur** - travel day. **Fri** - hung out with Lee. **Sat** - 30 min on the elliptical is sufficient with enough intensity and resistance. **Sun** - run was easy once again; goblet squat was moderate; hip thrust was light. **Recap** - another solid week even though I missed 3 days; add more strength exercises next week.
 
 08.29 ***`Rest    `*** **run:** 2 miles @ 9:00 pace • **DB OH press-std:** 40x20x4  
 08.28 ***`Cardio-2`*** **elliptical:** 10 min • **run:** 2 miles @ 9:00 pace • **pulldowns:** 20x4 • **goblet squat:** 75x15x4  
