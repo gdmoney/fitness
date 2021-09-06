@@ -5,14 +5,14 @@
 
 *****
 
-09.12 ***`Rest   `***  
-09.11 ***`Cardio `*** **elliptical:** 30 min  
-09.10 ***`Upper-2`*** **run:** 2 miles @ 8:00 pace • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
-09.09 ***`Lower-2`*** **elliptical:** 15 min • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4 • **plank:** 60secx3  
-09.08 ***`Cardio `*** **run:** 4 miles @ 8:00 pace  
-09.07 ***`Upper-1`*** **elliptical:** 15 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
-09.06 ***`Lower-1`*** **run:** 2 miles @ 8:00 pace • **BB squat:** 185x10x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
-- **Mon** -
+09.12 ***`Rest    `***  
+09.11 ***`Cardio-2`*** **elliptical:** 30 min  
+09.10 ***`Upper-2 `*** **run:** 2 miles @ 8:00 pace • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
+09.09 ***`Lower-2 `*** **elliptical:** 15 min • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4 • **plank:** 60secx3  
+09.08 ***`Cardio-1`*** **run:** 4 miles @ 8:00 pace  
+09.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
+09.06 ***`Lower-1 `*** **run:** 2 miles @ 8:00 pace • **BB squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
+- **Mon** - run was moderate although I didn't feel great early in the AM due to poor sleep; squated for the first time since late July; it was moderate with good form and no rib pain; lunge and GM were light. **Tue** - 
 
 09.05 ***`Rest    `*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
 09.04 ***`Cardio-2`*** **elliptical:** 30 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
