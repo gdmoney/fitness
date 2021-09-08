@@ -12,7 +12,7 @@
 09.08 ***`Cardio-1`*** **run:** 4 miles @ 8:00 pace  
 09.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
 09.06 ***`Lower-1 `*** **run:** 2 miles @ 8:00 pace • **BB squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
-- **Mon** - run was moderate although I didn't feel great early in the AM due to poor sleep; squated for the first time since late July; it was moderate with good form and no rib pain; lunge and GM were light. **Tue** -  
+- **Mon** - run was moderate although I didn't feel great early in the AM due to poor sleep; squated for the first time since late July; it was moderate with good form and no rib pain; lunge and GM were light. **Tue** - lower body was quite sore; press felt a little lighter except for the last set; go up in weight next week. **Wed** - 
 
 09.05 ***`Rest    `*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
 09.04 ***`Cardio-2`*** **elliptical:** 30 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
