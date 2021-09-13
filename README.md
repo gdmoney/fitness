@@ -11,7 +11,7 @@
 09.16 ***`Lower-2 `*** **run:** 2 miles @ 7:30 pace • **goblet squat:** 90x20x4 • **hip thrust:** 140x15x4 • **plank:** 60secx3  
 09.15 ***`Cardio-1`*** **elliptical:** 30 min  
 09.14 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace • **DB OH press:** 45x15x4 • **pulldown:** 20x4  
-09.13 ***`Lower-1 `*** **elliptical:** 15 min • **BB squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
+09.13 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
 - **Mon** - squat was light/moderate and easier than last week; lunge and GM were light. **Tue** - 
 
 09.12 ***`Rest    `*** **swim:** 500 yards • **run:** 5k  
@@ -20,7 +20,7 @@
 09.09 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **hip thrust:** 135x15x4 • **plank:** 60secx3  
 09.08 ***`Cardio-1`*** **run:** 4 miles @ 8:00 pace  
 09.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
-09.06 ***`Lower-1 `*** **run:** 2 miles @ 8:00 pace • **BB squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
+09.06 ***`Lower-1 `*** **run:** 2 miles @ 8:00 pace • **back squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
 - **Mon** - run was moderate although I didn't feel great early in the AM due to poor sleep; squated for the first time since late July; it was moderate with good form and no rib pain; lunge and GM were light. **Tue** - lower body was quite sore; press felt a little lighter except for the last set; go up in weight next week. **Wed** - run was relatively easy but felt long and boring. **Thur** - DB squat was moderate; consider alternating b/w goblet and DB squat. **Fri** - go up to 45 on OH press next week. **Sat** - cut elliptical time down to 15 min due to the race next day. **Sun** - did the Spring Sprint triathlon's aquathon event with JD; the swim was really tiring and I lagged on the transition but the run felt good. **Recap** - awesome week; hit it all 7 days for the first time in a long time.
 
 09.05 ***`Rest    `*** **run:** 4 miles @ 8:30 pace • **goblet squat:** 90x15x4 • **hip thrust:** 135x15x4  
