@@ -14,7 +14,7 @@
 09.13 ***`Lower-1 `*** **elliptical:** 15 min • **BB squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
 - **Mon** - squat was light/moderate and easier than last week; lunge and GM were light. **Tue** - 
 
-09.12 ***`Rest    `*** **swim:** 500 yards • **run:** 5k 
+09.12 ***`Rest    `*** **swim:** 500 yards • **run:** 5k 
 09.11 ***`Cardio-2`*** **elliptical:** 15 min  
 09.10 ***`Upper-2 `*** **run:** 2 miles @ 8:00 pace • **DB OH press:** 40x15x4 • **pulldown:** 20x4  
 09.09 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **hip thrust:** 135x15x4 • **plank:** 60secx3  
