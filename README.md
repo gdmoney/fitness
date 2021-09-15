@@ -8,11 +8,11 @@
 09.19 ***`Rest    `***  
 09.18 ***`Cardio-2`*** **run:** 5 miles tempo (lake)  
 09.17 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 20x4 • **DB OH press:** 45x15x4 • **DB fly:** 25x15x4  
-09.16 ***`Lower-2 `*** **run:** 2 miles @ 7:30 pace • **goblet squat:** 90x20x4 • **hip thrust:** 140x15x4 • **plank:** 60secx3  
+09.16 ***`Lower-2 `*** **run:** 2 miles @ 7:30 pace • **goblet squat:** 90x20x4 • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.15 ***`Cardio-1`*** **elliptical:** 30 min  
 09.14 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace • **pulldown:** 20x4 • **DB OH press:** 45x15x4 • **DB bench press:** 52x20x4  
 09.13 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
-- **Mon** - squat was light/moderate and easier than last week; lunge and GM were light. **Tue** - run was easy even though I didn't sleep great; DB bench press didn't agree with my right shoulder; stick to OH press for now and try adding DB fly. **Wed** - 
+- **Mon** - squat was light/moderate and easier than last week; lunge and GM were light. **Tue** - run was easy even though I didn't sleep great; DB bench press didn't agree with my right shoulder; stick to OH press for now and try adding DB fly. **Wed** - right shoulder hurts like a bitch; definitely no more benching for a while. **Thur** - 
 
 09.12 ***`Rest    `*** **swim:** 500 yards • **run:** 5k  
 09.11 ***`Cardio-2`*** **elliptical:** 15 min  
