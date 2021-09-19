@@ -5,14 +5,23 @@
 
 *****
 
-09.19 ***`Rest    `***  
-09.18 ***`Cardio-2`*** **run:** 5 miles tempo (lake) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+09.26 ***`Cardio-2`*** **run:** 3.5 miles @ 7:45 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+09.25 ***`Rest    `***  
+09.24 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
+09.23 ***`Lower-2 `*** **run:** 2 miles @ 7:30 pace (Helix) • **DB squat:** 105x20x4  
+09.22 ***`Cardio-1`*** **elliptical:** 30 min  
+09.21 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace (Helix) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
+09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
+- **Mon** -
+
+09.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+09.18 ***`Rest    `***  
 09.17 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 20x4 • **DB OH press:** 45x15x4  
 09.16 ***`Lower-2 `*** **run:** 2 miles @ 7:35 pace (Helix) • **DB squat:** 105x15x4  
 09.15 ***`Cardio-1`*** **elliptical:** 30 min  
 09.14 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace • **pulldown:** 20x4 • **DB OH press:** 45x15x4 • **DB bench press:** 52x20x4  
 09.13 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 185x8x4 • **BB lunge:** 95x20x3 • **good morning:** 65x12x4  
-- **Mon** - squat was light/moderate and easier than last week; lunge and GM were light. **Tue** - run was easy even though I didn't sleep great; DB bench press didn't agree with my right shoulder; stick to OH press for now and try adding DB fly. **Wed** - right shoulder hurts like a bitch; definitely no more benching for a while. **Thur** - slept poorly the night before so I felt shitty all day and bloated before the run; ran on the track for the first time in a long time; started out a bit slow but I picked up the pace in the second half and finished strong; DB squat was also surprisingly light and I did it on a 3 min interval instead of the usual 4 and I felt much better afterwards; go for 20 reps next week or start incorporating the weight vest to go up in weight. **Fri** - DB OH press aggravated my right shoulder but only slightly; I think it's safe to continue doing. **Sat** - 
+- **Mon** - squat was light/moderate and easier than last week; lunge and GM were light. **Tue** - run was easy even though I didn't sleep great; DB bench press didn't agree with my right shoulder; stick to OH press for now and try adding DB fly. **Wed** - right shoulder hurts like a bitch; definitely no more benching for a while. **Thur** - slept poorly the night before so I felt shitty all day and bloated before the run; ran on the track for the first time in a long time; started out a bit slow but I picked up the pace in the second half and finished strong; DB squat was also surprisingly light and I did it on a 3 min interval instead of the usual 4 and I felt much better afterwards; go for 20 reps next week or start incorporating the weight vest to go up in weight. **Fri** - DB OH press aggravated my right shoulder but only slightly; I think it's safe to continue doing. **Sat** - rest day. **Sun** - felt a little sluggish on the run, goal was 7:45 but I was close.
 
 09.12 ***`Rest    `*** **swim:** 500 yards • **run:** 5k  
 09.11 ***`Cardio-2`*** **elliptical:** 15 min  
