@@ -10,7 +10,7 @@
 09.24 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 09.23 ***`Lower-2 `*** **run:** 2 miles @ 7:30 pace (Helix) • **DB squat:** 105x20x4  
 09.22 ***`Cardio-1`*** **elliptical:** 30 min  
-09.21 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace (Helix) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
+09.21 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace (Helix) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
 - **Mon** -
 
