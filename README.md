@@ -12,7 +12,7 @@
 09.22 ***`Cardio-1`*** **elliptical:** 30 min  
 09.21 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
-- **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy;  
+- **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - 
 
 09.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.18 ***`Rest    `***  
