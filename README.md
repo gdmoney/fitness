@@ -5,14 +5,23 @@
 
 *****
 
-09.26 ***`Cardio-2`*** **run:** 3.5 miles @ 7:45 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+10.03 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+10.02 ***`Rest    `***  
+10.01 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
+09.30 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat:** 105x20x4  
+09.29 ***`Cardio-1`*** **elliptical:** 30 min  
+09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
+09.27 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
+- **Mon** - 
+
+09.26 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.25 ***`Rest    `***  
 09.24 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 09.23 ***`Lower-2 `*** **run:** 2 miles @ 7:30 pace (trdml) • **DB squat:** 105x20x4  
 09.22 ***`Cardio-1`*** **elliptical:** 30 min  
 09.21 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
-- **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - run was easy, go up to 7:15 next week on the treadmill; squat was brutal on the cardio, did it on a 4 min interval. **Fri** - OH press was moderate/heavy. **Sun** - 
+- **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - run was easy, go up to 7:15 next week on the treadmill; squat was brutal on the cardio, did it on a 4 min interval. **Fri** - OH press was moderate/heavy. **Sun** - ran on the treadmill instead of the track so I decided to step up the pace a bit; it was still easy/moderate. **Recap** - another solid week; shoulder is better and I made progress on all 3 fronts (lower, uppper, cardio); travel week next week so I'll have to augment.
 
 09.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.18 ***`Rest    `***  
