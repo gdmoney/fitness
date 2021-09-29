@@ -10,9 +10,9 @@
 10.01 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 09.30 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat:** 105x20x4  
 09.29 ***`Cardio-1`*** **elliptical:** 30 min  
-09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
+09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 10x4 • **DB OH press:** 50x15x4  
 09.27 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **DB lunge:** 100x20x3  
-- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - 
+- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - 
 
 09.26 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.25 ***`Rest    `***  
