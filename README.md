@@ -5,14 +5,23 @@
 
 *****
 
-10.03 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
-10.02 ***`Rest    `***  
-10.01 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
-09.30 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat:** 105x20x4  
-09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row:** 50x20x4  
+10.10 ***`Upper-3 `*** **run:** 3 miles @ 7:45 pace (Helix) • **DB OH press:** 50x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
+10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
+10.08 ***`Rest    `***  
+10.07 ***`Upper-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
+10.06 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
+10.05 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 52x15x4  
+10.04 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 200x8x4 • **RDL:** 185x8x4  
+- **Mon** -
+
+10.03 ***`Upper-2 `*** **run:** 3 miles @ 7:45 pace (Helix) • **pulldown:** 25x4 • **DB OH press:** 50x15x4 • **DB row:** 90x20x4  
+10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
+10.01 ***`Rest    `***  
+09.30 ***`Rest    `***  
+09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row:** 50x40x4  
 09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 10x4 • **DB OH press:** 50x15x4  
 09.27 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **DB lunge:** 100x20x3  
-- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - 
+- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - travel day; drove from SJ to SD with a stop in Bakersfield. **Sat** - squat was moderate with good form; continue adding 5 lbs per week. **Sun** -
 
 09.26 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.25 ***`Rest    `***  
