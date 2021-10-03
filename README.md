@@ -5,7 +5,7 @@
 
 *****
 
-10.10 ***`Upper-3 `*** **run:** 3 miles @ 7:45 pace (Helix) • **DB OH press:** 50x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
+10.10 ***`Upper-3 `*** **run:** 3 miles @ 7:45 pace (Helix) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
 10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
 10.08 ***`Rest    `***  
 10.07 ***`Upper-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
