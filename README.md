@@ -15,7 +15,7 @@
 - **Mon** -
 
 10.03 ***`Upper-2 `*** **run:** 3 miles @ 7:45 pace (Helix) • **pulldown:** 25x4 • **DB OH press:** 50x15x4 • **DB row:** 90x20x4  
-10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
+10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
 10.01 ***`Rest    `***  
 09.30 ***`Rest    `***  
 09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row:** 50x40x4  
