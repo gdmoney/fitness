@@ -5,14 +5,14 @@
 
 *****
 
-10.10 ***`Upper-3 `*** **run:** 3 miles @ 7:45 pace (Helix) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
-10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
+10.10 ***`Lower-3 `*** **run:** 3 miles @ 7:45 pace (track) • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
+10.09 ***`Upper-3 `*** **elliptical:** 15 min • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
 10.08 ***`Rest    `***  
-10.07 ***`Upper-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
-10.06 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
-10.05 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 52x15x4  
-10.04 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 200x8x4 • **RDL:** 185x8x4  
-- **Mon** - 
+10.07 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
+10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
+10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
+10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - 
 
 10.03 ***`Rest    `***  
 10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
