@@ -12,7 +12,7 @@
 10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
 10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
-- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - 
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** -
 
 10.03 ***`Rest    `***  
 10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
@@ -21,7 +21,7 @@
 09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row:** 50x40x4  
 09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 10x4 • **DB OH press:** 50x15x4  
 09.27 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **DB lunge:** 100x20x3  
-- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - travel day; drove from SJ to SD with a stop in Bakersfield. **Sat** - squat was moderate with good form; continue adding 5 lbs per week; forearms are still sore from Wednesday's DB row. **Sun** - was really tired all day after sleeping like shit so I ended up taking another rest day. **Recap** - mediocre week overall hampered by travel but on the plus side, my elbow is feeling better so I'm excited to add Pull movements once again.
+- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - travel day; drove from SJ to SD with a stop in Bakersfield. **Sat** - squat was moderate with good form; continue adding 5 lbs per week; forearms are still sore from Wednesday's DB row. **Sun** - was really tired all day after sleeping like shit so I ended up taking another rest day. **Recap** - mediocre week overall hampered by travel, but on the plus side, my elbow is feeling better so I'm excited to add Pull movements once again.
 
 09.26 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.25 ***`Rest    `***  
