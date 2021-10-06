@@ -12,7 +12,7 @@
 10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
 10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
-- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** -
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow. **Wed** - 
 
 10.03 ***`Rest    `***  
 10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
