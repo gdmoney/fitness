@@ -5,14 +5,14 @@
 
 *****
 
-10.10 ***`Upper-3 `*** **elliptical:** 15 min • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
-10.09 ***`Lower-3 `*** **run:** 3 miles @ 7:45 pace (track) • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
+10.10 ***`Upper-3 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
+10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
 10.08 ***`Rest    `***  
 10.07 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
 10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
 10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
-- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow. **Wed** - 
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - 
 
 10.03 ***`Rest    `***  
 10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
