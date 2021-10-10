@@ -5,14 +5,23 @@
 
 *****
 
-10.10 ***`Upper-3 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **side plank:** 60secx3  
-10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 265x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
+10.17 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **BB OH press:** 105x12x4 • **BB row:** 185x10x4 • **BB curl:** 70x10x4  
+10.16 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 150x15x4 • **good morning:** 70x12x4  
+10.15 ***`Rest    `***   
+10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **BB curl:** 70x10x4 • **plank-wtd:** 60secx3  
+10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
+10.12 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x15x4 • **pulldown:** 25x4  
+10.11 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
+- **Mon** -
+
+10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 65x10x4  
+10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
 10.08 ***`Rest    `***   
 10.07 ***`Lower-2 `*** **DB squat-wtd:** 165x10x4 • **DB lunge:** 105x20x3  
 10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
 10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
-- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - row was light/moderate and didn't aggravate my elbow; try adding BB row next week. **Thur** - track was in use so I couldn't run; used a 60lb weighted vest on DB squat; it was moderate in terms of weight but brutal on cardio. **Sat** - 
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - row was light/moderate and didn't aggravate my elbow; try adding BB row next week. **Thur** - track was in use so I couldn't run; used a 60lb weighted vest on DB squat; it was moderate in terms of weight but brutal on cardio. **Sat** - deadlifted for the first time since early August; tried mixed grip for the first time; form wasn't great but wasn't horrible either. **Sun** - felt surprisingly strong in the morning; DB OH press was moderate and felt lighter than ever before; supersetted with DB row; did curl for the first time since April and didnt aggravate my elbow; keep doing rows and curls for another week and then add chinups and neutral grip pullups. **Recap** - good week; it feels great to deadlift and start doing Pull movements again.
 
 10.03 ***`Rest    `***  
 10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
@@ -32,7 +41,7 @@
 09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
 - **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - run was easy, go up to 7:15 next week on the treadmill; squat was brutal on the cardio, did it on a 4 min interval. **Fri** - OH press was moderate/heavy. **Sun** - ran on the treadmill instead of the track so I decided to step up the pace a bit; it was still easy/moderate. **Recap** - another solid week; shoulder is better and I made progress on all 3 fronts (lower, uppper, cardio); travel week next week so I'll have to augment.
 
-09.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+9.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.18 ***`Rest    `***  
 09.17 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 20x4 • **DB OH press:** 45x15x4  
 09.16 ***`Lower-2 `*** **run:** 2 miles @ 7:35 pace (Helix) • **DB squat:** 105x15x4  
@@ -68,7 +77,7 @@
 08.23 ***`Cardio-1`*** **run:** 3 miles @ 9:00 pace  
 - **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - felt easy but broke good sweat; go for 8:30 pace next week. **Sat** - hit the hotel gym in the AM; elliptical machine didn't feel right so I cut it short; pulldowns and goblet squat felt great; keep adding resistance exercises. **Sun** - decided to work out instead of taking a rest day; no pain on DB OH press. **Recap** - solid week; I'm continuing to make good progress on cardio and I'm starting to add strength exercises once again.
 
-08.22 ***`Rest    `*** **rest**  
+8.22 ***`Rest    `*** **rest**  
 08.21 ***`Cardio-2`*** **elliptical:** 35 min  
 08.20 ***`Cardio-1`*** **run:** 5 miles (lake)  
 08.19 ***`Cardio-2`*** **elliptical:** 30 min  
@@ -104,7 +113,7 @@
 07.26 ***`Lower-1 `*** **back squat:** 250x4x3 • **RDL:** 225x8x4 • **front rack lunge:** 95x20x4 • **plank-wtd:** 25x60x3  
 - **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - another rest day; I think it's a abdominal side muscle pain rather than a cracked rib; pain is a bit less today. **Thur** - did rehab work. **Fri** - OH press and shrug irritated the side injury a little but not too bad. **Sat** - side injury is feeling a little better. **Sun** - side injury is continuing to improve; try to add some Lower movements next week. **Recap** - set back by yet another injury.
 
-07.25 ***`Rest    `*** **rest**  
++07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
 07.24 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
 07.22 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 10x15x3  
