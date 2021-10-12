@@ -12,7 +12,7 @@
 10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
 10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x15x4 • **BB row:** 185x10x4 • **BB curl:** 70x10x4  
 10.12 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
-- **Mon** - bitched out. **Tue** -
+- **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; 
 
 10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 65x10x4  
 10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
