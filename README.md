@@ -5,12 +5,12 @@
 
 *****
 
-10.17 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **BB OH press:** 105x12x4 • **BB row:** 185x10x4 • **BB curl:** 70x10x4  
-10.16 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 150x15x4 • **good morning:** 70x12x4  
+10.17 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **TBD**  
+10.16 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 285x5x4 • **hip thrust:** 150x15x4 • **good morning:** 70x12x4  
 10.15 ***`Rest    `***   
-10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **BB curl:** 70x10x4 • **plank-wtd:** 60secx3  
+10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **DB curl:** 40x10x4  
 10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **BB lunge:** 105x20x3  
-10.12 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x15x4 • **pulldown:** 25x4  
+10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x15x4 • **BB row:** 185x10x4 • **BB curl:** 70x10x4  
 10.11 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
 - **Mon** -
 
