@@ -5,14 +5,14 @@
 
 *****
 
-10.17 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **TBD**  
+10.17 ***`Cardio-2`*** **run:** 2 miles - tempo (street)  
 10.16 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 285x5x4 • **hip thrust:** 150x15x4 • **good morning:** 70x12x4  
-10.15 ***`Rest    `***   
-10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **DB curl:** 40x10x4  
-10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **BB lunge-rvs:** 105x20x3  
+10.15 ***`Cardio-1`***   
+10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x3 • **DB row:** 90x20x4 • **rear delt fly:** 15x20x4  
+10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52.5x20x3  
 10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x12x4 • **DB row:** 90x20x4 • **BB curl:** 70x12x4  
 10.12 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
-- **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; OH press was heavier than I expected so I cut the reps down to 12; stick to DB vs BB row for now to avoid added strain on my lower back; curl felt lighter than last week. **Wed** -
+- **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; OH press was heavier than I expected so I cut the reps down to 12; stick to DB vs BB row for now to avoid added strain on my lower back; curl felt lighter than last week. **Wed** - squat was moderate with good form; lunge really hammered the quads; stick with reverse lunge for now for better quad activation. **Thur** - 
 
 10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 65x10x4  
 10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
@@ -113,7 +113,7 @@
 07.26 ***`Lower-1 `*** **back squat:** 250x4x3 • **RDL:** 225x8x4 • **front rack lunge:** 95x20x4 • **plank-wtd:** 25x60x3  
 - **Week 3:** **Mon** - squat was moderate/heavy; cracked my lower left rib (I think); I think the belt was a bit tight plus I had slightly injured that area two weeks ago when I used my old belt which was too tight; RDL was moderate and ROM was limited due to the sharp rib pain; lunge form continues to improve; plank was tough. **Tue** - rest day; rib still hurts the same as yesterday. **Wed** - another rest day; I think it's a abdominal side muscle pain rather than a cracked rib; pain is a bit less today. **Thur** - did rehab work. **Fri** - OH press and shrug irritated the side injury a little but not too bad. **Sat** - side injury is feeling a little better. **Sun** - side injury is continuing to improve; try to add some Lower movements next week. **Recap** - set back by yet another injury.
 
-+07.25 ***`Rest    `*** **rest**  
+07.25 ***`Rest    `*** **rest**  
 07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
 07.24 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
 07.22 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 10x15x3  
