@@ -5,14 +5,14 @@
 
 *****
 
-10.17 ***`Cardio-2`*** **run:** 2 miles - sprints (street)  
-10.16 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 285x5x4 • **hip thrust:** 150x15x4 • **good morning:** 70x12x4  
-10.15 ***`Cardio-1`*** **run:** 2 miles - sprints (street)  
+10.17 ***`Cardio  `*** **run:** 2 miles - sprints (street)  
+10.16 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 285x5x4 • **hip thrust:** 155x15x4 • **good morning:** 70x12x4  
+10.15 ***`Rest    `***  
 10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x3 • **DB row:** 90x20x4 • **BB curl:** 75x10x4  
 10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
 10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x12x4 • **DB row:** 90x20x4 • **BB curl:** 70x12x4  
 10.12 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
-- **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; OH press was heavier than I expected so I cut the reps down to 12; stick to DB vs BB row for now to avoid added strain on my lower back; curl felt lighter than last week. **Wed** - squat was moderate with good form; lunge really hammered the quads; stick with reverse lunge for now for better quad activation. **Thur** - OH press was moderate; curl keeps getting lighter but have a slight shoulder ache the next morning. **Fri** - 
+- **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; OH press was heavier than I expected so I cut the reps down to 12; stick to DB vs BB row for now to avoid added strain on my lower back; curl felt lighter than last week. **Wed** - squat was moderate with good form; lunge really hammered the quads; stick with reverse lunge for now for better quad activation. **Thur** - OH press was moderate; curl keeps getting lighter but have a slight shoulder ache the next morning. **Sat** - deadlift was moderate; form is still not great; I'm rounding my back too much. **Sun** - 
 
 10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 65x10x4  
 10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
