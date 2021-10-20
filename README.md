@@ -12,7 +12,7 @@
 10.20 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
 10.19 ***`Upper-1 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **DB curl:** 40x10x4  
 10.18 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 210x8x4 • **RDL:** 200x8x4  
-- **Mon** - run was easy; go up to 7 min pace next week; squat was moderate the first two sets and heavy the last two; I kept good form throughout though; RDL was light/moderate and my form was better than last week. **Tue** - OH press was moderate the first two sets and heavy the last two; row was light/moderate; curl was also moderate. **Wed** -
+- **Mon** - run was easy; go up to 7 min pace next week; squat was moderate the first two sets and heavy the last two; I kept good form throughout though; RDL was light/moderate and my form was better than last week. **Tue** - OH press was moderate the first two sets and heavy the last two; row was light/moderate; curl was also moderate. **Wed** - 
 
 10.17 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
 10.16 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 285x5x4 • **hip thrust:** 155x15x4 • **good morning:** 70x12x4  
