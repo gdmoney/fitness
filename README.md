@@ -50,7 +50,7 @@
 09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
 - **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - run was easy, go up to 7:15 next week on the treadmill; squat was brutal on the cardio, did it on a 4 min interval. **Fri** - OH press was moderate/heavy. **Sun** - ran on the treadmill instead of the track so I decided to step up the pace a bit; it was still easy/moderate. **Recap** - another solid week; shoulder is better and I made progress on all 3 fronts (lower, uppper, cardio); travel week next week so I'll have to augment.
 
-9.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
+09.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.18 ***`Rest    `***  
 09.17 ***`Upper-2 `*** **elliptical:** 15 min • **pulldown:** 20x4 • **DB OH press:** 45x15x4  
 09.16 ***`Lower-2 `*** **run:** 2 miles @ 7:35 pace (Helix) • **DB squat:** 105x15x4  
@@ -86,7 +86,7 @@
 08.23 ***`Cardio-1`*** **run:** 3 miles @ 9:00 pace  
 - **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - felt easy but broke good sweat; go for 8:30 pace next week. **Sat** - hit the hotel gym in the AM; elliptical machine didn't feel right so I cut it short; pulldowns and goblet squat felt great; keep adding resistance exercises. **Sun** - decided to work out instead of taking a rest day; no pain on DB OH press. **Recap** - solid week; I'm continuing to make good progress on cardio and I'm starting to add strength exercises once again.
 
-8.22 ***`Rest    `*** **rest**  
+08.22 ***`Rest    `*** **rest**  
 08.21 ***`Cardio-2`*** **elliptical:** 35 min  
 08.20 ***`Cardio-1`*** **run:** 5 miles (lake)  
 08.19 ***`Cardio-2`*** **elliptical:** 30 min  
