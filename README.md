@@ -6,13 +6,13 @@
 *****
 
 10.24 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
-10.23 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 295x5x4 • **hip thrust:** 160x15x4 • **good morning:** 70x12x4  
+10.23 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 295x5x4 • **hip thrust:** 165x15x4 • **good morning:** 70x12x4  
 10.22 ***`Rest    `***  
 10.21 ***`Upper-2 `*** **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 35x10+30x10+25x10x3  
 10.20 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
 10.19 ***`Upper-1 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **DB curl:** 40x10x4  
 10.18 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 210x8x4 • **RDL:** 200x8x4  
-- **Mon** - run was easy; go up to 7 min pace next week; squat was moderate the first two sets and heavy the last two; I kept good form throughout though; RDL was light/moderate and my form was better than last week. **Tue** - OH press was moderate the first two sets and heavy the last two; row was light/moderate; curl was also moderate. **Wed** - run was even easier than on Monday; squat was moderate/heavy; reverse lunge really hammers the cardio. **Thur** - OH press was moderate thruout and lighter than on Tue. **Sat** - 
+- **Mon** - run was easy; go up to 7 min pace next week; squat was moderate the first two sets and heavy the last two; I kept good form throughout though; RDL was light/moderate and my form was better than last week. **Tue** - OH press was moderate the first two sets and heavy the last two; row was light/moderate; curl was also moderate. **Wed** - run was even easier than on Monday; squat was moderate/heavy; reverse lunge really hammers the cardio. **Thur** - OH press was moderate thruout and lighter than on Tue. **Sat** - deadlift was moderate; form was better than last week but still not as good as it used to be; hip thrust was also light/moderate. **Sun** - 
 
 10.17 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
 10.16 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 285x5x4 • **hip thrust:** 155x15x4 • **good morning:** 70x12x4  
