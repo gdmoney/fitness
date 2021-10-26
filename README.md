@@ -8,11 +8,11 @@
 10.31 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
 10.30 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 305x5x4 • **hip thrust:** 165x15x4 • **good morning:** 70x12x4  
 10.29 ***`Rest    `***  
-10.28 ***`Upper-2 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **CB curl:** 35x10+30x10+25x10x3  
+10.28 ***`Upper-2 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row:** 90x24x4 • **CB curl:** 35x10+30x10+25x10x3  
 10.27 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-10.26 ***`Upper-1 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **DB curl:** 45x10x4  
+10.26 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 115x12x4 • **DB row:** 90x24x4 • **BB curl:** 95x10x4  
 10.25 ***`Lower-1 `*** **run:** 1 miles @ 7:00 pace (trdml) • **back squat:** 215x8x4 • **RDL:** 205x8x4  
-- **Mon** - run was easy but I had to cut it short due time constraint in the am; squat was heavy but my form was good for the most part; didn't feel my strongest in the am without breakfast and only a half a cup of coffee; RDL was light/moderate. **Tue** -
+- **Mon** - run was easy but I had to cut it short due a time constraint in the am; squat was heavy but my form was good for the most part; didn't feel my strongest in the am without breakfast and only a half a cup of coffee; RDL was light/moderate. **Tue** - run was really easy; everything else was moderate. **Wed** - 
 
 10.24 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
 10.23 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 295x5x4 • **hip thrust:** 165x15x4 • **good morning:** 70x12x4  
