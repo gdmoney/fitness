@@ -10,7 +10,7 @@
 11.05 ***`Rest    `***  
 11.04 ***`Upper-2 `*** **run:** 2 miles - sprints • **DB OH press:** 52x16x4 • **DB row:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
 11.03 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-11.02 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 120x12x4 • **DB row:** 90x24x4 • **BB curl:** 100x10x4  
+11.02 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 120x12x4 • **DB row:** 90x24x4 • **BB curl:** 105x10x4  
 11.01 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 220x8x4 • **RDL:** 215x8x4  
 - **Mon** -
 
