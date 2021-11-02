@@ -8,11 +8,11 @@
 11.07 ***`Cardio  `*** **TBD**  
 11.06 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 315x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
 11.05 ***`Rest    `***  
-11.04 ***`Upper-2 `*** **run:** 2 miles - sprints • **DB OH press:** 52x16x4 • **DB row:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
-11.03 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-11.02 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 120x12x4 • **DB row:** 90x24x4 • **BB curl:** 105x10x4  
-11.01 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 220x8x4 • **RDL:** 215x8x4  
-- **Mon** -
+11.04 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x16x4 • **DB row:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
+11.03 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
+11.02 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 120x12x4 • **DB row:** 90x24x4 • **BB curl:** 105x10x4  
+11.01 ***`Lower-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **back squat:** 220x8x4 • **RDL:** 215x8x4  
+- **Mon** - squat was heavy but my form was good up until the last couple of reps and my ROM was better than last week; RDL was light/moderate; form was decent but ROM can be better. **Tue** - 
 
 10.31 ***`Cardio  `***   
 10.30 ***`Lower-3 `*** **run:** 2 miles - sprints • **good morning:** 70x12x4 • **hip thrust:** 165x15x4 • **deadlift:** 305x5x4  
@@ -20,7 +20,7 @@
 10.28 ***`Upper-2 `*** **run:** 2 miles - sprints • **DB OH press:** 52x16x4 • **DB row:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
 10.27 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
 10.26 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 115x12x4 • **DB row:** 90x24x4 • **BB curl:** 95x10x4  
-10.25 ***`Lower-1 `*** **run:** 1 miles @ 7:00 pace (trdml) • **back squat:** 215x8x4 • **RDL:** 205x8x4  
+10.25 ***`Lower-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **back squat:** 215x8x4 • **RDL:** 205x8x4  
 - **Mon** - run was easy but I had to cut it short due a time constraint in the am; squat was heavy but my form was good for the most part; didn't feel my strongest in the am without breakfast and only a half a cup of coffee; RDL was light/moderate. **Tue** - run was really easy; everything else was moderate. **Wed** - both squat and lunge were a bit easier than last week but still cardio heavy; go for 12 reps on squat next week. **Thur** - upped OH press to 16 reps; it was moderate; Helix track was in use so I ran on Fri morning instead. **Sat** - deadlift was moderate and slightly easier than last week; form was also a little better; flipped the exercise order, which I liked. **Sun** - ended up resting as I had to drive to LAX to pick up L & M. **Recap** - good week; stick to the same program for 2 more weeks and then reevaluate.
 
 10.24 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
