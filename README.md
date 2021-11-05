@@ -12,7 +12,7 @@
 11.03 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 120x12x4 • **DB row:** 90x24x4 • **BB curl:** 105x10x4  
 11.02 ***`Rest    `***  
 11.01 ***`Lower-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **back squat:** 220x8x4 • **RDL:** 215x8x4  
-- **Mon** - squat was heavy but my form was good up until the last couple of reps and my ROM was better than last week; RDL was light/moderate; form was decent but ROM can be better. **Tue** - changed the rest day from Thur to Tue. **Wed** - all three were moderate. **Thur** - run was easy again; go up in pace next week; 
+- **Mon** - squat was heavy but my form was good up until the last couple of reps and my ROM was better than last week; RDL was light/moderate; form was decent but ROM can be better. **Tue** - changed the rest day from Thur to Tue. **Wed** - all three were moderate. **Thur** - run was easy again; go up in pace next week; squat was much easier than last week and I did on 3 min interval; go up to 12 reps next week. **Fri** - OH press was moderate/heavy; I think I've concluded quite definitively at this point that I'm stronger in the evenings. **Sat** - 
 
 10.31 ***`Cardio  `***   
 10.30 ***`Lower-3 `*** **run:** 2 miles - sprints • **good morning:** 70x12x4 • **hip thrust:** 165x15x4 • **deadlift:** 305x5x4  
