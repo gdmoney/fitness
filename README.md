@@ -10,9 +10,9 @@
 11.12 ***`Rest    `***  
 11.11 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x16x4 • **DB row:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
 11.10 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
-11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x4 • **DB row:** 90x24x4 • **BB curl:** 110x10x4  
+11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row:** 90x24x4  
 11.08 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 225x8x4 • **RDL:** 225x8x4  
-- **Mon** - 
+- **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - 
 
 11.07 ***`Flex    `*** **rest**  
 11.06 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 315x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
