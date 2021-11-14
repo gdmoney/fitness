@@ -5,14 +5,14 @@
 
 *****
 
-11.14 ***`Flex    `*** **TBD**  
-11.13 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 325x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
-11.12 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x16x4 • **DB row:** 90x24x4  
+11.14 ***`Flex    `***   
+11.13 ***`Lower-3 `***   
+11.12 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 125x12x3 • **DB row:** 90x24x4  
 11.11 ***`Rest    `***  
 11.10 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
 11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row:** 90x24x4  
 11.08 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 225x8x4 • **RDL:** 225x8x4  
-- **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - first time doing 12 reps on the wtd DB squat; weight was moderate but I got quite winded. **Fri** - 
+- **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - first time doing 12 reps on the wtd DB squat; weight was moderate but I got quite winded. **Fri** - OH press was moderate and a little lighter than on Tue. **Sat** - ended up taking a rest day as it was Tina's B-day party. **Sun** - anotehr R&R day. **Recap** - decent week; add chinups next week.
 
 11.07 ***`Flex    `*** **rest**  
 11.06 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 315x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
