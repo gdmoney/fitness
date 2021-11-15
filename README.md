@@ -8,11 +8,11 @@
 11.21 ***`Flex    `*** **TBD**  
 11.20 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 325x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
 11.19 ***`Rest    `***  
-11.18 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 130x12x3 • **DB row:** 90x24x4 • **chinups:** nnx3  
+11.18 ***`Upper-2 `*** **elliptical:** 15 min • **BB OH press:** 130x12x3 • **DB row:** 90x24x4 • **chinups:** nnx3  
 11.17 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
 11.16 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 130x12x3 • **DB row:** 90x24x4 • **chinups:** nnx3  
 11.15 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 230x6x4 • **RDL:** 235x8x4  
-- **Mon** - 
+- **Mon** -
 
 11.14 ***`Flex    `***   
 11.13 ***`Lower-3 `***   
