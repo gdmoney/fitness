@@ -12,7 +12,7 @@
 11.17 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
 11.16 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 130x12x3 • **DB row:** 90x24x4 • **chinups:** nnx3  
 11.15 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 230x6x4 • **RDL:** 235x8x4  
-- **Mon** -
+- **Mon** - squat was heavy; ROM was good but I have a tendency to lean forward occasionally; RDL was moderate/heavy with good form; stay at this weight another week. **Tue** - 
 
 11.14 ***`Flex    `***   
 11.13 ***`Lower-3 `***   
