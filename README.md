@@ -5,6 +5,15 @@
 
 *****
 
+11.28 ***`Flex    `***   
+11.27 ***`Lower-3 `***   
+11.26 ***`Rest    `***  
+11.25 ***`Upper-2 `*** **elliptical:** 15 min  
+11.24 ***`Lower-2 `*** **run:** 2 miles - sprints  
+11.23 ***`Upper-1 `*** **rest**  
+11.22 ***`Lower-1 `*** **rest**  
+- **Mon** - back injury turned out to be significantly worse than I had hoped. **Tue** - back felt better but still hurt. **Wed** - back felt much better; run didn't aggravate it. **Thur** -
+
 11.21 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 325x5x3 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
 11.21 ***`Upper-2 `*** **pullups-ntrl:** 10x3  
 11.18 ***`Rest    `***  
