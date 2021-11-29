@@ -5,13 +5,13 @@
 
 *****
 
-11.28 ***`Flex    `*** **TBD**  
-11.27 ***`Lower-3 `*** **TBD**  
-11.26 ***`Rest    `***   
-11.25 ***`Upper-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
-11.24 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
-11.23 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
-11.22 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
+12.05 ***`Flex    `*** **TBD**  
+12.04 ***`Lower-3 `*** **TBD**  
+12.03 ***`Rest    `***   
+12.02 ***`Upper-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
+12.01 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
+11.30 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
+11.29 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
 - **Mon** - run was easy;  
 
 11.28 ***`Flex    `***   
