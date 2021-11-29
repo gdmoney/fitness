@@ -5,14 +5,23 @@
 
 *****
 
+11.28 ***`Flex    `*** **TBD**  
+11.27 ***`Lower-3 `*** **TBD**  
+11.26 ***`Rest    `***   
+11.25 ***`Upper-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
+11.24 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
+11.23 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
+11.22 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
+- **Mon** - run was easy;  
+
 11.28 ***`Flex    `***   
-11.27 ***`Lower-3 `***   
-11.26 ***`Rest    `***  
-11.25 ***`Upper-2 `*** **elliptical:** 15 min  
+11.27 ***`Lower-3 `*** **run:** 2 miles - sprints  
+11.26 ***`Rest    `*** **elliptical:** 15 min  
+11.25 ***`Upper-2 `***   
 11.24 ***`Lower-2 `*** **run:** 2 miles - sprints  
-11.23 ***`Upper-1 `*** **rest**  
-11.22 ***`Lower-1 `*** **rest**  
-- **Mon** - back injury turned out to be significantly worse than I had hoped. **Tue** - back felt better but still hurt. **Wed** - back felt much better; run didn't aggravate it. **Thur** -
+11.23 ***`Upper-1 `***   
+11.22 ***`Lower-1 `***   
+- **Mon** - back injury turned out to be significantly worse than I had hoped. **Tue** - back felt better but still hurt. **Wed** - back felt much better; run didn't aggravate it. **Thur** - another rest day. **Fri**, **Sat**, **Sun** - back continiued to get better. **Recap** - back injury hampered progress, but it worked out well because I was due for a deload week after 10 weeks of increasingly high intensity training. Next week is a travel week so I'll have to augment before I start a new program cycle.
 
 11.21 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 325x5x3 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
 11.21 ***`Upper-2 `*** **pullups-ntrl:** 10x3  
