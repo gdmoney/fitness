@@ -11,8 +11,8 @@
 12.02 ***`Upper-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
 12.01 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
 11.30 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4 • **DB incl press:** 75xnnx4  
-11.29 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
-- **Mon** - run was easy;  
+11.29 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 105x15x4 • **DB lunge-rvs:** 45x20x3  
+- **Mon** - run was easy; squat was moderate; back didn't hurt but my left knee was making a popping sound so I didn't go heavier. **Tue** - run was easy again; go up in pace or distance tomorrow; 
 
 11.28 ***`Flex    `***   
 11.27 ***`Lower-3 `*** **run:** 2 miles - sprints  
