@@ -5,14 +5,14 @@
 
 *****
 
-12.05 ***`Flex    `*** **TBD**  
-12.04 ***`Lower-3 `*** **TBD**  
-12.03 ***`Rest    `***   
-12.02 ***`Upper-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** 75xnnx4  
-12.01 ***`Lower-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **DB squat:** nnnx12x4 • **DB lunge-rvs:** nnx20x3  
+12.05 ***`Flex    `***   
+12.04 ***`Lower-3 `***   
+12.03 ***`Rest    `***   
+12.02 ***`Upper-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **DB OH press:** 65x10x4 • **DB row:** 75x40x4  
+12.01 ***`Lower-2 `*** **run:** 2 miles @ 6:45 pace (trdml)  
 11.30 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x4 • **DB row:** 75x40x4  
 11.29 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 105x15x4 • **DB lunge-rvs:** 45x20x3  
-- **Mon** - run was easy; squat was moderate; back didn't hurt but my left knee was making a popping sound so I didn't go heavier. **Tue** - run was easy again; go up in pace or distance tomorrow; OH press was moderate. **Wed** - run was easy yet again; 
+- **Mon** - run was easy; squat was moderate; back didn't hurt but my left knee was making a popping sound so I didn't go heavier. **Tue** - run was easy again; go up in pace or distance tomorrow; OH press was moderate. **Wed** - run was easy yet again; skipped the evening session. **Thur** - OH press was moderate again. **Fri** - travel day. **Sat/Sun** - rest. **Recap** - decent week; back is feeling better so should be able to start doing Lower movements again.
 
 11.28 ***`Flex    `***   
 11.27 ***`Lower-3 `*** **run:** 2 miles - sprints  
