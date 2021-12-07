@@ -12,7 +12,7 @@
 12.08 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
 12.07 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row:** 90x24x4 • **pullups-ntrl:** 10x3  
 12.06 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 215x8x4 • **RDL:** 185x8x4  
-- **Mon** - 
+- **Mon** - squat was moderate and the form was good; RDL was light and I had only a very slight back pain. **Tue** - 
 
 12.05 ***`Flex    `***   
 12.04 ***`Lower-3 `***   
