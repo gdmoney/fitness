@@ -5,14 +5,23 @@
 
 *****
 
+12.19 ***`Flex    `*** **TBD**  
+12.18 ***`Lower-3 `*** **TBD**  
+12.15 ***`Rest    `***   
+12.17 ***`Upper-2 `*** **elliptical:** 15 min • **BB OH press:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
+12.16 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat:** 100x20x4  
+12.14 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x17x4 • **DB row:** 90x24x4 • **pullups-ntrl:** 10x3  
+12.13 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 220x8x4 • **RDL:** 185x8x4  
+- **Mon** -
+
 12.12 ***`Flex    `*** **TBD**  
-12.11 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 225x8x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
-12.10 ***`Upper-2 `*** **run:** 2 miles - sprints • **DB OH press:** 52x18x4 • **DB row:** 90x24x4 • **pullups-ntrl:** 10x3  
+12.11 ***`Lower-3 `*** **rest**  
+12.10 ***`Upper-2 `*** **run:** 2 miles - sprints • **BB OH press:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
 12.09 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
 12.08 ***`Rest    `***   
 12.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x17x4 • **DB row:** 90x24x4  
 12.06 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 215x8x4 • **RDL:** 185x8x4  
-- **Mon** - squat was moderate and form was good; RDL was light and I had only a very slight back pain. **Tue** - back was a bit more sore and OH press seemed to aggravate it. **Wed** - back was hurting a bit so decided to switch rest days. **Thur** - squat was moderate; skipped the lunge as it didn't agree with my left knee. **Fri** - 
+- **Mon** - squat was moderate and form was good; RDL was light and I had only a very slight back pain. **Tue** - back was a bit more sore and OH press seemed to aggravate it. **Wed** - back was hurting a bit so decided to switch rest days. **Thur** - squat was moderate; skipped the lunge as it didn't agree with my left knee. **Fri** - OH press was moderate/heavy with good form; wore a belt and didn't have any back pain. **Sat** - ended up resting to rehab back and left knee. **Recap** - ok week; OH press is starting to become decent again even though I still can't bench.
 
 12.05 ***`Flex    `***   
 12.04 ***`Lower-3 `***   
