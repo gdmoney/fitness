@@ -11,8 +11,8 @@
 12.17 ***`Upper-2 `*** **elliptical:** 15 min • **BB OH press:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
 12.16 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat:** 100x20x4  
 12.14 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x17x4 • **DB row:** 90x24x4 • **pullups-ntrl:** 10x3  
-12.13 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 220x8x4 • **RDL:** 185x8x4  
-- **Mon** -
+12.13 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
+- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - 
 
 12.12 ***`Flex    `*** **TBD**  
 12.11 ***`Lower-3 `*** **rest**  
