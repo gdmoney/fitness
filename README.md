@@ -12,9 +12,9 @@
 12.16 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat:** 100x20x4  
 12.14 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press-std:** 50x20x5 • **pullups-ntrl:** 10x5  
 12.13 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
-- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** - 
+- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** -
 
-12.12 ***`Flex    `*** **TBD**  
+12.12 ***`Flex    `*** **rest**  
 12.11 ***`Lower-3 `*** **rest**  
 12.10 ***`Upper-2 `*** **run:** 2 miles - sprints • **BB OH press:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
 12.09 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
