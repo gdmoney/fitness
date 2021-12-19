@@ -6,13 +6,13 @@
 *****
 
 12.19 ***`Upper-3 `*** **TBD**  
-12.18 ***`Lower-3 `*** **TBD**  
-12.17 ***`Upper-2 `*** **elliptical:** 15 min • **BB OH press:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
+12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
+12.17 ***`Upper-2 `*** **rest**  
 12.16 ***`Rest    `***   
 12.15 ***`Lower-2 `*** **DB squat:** 215x8x4  
 12.14 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press-std:** 50x20x5 • **pullups-ntrl:** 10x5  
 12.13 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
-- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** - squat was moderate/heavy; try placing the bar a bit lower. **Thur** - got rained out so I took a rest day. **Fri** -
+- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** - squat was moderate/heavy; try placing the bar a bit lower. **Thur** - got rained out so I took a rest day. **Fri** - unplanned rest day. **Sat** - my first time using a multi-grip bar on OH press; it felt a little harder than a straight bar but the movement felt good; it was moderate/heavy on the first two sets and the last set was really heavy. **Sun** - 
 
 12.12 ***`Flex    `*** **rest**  
 12.11 ***`Lower-3 `*** **rest**  
