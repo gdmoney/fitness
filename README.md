@@ -5,14 +5,32 @@
 
 *****
 
-12.19 ***`Upper-3 `*** **TBD**  
+01.02 ***`Upper-3 `*** **TBD**  
+01.01 ***`Lower-3 `*** **TBD**  
+12.31 ***`Upper-2 `*** **TBD**  
+12.30 ***`Rest    `***   
+12.29 ***`Lower-2 `*** **TBD**  
+12.28 ***`Upper-1 `*** **TBD**  
+12.27 ***`Lower-1 `*** **TBD**  
+- **Mon** -
+
+12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row:** 90x30x4  
+12.26 ***`Lower-3 `*** **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
+12.24 ***`Upper-2 `*** **rest**  
+12.23 ***`Rest    `***   
+12.22 ***`Lower-2 `*** **rest**  
+12.21 ***`Upper-1 `*** **BB OH press:** 135x10x4 • **DB row:** 90x24x3  
+12.21 ***`Lower-1 `*** **back squat:** 195x8x4  
+- **Mon** - rest. **Tue** - doubled up; did technique work on squat, working on lower bar placement and keeping the torso more upright; OH press was moderate/heavy; DB row was light. **Wed, Thur, Fri, Sat** - rest. **Sun** -doubled up; squat was moderate on intensity but heavy on cardio; OH press was moderate/heavy; DB row was light/moderate. **Recap** - poor week, hampered by the holidays and rain, but at least I finished it strong. OH press keeps progressing and my back continues to improve.
+
+12.19 ***`Upper-3 `*** **rest**  
 12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
 12.17 ***`Upper-2 `*** **rest**  
 12.16 ***`Rest    `***   
 12.15 ***`Lower-2 `*** **DB squat:** 215x8x4  
 12.14 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press-std:** 50x20x5 • **pullups-ntrl:** 10x5  
 12.13 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
-- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** - squat was moderate/heavy; try placing the bar a bit lower. **Thur** - got rained out so I took a rest day. **Fri** - unplanned rest day. **Sat** - my first time using a multi-grip bar on OH press; it felt a little harder than a straight bar but the movement felt good; it was moderate/heavy on the first two sets and the last set was really heavy. **Sun** - 
+- **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** - squat was moderate/heavy; try placing the bar a bit lower. **Thur** - got rained out so I took a rest day. **Fri** - unplanned rest day. **Sat** - my first time using a multi-grip bar on OH press; it felt a little harder than a straight bar but the movement felt good; it was moderate/heavy on the first two sets and the last set was really heavy. **Sun** - rest. **Recap** - poor week.
 
 12.12 ***`Flex    `*** **rest**  
 12.11 ***`Lower-3 `*** **rest**  
