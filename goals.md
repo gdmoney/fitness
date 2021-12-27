@@ -21,7 +21,7 @@
 
  *****
 
- ### 2020 Goals
+### 2020 Goals
 
 - [x]  20 pullups - not quite full ROM
 - [ ]  315 bench - did 300
