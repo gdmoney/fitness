@@ -1,6 +1,17 @@
 ## Progress
 
 
+### 2022
+
+| Period          | Squat        | Squat - BW AMRAP | Deadlift     | Pullups      | Chinups      | BB OH Press  |
+| :-------------- | :----------: | :--------------: | :----------: | :----------: | :----------: | :----------: |
+| Jan - Feb - Mar |              |                  |              |              |              |              |
+| Apr - May - Jun |              |                  |              |              |              |              |
+| Jul - Aug - Sep |              |                  |              |              |              |              |
+| Oct - Nov - Dec |              |                  |              |              |              |              |
+
+*****
+
 ### 2021
 
 | Period          | Squat        | Bench - Max  | Bench - BW AMRAP | Deadlift     | Pullups      | OH Press     | Push Press   | BB Curl      |
