@@ -472,7 +472,7 @@
 - **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt OK but the pain was still there. **Sat** and **Sun** - decided to fully rest in hopes to recover from my injury.
 
 *****
-### 2020
+## 2020
 
 01.03 ***`Cardio    `*** **run:** 2 miles - hills  
 01.02 ***`Deadlift  `*** **deadlift:** 185x12x5, 225x10x3  
