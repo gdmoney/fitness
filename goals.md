@@ -1,4 +1,7 @@
-### 2022 Goals
+## Goals
+
+
+### 2022
 
 - [ ]  TBD
 - [ ]  TBD
@@ -8,7 +11,7 @@
 
 *****
 
-### 2021 Goals
+### 2021
 
 - [x]  300 squat - original
 - [ ]  325 squat - updated
@@ -21,7 +24,7 @@
 
  *****
 
-### 2020 Goals
+### 2020
 
 - [x]  20 pullups - not quite full ROM
 - [ ]  315 bench - did 300
