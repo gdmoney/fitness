@@ -3,7 +3,7 @@
 
 ### 2022
 
-| Period          | Squat        | Squat - BW AMRAP | Deadlift     | Pullups      | Chinups      | BB OH Press  |
+| Period          | Squat        | Squat - BW AMRAP | Deadlift     | BB OH Press  | Pullups      | Chinups      |
 | :-------------- | :----------: | :--------------: | :----------: | :----------: | :----------: | :----------: |
 | Jan - Feb - Mar |              |                  |              |              |              |              |
 | Apr - May - Jun |              |                  |              |              |              |              |
