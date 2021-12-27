@@ -1,9 +1,12 @@
 ### Workout log, goals, and progress tracking.
 
 *****
-**[Training Plan](/training-plan.md) • [Progress](/progress.md) • [2021 Goals](/2021-goals.md) • [2020 Goals](/2020-goals.md)**  
+**[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md)**  
 
 *****
+
+*****
+## 2021
 
 01.02 ***`Lower-3 `*** **TBD**  
 01.01 ***`Upper-3 `*** **TBD**  
