@@ -22,9 +22,9 @@
 12.31 ***`Lower-2 `*** **TBD**  
 12.30 ***`Rest    `***   
 12.29 ***`Upper-2 `*** **TBD**  
-12.28 ***`Lower-1 `*** **TBD**  
+12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
 12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
-- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - 
+- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - 
 
 12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row:** 90x30x4  
 12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
