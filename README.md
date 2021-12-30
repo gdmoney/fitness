@@ -24,7 +24,7 @@
 12.29 ***`Rest    `***   
 12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
 12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
-- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - 
+- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** -
 
 12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row:** 90x30x4  
 12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
@@ -36,7 +36,7 @@
 - **Mon** - rest. **Tue** - doubled up; did technique work on squat, working on lower bar placement and keeping the torso more upright; OH press was moderate/heavy; DB row was light. **Wed, Thur, Fri, Sat** - rest. **Sun** -doubled up; squat was moderate on intensity but heavy on cardio; OH press was moderate/heavy; DB row was light/moderate. **Recap** - poor week, hampered by the holidays and rain, but at least I finished it strong. OH press keeps progressing and my back continues to improve.
 
 12.19 ***`Upper-3 `*** **rest**  
-12.18 ***`Lower-3 `*** **BB OH press-swiss:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
+12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
 12.17 ***`Upper-2 `*** **rest**  
 12.16 ***`Rest    `***   
 12.15 ***`Lower-2 `*** **DB squat:** 215x8x4  
