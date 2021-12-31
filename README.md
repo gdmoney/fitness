@@ -19,7 +19,7 @@
 
 01.02 ***`Lower-3 `*** **TBD**  
 01.01 ***`Upper-3 `*** **TBD**  
-12.31 ***`Lower-2 `*** **TBD**  
+12.31 ***`Lower-2 `*** **run:** 2 miles - sprints • **TBD**  
 12.30 ***`Upper-2 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 12x4 • **Arnold press:** 50x15x4 • **tri pushdown:** 25x3 • **face pull:** 25x3  
 12.29 ***`Rest    `***   
 12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
