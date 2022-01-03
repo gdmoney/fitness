@@ -17,7 +17,7 @@
 *****
 ## 2021
 
-01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x3  
+01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x5  
 01.01 ***`Rest    `***   
 12.31 ***`Lower-2 `*** **run:** 2 miles - sprints • **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
 12.30 ***`Upper-2 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 12x4 • **Arnold press:** 50x15x4 • **tri pushdown:** 25x3 • **face pull:** 25x3  
