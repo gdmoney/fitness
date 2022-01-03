@@ -17,14 +17,14 @@
 *****
 ## 2021
 
-01.02 ***`Lower-3 `*** **TBD**  
-01.01 ***`Upper-3 `*** **TBD**  
-12.31 ***`Lower-2 `*** **run:** 2 miles - sprints • **TBD**  
+01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x3  
+01.01 ***`Rest    `***   
+12.31 ***`Lower-2 `*** **run:** 2 miles - sprints • **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
 12.30 ***`Upper-2 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 12x4 • **Arnold press:** 50x15x4 • **tri pushdown:** 25x3 • **face pull:** 25x3  
 12.29 ***`Rest    `***   
 12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
 12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
-- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** -
+- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/eavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
 
 12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row:** 90x30x4  
 12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
