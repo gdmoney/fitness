@@ -11,8 +11,8 @@
 01.06 ***`Upper-2 `*** **TBD**  
 01.05 ***`Lower-2 `*** **TBD**  
 01.04 ***`Upper-1 `*** **TBD**  
-01.03 ***`Lower-1 `*** **TBD**  
-- **Mon** -
+01.03 ***`Lower-1 `*** **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
+- **Mon** - squat was moderate and form was good for the most part but I still need to keep the torso more upright; go up in weight next week. **Tue** - 
 
 *****
 ## 2021
