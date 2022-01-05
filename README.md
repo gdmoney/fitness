@@ -10,9 +10,9 @@
 01.07 ***`Rest    `***   
 01.06 ***`Upper-2 `*** **TBD**  
 01.05 ***`Lower-2 `*** **TBD**  
-01.04 ***`Upper-1 `*** **TBD**  
+01.04 ***`Upper-1 `*** **bench press:** 135x12x4 • **pullups-OH:** 10x3  
 01.03 ***`Lower-1 `*** **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
-- **Mon** - squat was moderate and form was good for the most part but I still need to keep the torso more upright; go up in weight next week. **Tue** - 
+- **Mon** - squat was moderate and form was good for the most part but I still need to keep the torso more upright; go up in weight next week. **Tue** - did bench press for the first time since June; no shoulder pain as of next morning; overhand pullups were tougher than usual, likely due to me sleeping poorly the night before. **Wed** - 
 
 *****
 ## 2021
