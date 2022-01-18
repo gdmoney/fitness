@@ -5,6 +5,24 @@
 
 *****
 
+01.23 ***`Rest    `***   
+01.22 ***`Flex    `***   
+01.21 ***`Upper-2 `***   
+01.20 ***`Lower-2 `***   
+01.19 ***`Flex    `***   
+01.18 ***`Upper-1 `***   
+01.17 ***`Lower-1 `*** **back squat:** 185x8x3 • **goblet squat:** 80x15x3  
+- **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** -
+
+01.16 ***`Rest    `***   
+01.15 ***`Flex    `***   
+01.14 ***`Upper-2 `***   
+01.13 ***`Lower-2 `***   
+01.12 ***`Flex    `***   
+01.11 ***`Upper-1 `***   
+01.10 ***`Lower-1 `***   
+- was sick all week.
+
 01.09 ***`Rest    `***   
 01.08 ***`Flex    `*** **TBD**  
 01.07 ***`Upper-2 `*** **TBD**  
@@ -12,7 +30,7 @@
 01.05 ***`Flex    `*** **pushups:** 20x10  
 01.04 ***`Upper-1 `*** **bench press:** 135x12x4 • **pullups-OH:** 10x3  
 01.03 ***`Lower-1 `*** **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
-- **Mon** - squat was moderate and form was good for the most part but I still need to keep the torso more upright; go up in weight next week. **Tue** - did bench press for the first time since June; no shoulder pain as of next morning; overhand pullups were tougher than usual, likely due to me sleeping poorly the night before. **Wed** - focused on explosiveness on the pushups. **Thur** - 
+- **Mon** - squat was moderate and form was good for the most part but I still need to keep the torso more upright; go up in weight next week. **Tue** - did bench press for the first time since June; no shoulder pain as of next morning; overhand pullups were tougher than usual, likely due to me sleeping poorly the night before. **Wed** - focused on explosiveness on the pushups. **Thur** - got sick and sat the rest of the week out. **Recap** - not a great start to the year but it can only get better.
 
 *****
 ## 2021
