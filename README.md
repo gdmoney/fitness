@@ -10,9 +10,9 @@
 01.21 ***`Upper-2 `***   
 01.20 ***`Lower-2 `***   
 01.19 ***`Flex    `***   
-01.18 ***`Upper-1 `***   
+01.18 ***`Upper-1 `*** **DB OH press:** 45x15x4 • **DB row:** 80x30x4  
 01.17 ***`Lower-1 `*** **back squat:** 185x8x3 • **goblet squat:** 80x15x3  
-- **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** -
+- **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** - felt stronger than the day before. **Wed** - 
 
 01.16 ***`Rest    `***   
 01.15 ***`Flex    `***   
