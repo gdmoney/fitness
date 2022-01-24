@@ -5,14 +5,23 @@
 
 *****
 
-01.23 ***`Rest    `***   
-01.22 ***`Flex    `***   
-01.21 ***`Upper-2 `***   
+01.30 ***`Rest    `*** **TBD**  
+01.29 ***`Flex    `*** **TBD**  
+01.28 ***`Upper-2 `*** **TBD**  
+01.27 ***`Lower-2 `*** **TBD**  
+01.26 ***`Flex    `*** **TBD**  
+01.25 ***`Upper-1 `*** **TBD**  
+01.24 ***`Lower-1 `*** **SSB squat:** nnnx10x4 • **goblet squat:** 90x15x4  
+- **Mon** - 
+
+01.23 ***`Rest    `*** **elliptical:** 15 min • **deadlift:** 275x5x2  
+01.22 ***`Flex    `*** **run:** 2 miles  
+01.21 ***`Upper-2 `*** **bench press:** 165x8x4 • **chinups:** 10x3 • **lat raise:** 15x20x3  
 01.20 ***`Lower-2 `*** **goblet squat:** 90x15x4 • **DB OH press-sngl:** 80x9x3  
 01.19 ***`Flex    `***   
 01.18 ***`Upper-1 `*** **DB OH press:** 45x15x4 • **DB row:** 80x30x4  
 01.17 ***`Lower-1 `*** **back squat:** 185x8x3 • **goblet squat:** 80x15x3  
-- **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** - felt stronger than the day before. **Wed** - rest. **Thur** - felt stronger on the goblet squat; first time doing single arm DB OH press; it was heavy but felt good. **Fri** - 
+- **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** - felt stronger than the day before. **Wed** - rest. **Thur** - felt stronger on the goblet squat; first time doing single arm DB OH press; it was heavy but felt good. **Fri** - bench was painless which is encouraging; felt weak on the chinups; slight shoulder ache from lat raise. **Sat** - cardio is still lagging. **Sun** - first time doing deadlift in over 2 months; focused on good form; no back pain. **Recap** - OK week getting back into it after being sick for 10 days.
 
 01.16 ***`Rest    `***   
 01.15 ***`Flex    `***   
