@@ -5,14 +5,14 @@
 
 *****
 
-01.30 ***`Rest    `*** **TBD**  
+01.30 ***`Rest    `***   
 01.29 ***`Flex    `*** **TBD**  
 01.28 ***`Upper-2 `*** **TBD**  
 01.27 ***`Lower-2 `*** **TBD**  
 01.26 ***`Flex    `*** **TBD**  
 01.25 ***`Upper-1 `*** **TBD**  
-01.24 ***`Lower-1 `*** **SSB squat:** nnnx10x4 • **goblet squat:** 90x15x4  
-- **Mon** - 
+01.24 ***`Lower-1 `*** **SSB squat:** 160x10x4 • **goblet squat:** 90x15x4  
+- **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** -
 
 01.23 ***`Rest    `*** **elliptical:** 15 min • **deadlift:** 275x5x2  
 01.22 ***`Flex    `*** **run:** 2 miles  
