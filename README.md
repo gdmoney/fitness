@@ -33,9 +33,9 @@
 - was sick all week.
 
 01.09 ***`Rest    `***   
-01.08 ***`Flex    `*** **TBD**  
-01.07 ***`Upper-2 `*** **TBD**  
-01.06 ***`Lower-2 `*** **TBD**  
+01.08 ***`Flex    `***   
+01.07 ***`Upper-2 `***   
+01.06 ***`Lower-2 `***   
 01.05 ***`Flex    `*** **pushups:** 20x10  
 01.04 ***`Upper-1 `*** **bench press:** 135x12x4 • **pullups-OH:** 10x3  
 01.03 ***`Lower-1 `*** **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
