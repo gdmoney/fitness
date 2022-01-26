@@ -10,9 +10,9 @@
 01.28 ***`Upper-2 `*** **TBD**  
 01.27 ***`Lower-2 `*** **TBD**  
 01.26 ***`Flex    `*** **TBD**  
-01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 80x15x4 • **DB OH press:** 52x15x3  
+01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 80x30x4 • **DB OH press:** 52x15x3  
 01.24 ***`Lower-1 `*** **SSB squat:** 160x10x4 • **goblet squat:** 90x15x4  
-- **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** -
+- **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** - felt stronger on the OH press. **Wed** - 
 
 01.23 ***`Rest    `*** **elliptical:** 15 min • **deadlift:** 275x5x2  
 01.22 ***`Flex    `*** **run:** 2 miles  
