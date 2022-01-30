@@ -6,13 +6,13 @@
 *****
 
 01.30 ***`Rest    `***   
-01.29 ***`Flex    `*** **deadlift:** 275x5x4 • **hip thrust:** 155x15x4  
-01.28 ***`Upper-2 `*** **bench press:** 170x8x4 • **BB OH press:** 135x10x3  
+01.29 ***`Flex    `***   
+01.28 ***`Upper-2 `*** **bench press:** 170x8x4 • **BB OH press:** 135x8x3 • **chinups:** 10x3  
 01.27 ***`Lower-2 `*** **goblet squat:** 100x15x4 • **DB lunge:** 40x20x3  
 01.26 ***`Flex    `*** **elliptical:** 15 min • **cable fly:** 15x4  
 01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 80x30x4 • **DB OH press:** 52x15x3  
 01.24 ***`Lower-1 `*** **SSB squat:** 160x10x4 • **goblet squat:** 90x15x4  
-- **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** - felt stronger on the OH press. **Wed** - cardio is back to normal. **Thur** - 100s felt good; go up in reps next week. **Fri** -
+- **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** - felt stronger on the OH press. **Wed** - cardio is back to normal. **Thur** - 100s felt good; go up in reps next week. **Fri** - bench was painless and felt a bit lighter than last week; keep focusing on good form; OH press was medium/heavy; did full ROM; chinups were lighter than last week but still lacking. **Sat** - rest day; legs were really sore from DB lunge; slight ache in both shoulders. **Sun** - 
 
 01.23 ***`Rest    `*** **elliptical:** 15 min • **deadlift:** 275x5x2  
 01.22 ***`Flex    `*** **run:** 2 miles  
