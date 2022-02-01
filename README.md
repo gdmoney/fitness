@@ -10,9 +10,9 @@
 02.04 ***`Upper-2 `*** **TBD**  
 02.03 ***`Lower-2 `*** **TBD**  
 02.02 ***`Flex    `*** **TBD**  
-02.01 ***`Upper-1 `*** **TBD**  
-01.31 ***`Lower-1 `*** **TBD**  
-- **Mon** - 
+02.01 ***`Upper-1 `*** **DB OH press:** 65x10x4 • **DB row:** 75x20x4 • **DB fly:** 25x15x4  
+01.31 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 130x12x4 • **DB lunge:** 40x20x3  
+- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - 
 
 01.30 ***`Rest    `***   
 01.29 ***`Flex    `***   
@@ -75,7 +75,7 @@
 12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
 12.17 ***`Upper-2 `*** **rest**  
 12.16 ***`Rest    `***   
-12.15 ***`Lower-2 `*** **DB squat:** 215x8x4  
+12.15 ***`Lower-2 `*** **back squat:** 215x8x4  
 12.14 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press-std:** 50x20x5 • **pullups-ntrl:** 10x5  
 12.13 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
 - **Mon** - squat was light on the weight but heavy on the cardio; tried to focus more on the quads with a narrower stance, keeping the knees in, and torso more upright. **Tue** - OH press felt lighter than usual; pullups felt great. **Wed** - squat was moderate/heavy; try placing the bar a bit lower. **Thur** - got rained out so I took a rest day. **Fri** - unplanned rest day. **Sat** - my first time using a Swiss bar on OH press; it felt a little harder than a straight bar but the movement felt good; it was moderate/heavy on the first two sets and the last set was really heavy. **Sun** - rest. **Recap** - poor week.
@@ -163,7 +163,7 @@
 10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 65x10x4  
 10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
 10.08 ***`Rest    `***   
-10.07 ***`Lower-2 `*** **DB squat-wtd:** 165x10x4 • **DB lunge:** 105x20x3  
+10.07 ***`Lower-2 `*** **DB squat-wtd:** 165x10x4 • **DB lunge:** 52x20x3  
 10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
 10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
@@ -175,7 +175,7 @@
 09.30 ***`Rest    `***  
 09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row:** 50x40x4  
 09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 10x4 • **DB OH press:** 50x15x4  
-09.27 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **DB lunge:** 100x20x3  
+09.27 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **DB lunge:** 52x20x3  
 - **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - travel day; drove from SJ to SD with a stop in Bakersfield. **Sat** - squat was moderate with good form; continue adding 5 lbs per week; forearms are still sore from Wednesday's DB row. **Sun** - was really tired all day after sleeping like shit so I ended up taking another rest day. **Recap** - mediocre week overall hampered by travel, but on the plus side, my elbow is feeling better so I'm excited to add Pull movements once again.
 
 09.26 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
