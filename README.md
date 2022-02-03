@@ -8,11 +8,11 @@
 02.06 ***`Rest    `***   
 02.05 ***`Flex    `***   
 02.04 ***`Upper-2 `*** **TBD**  
-02.03 ***`Lower-2 `*** **TBD**  
-02.02 ***`Flex    `*** **run:** 2 miles @ 6:45 pace (trdml) • **TBD**  
+02.03 ***`Lower-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **goblet squat:** 75x20x3 • **DB lunge:** 40x20x3 • **DB lunge-rvs:** 40x20x3  
+02.02 ***`Flex    `*** **run:** 2 miles @ 6:30 pace (trdml)  
 02.01 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x3 • **DB row:** 75x20x3  
 01.31 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 130x12x4 • **DB lunge:** 40x20x3  
-- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - 
+- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run tough; stick to 6:45 pace for now. **Thur** - 
 
 01.30 ***`Rest    `***   
 01.29 ***`Flex    `***   
