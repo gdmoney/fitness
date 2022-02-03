@@ -3,10 +3,10 @@
 
 ### 2022
 
-- [ ]  TBD
-- [ ]  TBD
-- [ ]  TBD
-- [ ]  TBD
+- [ ]  stay injury free
+- [ ]  improved posture
+- [ ]  315 squat
+- [ ]  405 deadlift
 - [ ]  TBD
 
 *****
