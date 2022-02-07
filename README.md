@@ -5,14 +5,23 @@
 
 *****
 
+02.13 ***`Rest    `***   
+02.12 ***`Flex    `***   
+02.11 ***`Upper-2 `***   
+02.10 ***`Lower-2 `***   
+02.09 ***`Flex    `***   
+02.08 ***`Upper-1 `***   
+02.07 ***`Lower-1 `***   
+- **Mon** - 
+
 02.06 ***`Rest    `***   
 02.05 ***`Flex    `***   
-02.04 ***`Upper-2 `*** **TBD**  
+02.04 ***`Upper-2 `***   
 02.03 ***`Lower-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **goblet squat:** 75x20x3 • **DB lunge:** 40x20x3 • **DB lunge-rvs:** 40x20x3  
 02.02 ***`Flex    `*** **run:** 2 miles @ 6:30 pace (trdml)  
 02.01 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x3 • **DB row:** 75x20x3  
 01.31 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 130x12x4 • **DB lunge:** 40x20x3  
-- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri** - 
+- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri/Sat/Sun** - rest. **Recap** - ok week hampered by travel and re-aggravated right shoulder but on the plus side I got good cardio work in.
 
 01.30 ***`Rest    `***   
 01.29 ***`Flex    `***   
