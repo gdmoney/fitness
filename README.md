@@ -11,8 +11,8 @@
 02.10 ***`Lower-2 `***   
 02.09 ***`Flex    `***   
 02.08 ***`Upper-1 `***   
-02.07 ***`Lower-1 `***   
-- **Mon** - 
+02.07 ***`Lower-1 `*** **SSB squat:** 180x8x4, 130x15x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
+- **Mon** - squat was moderate with good form. **Tue** - 
 
 02.06 ***`Rest    `***   
 02.05 ***`Flex    `***   
