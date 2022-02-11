@@ -8,11 +8,11 @@
 02.13 ***`Rest    `***   
 02.12 ***`Flex    `***   
 02.11 ***`Upper-2 `***   
-02.10 ***`Lower-2 `***   
+02.10 ***`Lower-2 `*** **SSB squat:** 210x5x4, 160x10x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
 02.09 ***`Flex    `***   
 02.08 ***`Upper-1 `***   
 02.07 ***`Lower-1 `*** **SSB squat:** 180x8x4, 130x15x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
-- **Mon** - squat was moderate with good form. **Tue** - 
+- **Mon** - squat was moderate with good form. **Tue/Wed** - rest to improve the shoulder; it's better but still hurts. **Thur** - squat was moderate again; go up on lunge next week. **Fri** - 
 
 02.06 ***`Rest    `***   
 02.05 ***`Flex    `***   
