@@ -5,14 +5,23 @@
 
 *****
 
-02.13 ***`Rest    `***   
+02.21 ***`Rest    `***   
+02.20 ***`Flex    `***   
+02.19 ***`Upper-2 `***   
+02.18 ***`Lower-2 `***   
+02.17 ***`Flex    `***   
+02.16 ***`Upper-1 `***   
+02.15 ***`Lower-1 `***   
+- **Mon** - was sore from the day before and rested. **Tue** - 
+
+02.13 ***`Rest    `*** **hip thrust:** 135x15x5 • **good morning:** 60x12x5  
 02.12 ***`Flex    `***   
 02.11 ***`Upper-2 `***   
 02.10 ***`Lower-2 `*** **SSB squat:** 210x5x4, 160x10x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
 02.09 ***`Flex    `***   
 02.08 ***`Upper-1 `***   
 02.07 ***`Lower-1 `*** **SSB squat:** 180x8x4, 130x15x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
-- **Mon** - squat was moderate with good form. **Tue/Wed** - rest to improve the shoulder; it's better but still hurts. **Thur** - squat was moderate/heavy with good form; go up on lunge next week. **Fri** - 
+- **Mon** - squat was moderate with good form. **Tue/Wed** - rest to improve the shoulder; it's better but still hurts. **Thur** - squat was moderate/heavy with good form; go up on lunge next week. **Fri/Sat** - keep resting the shoulder. **Sun** - start doing both of these exercises more regularly twice a week. **Recap** - ok week again; shoulder continues to be out of commission for now but I'm continuing to make progress on lower movements.
 
 02.06 ***`Rest    `***   
 02.05 ***`Flex    `***   
