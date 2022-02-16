@@ -5,14 +5,14 @@
 
 *****
 
-02.21 ***`Rest    `***   
-02.20 ***`Flex    `***   
-02.19 ***`Upper-2 `***   
-02.18 ***`Lower-2 `***   
-02.17 ***`Flex    `***   
-02.16 ***`Upper-1 `***   
-02.15 ***`Lower-1 `***   
-- **Mon** - was sore from the day before and rested. **Tue** - 
+02.20 ***`Rest    `***   
+02.19 ***`Flex    `***   
+02.18 ***`Upper-2 `***   
+02.17 ***`Lower-2 `***   
+02.16 ***`Flex    `*** **elliptical:** 15 min  
+02.15 ***`Upper-1 `*** **elliptical:** 20 min • **pulldown:** 15x8  
+02.14 ***`Lower-1 `***   
+- **Mon** - legs were really sore from the day before and rested. **Tue** - got rained out; pulldowns didn't seem to aggravate the shoulder. **Wed** - 
 
 02.13 ***`Rest    `*** **hip thrust:** 135x15x5 • **good morning:** 60x12x5  
 02.12 ***`Flex    `***   
