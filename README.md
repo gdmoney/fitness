@@ -7,12 +7,12 @@
 
 02.20 ***`Rest    `***   
 02.19 ***`Flex    `***   
-02.18 ***`Upper-2 `***   
+02.18 ***`Upper-2 `*** **elliptical:** 15 min  
 02.17 ***`Lower-2 `***   
 02.16 ***`Flex    `*** **elliptical:** 15 min  
 02.15 ***`Upper-1 `*** **elliptical:** 20 min • **pulldown:** 15x8  
 02.14 ***`Lower-1 `***   
-- **Mon** - legs were really sore from the day before and rested. **Tue** - got rained out; pulldowns didn't seem to aggravate the shoulder. **Wed** - 
+- **Mon** - rest; legs were really sore from thrusts the day before. **Tue** - got rained out; pulldowns didn't seem to aggravate the shoulder. **Wed** - rest. **Thur** - 
 
 02.13 ***`Rest    `*** **hip thrust:** 135x15x5 • **good morning:** 60x12x5  
 02.12 ***`Flex    `***   
