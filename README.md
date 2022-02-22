@@ -5,14 +5,23 @@
 
 *****
 
+02.27 ***`Rest    `***   
+02.26 ***`Flex    `***   
+02.25 ***`Upper-2 `***   
+02.24 ***`Lower-2 `***   
+02.23 ***`Flex    `***   
+02.22 ***`Upper-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **strt arm pulldown:** 15x4 • **tri pushdown:** 15x4  
+02.21 ***`Lower-1 `*** **run:** 2 miles - sprints • **leg press:** 175x15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 25x15x4 • **BB curl-rvs:** 45x15x4  
+- **Mon** - went to Intuit gym for the first time since reopening; changed things up a bit with machine work. **Tue** - experimenting with different upper movements I can do while my shoulder is injured. **Wed** - 
+
 02.20 ***`Rest    `***   
 02.19 ***`Flex    `***   
 02.18 ***`Upper-2 `*** **elliptical:** 15 min • **SSB squat:** 210x5x4 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3 • **BB curl-rvs:** 45x15x4  
 02.17 ***`Lower-2 `***   
 02.16 ***`Flex    `*** **elliptical:** 15 min  
-02.15 ***`Upper-1 `*** **elliptical:** 20 min • **pulldown:** 15x8  
+02.15 ***`Upper-1 `*** **elliptical:** 20 min • **strt arm pulldown:** 15x8  
 02.14 ***`Lower-1 `***   
-- **Mon** - rest; legs were really sore from thrusts the day before. **Tue** - got rained out; pulldowns didn't seem to aggravate the shoulder. **Wed** - rest. **Thur** - squat was moderate heavy with good form. **Fri** -
+- **Mon** - rest; legs were really sore from thrusts the day before. **Tue** - got rained out; pulldowns didn't seem to aggravate the shoulder. **Wed** - rest. **Thur** - rest. **Fri** - squat was moderate heavy with good form. **Sat/Sun** - rest. **Recap** - poor week.
 
 02.13 ***`Rest    `*** **hip thrust:** 135x15x5 • **good morning:** 60x12x5  
 02.12 ***`Flex    `***   
