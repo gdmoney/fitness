@@ -5,6 +5,15 @@
 
 *****
 
+03.06 ***`Rest    `***   
+03.05 ***`Flex    `***   
+03.04 ***`Upper-2 `***   
+03.03 ***`Lower-2 `***   
+03.02 ***`Flex    `***   
+03.01 ***`Upper-1 `***   
+02.28 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB lunge:** nnxnnx4 • **DB lunge-rvs:** nnxnnx4  
+- **Mon** - run was easy; 
+
 02.27 ***`Rest    `*** **run:** 2 mile @ 6:30 pace (trdml) • **DB OH press:** light  
 02.26 ***`Flex    `*** **SSB squat:** 210x6x4, 180x10x2, 160x12x2  
 02.25 ***`Upper-2 `*** **run:** 1 mile @ 6:30 pace (trdml) • **strt arm pulldown:** 20x4 • **tri pushdown:** 12x4 • **BB curl-rvs:** 45x15x4  
