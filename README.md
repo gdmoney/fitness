@@ -21,7 +21,7 @@
 02.23 ***`Flex    `*** **run:** 2 miles @ 6:45 pace (trdml) • **shoulder mobility/rehab**  
 02.22 ***`Upper-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **strt arm pulldown:** 15x4 • **tri pushdown:** 15x4 • **BB curl-rvs:** 45x15x4  
 02.21 ***`Lower-1 `*** **run:** 2 miles - sprints • **leg press:** 175x15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 25x15x4  
-- **Mon** - went to Intuit gym for the first time since reopening; changed things up a bit with machine work. **Tue** - experimenting with different upper movements I can do while my shoulder is injured. **Wed** - run was easy; stick work, band work, light DB OH press for shoulders. **Thur** - rest. **Fri** - continuing to rehab the shoulder and experiment with different exercises that don't aggravate it. **Sat** - squat was moderate with good form. **Sun** - run was light; did pyramid style lightweight work with heavy volume at the hotel gym. **Recap** - decent week; shoulder is feeling better.
+- **Mon** - went to Intuit gym for the first time since reopening; changed things up a bit with machine work. **Tue** - experimenting with different upper movements I can do while my shoulder is injured. **Wed** - run was easy; stick work, band work, light DB OH press for shoulders. **Thur** - rest. **Fri** - continuing to rehab the shoulder and experiment with different exercises that don't aggravate it. **Sat** - squat was moderate with good form. **Sun** - run was easy; did pyramid style lightweight work with heavy volume at the hotel gym. **Recap** - decent week; shoulder is feeling better.
 
 02.20 ***`Rest    `***   
 02.19 ***`Flex    `***   
