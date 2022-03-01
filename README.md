@@ -10,9 +10,9 @@
 03.04 ***`Upper-2 `***   
 03.03 ***`Lower-2 `***   
 03.02 ***`Flex    `***   
-03.01 ***`Upper-1 `***   
-02.28 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB lunge:** nnxnnx4 • **DB lunge-rvs:** nnxnnx4  
-- **Mon** - run was easy; 
+03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** nnxnnx4  
+02.28 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3  
+- **Mon** - run was easy; lunge felt good bit it's still low intensity. **Tue** - run was easy; 
 
 02.27 ***`Rest    `*** **run:** 2 mile @ 6:30 pace (trdml) • **DB OH press:** light  
 02.26 ***`Flex    `*** **SSB squat:** 210x6x4, 180x10x2, 160x12x2  
