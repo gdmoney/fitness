@@ -9,8 +9,8 @@
 03.05 ***`Flex    `***   
 03.04 ***`Upper-2 `***   
 03.03 ***`Lower-2 `***   
-03.02 ***`Flex    `***   
-03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:** nnxnnx4 • **DB row:** nnxnnx4  
+03.02 ***`Flex    `*** **run:** 1 mile @ 6:15 pace (trdml) • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 25x15x4  
+03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:** 20x40,25x35,30x30,35x24,30x30,25x35,20x40 • **DB row:** 75x40x4  
 02.28 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3  
 - **Mon** - run was easy; lunge felt good bit it's still low intensity. **Tue** - run was easy; 
 
