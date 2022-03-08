@@ -5,6 +5,15 @@
 
 *****
 
+03.13 ***`Rest    `***   
+03.12 ***`Flex    `***   
+03.11 ***`Upper-2 `***   
+03.10 ***`Lower-2 `***   
+03.09 ***`Flex    `***   
+03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:**  
+03.07 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 35x15x4  
+- **Mon** - leg press activates quads much more than squats. **Tue** - 
+
 03.06 ***`Rest    `***   
 03.05 ***`Flex    `***   
 03.04 ***`Upper-2 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:** 30x30,35x25,40x20,45x15,40x20,35x25,30x30 • **DB row:** 90x30x4 • **tri pushdown:** 20x4  
@@ -12,7 +21,7 @@
 03.02 ***`Flex    `*** **run:** 1 mile @ 6:15 pace (trdml) • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 25x15x4  
 03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:** 20x40,25x35,30x30,35x24,30x30,25x35,20x40 • **DB row:** 75x40x4  
 02.28 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3  
-- **Mon** - run was easy; lunge felt good bit it's still low intensity. **Tue** - OH press didn't aggravate the shoulder; keep increasing intensity. **Wed** - hit the MTV gym; good Lower workout. **Thur** - rest. **Fri** - good Upper workout; no shoulder pain. **Sat** - got rained out. **Sun** - 
+- **Mon** - run was easy; lunge felt good bit it's still low intensity. **Tue** - OH press didn't aggravate the shoulder; keep increasing intensity. **Wed** - hit the MTV gym; good Lower workout. **Thur** - rest. **Fri** - good Upper workout; no shoulder pain. **Sat** - got rained out. **Sun** - rest. **Recap** - decent week; got four solid workouts in and my shoulder keeps improving.
 
 02.27 ***`Rest    `*** **run:** 2 mile @ 6:30 pace (trdml) • **DB OH press:** light  
 02.26 ***`Flex    `*** **SSB squat:** 210x6x4, 180x10x2, 160x12x2  
