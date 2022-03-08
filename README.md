@@ -10,7 +10,7 @@
 03.11 ***`Upper-2 `***   
 03.10 ***`Lower-2 `***   
 03.09 ***`Flex    `***   
-03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:**  
+03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **DB OH press:**50x15x4 • **DB row:** 90x30x4 • **tri pushdown:** 20x4 • **BB curl-rvs:** 45x15x4  
 03.07 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace (trdml) • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 35x15x4  
 - **Mon** - leg press activates quads much more than squats. **Tue** - 
 
