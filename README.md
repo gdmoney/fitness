@@ -10,9 +10,9 @@
 03.11 ***`Upper-2 `***   
 03.10 ***`Lower-2 `***   
 03.09 ***`Flex    `***   
-03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:**50x15x4 • **DB row:** 90x30x4 • **tri pushdown:** 20x4 • **BB curl-rvs:** 45x15x4  
+03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:**55x15x4 • **DB row:** 90x30x4 • **tri pushdown:** 15x4  
 03.07 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 35x15x4  
-- **Mon** - leg press activates quads much more than squats do. **Tue** - 
+- **Mon** - leg press activates quads much more than squats do. **Tue** - OH press didn't aggravate the shoulder. **Wed** - 
 
 03.06 ***`Rest    `***   
 03.05 ***`Flex    `***   
