@@ -12,7 +12,7 @@
 03.16 ***`Flex    `***   
 03.15 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 03.14 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 35x15x4  
-- **Mon** - leg press felt good again. **Tue** - OH press was medium/heavy with good form; added machine row as another Pull movement; no shoulder pain. **Wed** - rest. **Thur** - squat was moderate/heavy. **Fri** -
+- **Mon** - leg press felt good again. **Tue** - OH press was medium/heavy with good form; added machine row as another Pull movement; no shoulder pain. **Wed** - rest. **Thur** - squat was moderate/heavy. **Fri** - OH press was moderate/heavy. **Sat** - rest. **Sun** - 
 
 03.13 ***`Rest    `***   
 03.12 ***`Flex    `***   
