@@ -7,7 +7,7 @@
 
 03.20 ***`Rest    `***   
 03.19 ***`Flex    `***   
-03.18 ***`Upper-2 `*** **DB OH press-sngl:** 80x5x4, 52x15x3 • **DB row:** 80x20x4  
+03.18 ***`Upper-2 `*** **DB OH press-sngl:** 80x10x4, 52x15x3 • **DB row:** 80x40x4  
 03.17 ***`Lower-2 `*** **SSB squat:** 210x6x4, 160x12x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
 03.16 ***`Flex    `***   
 03.15 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
