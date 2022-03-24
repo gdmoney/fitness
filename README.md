@@ -9,10 +9,10 @@
 03.26 ***`Flex    `***   
 03.25 ***`Upper-2 `***   
 03.24 ***`Lower-2 `***   
-03.23 ***`Flex    `***   
+03.23 ***`Flex    `*** **run:** 1 mile • **leg press:** 15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **back extn:** 35x15x3  
 03.22 ***`Upper-1 `***   
 03.21 ***`Lower-1 `***   
-- **Mon** - 
+- **Mon/Tue** - rest days. **Wed** - pretty good workout. **Thur** - 
 
 03.20 ***`Rest    `***   
 03.19 ***`Flex    `***   
