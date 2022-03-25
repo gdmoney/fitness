@@ -8,7 +8,7 @@
 03.27 ***`Rest    `***   
 03.26 ***`Flex    `***   
 03.25 ***`Upper-2 `***   
-03.24 ***`Lower-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:** 52x15x3  
+03.24 ***`Lower-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x30x4 • **DB OH press:** 52x15x3  
 03.23 ***`Flex    `*** **run:** 1 mile • **leg press:** 15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **back extn:** 35x15x3  
 03.22 ***`Upper-1 `***   
 03.21 ***`Lower-1 `***   
@@ -16,7 +16,7 @@
 
 03.20 ***`Rest    `***   
 03.19 ***`Flex    `***   
-03.18 ***`Upper-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 80x40x4 • **DB OH press:** 52x15x3  
+03.18 ***`Upper-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 80x40x4 • **DB OH press:** 52x15x3  
 03.17 ***`Lower-2 `*** **SSB squat:** 210x6x4, 160x12x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
 03.16 ***`Flex    `***   
 03.15 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
@@ -28,16 +28,16 @@
 03.11 ***`Upper-2 `***   
 03.10 ***`Lower-2 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 60x12x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4  
 03.09 ***`Flex    `***   
-03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 55x15x4 • **DB row:** 90x30x4 • **tri pushdown:** 15x4  
+03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 55x15x4 • **DB row-sngl:** 90x30x4 • **tri pushdown:** 15x4  
 03.07 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 35x15x4  
 - **Mon** - leg press activates quads much more than squats do. **Tue** - OH press didn't aggravate the shoulder. **Wed** - rest. **Thur** - no shoulder pain. **Fri/Sat/Sun** - rest. **Recap** - poor week; only got 3 workouts in.
 
 03.06 ***`Rest    `***   
 03.05 ***`Flex    `***   
-03.04 ***`Upper-2 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 30x30,35x25,40x20,45x15,40x20,35x25,30x30 • **DB row:** 90x30x4 • **tri pushdown:** 20x4  
+03.04 ***`Upper-2 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 30x30,35x25,40x20,45x15,40x20,35x25,30x30 • **DB row-sngl:** 90x30x4 • **tri pushdown:** 20x4  
 03.03 ***`Lower-2 `***   
 03.02 ***`Flex    `*** **run:** 1 mile @ 6:15 pace • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 25x15x4  
-03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 20x40,25x35,30x30,35x24,30x30,25x35,20x40 • **DB row:** 75x40x4  
+03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 20x40,25x35,30x30,35x24,30x30,25x35,20x40 • **DB row-sngl:** 75x40x4  
 02.28 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace • **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3  
 - **Mon** - run was easy; lunge felt good bit it's still low intensity. **Tue** - OH press didn't aggravate the shoulder; keep increasing intensity. **Wed** - hit the MTV gym; good Lower workout. **Thur** - rest. **Fri** - good Upper workout; no shoulder pain. **Sat** - got rained out. **Sun** - rest. **Recap** - decent week; got four solid workouts in and my shoulder keeps improving.
 
@@ -73,7 +73,7 @@
 02.04 ***`Upper-2 `***   
 02.03 ***`Lower-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **goblet squat:** 75x20x3 • **DB lunge:** 40x20x3 • **DB lunge-rvs:** 40x20x3  
 02.02 ***`Flex    `*** **run:** 2 miles @ 6:30 pace (trdml)  
-02.01 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x3 • **DB row:** 75x20x3  
+02.01 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x3 • **DB row-sngl:** 75x20x3  
 01.31 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 130x12x4 • **DB lunge:** 40x20x3  
 - **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri/Sat/Sun** - rest. **Recap** - ok week hampered by travel and re-aggravated right shoulder but on the plus side I got good cardio work in.
 
@@ -82,7 +82,7 @@
 01.28 ***`Upper-2 `*** **bench press:** 170x8x4 • **BB OH press:** 135x8x3 • **chinups:** 10x3  
 01.27 ***`Lower-2 `*** **goblet squat:** 100x15x4 • **DB lunge:** 40x20x3  
 01.26 ***`Flex    `*** **elliptical:** 15 min • **cable fly:** 15x4  
-01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 80x30x4 • **DB OH press:** 52x15x3  
+01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 80x30x4 • **DB OH press:** 52x15x3  
 01.24 ***`Lower-1 `*** **SSB squat:** 160x10x4 • **goblet squat:** 90x15x4  
 - **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** - felt stronger on the OH press. **Wed** - cardio is back to normal. **Thur** - 100s felt good; go up in reps next week. **Fri** - bench was painless and felt a bit lighter than last week; keep focusing on good form; OH press was medium/heavy; did full ROM; chinups were lighter than last week but still lacking. **Sat** - rest day; legs were really sore from DB lunge; slight ache in both shoulders. **Sun** - travel day. **Recap** - another OK week; better than last week but I'm still not at pre-sickness level.
 
@@ -91,7 +91,7 @@
 01.21 ***`Upper-2 `*** **bench press:** 165x8x4 • **chinups:** 10x3 • **lat raise:** 15x20x3  
 01.20 ***`Lower-2 `*** **goblet squat:** 90x15x4 • **DB OH press-sngl:** 80x9x3  
 01.19 ***`Flex    `***   
-01.18 ***`Upper-1 `*** **DB OH press:** 45x15x4 • **DB row:** 80x30x4  
+01.18 ***`Upper-1 `*** **DB OH press:** 45x15x4 • **DB row-sngl:** 80x30x4  
 01.17 ***`Lower-1 `*** **back squat:** 185x8x3 • **goblet squat:** 80x15x3  
 - **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** - felt stronger than the day before. **Wed** - rest. **Thur** - felt stronger on the goblet squat; first time doing single arm DB OH press; it was heavy but felt good. **Fri** - bench was painless which is encouraging; felt weak on the chinups; slight shoulder ache from lat raise. **Sat** - cardio is still lagging. **Sun** - first time doing deadlift in over 2 months; focused on good form; no back pain. **Recap** - OK week getting back into it after being sick for 10 days.
 
@@ -116,7 +116,7 @@
 *****
 ## 2021
 
-01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x5  
+01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row-sngl:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x5  
 01.01 ***`Rest    `***   
 12.31 ***`Lower-2 `*** **run:** 2 miles - sprints • **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
 12.30 ***`Upper-2 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 12x4 • **Arnold press:** 50x15x4 • **tri pushdown:** 25x3 • **face pull:** 25x3  
@@ -125,17 +125,17 @@
 12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
 - **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/eavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
 
-12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row:** 90x30x4  
+12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x30x4  
 12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
 12.24 ***`Upper-2 `*** **rest**  
 12.23 ***`Rest    `***   
 12.22 ***`Lower-2 `*** **rest**  
-12.21 ***`Upper-1 `*** **BB OH press:** 135x10x4 • **DB row:** 90x24x3  
+12.21 ***`Upper-1 `*** **BB OH press:** 135x10x4 • **DB row-sngl:** 90x24x3  
 12.21 ***`Lower-1 `*** **back squat:** 195x8x4  
-- **Mon** - rest. **Tue** - doubled up; did technique work on squat, working on lower bar placement and keeping the torso more upright; OH press was moderate/heavy; DB row was light. **Wed, Thur, Fri, Sat** - rest. **Sun** -doubled up; squat was moderate on intensity but heavy on cardio; OH press was moderate/heavy; DB row was light/moderate. **Recap** - poor week, hampered by the holidays and rain, but at least I finished it strong. OH press keeps progressing and my back continues to improve.
+- **Mon** - rest. **Tue** - doubled up; did technique work on squat, working on lower bar placement and keeping the torso more upright; OH press was moderate/heavy; DB row-sngl was light. **Wed, Thur, Fri, Sat** - rest. **Sun** -doubled up; squat was moderate on intensity but heavy on cardio; OH press was moderate/heavy; DB row-sngl was light/moderate. **Recap** - poor week, hampered by the holidays and rain, but at least I finished it strong. OH press keeps progressing and my back continues to improve.
 
 12.19 ***`Upper-3 `*** **rest**  
-12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
+12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row-sngl:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
 12.17 ***`Upper-2 `*** **rest**  
 12.16 ***`Rest    `***   
 12.15 ***`Lower-2 `*** **back squat:** 215x8x4  
@@ -145,19 +145,19 @@
 
 12.12 ***`Flex    `*** **rest**  
 12.11 ***`Lower-3 `*** **rest**  
-12.10 ***`Upper-2 `*** **run:** 2 miles - sprints • **BB OH press:** 135x10x3 • **DB row:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
+12.10 ***`Upper-2 `*** **run:** 2 miles - sprints • **BB OH press:** 135x10x3 • **DB row-sngl:** 90x24x3 • **DB OH press:** 52x15x3 • **pullups-ntrl:** 10x3  
 12.09 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat:** 100x20x4  
 12.08 ***`Rest    `***   
-12.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x17x4 • **DB row:** 90x24x4  
+12.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x17x4 • **DB row-sngl:** 90x24x4  
 12.06 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 215x8x4 • **RDL:** 185x8x4  
 - **Mon** - squat was moderate and form was good; RDL was light and I had only a very slight back pain. **Tue** - back was a bit more sore and OH press seemed to aggravate it. **Wed** - back was hurting a bit so decided to switch rest days. **Thur** - squat was moderate; skipped the lunge as it didn't agree with my left knee. **Fri** - OH press was moderate/heavy with good form; wore a belt and didn't have any back pain. **Sat** - ended up resting to rehab back and left knee. **Recap** - ok week; OH press is starting to become decent again even though I still can't bench.
 
 12.05 ***`Flex    `***   
 12.04 ***`Lower-3 `***   
 12.03 ***`Rest    `***   
-12.02 ***`Upper-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **DB OH press:** 65x10x4 • **DB row:** 75x40x4  
+12.02 ***`Upper-2 `*** **run:** 2 miles @ 6:45 pace (trdml) • **DB OH press:** 65x10x4 • **DB row-sngl:** 75x40x4  
 12.01 ***`Lower-2 `*** **run:** 2 miles @ 6:45 pace (trdml)  
-11.30 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x4 • **DB row:** 75x40x4  
+11.30 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x4 • **DB row-sngl:** 75x40x4  
 11.29 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 110x15x4 • **DB lunge-rvs:** 45x20x3  
 - **Mon** - run was easy; squat was moderate; back didn't hurt but my left knee was making a popping sound so I didn't go heavier. **Tue** - run was easy again; go up in pace or distance tomorrow; OH press was moderate. **Wed** - run was easy yet again; skipped the evening session. **Thur** - OH press was moderate again. **Fri** - travel day. **Sat/Sun** - rest. **Recap** - decent week; back is feeling better so should be able to start doing Lower movements again.
 
@@ -174,24 +174,24 @@
 11.21 ***`Upper-2 `*** **pullups-ntrl:** 10x3  
 11.18 ***`Rest    `***  
 11.17 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
-11.16 ***`Upper-1 `*** **DB OH press:** 52x17x4 • **DB row:** 90x24x4 • **pullups-ntrl:** 10x2  
+11.16 ***`Upper-1 `*** **DB OH press:** 52x17x4 • **DB row-sngl:** 90x24x4 • **pullups-ntrl:** 10x2  
 11.15 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 230x6x4 • **RDL:** 235x8x4  
 - **Mon** - squat was heavy; ROM was good but I have a tendency to lean forward occasionally; RDL was moderate/heavy with good form; stay at this weight another week. **Tue** - OH press was moderate and lighter than the last time, even though I did 17 reps; pullups felt good, no elbow pain. **Wed** - DB squat was really tough, especially on the cardio; I was sleep deprived which I'm sure didn't help. **Thur**, **Fri**, **Sat** - rest days. **Sun** - doubled up; pullups were moderate; deadlift was heavy and I tweaked by back on the 3rd set due to poor form; forgot to wear the belt. **Recap** - OK week; I'm hoping my back injury isn't serious.
 
 11.14 ***`Flex    `***   
 11.13 ***`Lower-3 `***   
-11.12 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 125x12x3 • **DB row:** 90x24x4  
+11.12 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
 11.11 ***`Rest    `***  
 11.10 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
-11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row:** 90x24x4  
+11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
 11.08 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 225x8x4 • **RDL:** 225x8x4  
 - **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - first time doing 12 reps on the wtd DB squat; weight was moderate but I got quite winded. **Fri** - OH press was moderate and a little lighter than on Tue. **Sat** - ended up taking a rest day as it was Tina's B-day party. **Sun** - anotehr R&R day. **Recap** - decent week; add chinups next week.
 
 11.07 ***`Flex    `*** **rest**  
 11.06 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 315x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
-11.05 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x16x4 • **DB row:** 90x24x4  
+11.05 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x16x4 • **DB row-sngl:** 90x24x4  
 11.04 ***`Lower-2 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-11.03 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 120x12x4 • **DB row:** 90x24x4 • **BB curl:** 105x10x4  
+11.03 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 120x12x4 • **DB row-sngl:** 90x24x4 • **BB curl:** 105x10x4  
 11.02 ***`Rest    `***  
 11.01 ***`Lower-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **back squat:** 220x8x4 • **RDL:** 215x8x4  
 - **Mon** - squat was heavy but my form was good up until the last couple of reps and my ROM was better than last week; RDL was light/moderate; form was decent but ROM can be better. **Tue** - changed the rest day from Thur to Tue. **Wed** - all three were moderate. **Thur** - run was easy again; go up in pace next week; squat was much easier than last week and I did on 3 min interval; go up to 12 reps next week. **Fri** - OH press was moderate/heavy; I think I've concluded quite definitively at this point that I'm stronger in the evenings. **Sat** - deadlift was moderate with good form. **Sun** - rest day. **Recap** - good week; I'm especially pleased with my deadlift progress.
@@ -199,47 +199,47 @@
 10.31 ***`Cardio  `***   
 10.30 ***`Lower-3 `*** **run:** 2 miles - sprints • **good morning:** 70x12x4 • **hip thrust:** 165x15x4 • **deadlift:** 305x5x4  
 10.29 ***`Rest    `***  
-10.28 ***`Upper-2 `*** **run:** 2 miles - sprints • **DB OH press:** 52x16x4 • **DB row:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
+10.28 ***`Upper-2 `*** **run:** 2 miles - sprints • **DB OH press:** 52x16x4 • **DB row-sngl:** 90x24x4 • **DB curl:** 35x10+30x10+25x10x3  
 10.27 ***`Lower-2 `*** **elliptical:** 15 min • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-10.26 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 115x12x4 • **DB row:** 90x24x4 • **BB curl:** 95x10x4  
+10.26 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **BB OH press:** 115x12x4 • **DB row-sngl:** 90x24x4 • **BB curl:** 95x10x4  
 10.25 ***`Lower-1 `*** **run:** 1 mile @ 7:00 pace (trdml) • **back squat:** 215x8x4 • **RDL:** 205x8x4  
 - **Mon** - run was easy but I had to cut it short due a time constraint in the am; squat was heavy but my form was good for the most part; didn't feel my strongest in the am without breakfast and only a half a cup of coffee; RDL was light/moderate. **Tue** - run was really easy; everything else was moderate. **Wed** - both squat and lunge were a bit easier than last week but still cardio heavy; go for 12 reps on squat next week. **Thur** - upped OH press to 16 reps; it was moderate; Helix track was in use so I ran on Fri morning instead. **Sat** - deadlift was moderate and slightly easier than last week; form was also a little better; flipped the exercise order, which I liked. **Sun** - ended up resting as I had to drive to LAX to pick up L & M. **Recap** - good week; stick to the same program for 2 more weeks and then reevaluate.
 
 10.24 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
 10.23 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 295x5x4 • **hip thrust:** 165x15x4 • **good morning:** 70x12x4  
 10.22 ***`Rest    `***  
-10.21 ***`Upper-2 `*** **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **CB curl:** 35x10+30x10+25x10x3  
+10.21 ***`Upper-2 `*** **DB OH press:** 52x15x4 • **DB row-sngl:** 90x20x4 • **CB curl:** 35x10+30x10+25x10x3  
 10.20 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-10.19 ***`Upper-1 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **DB curl:** 40x10x4  
+10.19 ***`Upper-1 `*** **run:** 2 miles - tempo (track) • **DB OH press:** 52x15x4 • **DB row-sngl:** 90x20x4 • **DB curl:** 40x10x4  
 10.18 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 210x8x4 • **RDL:** 200x8x4  
 - **Mon** - run was easy; go up to 7 min pace next week; squat was moderate the first two sets and heavy the last two; I kept good form throughout though; RDL was light/moderate and my form was better than last week. **Tue** - OH press was moderate the first two sets and heavy the last two; row was light/moderate; curl was also moderate. **Wed** - run was even easier than on Monday; squat was moderate/heavy; reverse lunge really hammers the cardio. **Thur** - OH press was moderate thruout and lighter than on Tue. **Sat** - deadlift was moderate; form was better than last week but still not as good as it used to be; hip thrust was also light/moderate. **Sun** - early am runs are good because I feel light but bad because I lack energy. **Recap** - another solid week; do the same program for one more week and then reevaluate.
 
 10.17 ***`Cardio  `*** **run:** 3.5 miles - sprints (street)  
 10.16 ***`Lower-3 `*** **run:** 2 miles - sprints (street) • **deadlift:** 285x5x4 • **hip thrust:** 155x15x4 • **good morning:** 70x12x4  
 10.15 ***`Rest    `***  
-10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x3 • **DB row:** 90x20x4 • **BB curl:** 75x10x4  
+10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x3 • **DB row-sngl:** 90x20x4 • **BB curl:** 75x10x4  
 10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
-10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x12x4 • **DB row:** 90x20x4 • **BB curl:** 70x12x4  
+10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x12x4 • **DB row-sngl:** 90x20x4 • **BB curl:** 70x12x4  
 10.12 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
 - **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; OH press was heavier than I expected so I cut the reps down to 12; stick to DB vs BB row for now to avoid added strain on my lower back; curl felt lighter than last week. **Wed** - squat was moderate with good form; lunge really hammered the quads; stick with reverse lunge for now for better quad activation. **Thur** - OH press was moderate; curl keeps getting lighter but have a slight shoulder ache the next morning. **Sat** - deadlift was moderate; form is still not great; I'm rounding my back too much. **Sun** - felt like shit all day but the run felt great and my sprints were fast. **Recap** - solid week; still settling into the schedule and the program but I'm definitely making progress.
 
-10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row:** 90x20x4 • **BB curl:** 65x10x4  
+10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row-sngl:** 90x20x4 • **BB curl:** 65x10x4  
 10.09 ***`Lower-3 `*** **elliptical:** 15 min • **deadlift:** 275x5x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4  
 10.08 ***`Rest    `***   
 10.07 ***`Lower-2 `*** **DB squat-wtd:** 165x10x4 • **DB lunge:** 52x20x3  
-10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row:** 90x20x4 • **plank-wtd:** 60secx3  
+10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row-sngl:** 90x20x4 • **plank-wtd:** 60secx3  
 10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
-- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - row was light/moderate and didn't aggravate my elbow; try adding BB row next week. **Thur** - track was in use so I couldn't run; used a 60lb weighted vest on DB squat; it was moderate in terms of weight but brutal on cardio. **Sat** - deadlifted for the first time since early August; tried mixed grip for the first time ever; form wasn't great but wasn't horrible either. **Sun** - felt surprisingly strong in the morning; DB OH press was moderate and felt lighter than ever before; supersetted with DB row; did curl for the first time since April and it didn't aggravate my elbow; keep doing rows and curls for another week and then add chinups and neutral grip pullups. **Recap** - good week; it feels great to deadlift and to start doing Pull movements again.
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - row was light/moderate and didn't aggravate my elbow; try adding BB row next week. **Thur** - track was in use so I couldn't run; used a 60lb weighted vest on DB squat; it was moderate in terms of weight but brutal on cardio. **Sat** - deadlifted for the first time since early August; tried mixed grip for the first time ever; form wasn't great but wasn't horrible either. **Sun** - felt surprisingly strong in the morning; DB OH press was moderate and felt lighter than ever before; supersetted with DB row-sngl; did curl for the first time since April and it didn't aggravate my elbow; keep doing rows and curls for another week and then add chinups and neutral grip pullups. **Recap** - good week; it feels great to deadlift and to start doing Pull movements again.
 
 10.03 ***`Rest    `***  
 10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
 10.01 ***`Rest    `***  
 09.30 ***`Rest    `***  
-09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row:** 50x40x4  
+09.29 ***`Cardio-1`*** **elliptical:** 20 min • **DB row-sngl:** 50x40x4  
 09.28 ***`Upper-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **pulldown:** 10x4 • **DB OH press:** 50x15x4  
 09.27 ***`Lower-1 `*** **elliptical:** 15 min • **DB squat:** 100x15x4 • **DB lunge:** 52x20x3  
-- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - travel day; drove from SJ to SD with a stop in Bakersfield. **Sat** - squat was moderate with good form; continue adding 5 lbs per week; forearms are still sore from Wednesday's DB row. **Sun** - was really tired all day after sleeping like shit so I ended up taking another rest day. **Recap** - mediocre week overall hampered by travel, but on the plus side, my elbow is feeling better so I'm excited to add Pull movements once again.
+- **Mon** - hotel elliptical machine was a little odd but I still got a decent sweat going; squat and lunge were both moderate; no elbow pain from DB lunge. **Tue** - run was surprisingly easy; hotel cable machine was much heavier; OH press was moderate/heavy. **Wed** - DB row-sngl was harder than I expected, but then again, I haven't done any Pull movements in 3 months; it didn't aggravate my tennis elbow so I think it's safe to incorporate rows, curls, and pullups. **Thur** - rest day; had a 5 am call time. **Fri** - travel day; drove from SJ to SD with a stop in Bakersfield. **Sat** - squat was moderate with good form; continue adding 5 lbs per week; forearms are still sore from Wednesday's DB row-sngl. **Sun** - was really tired all day after sleeping like shit so I ended up taking another rest day. **Recap** - mediocre week overall hampered by travel, but on the plus side, my elbow is feeling better so I'm excited to add Pull movements once again.
 
 09.26 ***`Cardio-2`*** **run:** 2 miles @ 7:15 pace (trdml) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 09.25 ***`Rest    `***  
@@ -368,7 +368,7 @@
 06.18 ***`Upper-2 `*** **OH press:** 115x8x4 • **Larsen press:** 175x8x4 • **chinup-wtd:** 20x8x4 • **tri ext:** 70x12x4 • **Lu raise:** 5x15x3  
 06.17 ***`Lower-2 `*** **deadlift:** 270x5x4 • **back squat:** 190x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
 06.16 ***`Cardio-1`*** **rest**  
-06.15 ***`Upper-1 `*** **bench press:** 175x8x4 • **OH press:** 105x10x4 • **DB row:** 90x20x4 • **pullup:** 9x4 • **rear delt fly:** 7.5x15x3  
+06.15 ***`Upper-1 `*** **bench press:** 175x8x4 • **OH press:** 105x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 9x4 • **rear delt fly:** 7.5x15x3  
 06.14 ***`Lower-1 `*** **back squat:** 220x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
 - **Mon** - RDL form was better, keep focusing on greater ROM but with a straight back and on loading the hamstrings. **Tue** - both Push and Pull movements felt stronger than last week; slight forearm pain on pullups. **Wed** - rest. **Thur** - focused on good deadlift form, I think it's getting a little better. **Fri** - lifted at LFJCC for the first time and aggravated my right shoulder and forearm/elbow again on Larsen press. **Sat** - rest. **Sun** - rest/wrenching. **Recap** - week was going great until I re-injured myself, so not a good week overall.
 
@@ -377,44 +377,44 @@
 06.11 ***`Upper-2 `*** **OH press:** 105x8x4 • **Larsen press:** 155x8x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 65x12x4 • **Lu raise:** 5x15x3  
 06.10 ***`Lower-2 `*** **deadlift:** 265x5x4 • **back squat:** 185x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.09 ***`Cardio-1`*** **rest**  
-06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 95x10x4 • **DB row:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
+06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 95x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 06.07 ***`Lower-1 `*** **back squat:** 215x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
-- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row and pullups, no shoulder pain on bench and OHP. **Wed** - rest day. **Thur** - deadlift form still doesn't feel right, I'm lifting with my back too much; squat was good. **Fri** - no pain on any of the movements; continue to go up in weight on Push exercises next week. **Sat** - rest/wrench day. **Sun** - rest/wrench day. **Recap** - Another solid week. I look forward to going up in weight on bench and OHP next week.
+- **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row-sngl and pullups, no shoulder pain on bench and OHP. **Wed** - rest day. **Thur** - deadlift form still doesn't feel right, I'm lifting with my back too much; squat was good. **Fri** - no pain on any of the movements; continue to go up in weight on Push exercises next week. **Sat** - rest/wrench day. **Sun** - rest/wrench day. **Recap** - Another solid week. I look forward to going up in weight on bench and OHP next week.
 
 06.06 ***`Rest    `*** **rest**  
 06.05 ***`Cardio-2`*** **rest**  
 06.04 ***`Upper-2 `*** **OH press:** 95x8x4 • **Larsen press:** 135x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 55x12x4 • **Lu raise:** 5x12x3  
 06.03 ***`Lower-2 `*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.02 ***`Cardio-1`*** **run:** 2 miles - sprints  
-06.01 ***`Upper-1 `*** **bench press:** 135x8x4 • **OH press:** 75x10x4 • **DB row:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
+06.01 ***`Upper-1 `*** **bench press:** 135x8x4 • **OH press:** 75x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 05.31 ***`Lower-1 `*** **back squat:** 210x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
-- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painless; BB row causes right forearm pain so stick to DB row for now; skipped pushups; no pain on neutral grip pullups; ran in the morning. **Wed** - sprints felt great. **Thur** - first deadlift in 3 weeks, no shoulder pain, slight forearm pain but it's manageable; deadlift, squat, and hip thrust all felt light. **Fri** - no pain on the first 3 movements, slight forearm pain on tri extensions; skipped the inverted row as it was causing too much forearm pain just like BB row did. Go up in weight on both OHP and bench press next week. **Sat** - rest day. **Sun** - rest day. **Recap** - Solid week overall. Shoulder is feeling much better and I'm starting to go up in weight on Push movements. Right forearm still hurts but only prevents me from doing pronated Pull movements.
+- Started Alec Enkiri's 6-week program. **Mon** - squat and RDL both felt light, lunge was the most tiring exercise; also did a 2 mile slow tempo run prior, which felt great. **Tue** - used a narrower grip and a good arch on bench with no pain, go up in weight slightly next week; OH press was also painless; BB row causes right forearm pain so stick to DB row-sngl for now; skipped pushups; no pain on neutral grip pullups; ran in the morning. **Wed** - sprints felt great. **Thur** - first deadlift in 3 weeks, no shoulder pain, slight forearm pain but it's manageable; deadlift, squat, and hip thrust all felt light. **Fri** - no pain on the first 3 movements, slight forearm pain on tri extensions; skipped the inverted row as it was causing too much forearm pain just like BB row did. Go up in weight on both OHP and bench press next week. **Sat** - rest day. **Sun** - rest day. **Recap** - Solid week overall. Shoulder is feeling much better and I'm starting to go up in weight on Push movements. Right forearm still hurts but only prevents me from doing pronated Pull movements.
 
 05.30 ***`Cardio `*** **rest**  
 05.29 ***`Legs-3 `*** **rest**  
 05.28 ***`Pull-2 `*** **rest**  
 05.27 ***`Legs-2 `*** **rest**  
 05.26 ***`Push-1 `*** **DB bench press:** 40x20x5 • **DB OH press:** 40x20x5  
-05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
+05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row-sngl:** 90x24x5 • **DB shrug:** 90x12x5  
 05.25 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 - **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good; RDL was light. **Wed** - rest day. **Thur** - felt strong on the row but it aggravated my forearm again. **Fri** - rest day; forearm hurt like a bitch. **Sat** - rest day; ended up wrenching most of the day **Sun** - rest/wrench day again. **Recap** - shitty week hampered by ongoing forearm and shouler injuries; only put in two days of work.
 
 05.23 ***`Cardio `*** **rest**  
 05.22 ***`Legs-3 `*** **rest**  
-05.21 ***`Pull-2 `*** **BB row:** 195x10x5 • **DB row:** 90x24x5 • **DB shrug:** 90x12x5  
+05.21 ***`Pull-2 `*** **BB row:** 195x10x5 • **DB row-sngl:** 90x24x5 • **DB shrug:** 90x12x5  
 05.20 ***`Legs-2 `*** **back squat-psd:** 205x6x5 • **RDL:** 205x10x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 05.19 ***`Push-1 `*** **rest**  
-05.18 ***`Pull-1 `*** **BB row:** 195x10x5 • **DB row:** 90x24x5 • **DB shrug:** 90x10x5  BB lunge
+05.18 ***`Pull-1 `*** **BB row:** 195x10x5 • **DB row-sngl:** 90x24x5 • **DB shrug:** 90x10x5  BB lunge
 05.17 ***`Legs-1 `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 - **Mon** - squat was moderate; RDL was light; no shoulder pain. **Tue** - slight right forearm pain on BB row. **Wed** - rest. **Thur** - squat was moderate, go for 5 next week on 225; RDL was light; shoulder is feeling better. **Fri** - superset the two rows; no pain. **Sat** - ended up hanging out with Luka all day. **Sun** - rest. **Recap** - OK training week; Legs feel stronger than ever, Pull feels solid; right shoulder and forearm still haven't recovered; start adding some light Push movements next week.
 
 05.16 ***`Cardio `*** **rest**  
 05.15 ***`Legs-2 `*** **back squat-psd:** 185x8x5 • **RDL:** 185x12x5 • **good morning:** 115x12x5 • **BB BSS:** 95x20x3  
 05.14 ***`Push-2 `*** **rest**  
-05.13 ***`Pull-2 `*** **BB row:** 185x12x5 • **DB row:** 90x24x5  
+05.13 ***`Pull-2 `*** **BB row:** 185x12x5 • **DB row-sngl:** 90x24x5  
 05.12 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 185x12x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 05.11 ***`Push-1 `*** **BB bench press:** 185x12x5 • **OH press-psd:** 115x10x3  
-05.11 ***`Pull-1 `*** **pullups-ntrl:** 16 • **BB row** 185x12x5 • **DB row:** 90x24x5  
+05.11 ***`Pull-1 `*** **pullups-ntrl:** 16 • **BB row** 185x12x5 • **DB row-sngl:** 90x24x5  
 - **Mon** - was hung over and bitched out. **Tue** - doubled up on Push and Pull. Bench was moderate for the first 3 sets and then heavy; OH press was moderate. Right shoulder pain got worse after bench, left one is fine. **Wed** - squat was moderate: RDL was light; minimal shoulder pain. **Thur** - row seems to be the only pulling movement that doesn't cause shoulder pain; slight leg/glute soreness. **Fri** - rested since I can't do any Push movements. **Sat** - paused squat was moderate/heavy; RDL was even lighter than on Wed; go up on BSS next week; no shoulder or forearm pain. **Sun** - rested. **Recap** - not a good week overall due to the right shoulder injury, but it's feeling much better so I remain hopeful that it will heal fully in 2 more weeks.
 
 05.09 ***`Cardio `*** **rest**  
@@ -591,7 +591,7 @@
 12.31 ***`OH Press  `*** **BB OH press:** 115x4, 145x2, 165x1, 185xF, 175x1, 145x8x3  
 12.30 ***`Squat     `*** **back squat:** 185x4, 225x4, 245x2, 275x1, 285x1, 245x6x3  
 12.29 ***`Bench/Curl`*** **BB bench press:** 185x6, 225x4, 245x2, 275x1, 295x1, 315xFx2, 245x6x3 • **BB curl:** 125x2, 145x1, 165xF, 145x6x3  
-12.28 ***`Full body `*** **DB front squat:** 52x20x1 • **DB OH press:** 45x20x1 • **DB row:** 52x35x1 • **DB curl:** 40x12x1 • **lat/front raise:** 30x15x1  
+12.28 ***`Full body `*** **DB front squat:** 52x20x1 • **DB OH press:** 45x20x1 • **DB row-sngl:** 52x35x1 • **DB curl:** 40x12x1 • **lat/front raise:** 30x15x1  
 
 12.27 ***`Cardio    `*** **run:** 2 miles - sprints  
 12.26 ***`Pull      `*** **pullups:** 15,14,12 • **chinups:** 15,14,12 • **BB row-OH/UH:** 185x12x6 • **BB curl:** 125x8x3 • **BB curl-rvs:** 75x10x3  
@@ -638,7 +638,7 @@
 11.20 ***`Chest/Tri `*** **BB bench press:** 225x4, 245x2, 275x1, 300x1, 315xF, 225x8x3 • **bench dip-wtd:** 20x5 • **DB bench press:** 52x50x3  
 11.19 ***`Legs      `*** **back squat:** 185x12x5 • **DB lunge:** 52x30x3  
 11.18 ***`Shoulders `*** **BB OH press:** 145x5, 165x4, 175x2, 165x4, 145x8x3 • **lat raise:** 35x15x5 • **DB OH press:** 52x18,16,15  
-11.17 ***`Pull      `*** **pullups-wtd:** 60x5x3 • **chinups-wtd:** 60x5x3 • **DB row:** 52x35x4 • **DB curl:** 52x8x4  
+11.17 ***`Pull      `*** **pullups-wtd:** 60x5x3 • **chinups-wtd:** 60x5x3 • **DB row-sngl:** 52x35x4 • **DB curl:** 52x8x4  
 11.16 ***`Legs      `*** **back squat:** 225x6, 245x4, 265x4, 245x4, 225x6x3 • **DB lunge:** 52x30x2  
 
 11.15 ***`Push      `*** **BB OH press:** 100x30,28,18,16,16 • **BB bench press:** 150x30,28,25,23,17  
