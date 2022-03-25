@@ -8,15 +8,15 @@
 03.27 ***`Rest    `***   
 03.26 ***`Flex    `***   
 03.25 ***`Upper-2 `***   
-03.24 ***`Lower-2 `***   
+03.24 ***`Lower-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:** 52x15x3  
 03.23 ***`Flex    `*** **run:** 1 mile • **leg press:** 15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **back extn:** 35x15x3  
 03.22 ***`Upper-1 `***   
 03.21 ***`Lower-1 `***   
-- **Mon/Tue** - rest days. **Wed** - pretty good workout. **Thur** - 
+- **Mon/Tue** - rest days. **Wed** - pretty good workout. **Thur** - OH press is improving; incorporate BB next week. **Fri** - 
 
 03.20 ***`Rest    `***   
 03.19 ***`Flex    `***   
-03.18 ***`Upper-2 `*** **DB OH press-sngl:** 80x10x4, 52x15x3 • **DB row:** 80x40x4  
+03.18 ***`Upper-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 80x40x4 • **DB OH press:** 52x15x3  
 03.17 ***`Lower-2 `*** **SSB squat:** 210x6x4, 160x12x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
 03.16 ***`Flex    `***   
 03.15 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
