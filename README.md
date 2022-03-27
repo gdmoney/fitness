@@ -5,14 +5,23 @@
 
 *****
 
-03.27 ***`Rest    `***   
-03.26 ***`Flex    `***   
-03.25 ***`Upper-2 `***   
+04.03 ***`Rest    `***   
+04.02 ***`Flex    `***   
+04.01 ***`Upper-2 `***   
+03.31 ***`Lower-2 `***   
+03.30 ***`Flex    `***   
+03.29 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 80x40x4 • **DB curl-rvs:** 25x15x3 • **DB OH press:** 52x15x3  
+03.28 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 15x4 • **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3 • **back extn:** 35x15x3  
+- **Mon** -
+
+03.27 ***`Rest    `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x30x4 • **BB curl-rvs:** 55x15x3 • **DB OH press:** 52x15x3  
+03.26 ***`Flex    `*** **run:** 1 mile • **deadlift:** 235x8x4 • **hip thrust:** 185x15x4 • **back extn:** 35x15x4  
+03.25 ***`Upper-2 `*** **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3  
 03.24 ***`Lower-2 `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x30x4 • **DB OH press:** 52x15x3  
 03.23 ***`Flex    `*** **run:** 1 mile • **leg press:** 15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **back extn:** 35x15x3  
 03.22 ***`Upper-1 `***   
 03.21 ***`Lower-1 `***   
-- **Mon/Tue** - rest days. **Wed** - pretty good workout. **Thur** - OH press is improving; incorporate BB next week. **Fri** - 
+- **Mon/Tue** - rest days. **Wed** - pretty good workout. **Thur** - OH press is improving; incorporate BB next week. **Fri** - good stretch. **Sat** - first deadlift in two months; form was not great but I kept my back straight. **Sun** - vertical press felt even stronger than the last time. **Recap** - good week; started out slow but finished strong.
 
 03.20 ***`Rest    `***   
 03.19 ***`Flex    `***   
