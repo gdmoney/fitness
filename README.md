@@ -11,8 +11,8 @@
 03.31 ***`Lower-2 `***   
 03.30 ***`Flex    `***   
 03.29 ***`Upper-1 `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 80x40x4 • **DB curl-rvs:** 25x15x3 • **DB OH press:** 52x15x3  
-03.28 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 15x4 • **back extn:** 35x15x3 • **DB lunge:** 40x30x3 • **DB lunge-rvs:** 40x20x3  
-- **Mon** -
+03.28 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 15x3 • **back extn:** 35x15x3 • **DB lunge:** 40x30x3  
+- **Mon** - good workout; both legs and back were tired after. **Tue** - 
 
 03.27 ***`Rest    `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x30x4 • **BB curl-rvs:** 55x15x3 • **DB OH press:** 52x15x3  
 03.26 ***`Flex    `*** **run:** 1 mile • **deadlift:** 235x8x4 • **hip thrust:** 185x15x4 • **back extn:** 35x15x4  
