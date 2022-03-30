@@ -14,12 +14,12 @@
 
 ### 2021
 
-| Period          | Squat        | Bench - Max  | Bench - BW AMRAP | Deadlift     | Pullups      | BB OH Press  | Push Press   | BB Curl      |
-| :-------------- | :----------: | :----------: | :--------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| Jan - Feb - Mar | 275          | 315          |                  | 375          | 18           | 180          |              | 155          |
-| Apr - May - Jun | 300          | 320          |                  | 375          |              | 180x2        |              |              |
-| Jul - Aug - Sep |              |              |                  |              |              |              |              |              |
-| Oct - Nov - Dec |              |              |                  |              |              |              |              |              |
+| Period          | Squat        | Bench - Max  | Deadlift     | Pullups      | BB OH Press  | BB Curl      |
+| :-------------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| Jan - Feb - Mar | 275          | 315          | 375          | 18           | 180          | 155          |
+| Apr - May - Jun | 300          | 320          | 375          |              | 180x2        |              |
+| Jul - Aug - Sep |              |              |              |              |              |              |
+| Oct - Nov - Dec |              |              |              |              |              |              |
 
 *****
 
