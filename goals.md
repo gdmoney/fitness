@@ -7,7 +7,8 @@
 - [ ]  improved posture
 - [ ]  315 squat
 - [ ]  405 deadlift
-- [ ]  TBD
+- [ ]  180 OH press
+- [ ]  80x10 DB OH press
 
 *****
 
