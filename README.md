@@ -5,14 +5,23 @@
 
 *****
 
-04.03 ***`Rest    `***   
+04.10 ***`Flex    `*** **chinups:** 10x5 • **DB shrug:** 100x15x5  
+04.09 ***`Lower-3 `*** **SSB squat:** 210x6x4, 160x12x3 • **hip thrust:** 185x15x4  
+04.08 ***`Upper-2 `*** **run:** 1 mile • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
+04.07 ***`Lower-2 `*** **run:** 1 mile • **leg press:** 15x4 • **back extn:** 45x15x4 • **DB lunge-rvs:** 40x20x3  
+04.06 ***`Flex    `*** **run:** 1 mile • **pullups-ntrl:** 10x5 • **DB shrug:** 100x15x5  
+04.05 ***`Upper-1 `*** **run:** 1 mile • **DB OH press-sngl:** 80x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
+04.04 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 15x4 • **back extn:** 45x15x4 • **DB lunge:** 40x30x3  
+- **Mon** -
+
+04.03 ***`Rest    `*** **chinups:** 10x5 • **DB shrug:** 90x15x5  
 04.02 ***`Flex    `*** **run:** 1 mile • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.01 ***`Upper-2 `*** **run:** 1 mile • **back squat:** 205x10x3 • **leg press:** 15x3 • **back extn:** 35x15x3 • **DB lunge-rvs:** 40x20x3  
 03.31 ***`Lower-2 `***   
 03.30 ***`Flex    `*** **run:** 1.5 miles • **armwrestling**  
 03.29 ***`Upper-1 `*** **run:** 1 mile • **DB OH press:** 70x8x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 03.28 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 15x3 • **back extn:** 35x15x3 • **DB lunge:** 40x30x3  
-- **Mon** - good workout; both legs and back were tired after. **Tue** - first time double OH pressing 70s; felt good but had a slight ache in both shoulders. **Wed** - band work. **Thur** - rest. **Fri** - first time doing back squat since January but I felt strong; weight was moderate and the form was good; I think leg press work is carrying over. **Sat** - good workout; focused on full ROM and good form. **Sun** -
+- **Mon** - good workout; both legs and back were tired after. **Tue** - first time double OH pressing 70s; felt good but had a slight ache in both shoulders. **Wed** - band work. **Thur** - rest. **Fri** - first time doing back squat since January but I felt strong; weight was moderate and the form was good; I think leg press work is carrying over. **Sat** - good workout; focused on full ROM and good form. **Sun** - first time doing chinups in a long time and it felt great; add another chinup/pullup day next week; go up to 100 on DB shrug next week. **Recap** - another good week; no pain.
 
 03.27 ***`Rest    `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x30x4 • **BB curl-rvs:** 55x15x3 • **DB OH press:** 52x15x3  
 03.26 ***`Flex    `*** **run:** 1 mile • **deadlift:** 235x8x4 • **hip thrust:** 185x15x4 • **back extn:** 35x15x4  
