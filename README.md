@@ -10,9 +10,9 @@
 04.08 ***`Upper-2 `*** **run:** 1 mile • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.07 ***`Lower-2 `*** **run:** 1 mile • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge-rvs:** 40x20x3  
 04.06 ***`Flex    `*** **run:** 1 mile • **pullups-ntrl:** 10x5 • **DB shrug:** 100x15x5  
-04.05 ***`Upper-1 `*** **run:** 1 mile • **DB OH press-sngl:** 80x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
+04.05 ***`Upper-1 `*** **run:** 1 mile • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.04 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 40x20x4  
-- **Mon** - felt strong; went up in weight on both leg press and back extn. **Tue** - 
+- **Mon** - felt strong; went up in weight on both leg press and back extn. **Tue** - felt strong on OH press; went up from 5 to 7 reps per hand. **Wed** - 
 
 04.03 ***`Rest    `*** **chinups:** 10x5 • **DB shrug:** 90x15x5  
 04.02 ***`Flex    `*** **run:** 1 mile • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
