@@ -6,13 +6,13 @@
 *****
 
 04.10 ***`Flex    `*** **chinups:** 10x5  
-04.09 ***`Flex    `*** **SSB squat:** 210x6x4, 160x12x3 • **hip thrust:** 185x15x4  
+04.09 ***`Flex    `*** **SSB squat:** 210x7x4, 160x12x3 • **hip thrust:** 185x15x3  
 04.08 ***`Upper-2 `*** **run:** 1 mile • **DB OH press:** 65x10x4 • **lat pulldown:** 12x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.07 ***`Lower-2 `*** **run:** 1 mile • **leg press:** 235x15x3 • **back extn:** 45x15x3 • **DB lunge-rvs:** 40x20x3  
 04.06 ***`Flex    `*** **run:** 1 mile • **pullups-ntrl:** 10x5 • **DB shrug:** 90x15x5  
 04.05 ***`Upper-1 `*** **run:** 1 mile • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.04 ***`Lower-1 `*** **run:** 1 mile • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 40x20x4  
-- **Mon** - felt strong; went up in weight on both leg press and back extn. **Tue** - felt strong on OH press; went up from 5 to 7 reps per hand. **Wed** - pullups felt strong; did +10lbs on the last set; shrugs don't seem to be engaging the traps much. **Thur** - good workout; go up to 45 on DB lunge next week. **Fri** - good workout. **Sat** -
+- **Mon** - felt strong; went up in weight on both leg press and back extn. **Tue** - felt strong on OH press; went up from 5 to 7 reps per hand. **Wed** - pullups felt strong; did +10lbs weighted on the last set; shrugs don't seem to be engaging the traps much. **Thur** - good workout; go up to 45 on DB lunge next week. **Fri** - good workout. **Sat** - squat was moderate; went up from 6 to 7 reps. **Sun** - 
 
 04.03 ***`Rest    `*** **chinups:** 10x5 • **DB shrug:** 90x15x5  
 04.02 ***`Flex    `*** **run:** 1 mile • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
