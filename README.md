@@ -11,8 +11,8 @@
 04.14 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x3 • **back extn:** 45x15x3 • **DB lunge-rvs:** 45x20x3  
 04.13 ***`Flex    `*** **run:** 1m • **pullups-ntrl:** 10x5 • **TBD**  
 04.12 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
-04.11 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x4  
-- **Mon** -
+04.11 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
+- **Mon** - good workout. **Tue** - OH press was moderate/heavy; focused on good form on lat pulldown. **Wed** - 
 
 04.10 ***`Flex    `*** **run:** 2m • **pullups-ntrl:** 10x3  
 04.09 ***`Flex    `*** **SSB squat:** 210x7x4, 160x12x3 • **hip thrust:** 185x15x3  
