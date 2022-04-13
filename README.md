@@ -5,20 +5,20 @@
 
 *****
 
-04.17 ***`Flex    `*** **chinups:** 10x5 • **TBD**  
+04.17 ***`Flex    `*** **chinups:** 10x5 • **lat raise:**  30x4  
 04.16 ***`Flex    `*** **SSB squat:** 210x7x4, 160x12x3 • **hip thrust:** 185x15x3  
 04.15 ***`Upper-2 `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.14 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x3 • **back extn:** 45x15x3 • **DB lunge-rvs:** 45x20x3  
-04.13 ***`Flex    `*** **run:** 1m • **pullups-ntrl:** 10x5 • **TBD**  
+04.13 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:**  15x4  
 04.12 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.11 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
-- **Mon** - good workout. **Tue** - OH press was moderate/heavy; focused on good form on lat pulldown. **Wed** - 
+- **Mon** - good workout. **Tue** - OH press was moderate/heavy; focused on good form on lat pulldown. **Wed** - first time doing lat raise since January; no pain. **Thur** - 
 
-04.10 ***`Flex    `*** **run:** 2m • **pullups-ntrl:** 10x3  
+04.10 ***`Flex    `*** **run:** 2m • **pullups:** 10x3  
 04.09 ***`Flex    `*** **SSB squat:** 210x7x4, 160x12x3 • **hip thrust:** 185x15x3  
 04.08 ***`Upper-2 `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 12x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.07 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x3 • **back extn:** 45x15x3 • **DB lunge-rvs:** 40x20x3  
-04.06 ***`Flex    `*** **run:** 1m • **pullups-ntrl:** 10x5 • **DB shrug:** 90x15x5  
+04.06 ***`Flex    `*** **run:** 1m • **pullups:** 10x5 • **DB shrug:** 90x15x5  
 04.05 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.04 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 40x20x4  
 - **Mon** - felt strong; went up in weight on both leg press and back extn. **Tue** - felt strong on OH press; went up from 5 to 7 reps per hand. **Wed** - pullups felt strong; did +10lbs weighted on the last set; shrugs don't seem to be engaging the traps much. **Thur** - good workout; go up to 45 on DB lunge next week. **Fri** - good workout. **Sat** - squat was moderate; went up from 6 to 7 reps. **Sun** - ended up doing pullups at the park. **Recap** - third good week in a row; stick with this program for now since it's working well.
