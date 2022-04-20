@@ -5,14 +5,23 @@
 
 *****
 
-04.17 ***`Flex    `*** **chinups:** 10x5 • **lat raise:**  30x4  
-04.16 ***`Flex    `*** **SSB squat:** 210x7x4, 160x12x3 • **hip thrust:** 185x15x3  
-04.15 ***`Upper-2 `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
-04.14 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x3 • **back extn:** 45x15x3 • **DB lunge-rvs:** 45x20x3  
+04.26 ***`Flex    `***   
+04.25 ***`Flex    `***   
+04.24 ***`Upper-2 `***   
+04.23 ***`Lower-2 `***   
+04.22 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:**  15x4  
+04.21 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 50x20x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **machine row:** 15x3  
+04.20 ***`Lower-1 `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
+- **Mon/Tue** - worked out at Terranea. **Wed** - 
+
+04.17 ***`Flex    `***   
+04.16 ***`Flex    `***   
+04.15 ***`Upper-2 `***   
+04.14 ***`Lower-2 `***   
 04.13 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:**  15x4  
 04.12 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.11 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
-- **Mon** - good workout. **Tue** - OH press was moderate/heavy; focused on good form on lat pulldown. **Wed** - first time doing lat raise since January; no pain. **Thur** - 
+- **Mon** - good workout. **Tue** - OH press was moderate/heavy; focused on good form on lat pulldown. **Wed** - first time doing lat raise since January; no pain. **Thur/Fri/Sat/Sun** - rest; spending time with Luka. **Recap** - OK week; only got three workouts in but they were all quality.
 
 04.10 ***`Flex    `*** **run:** 2m • **pullups:** 10x3  
 04.09 ***`Flex    `*** **SSB squat:** 210x7x4, 160x12x3 • **hip thrust:** 185x15x3  
