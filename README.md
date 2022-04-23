@@ -7,12 +7,12 @@
 
 04.26 ***`Flex    `***   
 04.25 ***`Flex    `***   
-04.24 ***`Upper-2 `***   
+04.24 ***`Upper-2 `*** **DB OH press-sngl:** 80x14x4 • **DB row-sngl:** 100x30x4 • **DB OH press:** 52x15x4  
 04.23 ***`Lower-2 `***   
 04.22 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:**  15x4  
 04.21 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 50x20x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **machine row:** 15x3  
 04.20 ***`Lower-1 `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
-- **Mon/Tue** - worked out at Terranea. **Wed** - pullups felt good; start doing weighted next week. **Thur** - 
+- **Mon/Tue** - worked out at Terranea. **Wed** - pullups felt good; start doing weighted next week. **Thur** - rest. **Fri** - row feels stronger. **Sat** - 
 
 04.17 ***`Flex    `***   
 04.16 ***`Flex    `***   
