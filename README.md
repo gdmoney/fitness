@@ -12,7 +12,7 @@
 04.27 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:**  15x4  
 04.26 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.25 ***`Lower-1 `*** **run:** 1m • **leg press:** 15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
-**Mon** -
+**Mon** - good workout. **Tue** - 
 
 04.24 ***`Flex    `*** **chinups:** 10x15  
 04.23 ***`Flex    `***   
