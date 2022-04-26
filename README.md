@@ -21,7 +21,7 @@
 04.20 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:**  15x4  
 04.19 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 50x20x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **machine row:** 15x3  
 04.18 ***`Lower-1 `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
-- **Mon/Tue** - worked out at Terranea. **Wed** - pullups felt good; start doing weighted next week. **Thur** - rest. **Fri** - row feels stronger. **Sat** - rest. **Sun** - chinups challenge, 10 reps every 30 minutes; go for 20 sets next time. **Recap** - decent week; five good workouts.
+- **Mon/Tue** - worked out at Terranea. **Wed** - pullups felt good; start doing weighted next week. **Thur** - rest. **Fri** - row feels stronger. **Sat** - rest. **Sun** - chinups challenge, 10 reps every 30 minutes; go for 20 sets next time. **Recap** - decent week with five good workouts.
 
 04.17 ***`Flex    `***   
 04.16 ***`Flex    `***   
