@@ -9,7 +9,7 @@
 04.30 ***`Flex    `***   
 04.29 ***`Upper-2 `***   
 04.28 ***`Lower-2 `***   
-04.27 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:**  15x4  
+04.27 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x3 • **lat raise:**  15x3  
 04.26 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 15x4 • **machine row:** 220x15x4  
 04.25 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
 **Mon** - good workout. **Tue** - OH press felt strong; go up in weight or reps next week. **Wed** - 
