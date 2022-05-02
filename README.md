@@ -21,7 +21,7 @@
 04.27 ***`Flex    `*** **pullups/chinups:** 10x3 • **lat raise:**  15x3  
 04.26 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 15x4 • **machine row:** 220x15x4  
 04.25 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
-**Mon** - good workout. **Tue** - OH press felt strong; go up in weight or reps next week. **Wed** - was short on time. **Thur** - leg press felt strong; go up to 12 reps next week. **Fri/Sat** - rest. **Sun** - worked out at the MTV gym.  **Recap** - another decent week with five good workouts.
+**Mon** - good workout. **Tue** - OH press felt strong; go up in weight or reps next week. **Wed** - was short on time. **Thur** - leg press felt strong; go up to 12 reps next week. **Fri/Sat** - rest. **Sun** - worked out at the MTV gym.  **Recap** - another decent week with four good workouts and one mediocre one.
 
 04.24 ***`Flex    `*** **chinups:** 10x15  
 04.23 ***`Flex    `***   
