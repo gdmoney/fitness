@@ -1,6 +1,24 @@
 ## Training Plan
 
 
+### 2022 - April - May
+
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4   |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- | :------------- |
+| *Monday*    | **`Lower-1`** | leg press       | back extension | DB lunge         |                |
+| *Tuesday*   | **`Upper-1`** | DB OH press     | lat pulldown   | tri push/extn    | machine row    |
+| *Wednesday* | **`Flex   `** | pullups         | chinups        | lat raise        | face pulls     |
+| *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |                |
+| *Friday*    | **`Upper-2`** | BB OH press - M | lat pulldown   | tri push/extn    | machine row    |
+| *Saturday*  | **`Flex   `** | SSB squat       | hip thrust     | lat raise        |                |
+| *Sunday*    | **`Flex   `** | BB OH press - V | chinups - W    |                  |                |
+
+**M** - Main: standard movement, heavier  
+**V** - Variation: different movement, lighter, volume/technique/speed/paused  
+**W** - Weighted  
+
+*****
+
 ### 2021 - July
 
 | Day         | Movement        | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4   | Exercise - 5   | Exercise - 6       |
