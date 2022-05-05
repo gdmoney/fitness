@@ -8,11 +8,11 @@
 05.08 ***`Flex    `***   
 05.07 ***`Flex    `***   
 05.06 ***`Upper-2 `***   
-05.05 ***`Lower-2 `***   
+05.05 ***`Lower-2 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
 05.04 ***`Flex    `*** **pullups/chinups:** 10x5 • **lat raise:**  15x4 • **rear delt machine:** 15x4  
 05.03 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **rear delt machine:** 15x4  
 05.02 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x10x4 • **DB lunge:** 45x20x3  
-**Mon** - good workout; go up to 50 on DB lunge. **Tue** - slept poorly and didn't feel strong. **Wed** - 
+**Mon** - good workout; go up to 50 on DB lunge. **Tue** - slept poorly and didn't feel strong. **Wed** - got a good pump. **Thur** - legs felt stronger than on Monday; last workout at the MTV gym. **Fri** - 
 
 05.01 ***`Flex    `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **rear delt machine:** 15x4  
 04.30 ***`Flex    `***   
