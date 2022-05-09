@@ -5,14 +5,23 @@
 
 *****
 
-05.08 ***`Flex    `***   
+05.15 ***`Flex    `***   
+05.14 ***`Flex    `***   
+05.13 ***`Upper-2 `***   
+05.12 ***`Lower-2 `***   
+05.11 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:**  15x4 • **face pulls:** 15x4  
+05.10 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 15x4 • **machine row:** 220x15x4  
+05.09 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
+**Mon** - 
+
+05.08 ***`Flex    `*** **BB OH press-ntrl:** 115x10x4 • **DB row:** 100x30x4 • **lat raise:** 20x4  
 05.07 ***`Flex    `***   
 05.06 ***`Upper-2 `***   
 05.05 ***`Lower-2 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
 05.04 ***`Flex    `*** **pullups/chinups:** 10x5 • **lat raise:**  15x4 • **rear delt machine:** 15x4  
-05.03 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **rear delt machine:** 15x4  
+05.03 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **rear delt machine:** 15x3  
 05.02 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x10x4 • **DB lunge:** 45x20x3  
-**Mon** - good workout; go up to 50 on DB lunge. **Tue** - slept poorly and didn't feel strong. **Wed** - got a good pump. **Thur** - legs felt stronger than on Monday; last workout at the MTV gym. **Fri** - 
+**Mon** - good workout; go up to 50 on DB lunge. **Tue** - slept poorly and didn't feel strong. **Wed** - got a good pump. **Thur** - legs felt stronger than on Monday; last workout at the MTV gym. **Fri/Sat** - rest. **Sun** - first time doing BB OH press since January; focused on good form and full ROM; go up to 12 reps next week; DB row felt strong. **Recap** - solid week.
 
 05.01 ***`Flex    `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **rear delt machine:** 15x4  
 04.30 ***`Flex    `***   
@@ -177,7 +186,7 @@
 12.29 ***`Rest    `***   
 12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
 12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
-- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/eavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
+- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
 
 12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x30x4  
 12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
