@@ -12,7 +12,7 @@
 05.11 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **chinups:** 10x3 • **lat raise:**  15x4 • **face pulls:** 15x4  
 05.10 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 15x4 • **machine row:** 220x15x4  
 05.09 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
-**Mon** - leg press was moderate/heavy; go up in weight next week; back extension keeps feeling better. **Tue** - OH press was heavy with good form; first time doing double 70s. **Wed** - didn't feel great but got through it. **Thur** - 
+**Mon** - leg press was moderate/heavy; go up in weight next week; back extension keeps feeling better. **Tue** - OH press was heavy with good form; first time doing double 70s. **Wed** - didn't feel great but got through it. **Thur** - leg press was moderate/heavy again; good workout overall.
 
 05.08 ***`Flex    `*** **BB OH press-ntrl:** 115x10x4 • **DB row:** 100x30x4 • **lat raise:** 20x4  
 05.07 ***`Flex    `***   
