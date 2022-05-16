@@ -11,7 +11,7 @@
 | *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |                |
 | *Friday*    | **`Upper-2`** | BB OH press - M | lat pulldown   | tri push/extn    | machine row    |
 | *Saturday*  | **`Flex   `** | SSB squat       | hip thrust     | lat raise        |                |
-| *Sunday*    | **`Flex   `** | BB OH press - V | chinups - W    |                  |                |
+| *Sunday*    | **`Flex   `** | BB OH press - V | chinups - W    | BB curl-rvs      |                |
 
 **M** - Main: standard movement, heavier  
 **V** - Variation: different movement, lighter, volume/technique/speed/paused  
