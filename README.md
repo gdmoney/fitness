@@ -8,17 +8,17 @@
 05.22 ***`Flex    `***   
 05.21 ***`Flex    `***   
 05.20 ***`Upper-2 `***   
-05.19 ***`Lower-2 `*** **run:** 1m • **leg press:** 250x15x4 • **back extn:** 70x15x4 • **DB lunge-rvs:** 50x20x3  
-05.18 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **chinups:** 10x3 • **lat raise:**  15x4 • **face pulls:** 15x4  
-05.17 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 145x15x4 • **tri push/extn:** 15x4 • **machine row:** 220x15x4  
+05.19 ***`Lower-2 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 70x15x4 • **DB lunge-rvs:** 50x20x3  
+05.18 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **chinups:** 10x3 • **lat raise:** 15x4 • **face pulls:** 15x4  
+05.17 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
 05.16 ***`Lower-1 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
-**Mon** - first time doing 250 on the leg press; work up to 15 reps and then go up in weight; go up in weight on back extn next week. **Tue** - 
+**Mon** - first time doing 250 on the leg press; work up to 15 reps and then go up in weight; go up in weight on back extn next week. **Tue** - OH press was heavy, especially the last two sets; first time doing double 75s. **Wed** - 
 
 05.15 ***`Flex    `*** **BB OH press:** 125x10x3 • **BB OH press-ntrl:** 115x10x3 • **BB curl-rvs:** 75x12x3 • **lat raise:** 20x3  
 05.14 ***`Flex    `***   
 05.13 ***`Upper-2 `***   
 05.12 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
-05.11 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **chinups:** 10x3 • **lat raise:**  15x4 • **face pulls:** 15x4  
+05.11 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **chinups:** 10x3 • **lat raise:** 15x4 • **face pulls:** 15x4  
 05.10 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 145x15x4 • **tri push/extn:** 15x4 • **machine row:** 220x15x4  
 05.09 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
 **Mon** - leg press was moderate/heavy; go up in weight next week; back extension keeps feeling better. **Tue** - OH press was heavy with good form; first time doing double 70s. **Wed** - didn't feel great but got through it. **Thur** - leg press was moderate/heavy again; good workout overall. **Fri/Sat** - rest. **Sun** - pronated grip OH press was light; go up to 135 next week; neutral grip OH press was heavy; stay at 115 for now. **Recap** - another solid week with 5 good workouts, but I need to fit in at least one more session per week.
@@ -27,7 +27,7 @@
 05.07 ***`Flex    `***   
 05.06 ***`Upper-2 `***   
 05.05 ***`Lower-2 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
-05.04 ***`Flex    `*** **pullups/chinups:** 10x5 • **lat raise:**  15x4 • **rear delt machine:** 15x4  
+05.04 ***`Flex    `*** **pullups/chinups:** 10x5 • **lat raise:** 15x4 • **rear delt machine:** 15x4  
 05.03 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **rear delt machine:** 15x3  
 05.02 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x10x4 • **DB lunge:** 45x20x3  
 **Mon** - good workout; go up to 50 on DB lunge. **Tue** - slept poorly and didn't feel strong. **Wed** - got a good pump. **Thur** - legs felt stronger than on Monday; last workout at the MTV gym. **Fri/Sat** - rest. **Sun** - first time doing BB OH press since January; focused on good form and full ROM; go up to 12 reps next week; DB row felt strong. **Recap** - solid week.
@@ -36,7 +36,7 @@
 04.30 ***`Flex    `***   
 04.29 ***`Upper-2 `***   
 04.28 ***`Lower-2 `*** **run:** 1m • **leg press:** 250x10x4 • **back extn:** 70x10x4 • **DB lunge:** 45x20x3  
-04.27 ***`Flex    `*** **pullups/chinups:** 10x3 • **lat raise:**  15x3  
+04.27 ***`Flex    `*** **pullups/chinups:** 10x3 • **lat raise:** 15x3  
 04.26 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 15x4 • **machine row:** 220x15x4  
 04.25 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
 **Mon** - good workout. **Tue** - OH press felt strong; go up in weight or reps next week. **Wed** - was short on time. **Thur** - leg press felt strong; go up to 12 reps next week. **Fri/Sat** - rest. **Sun** - worked out at the MTV gym.  **Recap** - another decent week with four good workouts and one mediocre one.
@@ -45,7 +45,7 @@
 04.23 ***`Flex    `***   
 04.22 ***`Upper-2 `*** **DB OH press-sngl:** 80x14x4 • **DB row-sngl:** 100x30x4 • **DB OH press:** 52x15x4  
 04.21 ***`Lower-2 `***   
-04.20 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:**  15x4  
+04.20 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x6 • **lat raise:** 15x4  
 04.19 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 50x20x3 • **lat pulldown:** 15x3 • **tri pushdown:** 15x3 • **machine row:** 15x3  
 04.18 ***`Lower-1 `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 - **Mon/Tue** - worked out at Terranea. **Wed** - pullups felt good; start doing weighted next week. **Thur** - rest. **Fri** - row feels stronger. **Sat** - rest. **Sun** - chinups challenge, 10 reps every 30 minutes; go for 20 sets next time. **Recap** - decent week with five good workouts.
@@ -54,7 +54,7 @@
 04.16 ***`Flex    `***   
 04.15 ***`Upper-2 `***   
 04.14 ***`Lower-2 `***   
-04.13 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:**  15x4  
+04.13 ***`Flex    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 15x4  
 04.12 ***`Upper-1 `*** **run:** 1m • **DB OH press-sngl:** 80x14x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4 • **machine row:** 15x4  
 04.11 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 45x15x4 • **DB lunge:** 45x20x3  
 - **Mon** - good workout. **Tue** - OH press was moderate/heavy; focused on good form on lat pulldown. **Wed** - first time doing lat raise since January; no pain. **Thur/Fri/Sat/Sun** - rest; spending time with Luka. **Recap** - OK week; only got three workouts in but they were all quality.
