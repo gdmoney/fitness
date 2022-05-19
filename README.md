@@ -12,7 +12,7 @@
 05.18 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **chinups:** 10x3 • **lat raise:** 20x4 • **face pulls:** 15x4  
 05.17 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
 05.16 ***`Lower-1 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
-**Mon** - first time doing 250 on the leg press; work up to 15 reps and then go up in weight; go up in weight on back extn next week. **Tue** - OH press was heavy, especially the last two sets; first time doing double 75s. **Wed** - didn't feel great but still got 7 sets of pullups/chinups in; goal is 10. **Thur** - 
+**Mon** - first time doing 250 on the leg press; work up to 15 reps and then go up in weight; go up in weight on back extn next week. **Tue** - OH press was heavy, especially the last two sets; first time doing double 75s. **Wed** - didn't feel great but still got 7 sets of pullups/chinups in; goal is 10. **Thur** - good workout. **Fri** - 
 
 05.15 ***`Flex    `*** **BB OH press:** 125x10x3 • **BB OH press-ntrl:** 115x10x3 • **BB curl-rvs:** 75x12x3 • **lat raise:** 20x3  
 05.14 ***`Flex    `***   
