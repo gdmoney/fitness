@@ -10,9 +10,9 @@
 05.27 ***`Upper-2 `***   
 05.26 ***`Lower-2 `***   
 05.25 ***`Flex    `***   
-05.24 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 12x4 • **tri push/extn:** 20x4 • **machine row:** 15x4  
-05.23 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • DB lunge:** 50x20x3  
-**Mon** - worked out at the hotel gym; lower back still hurt a bit so I skipped the back extension. **Tue** - 
+05.24 ***`Upper-1 `*** **run:** 1m • **DB OH press-std:** 50x20x4 • **pullups:** 10x3 • **chinups:** 10x2 • **tri push/extn:** 20x4  
+05.23 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **DB lunge:** 50x20x3  
+**Mon** - worked out at the hotel gym; lower back still hurt a bit so I skipped the back extension. **Tue** - didn't feel great after sleeping poorly but still had a decent workout. **Wed** - 
 
 05.22 ***`Flex    `*** **SSB squat:** 225x7x3 • **BB OH press:** 135x10x3 • **chinups-wtd:** 25x8x5  
 05.21 ***`Flex    `***   
