@@ -8,7 +8,7 @@
 05.29 ***`Flex    `***   
 05.28 ***`Flex    `***   
 05.27 ***`Upper-2 `***   
-05.26 ***`Lower-2 `***   
+05.26 ***`Lower-2 `*** **run:** 1m • **leg press:** 15x4 • **DB lunge-rvs:** 45x20x3 • **pullups:** 10x10 • **lat raise:** 20x4  
 05.25 ***`Flex    `***   
 05.24 ***`Upper-1 `*** **run:** 1m • **DB OH press-std:** 50x20x4 • **pullups:** 10x3 • **chinups:** 10x2 • **tri push/extn:** 20x4  
 05.23 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **DB lunge:** 50x20x3  
