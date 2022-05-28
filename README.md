@@ -6,13 +6,13 @@
 *****
 
 05.29 ***`Flex    `***   
-05.28 ***`Flex    `***   
+05.28 ***`Flex    `*** **BB OH press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x20x4  
 05.27 ***`Upper-2 `***   
 05.26 ***`Lower-2 `*** **run:** 1m • **leg press:** 15x4 • **DB lunge-rvs:** 45x20x3 • **pullups:** 10x10 • **lat raise:** 20x3  
 05.25 ***`Flex    `***   
 05.24 ***`Upper-1 `*** **run:** 1m • **DB OH press-std:** 50x20x4 • **pullups:** 10x3 • **chinups:** 10x2 • **tri push/extn:** 20x4  
 05.23 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **DB lunge:** 50x20x3  
-**Mon** - worked out at the hotel gym; lower back still hurt a bit so I skipped the back extension. **Tue** - didn't feel great after sleeping poorly but still had a decent workout. **Wed** - rest. **Thur** - neutral pullups felt really good. **Fri** - 
+**Mon** - worked out at the hotel gym; lower back still hurt a bit so I skipped the back extension. **Tue** - didn't feel great after sleeping poorly but still had a decent workout. **Wed** - rest. **Thur** - neutral pullups felt really good. **Fri** - rest. **Sat** - OH press first set was light and last set was heavy; try alternating intensity and volume. **Sun** - 
 
 05.22 ***`Flex    `*** **SSB squat:** 225x7x3 • **BB OH press:** 135x10x3 • **chinups-wtd:** 25x8x5  
 05.21 ***`Flex    `***   
