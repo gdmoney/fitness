@@ -5,6 +5,15 @@
 
 *****
 
+06.05 ***`Flex    `***   
+06.04 ***`Flex    `***   
+06.03 ***`Upper-2 `***   
+06.02 ***`Lower-2 `***   
+06.01 ***`Flex    `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
+05.31 ***`Upper-1 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
+05.30 ***`Lower-1 `***   
+**Mon** - rest. **Tue** - didn't feel strong but had a solid workout; back seems to be recovered. **Wed** - 
+
 05.29 ***`Flex    `***   
 05.28 ***`Flex    `*** **BB OH press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x20x4  
 05.27 ***`Upper-2 `***   
@@ -12,7 +21,7 @@
 05.25 ***`Flex    `***   
 05.24 ***`Upper-1 `*** **run:** 1m • **DB OH press-std:** 50x20x4 • **pullups:** 10x3 • **chinups:** 10x2 • **tri push/extn:** 20x4  
 05.23 ***`Lower-1 `*** **run:** 1m • **leg press:** 12x4 • **DB lunge:** 50x20x3  
-**Mon** - worked out at the hotel gym; lower back still hurt a bit so I skipped the back extension. **Tue** - didn't feel great after sleeping poorly but still had a decent workout. **Wed** - rest. **Thur** - neutral pullups felt really good. **Fri** - rest. **Sat** - OH press first set was light and the last set was heavy; try alternating intensity and volume. **Sun** - 
+**Mon** - worked out at the hotel gym; lower back still hurt a bit so I skipped the back extension. **Tue** - didn't feel great after sleeping poorly but still had a decent workout. **Wed** - rest. **Thur** - neutral pullups felt really good. **Fri** - rest. **Sat** - OH press first set was light and the last set was heavy; try alternating intensity and volume. **Sun** - rest. **Recap** - mediocre week with only 4 workouts.
 
 05.22 ***`Flex    `*** **SSB squat:** 225x7x3 • **BB OH press:** 135x10x3 • **chinups-wtd:** 25x8x5  
 05.21 ***`Flex    `***   
