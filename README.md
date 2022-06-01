@@ -8,9 +8,9 @@
 06.05 ***`Flex    `***   
 06.04 ***`Flex    `***   
 06.03 ***`Upper-2 `***   
-06.02 ***`Lower-2 `***   
+06.02 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge-rvs:** 50x20x3  
 06.01 ***`Flex    `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 145x15x4 • **tri push:** 20x4 • **machine row:** 220x15x4  
-05.31 ***`Upper-1 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
+05.31 ***`Upper-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
 05.30 ***`Lower-1 `***   
 **Mon** - rest. **Tue** - didn't feel strong but had a solid workout; back seems to be recovered. **Wed** - good workout; OH press felt strong. **Thur** - 
 
