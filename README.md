@@ -5,14 +5,23 @@
 
 *****
 
+06.19 ***`Flex    `***   
+06.18 ***`Flex    `*** **SSB squat:** 190x10x5 • **BB OH press:** 145x10x4  
+06.17 ***`Upper-2 `***   
+06.16 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge-rvs:** 50x20x3  
+06.15 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **chinups:** 10x4 • **face pulls:** 20x4  
+06.14 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
+06.13 ***`Lower-1 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 80x10x4 • **DB lunge:** 50x20x3  
+**Mon** -
+
 06.12 ***`Flex    `***   
-06.11 ***`Flex    `*** **SSB squat:** 180x10x5  
-06.10 ***`Upper-2 `*** **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3 • **lat raise:** 15x20x3  
+06.11 ***`Flex    `*** **SSB squat:** 180x10x5 • **BB OH press:** 145x10x4  
+06.10 ***`Upper-2 `***   
 06.09 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x3 • **back extn:** 70x15x3 • **DB lunge-rvs:** 50x20x2  
 06.08 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **chinups:** 10x4 • **face pulls:** 20x4  
 06.07 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
 06.06 ***`Lower-1 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 80x10x4 • **DB lunge:** 50x20x3  
-**Mon** - leg press was heavy; work up to 15 reps; first time doing 80 lbs on back extn; no back pain. **Tue** - OH press started out moderate and then heavy towards the end; lat pulldown felt strong. **Wed** - pullups were moderate; did them on a 5 min interval. **Thur** - good workout but was a bit short on time so I had to cut it a little short. **Fri** -
+**Mon** - leg press was heavy; work up to 15 reps; first time doing 80 lbs on back extn; no back pain. **Tue** - OH press started out moderate and then heavy towards the end; lat pulldown felt strong. **Wed** - pullups were moderate; did them on a 5 min interval. **Thur** - good workout but was a bit short on time so I had to cut it a little short. **Fri** - rest. **Sat** - squat was light/moderate; OH press was moderate/heavy with good form. **Sun** - rest. **Recap** - good week; both squat and OH press keep progressing.
 
 06.05 ***`Flex    `***   
 06.04 ***`Flex    `*** **SSB squat:** 160x12x12  
@@ -21,7 +30,7 @@
 06.01 ***`Flex    `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 145x15x4 • **tri push:** 20x4 • **machine row:** 220x15x4  
 05.31 ***`Upper-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
 05.30 ***`Lower-1 `***   
-**Mon** - rest. **Tue** - didn't feel strong but had a solid workout; back seems to be recovered. **Wed** - good workout; OH press felt strong. **Thur** - good workout; go back up to 250 next week. **Fri** - OH press was light/moderate with good form; much lighter than last week; go up to 145 next week. **Sat** - weight was light but wanted to feel out my back and focused on good form; no pain so go up to 180 next week. **Sun** - rest. **Recap** - solid week; continuing to make progress.
+**Mon** - rest. **Tue** - didn't feel strong but had a solid workout; back seems to be recovered. **Wed** - good workout; OH press felt strong. **Thur** - good workout; go back up to 250 next week. **Fri** - OH press was light/moderate with good form; much lighter than last week; go up to 145 next week. **Sat** - squat was light but wanted to feel out my back and focused on good form; no pain so go up to 180 next week. **Sun** - rest. **Recap** - solid week; continuing to make progress.
 
 05.29 ***`Flex    `***   
 05.28 ***`Flex    `*** **BB OH press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x20x4  
