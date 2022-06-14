@@ -9,7 +9,7 @@
 | *Tuesday*   | **`Upper-1`** | DB OH press     | lat pulldown   | tri push/extn    | machine row    |
 | *Wednesday* | **`Upper-2`** | pullups         | chinups        | lat raise        | face pulls     |
 | *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |                |
-| *Friday*    |               |                 |                |                  |                |
+| *Friday*    | **`Flex   `** |                 |                |                  |                |
 | *Saturday*  | **`Mixed  `** | SSB squat       | BB OH press    |                  |                |
 | *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |                |
 
