@@ -8,11 +8,11 @@
 06.19 ***`Flex    `***   
 06.18 ***`Flex    `*** **SSB squat:** 190x10x5 • **BB OH press:** 145x10x4  
 06.17 ***`Upper-2 `***   
-06.16 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge-rvs:** 50x20x3  
+06.16 ***`Lower-2 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 80x10x4 • **DB lunge-rvs:** 50x20x3  
 06.15 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **chinups:** 10x4 • **face pulls:** 20x4  
 06.14 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
-06.13 ***`Lower-1 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 80x10x4 • **DB lunge:** 50x20x3  
-**Mon** -
+06.13 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
+**Mon** - good workout; went in the evening for a change. **Tue** - 
 
 06.12 ***`Flex    `***   
 06.11 ***`Flex    `*** **SSB squat:** 180x10x5 • **BB OH press:** 145x10x4  
