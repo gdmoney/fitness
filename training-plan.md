@@ -17,6 +17,12 @@
 **V** - Variation: different movement, lighter, volume/technique/speed/paused  
 **W** - Weighted  
 
+**Weekly number of sets per muscle group:**
+- Legs = 19
+- Back = 13
+- Push = 22
+- Pull = 26
+
 *****
 
 ### 2021 - July
