@@ -11,11 +11,7 @@
 | *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |                |
 | *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |                |
 | *Saturday*  | **`Combo  `** | SSB squat       | BB OH press    |                  |                |
-| *Sunday*    | **`Flex   `** | chinups - W     |                |                  |                |
-
-**M** - Main: standard movement, heavier  
-**V** - Variation: different movement, lighter, volume/technique/speed/paused  
-**W** - Weighted  
+| *Sunday*    | **`Flex   `** | chinups-wtd     |                |                  |                |
 
 **Weekly number of sets per muscle group:**
 - Legs = 19
