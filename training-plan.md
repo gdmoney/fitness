@@ -14,10 +14,10 @@
 | *Sunday*    | **`Flex   `** | chinups-wtd     |                |                  |                |
 
 **Weekly number of sets per muscle group:**
-- Legs = 19 (leg press, DB lunge, SSB squat)
-- Back = 13 (back extn, SSB squat)
-- Push = 22 (DB/BB OH press, tri push/extn, skull crushers, lat raise)
-- Pull = 26 (lat pulldown, machine row, pullups, chinups, BB curl-rvs, face pulls)
+- **Legs = 19** - leg press, DB lunge, SSB squat
+- **Back = 13** - back extn, SSB squat
+- **Push = 22** - DB/BB OH press, tri push/extn, skull crushers, lat raise
+- **Pull = 26** - lat pulldown, machine row, pullups, chinups, BB curl-rvs, face pulls
 
 *****
 
