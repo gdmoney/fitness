@@ -10,8 +10,8 @@
 | *Wednesday* | **`Upper-2`** | pullups         | chinups        | lat raise        | face pulls     |
 | *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |                |
 | *Friday*    | **`Flex   `** |                 |                |                  |                |
-| *Saturday*  | **`Mixed  `** | SSB squat       | BB OH press    |                  |                |
-| *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |                |
+| *Saturday*  | **`Combo  `** | SSB squat       | BB OH press    | lat raise        |                |
+| *Sunday*    | **`Flex   `** | chinups - W     | skull crushers | BB curl-rvs      |                |
 
 **M** - Main: standard movement, heavier  
 **V** - Variation: different movement, lighter, volume/technique/speed/paused  

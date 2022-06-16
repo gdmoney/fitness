@@ -5,17 +5,17 @@
 
 *****
 
-06.19 ***`Flex    `*** **skull crushers:** 75x12x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x25x4  
-06.18 ***`Mixed   `*** **SSB squat:** 190x10x5 • **BB OH press:** 145x10x4  
+06.19 ***`Flex    `*** **chinups-wtd:** 25x8x5 • **skull crushers:** 75x12x4 • **BB curl-rvs:** 75x12x4
+06.18 ***`Combo   `*** **SSB squat:** 190x10x5 • **BB OH press:** 145x10x4 • **lat raise:** 15x25x4  
 06.17 ***`Flex    `***   
 06.16 ***`Lower-2 `*** **run:** 1m • **leg press:** 250x12x4 • **back extn:** 80x10x4 • **DB lunge-rvs:** 50x20x3  
-06.15 ***`Upper-2 `*** **run:** 1m • **pullups:** 10x4 • **chinups:** 10x4 • **lat raise:** 20x4 • **face pulls:** 20x4  
+06.15 ***`Upper-2 `*** **run:** 1m • **pullups:** 10x3 • **chinups:** 10x3 • **lat raise:** 20x4 • **face pulls:** 20x4  
 06.14 ***`Upper-1 `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
 06.13 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
-**Mon** - good workout; went in the evening for a change. **Tue** - OH press was moderate/heavy. **Wed** - 
+**Mon** - good workout; went in the evening for a change. **Tue** - OH press was moderate/heavy. **Wed** - didn't feel great after sleeping poorly the night before. **Thur** - 
 
 06.12 ***`Flex    `***   
-06.11 ***`Mixed   `*** **SSB squat:** 180x10x5 • **BB OH press:** 145x10x4  
+06.11 ***`Combo   `*** **SSB squat:** 180x10x5 • **BB OH press:** 145x10x4  
 06.10 ***`Flex    `***   
 06.09 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x3 • **back extn:** 70x15x3 • **DB lunge-rvs:** 50x20x2  
 06.08 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **chinups:** 10x4 • **face pulls:** 20x4  
