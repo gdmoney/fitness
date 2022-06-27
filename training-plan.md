@@ -7,11 +7,11 @@
 | :---------- | :------------ | :-------------- | :------------- | :--------------- |
 | *Monday*    | **`Lower-1`** | leg press       | back extension | DB lunge         |
 | *Tuesday*   | **`Upper-1`** | DB OH press     | pullups-wtd    | tri push/extn    |
-| *Wednesday* | **`Upper-2`** | skull crushers  | BB curl-rvs    | face pulls       |
+| *Wednesday* | **`Flex   `** | skull crushers  | BB curl-rvs    | face pulls       |
 | *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |
 | *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
-| *Saturday*  | **`Combo  `** | SSB squat       |                |                  |
-| *Sunday*    | **`Flex   `** | BB OH press     | chinups-wtd    |                  |
+| *Saturday*  | **`Lower-3`** | SSB squat       |                |                  |
+| *Sunday*    | **`Upper-2`** | BB OH press     | chinups-wtd    |                  |
 
 **Weekly number of sets per muscle group:**
 - **Legs = 19** - leg press(8), DB lunge(6), SSB squat(5)
