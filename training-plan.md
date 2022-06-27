@@ -3,21 +3,21 @@
 
 ### 2022 - April/May/June
 
-| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4   |
-| :---------- | :------------ | :-------------- | :------------- | :--------------- | :------------- |
-| *Monday*    | **`Lower-1`** | leg press       | back extension | DB lunge         |                |
-| *Tuesday*   | **`Upper-1`** | DB OH press     | lat pulldown   | tri push/extn    | machine row    |
-| *Wednesday* | **`Upper-2`** | pullups         | chinups        | lat raise        | face pulls     |
-| *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |                |
-| *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |                |
-| *Saturday*  | **`Combo  `** | SSB squat       | BB OH press    |                  |                |
-| *Sunday*    | **`Flex   `** | chinups-wtd     |                |                  |                |
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- |
+| *Monday*    | **`Lower-1`** | leg press       | back extension | DB lunge         |
+| *Tuesday*   | **`Upper-1`** | DB OH press     | pullups-wtd    | tri push/extn    |
+| *Wednesday* | **`Upper-2`** | skull crushers  | BB curl-rvs    | face pulls       |
+| *Thursday*  | **`Lower-2`** | leg press       | back extension | DB lunge - rvs   |
+| *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
+| *Saturday*  | **`Combo  `** | SSB squat       |                |                  |
+| *Sunday*    | **`Flex   `** | BB OH press     | chinups-wtd    |                  |
 
 **Weekly number of sets per muscle group:**
-- **Legs = 19** - leg press, DB lunge, SSB squat
-- **Back = 13** - back extn, SSB squat
-- **Push = 22** - DB/BB OH press, tri push/extn, skull crushers, lat raise
-- **Pull = 26** - lat pulldown, machine row, pullups, chinups, BB curl-rvs, face pulls
+- **Legs = 19** - leg press(8), DB lunge(6), SSB squat(5)
+- **Back = 13** - back extn(8), SSB squat(5)
+- **Push = 24** - DB/BB OH press(8), tri push/extn(4), skull crushers(8), lat raise(4)
+- **Pull = 22** - pullups(5), chinups(5), BB curl-rvs(8), face pulls(4)
 
 *****
 
