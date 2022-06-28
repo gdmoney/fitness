@@ -5,7 +5,7 @@
 
 *****
 
-07.02 ***`Upper-2 `*** **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x5  
+07.02 ***`Upper-2 `*** **BB OH press:** 150x10x4 • **chinups-wtd:** 30x8x5  
 07.01 ***`Lower-3 `*** **SSB squat:** 190x10x5  
 06.31 ***`Flex    `*** **elliptical:** 5 min • **skull crushers:** 75x12x4 • **BB curl-rvs:** 70x12x4 • **lat raise:** 20x4  
 06.30 ***`Lower-2 `*** **elliptical:** 5 min • **DB lunge-rvs:** 55x20x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
