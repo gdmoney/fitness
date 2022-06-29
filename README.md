@@ -14,7 +14,7 @@
 06.27 ***`Lower-1 `*** **elliptical:** 5 min • **DB lunge:** 55x20x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 **Mon** - still no leg press machine but otherwise a good workout. **Tue** - OHP felt strong, lighter than the last couple of weeks; try 75s for 7-8 reps next week. **Wed** - 
 
-06.26 ***`Flex    `*** **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x5 • **skull crushers:** 70x12x3 • **BB curl-rvs:** 70x12x3
+06.26 ***`Flex    `*** **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x5 • **skull crushers:** 70x12x3 • **BB curl-rvs:** 70x12x3  
 06.25 ***`Combo   `*** **SSB squat:** 190x10x5 • **SSB lunge-rvs** 110x20x3  
 06.24 ***`Flex    `***   
 06.23 ***`Lower-2 `***   
