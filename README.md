@@ -5,14 +5,23 @@
 
 *****
 
-07.03 ***`Flex    `*** **skull crushers:** 75x12x4 • **BB curl-rvs:** 70x12x4 • **lat raise:** 20x4  
+07.11 ***`Flex    `***   
+07.10 ***`Lower-3 `*** **SSB squat:** 195x10x5  
+07.09 ***`Upper-2 `*** **BB OH press:** 150x10x4 • **chinups-wtd:** 30x8x5  
+07.08 ***`Flex    `*** **elliptical:** 5 min • **skull crushers:** 75x12x4 • **BB curl-rvs:** 70x12x4 • **face pulls:** 20x4  
+07.07 ***`Lower-2 `*** **elliptical:** 5 min • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
+07.06 ***`Upper-1 `*** **elliptical:** 5 min • **DB OH press:** 70x10x4 • **pullups-wtd:** 30x8x5 • **tri push/extn:** 20x4  
+07.05 ***`Lower-1 `***   
+**Mon** - rest. **Tue** - 
+
+07.03 ***`Flex    `***   
 07.02 ***`Lower-3 `*** **SSB squat:** 190x10x5  
 07.01 ***`Upper-2 `*** **BB OH press:** 150x10x4 • **chinups-wtd:** 30x8x5  
 06.30 ***`Flex    `*** **elliptical:** 5 min • **skull crushers:** 75x12x4 • **BB curl-rvs:** 70x12x4 • **face pulls:** 20x4  
 06.29 ***`Lower-2 `*** **elliptical:** 5 min • **DB lunge-rvs:** 55x20x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 06.28 ***`Upper-1 `*** **elliptical:** 5 min • **DB OH press:** 70x10x4 • **pullups-wtd:** 30x8x5 • **tri push/extn:** 20x4  
 06.27 ***`Lower-1 `*** **elliptical:** 5 min • **DB lunge:** 55x20x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
-**Mon** - still no leg press machine but otherwise had a good workout. **Tue** - OHP felt strong, lighter than the last couple of weeks; try 75s for 7-8 reps next week. **Wed** - good workout; felt strong; on back extn go up in weight or reps next week. **Thur** - very light workout overall but still got a good pump. **Fri** - OHP was moderate/heavy with good form. **Sat** - didn't feel great in the morning but kept good form; go up to 195 next week. **Sun** - 
+**Mon** - still no leg press machine but otherwise had a good workout. **Tue** - OHP felt strong, lighter than the last couple of weeks; try 75s for 7-8 reps next week. **Wed** - good workout; felt strong; on back extn go up in weight or reps next week. **Thur** - very light workout overall but still got a good pump. **Fri** - OHP was moderate/heavy with good form. **Sat** - didn't feel great in the morning but kept good form; go up to 195 next week. **Sun** - rest. **Recap** - good week.
 
 06.26 ***`Flex    `*** **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x5 • **skull crushers:** 70x12x3 • **BB curl-rvs:** 70x12x3  
 06.25 ***`Combo   `*** **SSB squat:** 190x10x5 • **SSB lunge-rvs** 110x20x3  
