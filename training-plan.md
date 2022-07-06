@@ -17,7 +17,7 @@
 - **Legs = 19** - leg press(8), DB lunge(6), SSB squat(5)
 - **Back = 13** - back extn(8), SSB squat(5)
 - **Push = 24** - DB/BB OH press(8), tri push/extn(4), skull crushers(8), lat raise(4)
-- **Pull = 22** - pullups(5), chinups(5), BB curl-rvs(8), face pulls(4)
+- **Pull = 20** - pullups(4), chinups(4), BB curl-rvs(8), face pulls(4)
 
 *****
 

@@ -10,9 +10,9 @@
 07.09 ***`Upper-2 `*** **BB OH press:** 150x10x4 • **chinups-wtd:** 30x8x5  
 07.08 ***`Flex    `*** **elliptical:** 5 min • **skull crushers:** 75x12x4 • **BB curl-rvs:** 70x12x4 • **face pulls:** 20x4  
 07.07 ***`Lower-2 `*** **elliptical:** 5 min • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
-07.06 ***`Upper-1 `*** **elliptical:** 5 min • **DB OH press:** 70x10x4 • **pullups-wtd:** 30x8x5 • **tri push/extn:** 20x4  
+07.06 ***`Upper-1 `*** **elliptical:** 5 min • **DB OH press:** 70x10x4 • **chinups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.05 ***`Lower-1 `***   
-**Mon** - rest. **Tue** - 
+**Mon** - rest. **Tue** - didn't feel great but had a decent workout; focused on good form on OHP and chinups. **Wed** - 
 
 07.03 ***`Flex    `***   
 07.02 ***`Lower-3 `*** **SSB squat:** 190x10x5  
