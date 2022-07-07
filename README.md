@@ -12,7 +12,7 @@
 07.07 ***`Lower-2 `*** **elliptical:** 5 min • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x4  
 07.06 ***`Upper-1 `*** **elliptical:** 5 min • **DB OH press:** 70x10x4 • **chinups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.05 ***`Lower-1 `***   
-**Mon** - rest. **Tue** - didn't feel great but had a decent workout; focused on good form on OHP and chinups. **Wed** - good workout; new leg press machine; go up to 55 on DB lunge. **Thur** - 
+**Mon** - rest. **Tue** - didn't feel great but had a decent workout; focused on good form on OHP and chinups. **Wed** - good workout; new leg press machine; go up to 55 on DB lunge. **Thur** - skull crushers are starting to feel better. **Fri** - 
 
 07.03 ***`Flex    `***   
 07.02 ***`Lower-3 `*** **SSB squat:** 190x10x5  
