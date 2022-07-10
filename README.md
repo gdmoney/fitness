@@ -6,13 +6,13 @@
 *****
 
 07.10 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 20x4  
-07.09 ***`Lower-3 `*** **SSB squat:** 195x10x5 • **SSB lunge-rvs:** 110x20x3  
+07.09 ***`Lower-3 `*** **SSB squat:** 195x10x4  
 07.08 ***`Upper-2 `*** **elliptical:** 5 min • **BB OH press:** 150x10x4 • **pullups-wtd:** 25x8x5  
 07.07 ***`Flex    `*** **run:** 1m • **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 70x12x4 • **face pulls:** 20x4  
 07.06 ***`Lower-2 `*** **elliptical:** 5 min • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x4  
 07.05 ***`Upper-1 `*** **elliptical:** 5 min • **DB OH press:** 70x10x4 • **chinups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.04 ***`Lower-1 `***   
-**Mon** - rest. **Tue** - didn't feel great but had a decent workout; focused on good form on OHP and chinups. **Wed** - good workout; new leg press machine; go up to 55 on DB lunge. **Thur** - skull crushers are starting to feel better. **Fri** - OHP was moderate/heavy with good form; a big lighter than last week; ROM still has some room for improvement. **Sat** -
+**Mon** - rest. **Tue** - didn't feel great but had a decent workout; focused on good form on OHP and chinups. **Wed** - good workout; new leg press machine; go up to 55 on DB lunge. **Thur** - skull crushers are starting to feel better. **Fri** - OHP was moderate/heavy with good form; a big lighter than last week; ROM still has some room for improvement. **Sat** - didn't feel strong late in the evening. **Sun** - felt strong in the morning and had a good workout. **Recap** - good week with 6 solid sessions.
 
 07.03 ***`Flex    `***   
 07.02 ***`Lower-3 `*** **SSB squat:** 190x10x5  
