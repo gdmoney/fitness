@@ -5,6 +5,33 @@
 
 *****
 
+07.31 ***`Lower   `***   
+07.30 ***`Upper-1 `***   
+07.29 ***`Lower   `***   
+07.28 ***`Flex    `***   
+07.27 ***`Upper-2 `***   
+07.26 ***`Lower   `***   
+07.25 ***`Flex    `***   
+**Mon** -
+
+07.24 ***`Upper-1 `***   
+07.23 ***`Lower   `***   
+07.22 ***`Flex    `***   
+07.21 ***`Upper-2 `***   
+07.20 ***`Lower   `***   
+07.19 ***`Flex    `***   
+07.18 ***`Upper-1 `***   
+**Mon** -
+
+07.17 ***`Lower   `***   
+07.16 ***`Flex    `***   
+07.15 ***`Upper-2 `***   
+07.14 ***`Lower   `***   
+07.13 ***`Flex    `***   
+07.12 ***`Upper-1 `***   
+07.11 ***`Lower   `***   
+**Mon** -
+
 07.10 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 20x4  
 07.09 ***`Lower-3 `*** **SSB squat:** 195x10x4  
 07.08 ***`Upper-2 `*** **elliptical:** 5 min • **BB OH press:** 150x10x4 • **pullups-wtd:** 25x8x5  
