@@ -33,7 +33,7 @@
 | :---------- | :------------ | :-------------- | :------------- | :--------------- |
 | *Monday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | face pull        |
 | *Tuesday*   | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |
-| *Wednesday* | **`Upper  `** | BB OH press     | pullups-wtd    |                  |
+| *Wednesday* | **`Upper  `** | BB OH press     | pullups-wtd    | tri push/extn    |
 | *Thursday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
 | *Friday*    | **`Lower  `** | SSB squat       |                |                  |
 | *Saturday*  | **`Upper  `** | DB OH press     | chinups-wtd    |                  |
