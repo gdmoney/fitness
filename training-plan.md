@@ -1,6 +1,46 @@
 ## Training Plan
 
 
+### 2022 - July
+
+**Week-1**
+
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- |
+| *Monday*    | **`Lower  `** | leg press       | back extension | DB lunge         |
+| *Tuesday*   | **`Upper  `** | DB OH press     | pullups-wtd    | tri push/extn    |
+| *Wednesday* | **`Flex   `** | skull crushers  | BB curl-rvs    | face pulls       |
+| *Thursday*  | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |
+| *Friday*    | **`Upper  `** | BB OH press     | chinups-wtd    | tri push/extn    |
+| *Saturday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
+| *Sunday*    | **`Lower  `** | SSB squat       |                |                  |
+
+**Week-2**
+
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- |
+| *Monday*    | **`Upper  `** | DB OH press     | pullups-wtd    | tri push/extn    |
+| *Tuesday*   | **`Flex   `** | skull crushers  | BB curl-rvs    | face pulls       |
+| *Wednesday* | **`Lower  `** | leg press       | back extension | DB lunge         |
+| *Thursday*  | **`Upper  `** | BB OH press     | chinups-wtd    | tri push/extn    |
+| *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
+| *Saturday*  | **`Lower  `** | SSB squat       |                |                  |
+| *Sunday*    | **`Upper  `** | DB OH press     | chinups-wtd    |                  |
+
+**Week-3**
+
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- |
+| *Monday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | face pull        |
+| *Tuesday*   | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |
+| *Wednesday* | **`Upper  `** | BB OH press     | pullups-wtd    |                  |
+| *Thursday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
+| *Friday*    | **`Lower  `** | SSB squat       |                |                  |
+| *Saturday*  | **`Upper  `** | DB OH press     | chinups-wtd    |                  |
+| *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
+
+*****
+
 ### 2022 - April/May/June
 
 | Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
@@ -16,7 +56,7 @@
 **Weekly number of sets per muscle group:**
 - **Legs = 19** - leg press(8), DB lunge(6), SSB squat(5)
 - **Back = 13** - back extn(8), SSB squat(5)
-- **Push = 24** - DB/BB OH press(8), tri push/extn(4), skull crushers(8), lat raise(4)
+- **Push = 24** - DB/BB OH press(8), skull crushers(8), tri push/extn(4), lat raise(4)
 - **Pull = 20** - pullups(4), chinups(4), BB curl-rvs(8), face pulls(4)
 
 *****

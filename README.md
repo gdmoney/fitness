@@ -4,6 +4,7 @@
 **[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md)**  
 
 *****
+
 <!---
 07.31 ***`Flex    `***   
 07.30 ***`Upper-1 `***   
