@@ -13,7 +13,7 @@
 07.27 ***`Upper   `***   
 07.26 ***`Lower   `***   
 07.25 ***`Flex    `***   
-**Week-3:** **Mon** -
+**Week-3:  Mon** -
 
 07.24 ***`Upper   `***   
 07.23 ***`Lower   `***   
@@ -22,7 +22,7 @@
 07.20 ***`Lower   `***   
 07.19 ***`Flex    `***   
 07.18 ***`Upper   `***   
-**Week-2:** **Mon** -
+**Week-2: Mon** -
 -->
 07.17 ***`Lower   `*** **SSB squat:** 195x10x4  
 07.16 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 70x12x4 • **lat raise:** 20x4  
@@ -31,7 +31,7 @@
 07.13 ***`Flex    `*** **run:** 1m • **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 70x12x4 • **face pulls:** 20x4  
 07.12 ***`Upper   `*** **run:** 1m • **DB OH press:** 70x10x4 • **pullups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.11 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-**Week-1:** **Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - 
+**Week-1: Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - 
 
 07.10 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 20x4  
 07.09 ***`Lower-3 `*** **SSB squat:** 195x10x4  
