@@ -14,24 +14,25 @@
 07.26 ***`Lower   `***   
 07.25 ***`Flex    `***   
 **Week-3:  Mon** -
-
-07.24 ***`Upper   `***   
-07.23 ***`Lower   `***   
-07.22 ***`Flex    `***   
-07.21 ***`Upper   `***   
-07.20 ***`Lower   `***   
-07.19 ***`Flex    `***   
-07.18 ***`Upper   `***   
-**Week-2: Mon** -
 -->
-07.17 ***`Lower   `*** **SSB squat:** 195x10x4  
-07.16 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 70x12x4 • **lat raise:** 20x4  
-07.15 ***`Upper   `*** **run:** 1m • **BB OH press:** 150x10x4 • **chinups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
+
+07.24 ***`Upper   `*** **run:** 1m • **bench press:** 160x10x4 • **DB OH press:** 75x8x4 • **pullups-wtd:** 25x8x4  
+07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 135x15x3   
+07.22 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x3 • **BB curl-rvs:** 70x12x3 • **tri push/extn:** 20x4 • **lat raise:** 20x3  
+07.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 1500x10x4 • **bench press:** 160x10x4 • **chinups-wtd:** 25x8x4
+07.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
+07.19 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x3 • **BB curl-rvs:** 70x12x3 • **tri push/extn:** 20x4 • **face pulls:** 20x3  
+07.18 ***`Upper   `*** **run:** 1m • **bench press:** 160x10x4 • **DB OH press:** 75x8x4 • **pullups-wtd:** 25x8x4  
+**Week-2: Mon** -
+
+07.17 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 135x15x3   
+07.16 ***`Flex    `*** **run:** 1m • **bench press:** 155x10x4 • **skull crushers:** 50x15x4 • **face pull:** 20x4 • **lat raise:** 20x4  
+07.15 ***`Upper   `***   
 07.14 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 55x20x3  
 07.13 ***`Flex    `*** **run:** 1m • **skull crushers + close grip BP:** 80x12x3 + 80x30x3 • **BB curl-rvs:** 70x12x3 • **face pulls:** 20x3  
 07.12 ***`Upper   `*** **run:** 1m • **DB OH press:** 70x10x4 • **pullups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.11 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-**Week-1: Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - did feel great so only did 3 sets. **Thur** - good workout. **Fri** - 
+**Week-1: Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - did feel great so only did 3 sets. **Thur** - good workout. **Fri** - rest. **Sat** - first time doing bench since January; weight was moderate; no pain so add it to the program; slight ache in the right elbow so I went light on SK and skipped reverse curl. **Sun** - squat was moderate/heavy with good form; slight ached in the right ankle. **Recap** - another good week with 6 solid sessions.
 
 07.10 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 20x4  
 07.09 ***`Lower-3 `*** **SSB squat:** 195x10x4  
@@ -238,7 +239,7 @@
 02.02 ***`Flex    `*** **run:** 2 miles @ 6:30 pace (trdml)  
 02.01 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x3 • **DB row-sngl:** 75x20x3  
 01.31 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 130x12x4 • **DB lunge:** 40x20x3  
-- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri/Sat/Sun** - rest. **Recap** - ok week hampered by travel and re-aggravated right shoulder but on the plus side I got good cardio work in.
+- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run was tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri/Sat/Sun** - rest. **Recap** - ok week hampered by travel and re-aggravated right shoulder but on the plus side I got good cardio work in.
 
 01.30 ***`Rest    `***   
 01.29 ***`Flex    `***   

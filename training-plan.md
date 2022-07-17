@@ -5,39 +5,39 @@
 
 **Week-1**
 
-| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
-| :---------- | :------------ | :-------------- | :------------- | :--------------- |
-| *Monday*    | **`Lower  `** | leg press       | back extension | DB lunge         |
-| *Tuesday*   | **`Upper  `** | DB OH press     | pullups-wtd    | tri push/extn    |
-| *Wednesday* | **`Flex   `** | skull crushers  | BB curl-rvs    | face pulls       |
-| *Thursday*  | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |
-| *Friday*    | **`Upper  `** | BB OH press     | chinups-wtd    | tri push/extn    |
-| *Saturday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
-| *Sunday*    | **`Lower  `** | SSB squat       |                |                  |
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- | :--------------- |
+| *Monday*    | **`Lower  `** | leg press       | back extension | DB lunge         |                  |
+| *Tuesday*   | **`Upper  `** | bench press     | DB OH press    | pullups-wtd      |                  |
+| *Wednesday* | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | face pulls       |
+| *Thursday*  | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |                  |
+| *Friday*    | **`Upper  `** | BB OH press     | bench press    | chinups-wtd      |                  |
+| *Saturday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | lat raise        |
+| *Sunday*    | **`Lower  `** | SSB squat       |                |                  |                  |
 
 **Week-2**
 
-| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
-| :---------- | :------------ | :-------------- | :------------- | :--------------- |
-| *Monday*    | **`Upper  `** | DB OH press     | pullups-wtd    | tri push/extn    |
-| *Tuesday*   | **`Flex   `** | skull crushers  | BB curl-rvs    | face pulls       |
-| *Wednesday* | **`Lower  `** | leg press       | back extension | DB lunge         |
-| *Thursday*  | **`Upper  `** | BB OH press     | chinups-wtd    | tri push/extn    |
-| *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
-| *Saturday*  | **`Lower  `** | SSB squat       |                |                  |
-| *Sunday*    | **`Upper  `** | DB OH press     | chinups-wtd    |                  |
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- | :--------------- |
+| *Monday*    | **`Upper  `** | bench press     | DB OH press    | pullups-wtd      |                  |
+| *Tuesday*   | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | face pulls       |
+| *Wednesday* | **`Lower  `** | leg press       | back extension | DB lunge         |                  |
+| *Thursday*  | **`Upper  `** | BB OH press     | bench press    | chinups-wtd      |                  |
+| *Friday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | lat raise        |
+| *Saturday*  | **`Lower  `** | SSB squat       |                |                  |                  |
+| *Sunday*    | **`Upper  `** | bench press     | DB OH press    | chinups-wtd      |                  |
 
 **Week-3**
 
-| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
-| :---------- | :------------ | :-------------- | :------------- | :--------------- |
-| *Monday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | face pull        |
-| *Tuesday*   | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |
-| *Wednesday* | **`Upper  `** | BB OH press     | pullups-wtd    | tri push/extn    |
-| *Thursday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
-| *Friday*    | **`Lower  `** | SSB squat       |                |                  |
-| *Saturday*  | **`Upper  `** | DB OH press     | chinups-wtd    |                  |
-| *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
+| Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4     |
+| :---------- | :------------ | :-------------- | :------------- | :--------------- | :--------------- |
+| *Monday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | face pulls       |
+| *Tuesday*   | **`Lower  `** | leg press       | back extension | DB lunge - rvs   |                  |
+| *Wednesday* | **`Upper  `** | BB OH press     | bench press    | pullups-wtd      |                  |
+| *Thursday*  | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | face pulls       |
+| *Friday*    | **`Lower  `** | SSB squat       |                |                  |                  |
+| *Saturday*  | **`Upper  `** | bench press     | DB OH press    | chinups-wtd      |                  |
+| *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | lat raise        |
 
 *****
 
