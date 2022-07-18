@@ -54,9 +54,9 @@
 | *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | lat raise        |
 
 **Weekly number of sets per muscle group:**
-- **Legs = 19** - leg press(8), DB lunge(6), SSB squat(5)
-- **Back = 13** - back extn(8), SSB squat(5)
-- **Push = 24** - DB/BB OH press(8), skull crushers(8), tri push/extn(4), lat raise(4)
+- **Legs = 24** - leg press(8), DB lunge(6), SSB squat(10)
+- **Back = 18** - back extn(8), SSB squat(10)
+- **Push = 32** - bench press(8), DB/BB OH press(8), skull crushers(8), tri push/extn(4), lat raise(4)
 - **Pull = 20** - pullups(4), chinups(4), BB curl-rvs(8), face pulls(4)
 
 *****
