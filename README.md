@@ -18,12 +18,12 @@
 
 07.24 ***`Upper   `*** **bench press:** 160x10x4 • **DB OH press-sngl:** 80x8x4 • **chinups-wtd:** 25x8x4  
 07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 135x15x3  
-07.22 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x3 • **BB curl-rvs:** 70x12x3 • **tri push/extn:** 20x4 • **lat raise:** 20x3  
+07.22 ***`Flex    `*** **run:** 1m • **skull crushers:** 75x15x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4 • **lat raise:** 20x4  
 07.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 150x10x4 • **bench press:** 160x10x4 • **pullups-wtd:** 25x8x4  
 07.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-07.19 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x3 • **BB curl-rvs:** 70x12x3 • **tri push/extn:** 20x4 • **face pulls:** 20x3  
-07.18 ***`Upper   `*** **run:** 1m • **bench press:** 160x10x4 • **DB OH press:** 75x8x4 • **chinups-wtd:** 25x8x4  
-**Week-2: Mon** -
+07.19 ***`Flex    `*** **run:** 1m • **skull crushers:** 70x15x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4 • **face pulls:** 20x4  
+07.18 ***`Upper   `*** **run:** 1m • **bench press:** 155x10x4 • **DB OH press:** 70x10x4 • **chinups-wtd:** 25x8x4  
+**Week-2: Mon** - bench was light; no shoulder pain; OH press was moderate/heavy. **Tue** - good workout; no elbow pain. **Wed** -
 
 07.17 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 135x15x3   
 07.16 ***`Flex    `*** **run:** 1m • **bench press:** 155x10x4 • **skull crushers:** 50x15x4 • **face pull:** 20x4 • **lat raise:** 20x4  
@@ -32,7 +32,7 @@
 07.13 ***`Flex    `*** **run:** 1m • **skull crushers + close grip BP:** 80x12x3 + 80x30x3 • **BB curl-rvs:** 70x12x3 • **face pulls:** 20x3  
 07.12 ***`Upper   `*** **run:** 1m • **DB OH press:** 70x10x4 • **pullups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.11 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-**Week-1: Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - didn't feel great so only did 3 sets. **Thur** - good workout. **Fri** - rest. **Sat** - first time doing bench since January; weight was moderate; no pain so add it to the program; slight ache in the right elbow so I went light on SK and skipped reverse curl. **Sun** - squat was moderate/heavy with good form; slight ache in the right ankle. **Recap** - another good week with 6 solid sessions.
+**Week-1: Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - didn't feel great so only did 3 sets. **Thur** - good workout. **Fri** - rest. **Sat** - first time doing bench since January; weight was moderate; no pain so add it to the program; slight ache in the right elbow so I went light on SC and skipped reverse curl. **Sun** - squat was moderate/heavy with good form; slight ache in the right ankle. **Recap** - another good week with 6 solid sessions.
 
 07.10 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 20x4  
 07.09 ***`Lower-3 `*** **SSB squat:** 195x10x4  
