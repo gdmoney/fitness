@@ -18,12 +18,12 @@
 
 07.24 ***`Upper   `*** **bench press:** 160x10x4 • **DB OH press-sngl:** 80x8x4 • **chinups-wtd:** 25x8x4  
 07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 129x20x2  
-07.22 ***`Flex    `*** **run:** 1m •   
-07.21 ***`Upper   `*** **run:** 1m •   
+07.22 ***`Flex    `***   
+07.21 ***`Upper   `***   
 07.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4  
 07.19 ***`Flex    `*** **run:** 1m • **skull crushers:** 70x15x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4 • **face pulls:** 20x4  
 07.18 ***`Upper   `*** **run:** 1m • **bench press:** 155x10x4 • **DB OH press:** 70x10x4 • **chinups-wtd:** 25x8x4  
-**Week-2: Mon** - bench was light; no shoulder pain; OH press was moderate/heavy. **Tue** - good workout; no elbow pain. **Wed** - leg press was lighter than usual. **Thur/Fri** - rest in Vegas. **Sat** - squat was moderate with good form. **Sun** - 
+**Week-2: Mon** - bench was light; no shoulder pain; OH press was moderate/heavy. **Tue** - good workout; no elbow pain. **Wed** - leg press was lighter than usual. **Thur/Fri** - rest in Vegas. **Sat** - squat was moderate with good form. **Sun** -
 
 07.17 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 135x15x3   
 07.16 ***`Flex    `*** **run:** 1m • **bench press:** 155x10x4 • **skull crushers:** 50x15x4 • **face pull:** 20x4 • **lat raise:** 20x4  
