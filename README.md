@@ -17,7 +17,7 @@
 -->
 
 07.24 ***`Upper   `*** **bench press:** 160x10x4 • **DB OH press-sngl:** 80x8x4 • **chinups-wtd:** 25x8x4  
-07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 129x20x2  
+07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 110x20x2  
 07.22 ***`Flex    `***   
 07.21 ***`Upper   `***   
 07.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4  
