@@ -5,16 +5,14 @@
 
 *****
 
-<!---
 07.31 ***`Flex    `***   
 07.30 ***`Upper   `***   
 07.29 ***`Lower   `***   
 07.28 ***`Flex    `***   
-07.27 ***`Upper   `***   
-07.26 ***`Lower   `***   
-07.25 ***`Flex    `***   
-**Week-3:  Mon** -
--->
+07.27 ***`Upper   `*** **pushups:** 20x10  
+07.26 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3  
+07.26 ***`Flex    `*** **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x3  
+**Week-3:  Mon** - rest. **Tue** - doubled up on Flex and Lower. **Wed** - first time doing pushups since January; slight soreness the next day but no shoulder pain. **Thur** - rest. **Fri** - 
 
 07.24 ***`Upper   `*** **bench press:** 155x12x4 • **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x4  
 07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 110x20x2  
