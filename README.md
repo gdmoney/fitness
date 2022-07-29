@@ -7,7 +7,7 @@
 
 07.31 ***`Flex    `***   
 07.30 ***`Upper   `***   
-07.29 ***`Lower   `*** **SSB squat:** 200x8x5, 160x15x3, 130x15x2  
+07.29 ***`Lower   `*** **SSB squat:** 200x8x4, 160x15x3, 130x15x2  
 07.28 ***`Flex    `***   
 07.27 ***`Upper   `*** **pushups:** 20x10  
 07.26 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3  
