@@ -5,14 +5,14 @@
 
 *****
 
-07.31 ***`Flex    `***   
-07.30 ***`Upper   `***   
+07.31 ***`Flex    `*** **skull crushers:** 85x15x3 • **BB curl-rvs:** 75x12x3 • **lat raise:** 20x20x3  
+07.31 ***`Upper   `*** **bench press:** 165x10x4 • **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x4  
 07.29 ***`Lower   `*** **SSB squat:** 200x8x4, 160x15x3, 130x15x2  
 07.28 ***`Flex    `***   
 07.27 ***`Upper   `*** **pushups:** 20x10  
 07.26 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3  
 07.26 ***`Flex    `*** **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x3  
-**Week-3:  Mon** - rest. **Tue** - doubled up on Flex and Lower; squat was moderate. **Wed** - first time doing pushups since January; slight soreness the next day but no shoulder pain. **Thur** - rest. **Fri** - felt strong in the AM so decided to go up in weight on squat; it was still only moderate in weight with good form. **Sat** - 
+**Week-3:  Mon** - rest. **Tue** - doubled up on Flex and Lower; squat was moderate. **Wed** - first time doing pushups since January; slight soreness the next day but no shoulder pain. **Thur** - rest. **Fri** - felt strong in the AM so decided to go up in weight on squat; it was still only moderate in weight with good form. **Sat** - rest. **Sun** - doubled up on Upper and Flex; bench was light with a focus on good form; OHP was moderate/heavy with good form. **Recap** - OK week; only 4 sessions due to travel but they were all quality; stick with this program for now.
 
 07.24 ***`Upper   `*** **bench press:** 155x12x4 • **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x4  
 07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 110x20x2  
