@@ -8,11 +8,11 @@
 08.07 ***`Lower   `***   
 08.06 ***`Flex    `***   
 08.05 ***`Upper   `***   
-08.04 ***`Lower   `***   
+08.04 ***`Lower   `*** **SSB squat:** 200x8x4, 160x15x2
 08.03 ***`Flex    `*** **skull crushers:** 85x15x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
 08.03 ***`Upper   `*** **DB OH press:** 70x10x4 • **bench press:** 165x10x4 • **pullups-wtd:** 25x8x3  
 08.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-**Week-1: Mon/Tue** - rest. **Wed** - OHP was moderate with good form; bench was light but a bit heavier than last week. **Thur** - 
+**Week-1: Mon/Tue** - rest. **Wed** - tripled up; OHP was moderate with good form; bench was light but a bit heavier than last week. **Thur** - 
 
 07.31 ***`Flex    `*** **skull crushers:** 85x15x3 • **BB curl-rvs:** 75x12x3 • **lat raise:** 20x20x3  
 07.31 ***`Upper   `*** **bench press:** 165x10x4 • **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x4  
