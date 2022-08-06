@@ -285,6 +285,7 @@
 - **Mon** - squat was moderate and form was good for the most part but I still need to keep the torso more upright; go up in weight next week. **Tue** - did bench press for the first time since June; no shoulder pain as of next morning; overhand pullups were tougher than usual, likely due to me sleeping poorly the night before. **Wed** - focused on explosiveness on the pushups. **Thur** - got sick and sat the rest of the week out. **Recap** - not a great start to the year but it can only get better.
 
 *****
+
 ## 2021
 
 01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row-sngl:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x5  
@@ -754,6 +755,7 @@
 - **Mon** - squats felt really good but developed a slight pain on the left side of the abdomen below the rib cage towards the end; at first I thought it was from the weight belt but the pain got worse the next day. **Tue** - dips were really painful, bench and OH press were OK but felt weak. **Wed** - still in pain after sleeping like crap, pullups and chinups were painful, BB row and curls were fine. **Thur** - decided to do the sensible thing and not aggravate my injury. **Fri** - bench and lat/front raises felt OK but the pain was still there. **Sat** and **Sun** - decided to fully rest in hopes to recover from my injury.
 
 *****
+
 ## 2020
 
 01.03 ***`Cardio    `*** **run:** 2 miles - hills  
