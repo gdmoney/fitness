@@ -12,7 +12,7 @@
 08.10 ***`Lower   `***   
 08.09 ***`Flex    `***   
 08.08 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press:** 145x10x4 • **DB row:** 100x30x4  
-**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either. **Tue** - 
+**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue** -
 
 08.07 ***`Lower   `***   
 08.06 ***`Flex    `*** **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
