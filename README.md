@@ -7,12 +7,12 @@
 
 08.14 ***`Upper   `***   
 08.13 ***`Lower   `***   
-08.12 ***`Flex    `*** **SSB squat:** 210x8x4  
+08.12 ***`Flex    `*** **SSB squat:** 210x8x4, 160x15x3  
 08.11 ***`Upper   `***   
 08.10 ***`Lower   `***   
 08.09 ***`Flex    `***   
 08.08 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press:** 145x10x4 • **DB row:** 100x30x4  
-**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - 
+**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - squat was moderate/heavy; form was decent but ROM wasn't quite as full as on the volume sets. **Sat** - 
 
 08.07 ***`Lower   `***   
 08.06 ***`Flex    `*** **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
