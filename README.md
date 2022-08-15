@@ -5,6 +5,15 @@
 
 *****
 
+08.21 ***`Lower   `***   
+08.20 ***`Flex    `***   
+08.19 ***`Upper   `***   
+08.18 ***`Lower   `***    
+08.17 ***`Flex    `***   
+08.16 ***`Upper   `***   
+08.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
+**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - 
+
 08.14 ***`Upper   `***   
 08.13 ***`Lower   `*** **bench press:** 185x10x4, 155x20x2 • **BB OH press:** 135x10x4, 115x12x2  
 08.12 ***`Flex    `*** **SSB squat:** 210x8x4, 160x15x3  
@@ -12,7 +21,7 @@
 08.10 ***`Lower   `***   
 08.09 ***`Flex    `***   
 08.08 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press:** 145x10x4 • **DB row:** 100x30x4  
-**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - squat was moderate/heavy; form was decent but ROM wasn't quite as full as on the volume sets. **Sat** - bench was light/moderate; tried a narrower grip which was easier on the shoulders; OHP was moderate/heavy; shoulders were tired from the bench. **Sun** - 
+**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - squat was moderate/heavy; form was decent but ROM wasn't quite as full as on the volume sets. **Sat** - bench was light/moderate; tried a narrower grip which was easier on the shoulders; OHP was moderate/heavy; shoulders were tired from the bench. **Sun** - rest. **Recap** - poor week hampered by travel with only 3 workouts.
 
 08.07 ***`Lower   `***   
 08.06 ***`Flex    `*** **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
