@@ -12,7 +12,7 @@
 08.17 ***`Flex    `***   
 08.16 ***`Upper   `***   
 08.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
-**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - 
+**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** -
 
 08.14 ***`Upper   `***   
 08.13 ***`Lower   `*** **bench press:** 185x10x4, 155x20x2 • **BB OH press:** 135x10x4, 115x12x2  
