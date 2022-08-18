@@ -8,11 +8,11 @@
 08.21 ***`Lower   `***   
 08.20 ***`Flex    `***   
 08.19 ***`Upper   `***   
-08.18 ***`Lower   `***    
-08.17 ***`Flex    `*** **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3  
+08.18 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x10x4 • **DB lunge-rvs:** 50x20x3  
+08.17 ***`Flex    `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3  
 08.16 ***`Upper   `***   
 08.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
-**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - 
+**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - good workout; first time doing 90 on back extn. **Fri** - 
 
 08.14 ***`Upper   `***   
 08.13 ***`Lower   `*** **bench press:** 185x10x4, 155x20x2 • **BB OH press:** 135x10x4, 115x12x2  
