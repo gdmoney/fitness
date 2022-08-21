@@ -5,14 +5,14 @@
 
 *****
 
-08.21 ***`Lower   `***   
-08.20 ***`Flex    `***   
+08.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **DB lunge:** 50x20x3  
+08.20 ***`Flex    `*** **run:** 1m • **DB OH press:** 50x20x4 • **pullups:** 10x5  
 08.19 ***`Upper   `***   
 08.18 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x10x4 • **DB lunge-rvs:** 50x20x3  
 08.17 ***`Flex    `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3  
 08.16 ***`Upper   `***   
 08.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
-**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - good workout; first time doing 90 on back extn. **Fri** - 
+**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - good workout; first time doing 90 on back extn. **Fri** - OH press was moderate/heavy. **Sat** - rest. **Sun** - hotel gym leg press machine is much heavier than my home gym machine. **Recap** - decent week considering 3 days of travel.
 
 08.14 ***`Upper   `***   
 08.13 ***`Lower   `*** **bench press:** 185x10x4, 155x20x2 • **BB OH press:** 135x10x4, 115x12x2  
