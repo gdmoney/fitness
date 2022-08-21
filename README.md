@@ -6,8 +6,8 @@
 *****
 
 08.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **DB lunge:** 50x20x3  
-08.20 ***`Flex    `*** **run:** 1m • **DB OH press:** 50x20x4 • **pullups:** 10x5  
-08.19 ***`Upper   `***   
+08.20 ***`Flex    `***   
+08.19 ***`Upper   `*** **run:** 1m • **DB OH press:** 50x20x4 • **pullups:** 10x5  
 08.18 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x10x4 • **DB lunge-rvs:** 50x20x3  
 08.17 ***`Flex    `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3  
 08.16 ***`Upper   `***   
