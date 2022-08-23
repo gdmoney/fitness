@@ -10,7 +10,7 @@
 08.26 ***`Flex    `***   
 08.25 ***`Upper   `***   
 08.24 ***`Lower   `***   
-08.23 ***`Flex    `***   
+08.23 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x10x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4  
 08.22 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 155x15x4  
 **Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - 
 
