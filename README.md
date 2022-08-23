@@ -11,7 +11,7 @@
 08.25 ***`Upper   `***   
 08.24 ***`Lower   `***   
 08.23 ***`Flex    `***   
-08.22 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 155x15x4
+08.22 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 155x15x4  
 **Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - 
 
 08.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **DB lunge:** 50x20x3  
