@@ -9,10 +9,10 @@
 08.27 ***`Lower   `***   
 08.26 ***`Flex    `***   
 08.25 ***`Upper   `***   
-08.24 ***`Lower   `***   
+08.24 ***`Lower   `*** **SSB squat:** 210x8x1  
 08.23 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x10x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4  
 08.22 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 155x15x4  
-**Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - good workout. **Wed** - 
+**Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - good workout. **Wed** - hurt my lower back. **Thur** - 
 
 08.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x20x3  
 08.20 ***`Flex    `***   
