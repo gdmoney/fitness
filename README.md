@@ -12,7 +12,7 @@
 09.07 ***`Flex    `***   
 09.06 ***`Upper   `***   
 09.06 ***`Lower   `***  **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x10x4 • **DB lunge:** 50x20x3  
-**Week-2: Mon** - rest. **Tue** - doubled up; back is slightly sore but extensions didn't aggravate it;
+**Week-2: Mon** - rest. **Tue** - doubled up; back is still slightly sore but extensions didn't aggravate it;
 
 09.04 ***`Upper   `***   
 09.03 ***`Lower   `***   
