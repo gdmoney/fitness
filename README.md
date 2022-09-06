@@ -5,6 +5,24 @@
 
 *****
 
+09.11 ***`Lower   `***   
+09.10 ***`Flex    `***   
+09.09 ***`Upper   `***   
+09.08 ***`Lower   `***   
+09.07 ***`Flex    `***   
+09.06 ***`Upper   `***   
+09.06 ***`Lower   `***  **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x10x4 • **DB lunge:** 50x20x3  
+**Week-2: Mon** - rest. **Tue** - doubled up; back is slightly sore but extensions didn't aggravate it;
+
+09.04 ***`Upper   `***   
+09.03 ***`Lower   `***   
+09.02 ***`Flex    `***   
+09.01 ***`Upper   `***   
+08.31 ***`Lower   `***   
+08.30 ***`Flex    `***   
+08.29 ***`Upper   `***   
+**Mon/Tue/Wed/Thur/Fri/Sat/Sun** - rest. **Recap** - back was sore all week; couldn't get any workouts in at Terranea.
+
 08.28 ***`Upper   `***   
 08.27 ***`Lower   `***   
 08.26 ***`Flex    `***   
@@ -12,7 +30,7 @@
 08.24 ***`Lower   `*** **SSB squat:** 210x8x1  
 08.23 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x10x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4  
 08.22 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 155x15x4  
-**Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - good workout. **Wed** - hurt my lower back. **Thur** - 
+**Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - good workout. **Wed** - hurt my lower back. **Thur/Fri/Sat/Sun** - rest. **Recap** - poor week due to injury and travel.
 
 08.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x20x3  
 08.20 ***`Flex    `***   
