@@ -9,7 +9,7 @@
 09.10 ***`Flex    `***   
 09.09 ***`Upper   `***   
 09.08 ***`Lower   `***   
-09.07 ***`Flex    `*** **run:** 1m • **
+09.07 ***`Flex    `*** **run:** 2m • **  
 09.06 ***`Upper   `*** **DB OH press:** 70x10x4 • **pullups/chinups:** 10x4 • **tri push/extn:** 20x4  
 09.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x10x4 • **DB lunge:** 50x20x3  
 **Week-2: Mon** - rest. **Tue** - doubled up; back is still slightly sore but extensions didn't aggravate it; OHP was heavier than usual and wo were the pullups. **Wed** - 
