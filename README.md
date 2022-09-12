@@ -5,14 +5,13 @@
 
 *****
 
-09.11 ***`Lower   `***   
-09.10 ***`Flex    `***   
-09.09 ***`Upper   `***   
-09.08 ***`Lower   `***   
-09.07 ***`Flex    `*** **run:** 2m • **  
+09.11 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x10x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
+09.10 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
+09.10 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
+09.07 ***`Flex    `*** **run:** 2m  
 09.06 ***`Upper   `*** **DB OH press:** 70x10x4 • **pullups/chinups:** 10x4 • **tri push/extn:** 20x4  
 09.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x10x4 • **DB lunge:** 50x20x3  
-**Week-2: Mon** - rest. **Tue** - doubled up; back is still slightly sore but extensions didn't aggravate it; OHP was heavier than usual and wo were the pullups. **Wed** - 
+**Week-1: Mon** - rest. **Tue** - doubled up; back is still slightly sore but extensions didn't aggravate it; OHP was heavier than usual and so were the pullups. **Wed** - felt good to run outdoors. **Thur/Fri** - rest. **Sat** - doubled up; OHP was heavy but I kept good form and didn't have any shoulder pain. **Sun** - good workout. **Recap** - good week; it feels good to get back in the routine; both back and shoulder are feeling better.
 
 09.04 ***`Upper   `***   
 09.03 ***`Lower   `***   
