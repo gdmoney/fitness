@@ -5,13 +5,22 @@
 
 *****
 
+09.18 ***`Upper   `***   
+09.17 ***`Lower   `***   
+09.16 ***`Flex    `***   
+09.15 ***`Upper   `***   
+09.14 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4 • **back extn:** 80x12x4  
+09.13 ***`Flex    `*** **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x10x4 • **lat raise:** 15x4  
+09.12 ***`Upper   `*** **run:** 2m  
+**Week-2:** **Mon** - run only. **Tue** - go up in weight on skull crushers. **Wed** - leg press machine is broken; no pain on back extn; should be able to start squatting again next week. **Thur** - 
+
 09.11 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x10x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
 09.10 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
 09.10 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
 09.07 ***`Flex    `*** **run:** 2m  
 09.06 ***`Upper   `*** **DB OH press:** 70x10x4 • **pullups/chinups:** 10x4 • **tri push/extn:** 20x4  
 09.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x10x4 • **DB lunge:** 50x20x3  
-**Week-1: Mon** - rest. **Tue** - doubled up; back is still slightly sore but extensions didn't aggravate it; OHP was heavier than usual and so were the pullups. **Wed** - felt good to run outdoors. **Thur/Fri** - rest. **Sat** - doubled up; OHP was heavy but I kept good form and didn't have any shoulder pain. **Sun** - good workout. **Recap** - good week; it feels good to get back in the routine; both back and shoulder are feeling better.
+**Week-1:** **Mon** - rest. **Tue** - doubled up; back is still slightly sore but extensions didn't aggravate it; OHP was heavier than usual and so were the pullups. **Wed** - felt good to run outdoors. **Thur/Fri** - rest. **Sat** - doubled up; OHP was heavy but I kept good form and didn't have any shoulder pain. **Sun** - good workout. **Recap** - good week; it feels good to get back in the routine; both back and shoulder are feeling better.
 
 09.04 ***`Upper   `***   
 09.03 ***`Lower   `***   
@@ -29,7 +38,7 @@
 08.24 ***`Lower   `*** **SSB squat:** 210x8x1  
 08.23 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x10x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4  
 08.22 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 155x15x4  
-**Week-2: Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - good workout. **Wed** - hurt my lower back. **Thur/Fri/Sat/Sun** - rest. **Recap** - poor week due to injury and travel.
+**Week-2:** **Mon** - OHP was moderate; time to go up in weight; slight right shoulder and elbow pain. **Tue** - good workout. **Wed** - hurt my lower back. **Thur/Fri/Sat/Sun** - rest. **Recap** - poor week due to injury and travel.
 
 08.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x20x3  
 08.20 ***`Flex    `***   
@@ -38,7 +47,7 @@
 08.17 ***`Flex    `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3  
 08.16 ***`Upper   `***   
 08.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
-**Week-1: Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - good workout; first time doing 90 on back extn. **Fri** - OH press was moderate/heavy. **Sat** - rest. **Sun** - hotel gym leg press machine is much heavier than my home gym machine. **Recap** - decent week considering 3 days of travel.
+**Week-1:** **Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - good workout; first time doing 90 on back extn. **Fri** - OH press was moderate/heavy. **Sat** - rest. **Sun** - hotel gym leg press machine is much heavier than my home gym machine. **Recap** - decent week considering 3 days of travel.
 
 08.14 ***`Upper   `***   
 08.13 ***`Lower   `*** **bench press:** 185x10x4, 155x20x2 • **BB OH press:** 135x10x4, 115x12x2  
@@ -47,7 +56,7 @@
 08.10 ***`Lower   `***   
 08.09 ***`Flex    `***   
 08.08 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press:** 145x10x4 • **DB row:** 100x30x4  
-**Week-2: Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - squat was moderate/heavy; form was decent but ROM wasn't quite as full as on the volume sets. **Sat** - bench was light/moderate; tried a narrower grip which was easier on the shoulders; OHP was moderate/heavy; shoulders were tired from the bench. **Sun** - rest. **Recap** - poor week hampered by travel with only 3 workouts.
+**Week-2:** **Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - squat was moderate/heavy; form was decent but ROM wasn't quite as full as on the volume sets. **Sat** - bench was light/moderate; tried a narrower grip which was easier on the shoulders; OHP was moderate/heavy; shoulders were tired from the bench. **Sun** - rest. **Recap** - poor week hampered by travel with only 3 workouts.
 
 08.07 ***`Lower   `***   
 08.06 ***`Flex    `*** **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
@@ -56,7 +65,7 @@
 08.03 ***`Flex    `*** **skull crushers:** 85x15x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
 08.03 ***`Upper   `*** **DB OH press:** 70x10x4 • **bench press:** 165x10x4 • **pullups-wtd:** 25x8x3  
 08.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-**Week-1: Mon/Tue** - rest. **Wed** - tripled up; OHP was moderate with good form; bench was light but a bit heavier than last week. **Thur** - squat was moderate. **Fri** - rest. **Sat** - doubled up; woke up with a slight pain in the right elbow; felt it on bench in the bottom position and a bit less on OHP, but surprisingly not on curl or lat raise; decided to go up in weight on bench and it was still light; OHP was moderate; did row instead of chinups to save the elbow. **Sun** - rest. **Recap** - mediocre week with only 3 sessions.
+**Week-1:** **Mon/Tue** - rest. **Wed** - tripled up; OHP was moderate with good form; bench was light but a bit heavier than last week. **Thur** - squat was moderate. **Fri** - rest. **Sat** - doubled up; woke up with a slight pain in the right elbow; felt it on bench in the bottom position and a bit less on OHP, but surprisingly not on curl or lat raise; decided to go up in weight on bench and it was still light; OHP was moderate; did row instead of chinups to save the elbow. **Sun** - rest. **Recap** - mediocre week with only 3 sessions.
 
 07.31 ***`Flex    `*** **skull crushers:** 85x15x3 • **BB curl-rvs:** 75x12x3 • **lat raise:** 20x20x3  
 07.31 ***`Upper   `*** **bench press:** 165x10x4 • **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x4  
@@ -65,7 +74,7 @@
 07.27 ***`Upper   `*** **pushups:** 20x10  
 07.26 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3  
 07.26 ***`Flex    `*** **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 15x3  
-**Week-3:  Mon** - rest. **Tue** - doubled up on Flex and Lower; squat was moderate. **Wed** - first time doing pushups since January; slight soreness the next day but no shoulder pain. **Thur** - rest. **Fri** - felt strong in the AM so decided to go up in weight on squat; it was still only moderate in weight with good form. **Sat** - rest. **Sun** - doubled up on Upper and Flex; bench was light with a focus on good form; OHP was moderate/heavy with good form. **Recap** - OK week; only 4 sessions due to travel but they were all quality; stick with this program for now.
+**Week-3:** **Mon** - rest. **Tue** - doubled up on Flex and Lower; squat was moderate. **Wed** - first time doing pushups since January; slight soreness the next day but no shoulder pain. **Thur** - rest. **Fri** - felt strong in the AM so decided to go up in weight on squat; it was still only moderate in weight with good form. **Sat** - rest. **Sun** - doubled up on Upper and Flex; bench was light with a focus on good form; OHP was moderate/heavy with good form. **Recap** - OK week; only 4 sessions due to travel but they were all quality; stick with this program for now.
 
 07.24 ***`Upper   `*** **bench press:** 155x12x4 • **BB OH press:** 145x10x4 • **chinups-wtd:** 30x8x4  
 07.23 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 110x20x2  
@@ -74,7 +83,7 @@
 07.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4  
 07.19 ***`Flex    `*** **run:** 1m • **skull crushers:** 70x15x4 • **BB curl-rvs:** 70x12x4 • **tri push/extn:** 20x4 • **face pulls:** 20x4  
 07.18 ***`Upper   `*** **run:** 1m • **bench press:** 155x10x4 • **DB OH press:** 70x10x4 • **chinups-wtd:** 25x8x4  
-**Week-2: Mon** - bench was light; no shoulder pain; OH press was moderate/heavy. **Tue** - good workout; no elbow pain. **Wed** - leg press was lighter than usual. **Thur/Fri** - rest in Vegas. **Sat** - squat was moderate with good form. **Sun** - bench was light so I upped the reps; go up in weight next week; OHP was moderate/heavy with good form. **Recap** - solid week; missed two sessions mid-week but finished strong; it feels great to be benching again.
+**Week-2:** **Mon** - bench was light; no shoulder pain; OH press was moderate/heavy. **Tue** - good workout; no elbow pain. **Wed** - leg press was lighter than usual. **Thur/Fri** - rest in Vegas. **Sat** - squat was moderate with good form. **Sun** - bench was light so I upped the reps; go up in weight next week; OHP was moderate/heavy with good form. **Recap** - solid week; missed two sessions mid-week but finished strong; it feels great to be benching again.
 
 07.17 ***`Lower   `*** **SSB squat:** 185x10x5, 160x15x3, 135x15x3   
 07.16 ***`Flex    `*** **run:** 1m • **bench press:** 155x10x4 • **skull crushers:** 50x15x4 • **face pull:** 20x4 • **lat raise:** 20x4  
@@ -83,7 +92,7 @@
 07.13 ***`Flex    `*** **run:** 1m • **skull crushers + close grip BP:** 80x12x3 + 80x30x3 • **BB curl-rvs:** 70x12x3 • **face pulls:** 20x3  
 07.12 ***`Upper   `*** **run:** 1m • **DB OH press:** 70x10x4 • **pullups-wtd:** 25x8x4 • **tri push/extn:** 20x4  
 07.11 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-**Week-1: Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - didn't feel great so only did 3 sets. **Thur** - good workout. **Fri** - rest. **Sat** - first time doing bench since January; weight was moderate; no pain so add it to the program; slight ache in the right elbow so I went light on SC and skipped reverse curl. **Sun** - squat was moderate/heavy with good form; slight ache in the right ankle. **Recap** - another good week with 6 solid sessions.
+**Week-1:** **Mon** - starting a new 3 week program to spread out different movements more evenly; good workout. **Tue** - OHP was moderate/heavy; go up to 75 next week and finish with a back down volume set. **Wed** - didn't feel great so only did 3 sets. **Thur** - good workout. **Fri** - rest. **Sat** - first time doing bench since January; weight was moderate; no pain so add it to the program; slight ache in the right elbow so I went light on SC and skipped reverse curl. **Sun** - squat was moderate/heavy with good form; slight ache in the right ankle. **Recap** - another good week with 6 solid sessions.
 
 07.10 ***`Flex    `*** **skull crushers + close grip BP:** 80x12x4 + 80x30x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 20x4  
 07.09 ***`Lower-3 `*** **SSB squat:** 195x10x4  
