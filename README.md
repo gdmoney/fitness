@@ -10,7 +10,7 @@
 09.16 ***`Flex    `***   
 09.15 ***`Upper   `***   
 09.14 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4 • **back extn:** 80x12x4  
-09.13 ***`Flex    `*** **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x10x4 • **lat raise:** 15x4  
+09.13 ***`Flex    `*** **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4  
 09.12 ***`Upper   `*** **run:** 2m  
 **Week-2:** **Mon** - run only. **Tue** - go up in weight on skull crushers. **Wed** - leg press machine is broken; no pain on back extn; should be able to start squatting again next week. **Thur** - 
 
