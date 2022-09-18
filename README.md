@@ -6,13 +6,13 @@
 *****
 
 09.18 ***`Upper   `***   
-09.17 ***`Lower   `***   
+09.17 ***`Lower   `*** **run:** 5m
 09.16 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
 09.15 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row:** 100x30x4 • **chinups:** 10x4  
 09.14 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4 • **back extn:** 80x12x4  
 09.13 ***`Flex    `*** **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4  
 09.12 ***`Upper   `*** **run:** 2m  
-**Week-2:** **Mon** - run only. **Tue** - go up in weight on skull crushers. **Wed** - leg press machine is broken; no pain on back extn; should be able to start squatting again next week. **Thur** - good workout; chinups were heavy after DB row. **Fri** - didn't feel great in the AM; back is hurting again. **Sat** - 
+**Week-2:** **Mon** - run only. **Tue** - go up in weight on skull crushers. **Wed** - leg press machine is broken; no pain on back extn; should be able to start squatting again next week. **Thur** - good workout; chinups were heavy after DB row. **Fri** - didn't feel great in the AM; back is hurting again. **Sat** - lake run with Luka. **Sun** - rest. **Recap** - decent week with 4 good workouts plus 2 outdoor runs.
 
 09.11 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x10x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
 09.10 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
