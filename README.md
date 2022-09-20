@@ -6,7 +6,7 @@
 *****
 
 09.18 ***`Upper   `***   
-09.17 ***`Lower   `*** **run:** 5m
+09.17 ***`Lower   `*** **run:** 5m  
 09.16 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
 09.15 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row:** 100x30x4 • **chinups:** 10x4  
 09.14 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4 • **back extn:** 80x12x4  
