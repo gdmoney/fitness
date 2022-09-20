@@ -5,6 +5,15 @@
 
 *****
 
+09.25 ***`Flex    `***   
+09.24 ***`Upper   `***   
+09.23 ***`Lower   `***   
+09.22 ***`Flex    `***   
+09.21 ***`Upper   `***   
+09.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 70x15x3 • **DB lunge-rvs:** 50x20x2  
+09.19 ***`Flex    `***   
+**Week-3:** **Mon** - rest. **Tue** - 
+
 09.18 ***`Upper   `***   
 09.17 ***`Lower   `*** **run:** 5m  
 09.16 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
