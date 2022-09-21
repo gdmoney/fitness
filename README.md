@@ -12,7 +12,7 @@
 09.21 ***`Upper   `***   
 09.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 70x15x3 • **DB lunge-rvs:** 50x20x2  
 09.19 ***`Flex    `***   
-**Week-3:** **Mon** - rest. **Tue** - 
+**Week-3:** **Mon** - rest. **Tue** - felt crappy, I think I'm coming down with something; still had a decent workout though. **Wed** - 
 
 09.18 ***`Upper   `***   
 09.17 ***`Lower   `*** **run:** 5m  
