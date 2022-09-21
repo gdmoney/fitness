@@ -9,10 +9,10 @@
 09.24 ***`Upper   `***   
 09.23 ***`Lower   `***   
 09.22 ***`Flex    `***   
-09.21 ***`Upper   `***   
+09.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **machine row:** 220x20x3 • **tri pushdown:** 20x3  
 09.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 70x15x3 • **DB lunge-rvs:** 50x20x2  
 09.19 ***`Flex    `***   
-**Week-3:** **Mon** - rest. **Tue** - felt crappy, I think I'm coming down with something; still had a decent workout though. **Wed** - 
+**Week-3:** **Mon** - rest. **Tue** - felt crappy, I think I'm coming down with something; still had a decent workout though. **Wed** - felt better; OHP felt strong; first time doing sets with 155; go for 8 reps next time. **Thur** - 
 
 09.18 ***`Upper   `***   
 09.17 ***`Lower   `*** **run:** 5m  
