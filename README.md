@@ -12,7 +12,7 @@
 09.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **machine row:** 220x20x3 • **tri pushdown:** 20x3  
 09.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 70x15x3 • **DB lunge-rvs:** 50x20x2  
 09.19 ***`Flex    `***   
-**Week-3:** **Mon** - rest. **Tue** - felt crappy, I think I'm coming down with something; still had a decent workout though. **Wed** - felt better; OHP felt strong; first time doing sets with 155; go for 8 reps next time. **Thur** - was short on time so only got one movement in. **Fri** - was again short on time so only got 2 sets in. **Sat** - ran at the lake; did 7:35 pace; was tired all day long. **Sun** - OHP was light/moderate; go for 10 reps or go up in weight; skull crushers felt strong. **Recap** - decent week overall.
+**Week-3:** **Mon** - rest. **Tue** - felt crappy, I think I'm coming down with something; still had a decent workout though. **Wed** - felt better; OHP felt strong; first time doing sets with 155; go for 8 reps next time. **Thur** - was short on time so only got one movement in. **Fri** - was again short on time so only got 2 sets in. **Sat** - ran at the lake @ 7:35 pace; was tired all day long after. **Sun** - OHP was light/moderate; go for 10 reps or go up in weight; skull crushers felt strong. **Recap** - decent week overall.
 
 09.18 ***`Upper   `***   
 09.17 ***`Lower   `*** **run:** 5m  
