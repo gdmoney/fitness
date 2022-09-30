@@ -5,7 +5,7 @@
 
 *****
 
-09.25 ***`Flex    `*** **BB OH press-ntrl:** 135x8x4 • **DB row:** 100x30x4 • **skull crushers:** 90x12x4 • **DB curl-rvs:** 90x10x4 • **lat raise:** 20x20x4
+09.25 ***`Flex    `*** **BB OH press-ntrl:** 135x8x4 • **DB row:** 100x30x4 • **skull crushers:** 90x12x4 • **DB curl-rvs:** 90x10x4 • **lat raise:** 20x20x4  
 09.24 ***`Upper   `*** **run:** 5m  
 09.23 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x2 • **back extn:** 80x12x2  
 09.22 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x10x4  
