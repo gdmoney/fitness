@@ -5,6 +5,24 @@
 
 *****
 
+10.09 ***`Upper   `***   
+10.08 ***`Lower   `***   
+10.07 ***`Flex    `***   
+10.06 ***`Upper   `***   
+10.05 ***`Lower   `***   
+10.04 ***`Flex    `***   
+10.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x3 • **machine row:** 235x15x3  
+**Week-2:** **Mon** - good workout; OHP felt strong. **Tue** - 
+
+10.02 ***`Lower   `***   
+10.01 ***`Flex    `*** **SSB squat:** 185x10x4, 160x12x3, 135x15x3  
+09.30 ***`Upper   `***   
+09.29 ***`Lower   `***   
+09.28 ***`Flex    `***   
+09.27 ***`Upper   `***   
+09.26 ***`Lower   `***   
+**Week-1:** **Mon/Tue/Wed/Thur/Fri** - rest due to travel and having a cold. **Sat** - first time squatting since my back injury in August; it felt great without any pain; major DOMS well into Monday. **Sun** - rest. **Recap** - poor week.
+
 09.25 ***`Flex    `*** **BB OH press-ntrl:** 135x8x4 • **DB row:** 100x30x4 • **skull crushers:** 90x12x4 • **DB curl-rvs:** 90x10x4 • **lat raise:** 20x20x4  
 09.24 ***`Upper   `*** **run:** 5m  
 09.23 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x2 • **back extn:** 80x12x2  
