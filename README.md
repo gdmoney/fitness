@@ -10,9 +10,9 @@
 10.07 ***`Flex    `***   
 10.06 ***`Upper   `***   
 10.05 ***`Lower   `***   
-10.04 ***`Flex    `***   
+10.04 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 90x10x1 • **lat raise:** 15x4 • **face pulls:** 20x4  
 10.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x3 • **machine row:** 235x15x3  
-**Week-2:** **Mon** - good workout; OHP felt strong. **Tue** - 
+**Week-2:** **Mon** - good workout; OHP felt strong. **Tue** - hurt my right ring finger at the base on curls; otherwise a good workout. **Wed** - 
 
 10.02 ***`Lower   `***   
 10.01 ***`Flex    `*** **SSB squat:** 185x10x4, 160x12x3, 135x15x3  
