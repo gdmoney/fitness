@@ -21,7 +21,7 @@
 09.28 ***`Flex    `***   
 09.27 ***`Upper   `***   
 09.26 ***`Lower   `***   
-**Week-1:** **Mon/Tue/Wed/Thur/Fri** - rest due to travel and having a cold. **Sat** - first time squatting since my back injury in August; it felt great without any pain; major DOMS well into Monday. **Sun** - rest. **Recap** - poor week.
+**Week-1:** **Mon/Tue/Wed/Thur/Fri** - rest due to travel and having a cold. **Sat** - first time squatting since my back injury in August; it felt great without any pain; major DOMS well into next Tuesday. **Sun** - rest. **Recap** - poor week.
 
 09.25 ***`Flex    `*** **BB OH press-ntrl:** 135x8x4 • **DB row:** 100x30x4 • **skull crushers:** 90x12x4 • **DB curl-rvs:** 90x10x4 • **lat raise:** 20x20x4  
 09.24 ***`Upper   `*** **run:** 5m  
