@@ -8,11 +8,11 @@
 10.09 ***`Upper   `***   
 10.08 ***`Lower   `***   
 10.07 ***`Flex    `***   
-10.06 ***`Upper   `***   
+10.06 ***`Upper   `*** **DB OH press-sngl:** 80x8x4 • **DB row:** 100x30x4  
 10.05 ***`Lower   `*** **run:** 2m • **SSB squat:** 190x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.04 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 90x10x1 • **lat raise:** 15x4 • **face pulls:** 20x4  
 10.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x3 • **machine row:** 235x15x3  
-**Week-2:** **Mon** - good workout; OHP felt strong. **Tue** - hurt my right ring finger at the base on curls; otherwise a good workout. **Wed** - squat was moderate heavy; no back pain but legs are still sore from last Saturday. **Thur** - 
+**Week-2:** **Mon** - good workout; OHP felt strong. **Tue** - hurt my right ring finger at the base on curls; otherwise a good workout. **Wed** - squat was moderate heavy; no back pain but legs are still sore from last Saturday. **Thur** - OHP felt strong but didn't feel great overall. **Fri** - 
 
 10.02 ***`Lower   `***   
 10.01 ***`Flex    `*** **SSB squat:** 185x10x4, 160x12x3, 135x15x3  
