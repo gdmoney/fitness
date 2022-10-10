@@ -6,8 +6,8 @@
 | Period          | Squat        | Squat - BW AMRAP | Deadlift     | BB OH Press  | DB OH Press  | Pullups      | Chinups      |
 | :-------------- | :----------: | :--------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | Jan - Feb - Mar |              |                  |              |              | 80x6 (sngl)  |              |              |
-| Apr - May - Jun |              |                  |              |              |              |              |              |
-| Jul - Aug - Sep |              |                  |              |              |              |              |              |
+| Apr - May - Jun |              |                  |              |              | 80x7 (sngl)  |              |              |
+| Jul - Aug - Sep |              |                  |              |              | 80x7 (sngl)  |              |              |
 | Oct - Nov - Dec |              |                  |              | 165x6        | 80x8 (sngl)  |              |              |
 
 *****
