@@ -8,7 +8,7 @@
 | Jan - Feb - Mar |              |                  |              |              | 80x6 (sngl)  |              |              |
 | Apr - May - Jun |              |                  |              |              |              |              |              |
 | Jul - Aug - Sep |              |                  |              |              |              |              |              |
-| Oct - Nov - Dec |              |                  |              |              |              |              |              |
+| Oct - Nov - Dec |              |                  |              | 165x6        | 80x8 (sngl)  |              |              |
 
 *****
 
