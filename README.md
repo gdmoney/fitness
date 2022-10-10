@@ -5,6 +5,15 @@
 
 *****
 
+10.16 ***`Flex    `***   
+10.15 ***`Upper   `***   
+10.14 ***`Lower   `***   
+10.13 ***`Flex    `***   
+10.12 ***`Upper   `***   
+10.11 ***`Lower   `***   
+10.10 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x12x4 • **BB curl-rvs:** 85x12x4 • **lat raise:** 25x15x4  
+**Week-3:** **Mon** - good home workout; skull crushers felt strong. **Tue** - 
+
 10.09 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 10.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 10.07 ***`Flex    `***   
