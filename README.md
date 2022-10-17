@@ -5,14 +5,14 @@
 
 *****
 
-10.16 ***`Flex    `***   
+10.16 ***`Flex    `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.15 ***`Upper   `***   
-10.14 ***`Lower   `***   
-10.13 ***`Flex    `***   
+10.14 ***`Lower   `*** **run:** 2m  
+10.13 ***`Flex    `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
 10.12 ***`Upper   `***   
 10.11 ***`Lower   `***   
 10.10 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x12x4 • **BB curl-rvs:** 85x12x4 • **lat raise:** 25x15x4  
-**Week-3:** **Mon** - good home workout; skull crushers felt strong. **Tue** - 
+**Week-3:** **Mon** - good home workout; skull crushers felt strong. **Tue/Wed** - rest. **Thur** - good workout; did a 4 min interval instead of the usual 5. **Sat** - rest. **Sun** - legs felt strong; go up in weight next week. **Recap** - poor week with only 3 workouts.
 
 10.09 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 10.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
