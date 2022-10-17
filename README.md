@@ -11,7 +11,7 @@
 10.20 ***`Upper   `***   
 10.19 ***`Lower   `***   
 10.18 ***`Flex    `***   
-10.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x3 • **machine row:** 235x15x3  
+10.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x3 • **machine row:** 250x15x3  
 **Mon** - didn't feel great but still had a decent workout; OHP was moderate/heavy; did 6 reps on the last set again. **Tue** - 
 
 10.16 ***`Flex    `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
