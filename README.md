@@ -10,9 +10,9 @@
 10.21 ***`Flex    `***   
 10.20 ***`Upper   `***   
 10.19 ***`Lower   `***   
-10.18 ***`Flex    `***   
+10.18 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 80x12x3 • **lat raise:** 15x3 • **face pulls:** 20x4  
 10.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x3 • **machine row:** 250x15x3  
-**Mon** - didn't feel great but still had a decent workout; OHP was moderate/heavy; did 6 reps on the last set again. **Tue** - 
+**Mon** - didn't feel great but still had a decent workout; OHP was moderate/heavy; did 6 reps on the last set again. **Tue** - skull crushers felt heavy. **Wed** - 
 
 10.16 ***`Flex    `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.15 ***`Upper   `***   
