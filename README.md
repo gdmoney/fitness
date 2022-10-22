@@ -6,13 +6,13 @@
 *****
 
 10.23 ***`Flex    `***   
-10.22 ***`Lower   `***   
+10.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 195x10x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
 10.21 ***`Upper   `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x3 • **machine row:** 250x15x3  
 10.20 ***`        `***   
 10.19 ***`Cardio  `*** **run:** 2m  
 10.18 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 80x12x3 • **lat raise:** 15x3 • **face pulls:** 20x4  
 10.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x3 • **machine row:** 250x15x3  
-**Mon** - didn't feel great but still had a decent workout; OHP was moderate/heavy; did 6 reps on the last set again. **Tue** - skull crushers felt heavy. **Wed** - good run. **Thur** - rest. **Fri** - good workout; OHP was moderate/heavy; first time doing DB OHP with 75s. **Sat** - 
+**Mon** - didn't feel great but still had a decent workout; OHP was moderate/heavy; did 6 reps on the last set again. **Tue** - skull crushers felt heavy. **Wed** - good run. **Thur** - rest. **Fri** - good workout; OHP was moderate/heavy; first time doing DB OHP with 75s. **Sat** - good workout; squat was moderate/heavy. **Sun** - 
 
 10.16 ***`Flex    `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.15 ***`Upper   `***   
