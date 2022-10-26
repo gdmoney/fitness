@@ -12,7 +12,7 @@
 10.26 ***`        `***   
 10.25 ***`        `***   
 10.24 ***`        `***   
-**Mon** - rest. **Tue** - rest. **Wed** - 
+**Mon/Tue** - rest. **Wed** - 
 
 10.23 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
 10.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 195x10x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3 • **burpees:** 75  
