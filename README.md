@@ -8,11 +8,11 @@
 10.30 ***`        `***   
 10.29 ***`        `***   
 10.28 ***`        `***   
-10.27 ***`        `***   
+10.27 ***`        `*** **run:** 2m • **SSB squat:** 195x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.26 ***`        `***   
 10.25 ***`        `***   
 10.24 ***`        `***   
-**Mon/Tue** - rest. **Wed** - 
+**Mon/Tue/Wed** - rest. **Thur** - doubled up; squat was moderate heavy with good form; go up in weight next week; 
 
 10.23 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
 10.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 195x10x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3 • **burpees:** 75  
