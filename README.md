@@ -4,7 +4,8 @@
 **[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md)**  
 
 *****
-10.27 ***`Upper   `*** **
+
+11.02 ***`Upper   `*** **TBD**  
 11.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
 10.31 ***`Cardio  `*** **run:** 5m  
 **Mon** - went to the lake with Luka; need to get a second battery for the ebike. **Tue** - good workout; felt surprisingly strong. **Wed** - 
