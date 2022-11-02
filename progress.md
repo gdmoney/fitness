@@ -3,12 +3,12 @@
 
 ### 2022
 
-| Period          | Squat        | Squat - BW AMRAP | Deadlift     | BB OH Press  | DB OH Press  | Pullups      | Chinups      |
-| :-------------- | :----------: | :--------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| Jan - Feb - Mar |              |                  |              |              | 80x6 (sngl)  |              |              |
-| Apr - May - Jun |              |                  |              |              | 80x7 (sngl)  |              |              |
-| Jul - Aug - Sep |              |                  |              |              | 80x7 (sngl)  |              |              |
-| Oct - Nov - Dec |              |                  |              | 165x6        | 80x8 (sngl)  |              |              |
+| Period          | Squat        | Squat - BW AMRAP | Deadlift     | BB OH Press  | DB OH Press-double | DB OH press-single |
+| :-------------- | :----------: | :--------------: | :----------: | :----------: | :----------------: | :----------------: |
+| Jan - Feb - Mar |              |                  |              |              | 70x8               | 80x6               |
+| Apr - May - Jun |              |                  |              | 150x10       | 75x8               | 80x7               |
+| Jul - Aug - Sep |              |                  |              | 155x7        | 70x10              | 80x7               |
+| Oct - Nov - Dec |              |                  |              | 170x5        | 75x8               | 80x10              |
 
 *****
 
