@@ -5,13 +5,14 @@
 
 *****
 
-11.05 ***`Upper   `*** **run:** 2m • **TBD**  
+11.06 ***`        `*** **BB OH press:** 160x6x4 • **DB row:** 100x30x4  
+11.05 ***`        `***   
 11.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
 11.03 ***`        `***   
 11.02 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4  
 11.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 10.31 ***`Cardio  `*** **run:** 5m  
-**Mon** - lake run with Luka; need to get a second battery for his ebike. **Tue** - good workout; felt surprisingly strong. **Wed** - OHP felt really strong and form was good; new PR. **Thur** - rest. **Fri** - good workout. **Sat** - 
+**Mon** - lake run with Luka; need to get a second battery for his ebike. **Tue** - good workout; felt surprisingly strong. **Wed** - OHP felt really strong and form was good; new PR. **Thur** - rest. **Fri** - good workout. **Sat** - worked in WS all day. **Sun** - OHP was moderate/heavy; felt strong. **Recap** - good week; only 4 workouts but they were all solid.
 
 
 10.30 ***`Cardio  `*** **run:** 2m
