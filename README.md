@@ -5,8 +5,12 @@
 
 *****
 
+11.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3  
+11.10 ***`        `***   
+11.09 ***`        `***   
+11.08 ***`        `***   
 11.07 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x15x4 • **lat raise:** 30x15x4 • **BB curl-rvs:** 85x12x4  
-**Mon** - good home workout. **Tue** - 
+**Mon** - good home workout. **Tue/Wed** - rest and dealing with a cold. **Thur** - worked in WS all day. **Fri** - squat was heavy; form was good but not as good as it was on the back down sets. **Sat** - 
 
 11.06 ***`Upper   `*** **BB OH press:** 160x6x4 • **DB row:** 100x30x4  
 11.05 ***`        `***   
