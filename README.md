@@ -6,8 +6,8 @@
 *****
 
 11.16 ***`Upper   `***   
-11.15 ***`Lower   `***   
-11.14 ***`        `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
+11.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
+11.14 ***`        `***   
 **Mon** - rest. **Tue** - good workout. **Wed** - 
 
 11.13 ***`Flex    `***   
@@ -17,7 +17,7 @@
 11.09 ***`        `***   
 11.08 ***`        `***   
 11.07 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x15x4 • **lat raise:** 30x15x4 • **BB curl-rvs:** 85x12x4  
-**Mon** - good home workout. **Tue/Wed** - rest and dealing with a cold. **Thur** - worked in WS all day. **Fri** - squat was heavy; form was good but not as good as it was on the back down sets. **Sat** - OHP was moderate/heavy; first time doing 8 reps with 155; probably could've gone for 9. **Sun** - rest. **Recap** - poor week with only 3 workouts.
+**Mon** - good home workout. **Tue/Wed** - rest and dealing with a cold. **Thur** - worked in WS all day. **Fri** - squat was heavy; form was good but not as good as it was on the back down sets. **Sat** - OHP was moderate/heavy; first time doing 8 reps with 155; probably could've gone for 9. **Sun** - rest. **Recap** - poor week with only 3 workouts, but on the plus side, OHP is feeling great.
 
 11.06 ***`Upper   `*** **BB OH press:** 160x6x4 • **DB row:** 100x30x4  
 11.05 ***`        `***   
