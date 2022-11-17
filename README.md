@@ -5,10 +5,11 @@
 
 *****
 
-11.16 ***`Upper   `***   
+11.17 ***`Flex    `***   
+11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x20x3  
 11.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 11.14 ***`        `***   
-**Mon** - rest. **Tue** - good workout. **Wed** - 
+**Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was suboptimal; pull felt strong. **Thur** - 
 
 11.13 ***`Flex    `***   
 11.12 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row:** 100x30x4  
