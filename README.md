@@ -5,11 +5,14 @@
 
 *****
 
-11.17 ***`Flex    `***   
+11.20 ***`Flex    `***   
+11.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20x3  
+11.18 ***`        `***   
+11.17 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
 11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x20x3  
 11.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 11.14 ***`        `***   
-**Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was suboptimal; pull felt strong. **Thur** - 
+**Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was suboptimal; pull felt strong. **Thur** - squat was moderat with good form. **Fri** - rest. **Sat** - felt strong; OHP was moderate/heavy with good form; first time doing 7 reps with 165. **Sun** - 
 
 11.13 ***`Flex    `***   
 11.12 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row:** 100x30x4  
