@@ -5,11 +5,12 @@
 
 *****
 
+11.25 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x15x4 • **chinups:** 10x4 • **BB curl-rvs:** 85x12x4  
 11.24 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
 11.23 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **chinups:** 10x4 • **DB OH press:** 52x20x4 • **DB row:** 100x30x4  
 11.22 ***`        `***   
 11.21 ***`Lower   `*** **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
-**Mon** - squat was moderate; felt stronger than last week. **Tue** - rest. **Wed** - good workout; OHP was moderate and felt strong; try 90s next week; start doing more chinups. **Thur** -
+**Mon** - squat was moderate; felt stronger than last week. **Tue** - rest. **Wed** - good workout; OHP was moderate and felt strong; try 90s next week; start doing more chinups. **Thur** - good workout; squat felt a bit heavier than on Monday but my form was good. **Fri** -
 
 11.20 ***`Cardio  `*** **run:** 2m  
 11.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20x3  
@@ -20,7 +21,7 @@
 11.14 ***`        `***   
 **Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was suboptimal; pull felt strong. **Thur** - squat was moderat with good form. **Fri** - rest. **Sat** - felt strong; OHP was moderate/heavy with good form; first time doing 7 reps with 165. **Sun** - good run. **Recap** - good week with 4 solid workouts.
 
-11.13 ***`Flex    `***   
+11.13 ***`        `***   
 11.12 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row:** 100x30x4  
 11.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3  
 11.10 ***`        `***   
