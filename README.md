@@ -5,7 +5,7 @@
 
 *****
 
-11.24 ***`Lower   `*** **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
+11.24 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
 11.23 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **chinups:** 10x4 • **DB OH press:** 52x20x4 • **DB row:** 100x30x4  
 11.22 ***`        `***   
 11.21 ***`Lower   `*** **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
