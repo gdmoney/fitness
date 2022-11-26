@@ -5,7 +5,7 @@
 
 *****
 
-11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3
+11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3  
 11.25 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x15x3 • **BB curl-rvs:** 80x12x3 • **tri push/extn:** 20x3  
 11.24 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
 11.23 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **chinups:** 10x4 • **DB OH press:** 52x20x4 • **DB row:** 100x30x4  
