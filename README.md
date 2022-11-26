@@ -5,12 +5,13 @@
 
 *****
 
-11.25 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x15x4 • **chinups:** 10x4 • **BB curl-rvs:** 85x12x4  
+11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3
+11.25 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x15x3 • **BB curl-rvs:** 80x12x3 • **tri push/extn:** 20x3  
 11.24 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
 11.23 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **chinups:** 10x4 • **DB OH press:** 52x20x4 • **DB row:** 100x30x4  
 11.22 ***`        `***   
 11.21 ***`Lower   `*** **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
-**Mon** - squat was moderate; felt stronger than last week. **Tue** - rest. **Wed** - good workout; OHP was moderate and felt strong; try 90s next week; start doing more chinups. **Thur** - good workout; squat felt a bit heavier than on Monday but my form was good. **Fri** -
+**Mon** - squat was moderate; felt stronger than last week. **Tue** - rest. **Wed** - good workout; OHP was moderate and felt strong; try 90s next week; start doing more chinups. **Thur** - good workout; squat felt a bit heavier than on Monday but my form was good. **Fri** - didn't feel great. **Sat** - OHP was heavy; only managed 3 sets; didn't feel strong overall. **Sun** - 
 
 11.20 ***`Cardio  `*** **run:** 2m  
 11.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20x3  
