@@ -5,6 +5,9 @@
 
 *****
 
+11.28 ***`Flex    `*** **pullups:** 10x5 • **tri pushdown:** 20x3  
+**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue** - 
+
 11.27 ***`Cardio  `*** **run:** 2m  
 11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3  
 11.25 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x15x3 • **BB curl-rvs:** 80x12x3 • **tri push/extn:** 20x3  
