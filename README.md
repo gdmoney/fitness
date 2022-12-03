@@ -5,8 +5,14 @@
 
 *****
 
+12.04 ***`Upper   `*** **run:** 1m • **TBD**  
+12.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x3 • **back extn:** 70x12x3  
+12.02 ***`        `***   
+12.01 ***`        `***   
+11.30 ***`        `***   
+11.29 ***`        `***   
 11.28 ***`Flex    `*** **pullups:** 10x5 • **tri pushdown:** 20x3  
-**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue** - 
+**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue/Wed/Thur/Fri** - rest and dealing with a cold. **Sat** - finally feeling better; decent workout at the Aria gym. **Sun** - 
 
 11.27 ***`Cardio  `*** **run:** 2m  
 11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3  
