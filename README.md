@@ -5,14 +5,27 @@
 
 *****
 
-12.04 ***`Upper   `*** **run:** 1m • **TBD**  
+12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **chinups:** 10x4 • **DB OH press:** 50x20x4 • **tri push/extn:** 20x4  
+12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x3 • **DB lunge:** 55x20x3  
+**Mon** - good workout; felt great to be getting back into it. **Tue** -
+
+12.11 ***`        `***   
+12.10 ***`        `***   
+12.09 ***`Flex    `*** **pushups:** 20x10  
+12.08 ***`        `***   
+12.07 ***`        `***   
+12.06 ***`        `***   
+12.05 ***`        `***   
+**Recap** - another poor week hampered by travel to Vegas where the hotel gym closed at 6 pm daily.
+
+12.04 ***`Flex    `*** **pushups:** 20x10  
 12.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x3 • **back extn:** 70x12x3  
 12.02 ***`        `***   
 12.01 ***`        `***   
 11.30 ***`        `***   
 11.29 ***`        `***   
 11.28 ***`Flex    `*** **pullups:** 10x5 • **tri pushdown:** 20x3  
-**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue/Wed/Thur/Fri** - rest and dealing with a cold. **Sat** - finally feeling better; decent workout at the Aria gym. **Sun** - 
+**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue/Wed/Thur/Fri** - rest and dealing with a cold. **Sat** - finally feeling better; decent workout at the Aria gym. **Sun** - pushups felt good; 2 min interval. **Recap** - poor week hampered by sickness.
 
 11.27 ***`Cardio  `*** **run:** 2m  
 11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3  
