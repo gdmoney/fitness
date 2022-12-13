@@ -5,9 +5,9 @@
 
 *****
 
-12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **chinups:** 10x4 • **DB OH press:** 50x20x4 • **tri push/extn:** 20x4  
+12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **lat pulldown:** 165x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x3 • **DB lunge:** 55x20x3  
-**Mon** - good workout; felt great to be getting back into it. **Tue** -
+**Mon** - good workout; felt great to be getting back into it. **Tue** - OHP was moderate/heavy and felt strong; it doesn't seem like I've lost any stength even though I didn't do a whole lot over the last two weeks. **Wed** - 
 
 12.11 ***`        `***   
 12.10 ***`        `***   
