@@ -5,13 +5,17 @@
 
 *****
 
-12.17 ***`Upper   `*** **run:** 2m • **DB OH press:** TBD  
+12.19 ***`Lower   `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
+**Mon** - 
+
+12.18 ***`        `***   
+12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:**52x20,15,10 • **pushups:** 25x4  
 12.16 ***`Lower   `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
 12.15 ***`        `***   
 12.14 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
 12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **lat pulldown:** 165x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
-**Mon** - good workout; felt great to be getting back into it. **Tue** - OHP was moderate/heavy and felt strong; it doesn't seem like I've lost any stength even though I didn't do a whole lot over the last two weeks. **Wed** - start doing pushups or pullups on the days when I can't go to the gym. **Thur** - rest. **Fri** - squat was moderate/heavy with good form; go up in weight next week. **Sat** -
+**Mon** - good workout; felt great to be getting back into it. **Tue** - OHP was moderate/heavy and felt strong; it doesn't seem like I've lost any stength even though I didn't do a whole lot over the last two weeks. **Wed** - start doing pushups or pullups on the days when I can't go to the gym. **Thur** - rest. **Fri** - squat was moderate/heavy with good form; go up in weight next week. **Sat** - OHP was moderate/heavy. **Sun** - rest. **Recap** - good week; back in stride after poor couple of weeks.
 
 12.11 ***`        `***   
 12.10 ***`        `***   
