@@ -5,8 +5,9 @@
 
 *****
 
-12.19 ***`Lower   `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
-**Mon** - 
+12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **lat pulldown:** 165x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
+12.19 ***`Lower   `*** **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge:** 110x20x4  
+**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** -
 
 12.18 ***`        `***   
 12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:**52x20,15,10 • **pushups:** 25x4  
