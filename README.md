@@ -5,9 +5,10 @@
 
 *****
 
-12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **lat pulldown:** 165x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
+12.21 ***`Flex    `*** **run:** 2m • **pullups:** 10x3  
+12.20 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x3  
 12.19 ***`Lower   `*** **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge:** 110x20x4  
-**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** -
+**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - 
 
 12.18 ***`        `***   
 12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:**52x20,15,10 • **pushups:** 25x4  
@@ -103,7 +104,7 @@
 10.09 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 10.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 10.07 ***`Flex    `***   
-10.06 ***`Upper   `*** **DB OH press-sngl:** 80x4x4 • **DB row:** 100x30x4  
+10.06 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row:** 100x30x4  
 10.05 ***`Lower   `*** **run:** 2m • **SSB squat:** 190x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.04 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 90x10x1 • **lat raise:** 15x4 • **face pulls:** 20x4  
 10.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x3 • **machine row:** 235x15x3  
