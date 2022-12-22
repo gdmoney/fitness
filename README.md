@@ -5,10 +5,11 @@
 
 *****
 
-12.21 ***`Flex    `*** **run:** 2m • **pullups:** 10x3  
+12.22 ***`        `***   
+12.21 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
 12.20 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x3  
 12.19 ***`Lower   `*** **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge:** 110x20x4  
-**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - 
+**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - pullups are getting stronger. **Thu** - rest. **Fri** - 
 
 12.18 ***`        `***   
 12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:**52x20,15,10 • **pushups:** 25x4  
