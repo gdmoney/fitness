@@ -665,7 +665,7 @@
 08.06 ***`Lower-3 `*** **rest**  
 08.05 ***`Upper-2 `*** **pushups:** 20x5 • **rear delt fly:** 15x20x3  
 08.04 ***`Lower-2 `*** **deadlift:** 300x3x5 • **goblet squat:** 52.5x20x4  
-08.03 ***`Upper-1 `*** **OH press:** 95x10x3 • **OH shrug:** 95x10x3 • **Lu raise:** 12.5x15x3  
+08.03 ***`Upper-1 `*** **BB OH press:** 95x10x3 • **OH shrug:** 95x10x3 • **Lu raise:** 12.5x15x3  
 08.02 ***`Lower-1 `*** **back squat:** 225x4x2 • **rehab work**  
 - **Week 3 (repeat):** **Mon** - tried squat but the side pain started to get worse so I stopped and did shoulder/elbow rehab work with bands, which felt better than dumbbells. **Tue** - decided to go up in weight on OH press and shrug, no shoulder pain. **Wed** - surprisingly, deadlift didn't aggravate the side injury much; weight was moderate; I went light on the goblet squat. **Thur** - did pushups instead of DB press which felt good and without any shoulder pain. **Fri** - side was really sore, to the point where even breathing was extremely painful; I must have tweaked it in sleep. **Sat** - side is much better; rest. **Sun** - site is better yet; rest. **Recap** - not a good week; side abdominal injury is still painful during Lower movements and shoulders and elbow aren't really getting much better.
 
@@ -721,25 +721,25 @@
 
 06.20 ***`Rest    `*** **rest**  
 06.19 ***`Cardio-2`*** **rest**  
-06.18 ***`Upper-2 `*** **OH press:** 115x8x4 • **Larsen press:** 175x8x4 • **chinup-wtd:** 20x8x4 • **tri ext:** 70x12x4 • **Lu raise:** 5x15x3  
+06.18 ***`Upper-2 `*** **BB OH press:** 115x8x4 • **Larsen press:** 175x8x4 • **chinup-wtd:** 20x8x4 • **tri ext:** 70x12x4 • **Lu raise:** 5x15x3  
 06.17 ***`Lower-2 `*** **deadlift:** 270x5x4 • **back squat:** 190x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
 06.16 ***`Cardio-1`*** **rest**  
-06.15 ***`Upper-1 `*** **bench press:** 175x8x4 • **OH press:** 105x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 9x4 • **rear delt fly:** 7.5x15x3  
+06.15 ***`Upper-1 `*** **bench press:** 175x8x4 • **BB OH press:** 105x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 9x4 • **rear delt fly:** 7.5x15x3  
 06.14 ***`Lower-1 `*** **back squat:** 220x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
 - **Mon** - RDL form was better, keep focusing on greater ROM but with a straight back and on loading the hamstrings. **Tue** - both Push and Pull movements felt stronger than last week; slight forearm pain on pullups. **Wed** - rest. **Thur** - focused on good deadlift form, I think it's getting a little better. **Fri** - lifted at LFJCC for the first time and aggravated my right shoulder and forearm/elbow again on Larsen press. **Sat** - rest. **Sun** - rest/wrenching. **Recap** - week was going great until I re-injured myself, so not a good week overall.
 
 06.13 ***`Rest    `*** **rest**  
 06.12 ***`Cardio-2`*** **rest**  
-06.11 ***`Upper-2 `*** **OH press:** 105x8x4 • **Larsen press:** 155x8x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 65x12x4 • **Lu raise:** 5x15x3  
+06.11 ***`Upper-2 `*** **BB OH press:** 105x8x4 • **Larsen press:** 155x8x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 65x12x4 • **Lu raise:** 5x15x3  
 06.10 ***`Lower-2 `*** **deadlift:** 265x5x4 • **back squat:** 185x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.09 ***`Cardio-1`*** **rest**  
-06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **OH press:** 95x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
+06.08 ***`Upper-1 `*** **bench press:** 155x8x4 • **BB OH press:** 95x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
 06.07 ***`Lower-1 `*** **back squat:** 215x5x4 • **RDL:** 185x8x4 • **reverse lunge:** 60x10x4 • **plank:** 60secx3  
 - **Mon** - felt good; focused on keeping good form throughout squat and RDL. **Tue** - felt better than last week's session 2; only slight forearm pain on DB row-sngl and pullups, no shoulder pain on bench and OHP. **Wed** - rest day. **Thur** - deadlift form still doesn't feel right, I'm lifting with my back too much; squat was good. **Fri** - no pain on any of the movements; continue to go up in weight on Push exercises next week. **Sat** - rest/wrench day. **Sun** - rest/wrench day. **Recap** - Another solid week. I look forward to going up in weight on bench and OHP next week.
 
 06.06 ***`Rest    `*** **rest**  
 06.05 ***`Cardio-2`*** **rest**  
-06.04 ***`Upper-2 `*** **OH press:** 95x8x4 • **Larsen press:** 135x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 55x12x4 • **Lu raise:** 5x12x3  
+06.04 ***`Upper-2 `*** **BB OH press:** 95x8x4 • **Larsen press:** 135x10x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 55x12x4 • **Lu raise:** 5x12x3  
 06.03 ***`Lower-2 `*** **deadlift:** 260x5x4 • **back squat:** 180x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 06.02 ***`Cardio-1`*** **run:** 2 miles - sprints  
 06.01 ***`Upper-1 `*** **bench press:** 135x8x4 • **OH press:** 75x10x4 • **DB row-sngl:** 90x20x4 • **pullup:** 8x4 • **rear delt fly:** 10x15x3  
@@ -784,14 +784,14 @@
 
 05.02 ***`Cardio `*** **rest**  
 05.01 ***`Legs-2 `*** **deadlift:** 185x6x3 • **back squat-psd:** 135x4x3 • **BB lunge:** 95x10x3  
-04.30 ***`Push-2 `*** **OH press:** 95x6x3 • **bench press-psd:** 155x4x3 • **cross body raise:** 20x20x3  
+04.30 ***`Push-2 `*** **BB OH press:** 95x6x3 • **bench press-psd:** 155x4x3 • **cross body raise:** 20x20x3  
 04.29 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x6x3 • **pullups-ntrl:** 6x2 • **chinups:** 6x2  
 04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x8x3 • **good morning:** 95x6x3 • **BB lunge:** 95x10x2  
 04.27 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x12x3  
 04.27 ***`Pull-1 `*** **pullups-ntrl:** 10x2 • **chinups** 6x2 • **BB row:** 135x8x3  
 - **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it the most on BB row. **Wed** - felt the forearm a bit on the RDL but it's wasn't bad; light deadlift should be ok to start with. **Thur** - curl didn't cause any forearm pain, go up in weight. **Fri** - felt good. **Sat** - no forearm pain on deadlift, start loading it up again. **Sun** - rest. **Recap** - better week overall, felt good to start doing Pull movements again.
 
-04.25 ***`Push-2 `*** **OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
+04.25 ***`Push-2 `*** **BB OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
 04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **BB lunge:** 115x20x3  
 04.23 ***`Pull-2 `*** **rest**  
 04.22 ***`Pull-2 `*** **rest**  
@@ -802,7 +802,7 @@
 
 04.18 ***`Cardio `*** **rest**  
 04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x6x5 • **BB lunge:** 105x20x3  
-04.16 ***`Push-2 `*** **OH press:** 170x4x3, 135x10x2 • **bench press-psd:** 270x2x5  
+04.16 ***`Push-2 `*** **BB OH press:** 170x4x3, 135x10x2 • **bench press-psd:** 270x2x5  
 04.15 ***`Pull-2 `*** **rest**  
 04.14 ***`Legs-1 `*** **back squat:** 225x6x5 • **good morning:** 125x12x5 • **BB lunge:** 95x20x3  
 04.13 ***`Push-1 `*** **BB bench press:** 270x4x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
@@ -812,7 +812,7 @@
 04.11 ***`Cardio `*** **swim:** 1,000 meters  
 04.10 ***`Cardio `*** **swim:** 1,200 yards  
 04.10 ***`Legs-2 `*** **back squat-psd:** 205x5x5 • **front squat:** 155x8x5  
-04.09 ***`Push-2 `*** **OH press:** 160x6x3, 135x10x2 • **bench press-psd:** 250x3x5  
+04.09 ***`Push-2 `*** **BB OH press:** 160x6x3, 135x10x2 • **bench press-psd:** 250x3x5  
 04.08 ***`Pull-2 `*** **rest**  
 04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
 04.06 ***`Push-1 `*** **BB bench press:** 250x6x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
@@ -821,7 +821,7 @@
 
 04.04 ***`Cardio `*** **rest**  
 04.03 ***`Legs-2 `*** **deadlift:** 275x8x5 • **front squat:** 145x8x5 • **DB BSS:** 52x20x3  
-04.02 ***`Push-2 `*** **OH press:** 150x8x3, 135x8x2 • **bench press-psd:** 230x6x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
+04.02 ***`Push-2 `*** **BB OH press:** 150x8x3, 135x8x2 • **bench press-psd:** 230x6x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 04.01 ***`Pull-2 `*** **BB row:** 210x8x5 • **BB curl:** 130x8x5 • **pullups:** 10x2 • **chinups:** 10x2  
 03.31 ***`Legs-1 `*** **back squat:** 205x8x5 • **RDL:** 235x8x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.30 ***`Push-1 `*** **BB bench press:** 230x8x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
@@ -839,7 +839,7 @@
 
 03.21 ***`Cardio `*** **walk**: 4 miles at the lake with the fam  
 03.20 ***`Legs-2 `*** **deadlift:** 235x12x5 • **front squat:** 135x8x5 • **DB BSS:** 40x20x3  
-03.19 ***`Push-2 `*** **OH press:** 130x12x5 • **bench press-psd:** 190x10x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
+03.19 ***`Push-2 `*** **BB OH press:** 130x12x5 • **bench press-psd:** 190x10x5 • **skull crushers:** 75x12x3 • **cross body raise:** 35x20x3  
 03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
 03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
@@ -849,7 +849,7 @@
 
 03.14 ***`Pullups`*** **pullups:**  18  
 03.13 ***`Cardio `*** **run:** 2 miles - tempo  
-03.12 ***`OH Prss`*** **OH press:** 95x4, 115x2, 135x1, 155x1x2, 165x1, 175x1, 180x1  
+03.12 ***`OH Prss`*** **BB OH press:** 95x4, 115x2, 135x1, 155x1x2, 165x1, 175x1, 180x1  
 03.12 ***`DL     `*** **deadlift:** 135x8, 185x4, 225x2, 275x1, 295x1, 315x1, 335x1, 355x1, 375x1, 405xFx2  
 03.09 ***`Bench  `*** **BB bench press:** 135x4, 155x4, 185x3, 205x3, 225x2, 245x2, 265x1, 285x1, 295x1, 305x1, 315x1  
 03.09 ***`Squat  `*** **back squat:** 95x4, 135x2, 160x2, 185x2, 205x1, 225x1, 245x1, 265x1, 275x1  
@@ -858,7 +858,7 @@
 
 03.07 ***`Cardio `*** **rest**  
 03.06 ***`Legs-2 `*** **rest**  
-03.05 ***`Push-2 `*** **OH press:** 95x8x3 • **bench press-psd:** 135x8x3 • **deadlift:** 155x6x3  
+03.05 ***`Push-2 `*** **BB OH press:** 95x8x3 • **bench press-psd:** 135x8x3 • **deadlift:** 155x6x3  
 03.04 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x8x3 • **BB curl-rvs:** 45x10x3 • **pullups:** 5x2 • **chinups:** 5x2  
 03.04 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x2  
 03.02 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x15x3 • **lat/front raise:** 15x25x3  
@@ -867,7 +867,7 @@
 
 02.28 ***`Cardio `*** **rest**  
 02.27 ***`Legs-2 `*** **deadlift:** 325x2x5 • **back squat-psd:** 185x4x5  
-02.26 ***`Push-2 `*** **OH press:** 175x2x3 • **bench press-psd:** 215x8x5 • **skull crushers:** 85x12x3 • **DB fly:** 45x12x3  
+02.26 ***`Push-2 `*** **BB OH press:** 175x2x3 • **bench press-psd:** 215x8x5 • **skull crushers:** 85x12x3 • **DB fly:** 45x12x3  
 02.25 ***`Pull-2 `*** **BB row:** 225x6x5 • **BB curl:** 155x2x5 • **BB curl-rvs:** 80x12x3 • **pullups:** 10x3 • **chinups:** 10x3  
 02.24 ***`Legs-1 `*** **back squat:** 205x6x5 • **RDL:** 265x6x5 • **good morning:** 115x12x5 • **DB lunge:** 52x30x1  
 02.23 ***`Push-1 `*** **BB bench press:** 285x2x5 • **bench dip-wtd:** 25x5 • **DB fly:** 45x12x3 • **lat/front raise:** 30x25x3  
