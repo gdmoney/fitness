@@ -5,16 +5,21 @@
 
 *****
 
+12.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge-rvs:** 110x20x4  
+12.26 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x4  
+**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** -
+
+12.22 ***`        `***   
 12.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 12.23 ***`        `***   
 12.22 ***`        `***   
 12.21 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
-12.20 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x3  
+12.20 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x3  
 12.19 ***`Lower   `*** **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge:** 110x20x4  
-**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - pullups are getting stronger. **Thu** - rest. **Fri** - rest. **Sat** - good workout. **Sun** -
+**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - pullups are getting stronger. **Thu** - rest. **Fri** - rest. **Sat** - good workout. **Sun** - rest. **Recap** - mediocre week; only 4 workouts but at least they were all solid.
 
 12.18 ***`        `***   
-12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4 • **DB OH press:**52x20,15,10 • **pushups:** 25x4  
+12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x4  
 12.16 ***`Lower   `*** **SSB squat:** 190x10x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
 12.15 ***`        `***   
 12.14 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
@@ -41,16 +46,16 @@
 **Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue/Wed/Thur/Fri** - rest and dealing with a cold. **Sat** - finally feeling better; decent workout at the Aria gym. **Sun** - pushups felt good; 2 min interval. **Recap** - poor week hampered by sickness.
 
 11.27 ***`Cardio  `*** **run:** 2m  
-11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row:** 100x30x3  
+11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row-sngl:** 100x15x3  
 11.25 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x15x3 • **BB curl-rvs:** 80x12x3 • **tri push/extn:** 20x3  
 11.24 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
-11.23 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **chinups:** 10x4 • **DB OH press:** 52x20x4 • **DB row:** 100x30x4  
+11.23 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **chinups:** 10x4 • **DB OH press:** 52x20x4 • **DB row-sngl:** 100x15x4  
 11.22 ***`        `***   
 11.21 ***`Lower   `*** **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge-rvs:** 110x20x3  
 **Mon** - squat was moderate; felt stronger than last week. **Tue** - rest. **Wed** - good workout; OHP was moderate and felt strong; try 90s next week; start doing more chinups. **Thur** - good workout; squat felt a bit heavier than on Monday but my form was good. **Fri** - didn't feel great. **Sat** - OHP was heavy; only managed 3 sets; didn't feel strong overall. **Sun** - good run. **Recap** - good week.
 
 11.20 ***`Cardio  `*** **run:** 2m  
-11.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x4 • **DB row:** 100x30x4 • **DB OH press:** 52x20x3  
+11.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x3  
 11.18 ***`        `***   
 11.17 ***`Lower   `*** **run:** 2m • **SSB squat:** 185x12x4, 160x12x3 • **SSB lunge:** 110x20x3  
 11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x20x3  
@@ -59,7 +64,7 @@
 **Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was suboptimal; pull felt strong. **Thur** - squat was moderat with good form. **Fri** - rest. **Sat** - felt strong; OHP was moderate/heavy with good form; first time doing 7 reps with 165. **Sun** - good run. **Recap** - good week with 4 solid workouts.
 
 11.13 ***`        `***   
-11.12 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row:** 100x30x4  
+11.12 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4  
 11.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3  
 11.10 ***`        `***   
 11.09 ***`        `***   
@@ -67,11 +72,11 @@
 11.07 ***`Flex    `*** **run:** 2m • **skull crushers:** 95x15x4 • **lat raise:** 30x15x4 • **BB curl-rvs:** 85x12x4  
 **Mon** - good home workout. **Tue/Wed** - rest and dealing with a cold. **Thur** - worked in WS all day. **Fri** - squat was heavy; form was good but not as good as it was on the back down sets. **Sat** - OHP was moderate/heavy; first time doing 8 reps with 155; probably could've gone for 9. **Sun** - rest. **Recap** - poor week with only 3 workouts, but on the plus side, OHP is feeling great.
 
-11.06 ***`Upper   `*** **BB OH press:** 160x6x4 • **DB row:** 100x30x4  
+11.06 ***`Upper   `*** **BB OH press:** 160x6x4 • **DB row-sngl:** 100x15x4  
 11.05 ***`        `***   
 11.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
 11.03 ***`        `***   
-11.02 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 80x10x4 • **DB row:** 100x30x4  
+11.02 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4  
 11.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 10.31 ***`Cardio  `*** **run:** 5m  
 **Mon** - lake run with Luka; need to get a second battery for his ebike. **Tue** - good workout; felt surprisingly strong. **Wed** - OHP felt really strong and form was good; new PR. **Thur** - rest. **Fri** - good workout. **Sat** - worked in WS all day. **Sun** - OHP was moderate/heavy; felt strong. **Recap** - good week; only 4 workouts but they were all solid.
@@ -107,7 +112,7 @@
 10.09 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x5x4 • **lat pulldown:** 160x12x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 10.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 10.07 ***`Flex    `***   
-10.06 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row:** 100x30x4  
+10.06 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row-sngl:** 100x15x4  
 10.05 ***`Lower   `*** **run:** 2m • **SSB squat:** 190x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
 10.04 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 90x10x1 • **lat raise:** 15x4 • **face pulls:** 20x4  
 10.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x7x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x3 • **machine row:** 235x15x3  
@@ -122,7 +127,7 @@
 09.26 ***`Lower   `***   
 **Week-1:** **Mon/Tue/Wed/Thur/Fri** - rest due to travel and having a cold. **Sat** - first time squatting since my back injury in August; it felt great without any pain; major DOMS well into next Tuesday. **Sun** - rest. **Recap** - poor week.
 
-09.25 ***`Flex    `*** **BB OH press-ntrl:** 135x8x4 • **DB row:** 100x30x4 • **skull crushers:** 90x12x4 • **DB curl-rvs:** 90x10x4 • **lat raise:** 20x20x4  
+09.25 ***`Flex    `*** **BB OH press-ntrl:** 135x8x4 • **DB row-sngl:** 100x15x4 • **skull crushers:** 90x12x4 • **DB curl-rvs:** 90x10x4 • **lat raise:** 20x20x4  
 09.24 ***`Upper   `*** **run:** 5m  
 09.23 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x2 • **back extn:** 80x12x2  
 09.22 ***`Flex    `*** **run:** 1m • **skull crushers:** 90x10x4  
@@ -134,7 +139,7 @@
 09.18 ***`Upper   `***   
 09.17 ***`Lower   `*** **run:** 5m  
 09.16 ***`Flex    `*** **run:** 1m • **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
-09.15 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row:** 100x30x4 • **chinups:** 10x4  
+09.15 ***`Upper   `*** **DB OH press-sngl:** 80x7x4 • **DB row-sngl:** 100x15x4 • **chinups:** 10x4  
 09.14 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4 • **back extn:** 80x12x4  
 09.13 ***`Flex    `*** **skull crushers:** 80x12x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4  
 09.12 ***`Upper   `*** **run:** 2m  
@@ -170,7 +175,7 @@
 08.20 ***`Flex    `***   
 08.19 ***`Upper   `*** **run:** 1m • **DB OH press:** 50x20x4 • **pullups:** 10x5  
 08.18 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x10x4 • **DB lunge-rvs:** 50x20x3  
-08.17 ***`Flex    `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3  
+08.17 ***`Flex    `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x3  
 08.16 ***`Upper   `***   
 08.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 **Week-1:** **Mon** - good workout; felt good to be back at the gym. **Tue** - rest. **Wed** - shoulders and the right elbow were sore so I skipped bench; OHP was moderate/heavy; right shoulder and elbow were a bit sore in the beginning but got better over time. **Thur** - good workout; first time doing 90 on back extn. **Fri** - OH press was moderate/heavy. **Sat** - rest. **Sun** - hotel gym leg press machine is much heavier than my home gym machine. **Recap** - decent week considering 3 days of travel.
@@ -181,12 +186,12 @@
 08.11 ***`Upper   `***   
 08.10 ***`Lower   `***   
 08.09 ***`Flex    `***   
-08.08 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press:** 145x10x4 • **DB row:** 100x30x4  
+08.08 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press:** 145x10x4 • **DB row-sngl:** 100x15x4  
 **Week-2:** **Mon** - bench was light/moderate; OH press was moderate; no elbow pain on either but a slight shoulder ache afterwards. **Tue/Wed/Thur** - rest in San Jose. **Fri** - squat was moderate/heavy; form was decent but ROM wasn't quite as full as on the volume sets. **Sat** - bench was light/moderate; tried a narrower grip which was easier on the shoulders; OHP was moderate/heavy; shoulders were tired from the bench. **Sun** - rest. **Recap** - poor week hampered by travel with only 3 workouts.
 
 08.07 ***`Lower   `***   
 08.06 ***`Flex    `*** **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
-08.06 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press-ntrl:** 135x10x4 • **DB row:** 100x30x4  
+08.06 ***`Upper   `*** **bench press:** 185x10x4 • **BB OH press-ntrl:** 135x10x4 • **DB row-sngl:** 100x15x4  
 08.04 ***`Lower   `*** **SSB squat:** 200x8x4, 160x15x2  
 08.03 ***`Flex    `*** **skull crushers:** 85x15x4 • **BB curl-rvs:** 75x12x4 • **lat raise:** 25x15x4  
 08.03 ***`Upper   `*** **DB OH press:** 70x10x4 • **bench press:** 165x10x4 • **pullups-wtd:** 25x8x3  
@@ -267,7 +272,7 @@
 
 06.05 ***`Flex    `***   
 06.04 ***`Flex    `*** **SSB squat:** 160x12x12  
-06.03 ***`Upper-2 `*** **BB OH press:** 135x10x4 • **DB row:** 100x30x4 • **BB curl-rvs:** 75x12x3 • **lat raise:** 15x20x3  
+06.03 ***`Upper-2 `*** **BB OH press:** 135x10x4 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x3 • **lat raise:** 15x20x3  
 06.02 ***`Lower-2 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge-rvs:** 50x20x3  
 06.01 ***`Flex    `*** **run:** 1m • **DB OH press:** 70x10x4 • **lat pulldown:** 145x15x4 • **tri push:** 20x4 • **machine row:** 220x15x4  
 05.31 ***`Upper-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x15x4 • **DB lunge:** 50x20x3  
@@ -301,7 +306,7 @@
 05.09 ***`Lower-1 `*** **run:** 1m • **leg press:** 235x15x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
 **Mon** - leg press was moderate/heavy; go up in weight next week; back extension keeps feeling better. **Tue** - OH press was heavy with good form; first time doing double 70s. **Wed** - didn't feel great but got through it. **Thur** - leg press was moderate/heavy again; good workout overall. **Fri/Sat** - rest. **Sun** - pronated grip OH press was light; go up to 135 next week; neutral grip OH press was heavy; stay at 115 for now. **Recap** - another solid week with 5 good workouts, but I need to fit in at least one more session per week.
 
-05.08 ***`Flex    `*** **BB OH press-ntrl:** 115x10x4 • **DB row:** 100x30x4 • **lat raise:** 20x4  
+05.08 ***`Flex    `*** **BB OH press-ntrl:** 115x10x4 • **DB row-sngl:** 100x15x4 • **lat raise:** 20x4  
 05.07 ***`Flex    `***   
 05.06 ***`Upper-2 `***   
 05.05 ***`Lower-2 `*** **run:** 1m • **leg press:** 12x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
