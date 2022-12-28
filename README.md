@@ -5,9 +5,10 @@
 
 *****
 
-12.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge-rvs:** 110x20x4  
+12.28 ***`Flex    `*** **run:** 2m • **pullups:** 10x3  
+12.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge-rvs:** 110x20x2  
 12.26 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x4  
-**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** -
+**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** - good workout; squat was moderate with good form; go up in weight next week. **Wed** -
 
 12.22 ***`        `***   
 12.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
