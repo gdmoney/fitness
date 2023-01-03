@@ -1,14 +1,27 @@
 ## Goals
 
 
-### 2022
+### 2023
 
 - [ ]  stay injury free
 - [ ]  improved posture
+- [ ]  275 SSB squat
+- [ ]  405 deadlift
+- [ ]  210 BB OH press
+- [ ]  90x10 DB OH press
+- [ ]  100x2 DB OH press
+
+*****
+
+### 2022
+
+- [x]  stay injury free
+- [ ]  improved posture
 - [ ]  315 squat
 - [ ]  405 deadlift
-- [ ]  180 BB OH press
-- [ ]  80x10 DB OH press
+- [x]  180 BB OH press - original
+- [x]  200 BB OH press - updated
+- [x]  80x10 DB OH press
 
 *****
 

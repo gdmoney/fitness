@@ -5,10 +5,22 @@
 
 *****
 
-12.28 ***`Flex    `*** **run:** 2m • **pullups:** 10x3  
+01.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **DB lunge:** 55x20x3  
+01.02 ***`        `***   
+**Mon** - rest. **Tue** - good workout. **Wed** -
+
+*****
+
+## 2022
+
+01.01 ***`        `***   
+12.31 ***`Upper   `*** **BB OH press:** 145x1, 155x1, 165x1, 175x1, 185x1, 195x1, 200x1 • **DB OH press-sngl:** 100xF, 90x6 (right)
+12.30 ***`        `***   
+12.29 ***`        `***   
+12.28 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
 12.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge-rvs:** 110x20x2  
 12.26 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x4  
-**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** - good workout; squat was moderate with good form; go up in weight next week. **Wed** -
+**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** - good workout; squat was moderate with good form; go up in weight next week. **Wed** - pullups at the park. **Thur** - rest. **Fri** - rest. **Sat** - didn't feel my strongest in the morning but still hit my goal with the 200 PR; probably could've done a couple more with the 90 if I had done it before the 100 attempt; couldn't do any with my left. **Sun** - rest.
 
 12.22 ***`        `***   
 12.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
