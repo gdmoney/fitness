@@ -7,7 +7,7 @@
 
 01.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **DB lunge:** 55x20x3  
 01.02 ***`        `***   
-**Mon** - rest. **Tue** - good workout. **Wed** -
+**Mon** - rest. **Tue** - good workout at the office gym. **Wed** -
 
 *****
 
