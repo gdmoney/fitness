@@ -5,6 +5,9 @@
 
 *****
 
+01.09 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **BB curl-rvs:** 80x12x4 • **face pulls:** 20x4 • **lat raise:** 15x4  
+**Mon** - good workout; start doing pullups/chinups at least twice a week. **Tue** - 
+
 01.08 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,16,12 • **pushups:** 25x4  
 01.07 ***`        `***   
 01.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
