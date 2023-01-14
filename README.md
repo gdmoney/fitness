@@ -5,7 +5,7 @@
 
 *****
 
-01.14 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3 • **SSB lunge:** 110x20x2  
+01.14 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
 01.13 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **tri pushdown:** 20x3 • **face pulls:** 20x3 • **lat raise:** 15x3  
 01.12 ***`Upper   `*** **BB OH press:** 165x8 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x10  
 01.11 ***`        `***   
