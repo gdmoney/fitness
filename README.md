@@ -5,13 +5,18 @@
 
 *****
 
+01.17 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **face pulls:** 20x3 • **lat raise:** 15x3  
+01.16 ***`Lower   `*** **run:** 1m • **hack squat:** 275x10x4 • **back extn:** 70x12x4 • **leg extn:** 15x4  
+**Mon** - first time doing doing hack squats; it was heavy but felt good. **Tue** - 
+
+01.15 ***`Upper   `*** **DB OH press-incl:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4 • **BB curl-rvs:** 75x12x4  
 01.14 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
 01.13 ***`Flex    `*** **run:** 1m • **pullups:** 10x3 • **tri pushdown:** 20x3 • **face pulls:** 20x3 • **lat raise:** 15x3  
-01.12 ***`Upper   `*** **BB OH press:** 165x8 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x10  
+01.12 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x10  
 01.11 ***`        `***   
 01.10 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
 01.09 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **BB curl-rvs:** 80x12x4 • **face pulls:** 20x4 • **lat raise:** 15x4  
-**Mon** - good workout; start doing pullups/chinups at least twice a week. **Tue** - good workout; go up in weight on DB lunge. **Wed** - rest. **Thur** - OHP was only moderate; could've gone for 9-10 reps; pushups are getting stronger. **Fri** - good workout. **Sat** - squat was moderate/heavy with good form. **Sun** -
+**Mon** - good workout; start doing pullups/chinups at least twice a week. **Tue** - good workout; go up in weight on DB lunge. **Wed** - rest. **Thur** - OHP was only moderate; could've gone for 9-10 reps; pushups are getting stronger. **Fri** - good workout. **Sat** - squat was moderate/heavy with good form. **Sun** - good workout at the Casa gym; slight incline on OHP which was heavy but felt good; start doing more of these. **Recap** - good week.
 
 01.08 ***`Upper   `*** **run:** 2m • **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,16,12 • **pushups:** 25x4  
 01.07 ***`        `***   
