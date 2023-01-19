@@ -6,7 +6,7 @@
 *****
 
 01.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x25x3  
-01.18 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • face pulls:** 20x4 • **lat raise:** 15x4  
+01.18 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **face pulls:** 20x4 • **lat raise:** 15x4  
 01.17 ***`        `***   
 01.16 ***`Lower   `*** **run:** 1m • **hack squat:** 275x10x4 • **back extn:** 70x12x4 • **leg extn:** 15x4  
 **Mon** - first time doing doing hack squats; it was heavy but felt good. **Tue** - rest. **Wed** - decent workout at the hotel gym. **Thur** - good workout at the hotel gym; leg press machine was much heavier than my home gym one. **Fri** - 
