@@ -3,12 +3,12 @@
 
 ### 2023
 
-| Period          | SSB squat    | Deadlift     | BB OH Press  | DB OH press-single | Pullups     |
-| :-------------- | :----------: | :----------: | :----------: | :----------------: | :---------: |
-| Jan - Feb - Mar |              |              |              |                    |             |
-| Apr - May - Jun |              |              |              |                    |             |
-| Jul - Aug - Sep |              |              |              |                    |             |
-| Oct - Nov - Dec |              |              |              |                    |             |
+| Period          | SSB squat    | Deadlift     | BB OH Press  | DB OH press-seated | DB OH press-single | Pullups     |
+| :-------------- | :----------: | :----------: | :----------: | :----------------: | :----------------: | :---------: |
+| Jan - Feb - Mar |              |              |              | 90x8               |                    |             |
+| Apr - May - Jun |              |              |              |                    |                    |             |
+| Jul - Aug - Sep |              |              |              |                    |                    |             |
+| Oct - Nov - Dec |              |              |              |                    |                    |             |
 
 *****
 
