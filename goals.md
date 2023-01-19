@@ -8,8 +8,9 @@
 - [ ]  275 SSB squat
 - [ ]  405 deadlift
 - [ ]  210 BB OH press
-- [ ]  90x10 DB OH press
-- [ ]  100x2 DB OH press
+- [ ]  100x10 DB OH press - incline
+- [ ]  90x10 DB OH press - single
+- [ ]  100x2 DB OH press - single
 
 *****
 
