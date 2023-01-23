@@ -5,11 +5,17 @@
 
 *****
 
+01.23 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **BB curl-rvs:** 80x12x3 • **face pulls:** 20x3 • **lat raise:** 15x3  
+**Mon** - good workout; pullups continue to get stronger. **Tue** - 
+
+01.22 ***`        `***   
+01.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x5  
+01.20 ***`        `***   
 01.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x25x3  
 01.18 ***`Flex    `*** **run:** 1m • **pullups:** 10x4 • **face pulls:** 20x4 • **lat raise:** 15x4  
 01.17 ***`        `***   
 01.16 ***`Lower   `*** **run:** 1m • **hack squat:** 275x10x4 • **back extn:** 70x12x4 • **leg extn:** 15x4  
-**Mon** - first time doing doing hack squats; it was heavy but felt good. **Tue** - rest. **Wed** - decent workout at the hotel gym. **Thur** - good workout at the hotel gym; leg press machine was much heavier than my home gym one. **Fri** -
+**Mon** - first time doing doing hack squats; it was heavy but felt good. **Tue** - rest. **Wed** - decent workout at the hotel gym. **Thur** - good workout at the hotel gym; leg press machine was much heavier than my home gym one. **Fri** - rest. **Sat** - OHP was heavy. **Sun** - rest. **Recap** - mediocre week.
 
 01.15 ***`Upper   `*** **DB OH press-incl:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4 • **BB curl-rvs:** 75x12x4  
 01.14 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x10x4, 160x12x3 • **SSB lunge:** 110x20x3  
