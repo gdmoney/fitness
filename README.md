@@ -5,14 +5,14 @@
 
 *****
 
-01.29 ***`Upper   `*** **run:** 2m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4  
+01.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4 • **face pulls:** 20x4  
 01.28 ***`Lower   `*** **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 115x20x3  
 01.27 ***`Misc    `*** **chinups:** 10x5 • **BB curl-rvs:** 85x12x4 • **lat raise:** 25x20x4  
 01.26 ***`        `***   
 01.25 ***`Upper   `*** **run:** 2m • **DB OH press-sngl:** 80x10x3 • **DB row-sngl:** 100x15x3  
 01.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x25x3  
 01.23 ***`Misc    `*** **run:** 1m • **pullups:** 10x4 • **BB curl-rvs:** 80x12x3 • **face pulls:** 20x3 • **lat raise:** 15x3  
-**Mon** - good workout; pullups continue to get stronger. **Tue** - good workout; go up in weight on back extn. **Wed** - OHP was moderate; ran out of time. **Thur** - rest. **Fri** - slight shoulder ache from the DB lat raise; stick to the cable variation. **Sat** - squat was moderate with good form; squeezing the handles helped engage the upper back more. **Sun** -
+**Mon** - good workout; pullups continue to get stronger. **Tue** - good workout; go up in weight on back extn. **Wed** - OHP was moderate; ran out of time. **Thur** - rest. **Fri** - slight shoulder ache from the DB lat raise; stick to the cable variation. **Sat** - squat was moderate with good form; squeezing the handles helped engage the upper back more. **Sun** - OHP was heavy; stick with 90 for now. **Recap** - good week; keep going with the current program.
 
 01.22 ***`        `***   
 01.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x5  
