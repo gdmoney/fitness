@@ -6,9 +6,9 @@
 | Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3       | Exercise - 4      |
 | :------------ | :---------------- | :--------------- | :----------------- | :---------------- |
 | **`Lower  `** | SSB squat         | leg press        | back extension     | lunge / rvs lunge |
-| **`Push   `** | BB OHP            | DB OHP / incline | DB OHP single      | pushups           |
-| **`Pull   `** | pullups / chinups | lat pulldown     | DB row single      | machine row       |
-| **`Flex   `** | BB curl rvs grip  | tri push / extn  | face pulls         | lat raise         |                   |
+| **`Push   `** | BB OHP            | DB OHP / seated  | DB OHP single      | pushups           |
+| **`Pull   `** | pullups / chinups | lat pulldown     | DB row             | machine row       |
+| **`Misc   `** | BB curl rvs grip  | tri push / extn  | face pulls         | lat raise         |                   |
 
 *****
 
