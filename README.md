@@ -5,7 +5,7 @@
 
 *****
 
-01.31 ***`Misc    `*** **chinups:** 10x5  
+01.31 ***`Misc    `*** **chinups:** 10x7  
 01.30 ***`        `***   
 **Mon** - rest; shoulders still ache; I think OHP aggravated it. **Tue** - didn't feel great after sleeping poorly for two nights straight. **Wed** - 
 
