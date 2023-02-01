@@ -5,6 +5,10 @@
 
 *****
 
+01.31 ***`Misc    `*** **chinups:** 10x5  
+01.30 ***`        `***   
+**Mon** - rest; shoulders still ache; I think OHP aggravated it. **Tue** - didn't feel great after sleeping poorly for two nights straight. **Wed** - 
+
 01.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4 • **face pulls:** 20x4  
 01.28 ***`Lower   `*** **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 115x20x3  
 01.27 ***`Misc    `*** **chinups:** 10x5 • **BB curl-rvs:** 85x12x4 • **lat raise:** 25x20x4  
