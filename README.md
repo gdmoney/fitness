@@ -5,9 +5,10 @@
 
 *****
 
+02.01 ***`Lower   `*** **SSB squat:** 210x8x4, 160x15x3  
 01.31 ***`Misc    `*** **chinups:** 10x7  
 01.30 ***`        `***   
-**Mon** - rest; shoulders still ache; I think OHP aggravated it. **Tue** - didn't feel great after sleeping poorly for two nights straight. **Wed** - 
+**Mon** - rest; shoulders still ache; I think OHP aggravated it. **Tue** - didn't feel great after sleeping poorly for two nights straight. **Wed** - squat was moderate/heavy with good form; skipped the lunge. **Thur** - 
 
 01.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4 • **face pulls:** 20x4  
 01.28 ***`Lower   `*** **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 115x20x3  
