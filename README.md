@@ -5,11 +5,12 @@
 
 *****
 
+02.03 ***`Cardio  `*** **run:** 2m  
 02.02 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 20x4 • **machine row:** 225x20x3  
 02.01 ***`Lower   `*** **SSB squat:** 210x8x4, 160x15x3  
 01.31 ***`Misc    `*** **chinups:** 10x7  
 01.30 ***`        `***   
-**Mon** - rest; shoulders still ache; I think DB OHP aggravated it. **Tue** - didn't feel great after sleeping poorly for two nights straight. **Wed** - squat was moderate/heavy with good form; skipped the lunge. **Thur** - OHP was moderate and I focused on form and ROM; shoulders are better. **Fri** - 
+**Mon** - rest; shoulders still ache; I think DB OHP aggravated it. **Tue** - didn't feel great after sleeping poorly for two nights straight. **Wed** - squat was moderate/heavy with good form; skipped the lunge. **Thur** - OHP was moderate and I focused on form and ROM; shoulders are better. **Fri** - good run. **Sat** - 
 
 01.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 12x4 • **tri pushdown:** 20x4 • **face pulls:** 20x4  
 01.28 ***`Lower   `*** **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 115x20x3  
