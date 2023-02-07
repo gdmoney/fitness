@@ -5,6 +5,10 @@
 
 *****
 
+02.07 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x3  
+02.06 ***`Misc    `*** **run:** 1m • **chinups:** 10x5 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
+**Mon** - decent workout despite not feeling great after the weekend's festivities; no shoulder pain on lat raise. **Tue** - good workout; first time doing 90 on back extn. **Wed** - 
+
 02.05 ***`        `***   
 02.04 ***`        `***   
 02.03 ***`Cardio  `*** **run:** 2m • **pushups:** 25x4    
