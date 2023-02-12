@@ -5,12 +5,13 @@
 
 *****
 
+02.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x3 • **SSB lunge:** 115x20x3  
 02.10 ***`Misc    `*** **run:** 1m • **pullups:** 10x4 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x3 • **face pulls:** 20x3  
 02.09 ***`        `***   
 02.08 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x8x3,6 • **lat pulldown:** 160x12x4 • **tri pushdown:** 20x4  
 02.07 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x3  
 02.06 ***`Misc    `*** **run:** 1m • **pullups:** 10x5 • **BB curl-rvs:** 80x12x4 • **lat raise:** 15x4 • **face pulls:** 20x4  
-**Mon** - decent workout despite not feeling great after the weekend's festivities; no shoulder pain on lat raise. **Tue** - good workout; first time doing 90 on back extn. **Wed** - OHP was moderate/heavy; focused on form. **Thur** - rest. **Fri** - didn't feel great. **Sat** - 
+**Mon** - decent workout despite not feeling great after the weekend's festivities; no shoulder pain on lat raise. **Tue** - good workout; first time doing 90 on back extn. **Wed** - OHP was moderate/heavy; focused on form. **Thur** - rest. **Fri** - didn't feel great. **Sat** - rest. **Sun** - squat was moderate/heavy with good form; go up in weight or reps next week; same for lunge. **Recap** - good week.
 
 02.05 ***`        `***   
 02.04 ***`        `***   
