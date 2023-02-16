@@ -5,6 +5,8 @@
 
 *****
 
+02.16 ***`Lower   `*** **run:** 2m • **TBD**  
+02.15 ***`Misc    `*** **run:** 2m • **pullups:** 10x5 • **face pulls:** 20x4 • **tri push/extn:** 20x4  
 02.14 ***`        `***   
 02.13 ***`Upper   `*** **run:** 2m • **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x25,20x3  
 **Mon** - good home workout; OHP was moderate; slight left shoulder ache initially but it got better over time. **Tue** - rest. **Wed** - 
