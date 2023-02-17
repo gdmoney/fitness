@@ -5,11 +5,12 @@
 
 *****
 
-02.16 ***`Lower   `*** **run:** 2m • **TBD**  
+02.17 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x3 • **SSB lunge:** 115x20x3  
+02.16 ***`Cardio  `*** **run:** 2m  
 02.15 ***`Misc    `*** **run:** 2m • **pullups:** 10x5 • **face pulls:** 20x4 • **tri push/extn:** 20x4  
 02.14 ***`        `***   
 02.13 ***`Upper   `*** **run:** 2m • **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x25,20x3  
-**Mon** - good home workout; OHP was moderate; slight left shoulder ache initially but it got better over time. **Tue** - rest. **Wed** - 
+**Mon** - good home workout; OHP was moderate; slight left shoulder ache initially but it got better over time. **Tue** - rest. **Wed** - good workout; pullups felt strong. **Thur** - good run. **Fri** - 
 
 02.12 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x3 • **SSB lunge:** 115x20x3  
 02.11 ***`        `***   
