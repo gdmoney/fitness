@@ -8,7 +8,7 @@
 02.22 ***`Upper   `*** **run:** 2m • **DB OH press-sngl:** 80x12x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x3  
 02.21 ***`Lower   `*** **run:** 2m • **SSB squat:** 215x8x4, 160x15x3 • **SSB lunge-rvs:** 115x20x3  
 02.20 ***`Misc    `*** **chinups:** 10x5 • **skull crushers:** 85x15x5  
-**Mon** - chinups felt good; reverse grip BB curl and DB lat raise didn't agree with my left shoulder. **Tue** - squat was moderate/heavy with good form. **Wed** - 
+**Mon** - chinups felt good; reverse grip BB curl and DB lat raise didn't agree with my left shoulder. **Tue** - squat was moderate/heavy with good form. **Wed** - OHP was moderate, although I did take longer between sets; first time doing 12 rep sets with 80; time to go up to 90. **Thur** - 
 
 02.19 ***`        `***   
 02.18 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,12  
