@@ -5,6 +5,7 @@
 
 *****
 
+02.24 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 02.23 ***`Cardio  `*** **run:** 2m  
 02.22 ***`Upper   `*** **run:** 2m • **DB OH press-sngl:** 80x12x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x3  
 02.21 ***`Lower   `*** **run:** 2m • **SSB squat:** 215x8x4, 160x15x3 • **SSB lunge-rvs:** 115x20x3  
