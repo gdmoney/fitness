@@ -5,6 +5,9 @@
 
 *****
 
+02.27 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 75x12x4 • **tri pushdown:** 20x4  
+**Mon** - OHP was moderate/heavy; surprisingly left arm was stronger. **Tue** - 
+
 02.26 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4  
 02.25 ***`        `***   
 02.24 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
