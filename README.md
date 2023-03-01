@@ -5,8 +5,9 @@
 
 *****
 
+02.28 ***`Misc    `*** **run:** 1m • **pullups:** 10x3  
 02.27 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 75x12x4 • **tri pushdown:** 20x4  
-**Mon** - OHP was moderate/heavy; surprisingly left arm was stronger. **Tue** - 
+**Mon** - OHP was moderate/heavy; surprisingly left arm was stronger. **Tue** - didn't feel great after sleeping poorly for three nights straight. **Wed** - 
 
 02.26 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4  
 02.25 ***`        `***   
