@@ -5,11 +5,12 @@
 
 *****
 
-03.03 ***`Lower   `*** **run:** 1m • **TBD**  
-03.02 ***`        `***   
+03.03 ***`Cardio  `*** **run:** 1m  
+03.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x25x3  
+03.01 ***`        `***   
 02.28 ***`Misc    `*** **run:** 1m • **pullups:** 10x3  
 02.27 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 75x12x4 • **tri pushdown:** 20x4  
-**Mon** - OHP was moderate/heavy; surprisingly left arm was stronger. **Tue** - didn't feel great after sleeping poorly for three nights straight. **Wed** - rest. **Thur** - 
+**Mon** - OHP was moderate/heavy; surprisingly left arm was stronger. **Tue** - didn't feel great after sleeping poorly for three nights straight. **Wed** - rest. **Thur** - good workout at the hotel gym. **Fri** - ran out of time early in the morning. **Sat** - 
 
 02.26 ***`Lower   `*** **run:** 1m • **DB lunge:** 60x20x4  
 02.25 ***`        `***   
