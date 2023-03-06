@@ -5,6 +5,9 @@
 
 *****
 
+03.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 60x20x3  
+**Mon** - didn't feel great but had a decent workouk. **Tue** - 
+
 03.05 ***`Misc    `*** **pushups:** 25x4 • **ab wheel:** 10x4  
 03.04 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4  
 03.03 ***`Cardio  `*** **run:** 1m  
