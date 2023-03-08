@@ -5,7 +5,7 @@
 
 | Period          | SSB squat    | Deadlift     | BB OH Press  | DB OH press-seated | DB OH press-single | Pullups     |
 | :-------------- | :----------: | :----------: | :----------: | :----------------: | :----------------: | :---------: |
-| Jan - Feb - Mar |              |              |              | 90x8               |                    |             |
+| Jan - Feb - Mar |              |              |              | 90x8x4             |                    |             |
 | Apr - May - Jun |              |              |              |                    |                    |             |
 | Jul - Aug - Sep |              |              |              |                    |                    |             |
 | Oct - Nov - Dec |              |              |              |                    |                    |             |
