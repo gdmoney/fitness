@@ -5,12 +5,17 @@
 
 *****
 
+03.13 ***`        `***   
+**Mon** - out sick.
+
+03.12 ***`Upper   `*** **BB OH press:** 165x9,9,8,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,17  
+03.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x9x4, 160x15x3 • **SSB lunge:** 110x20x3  
 03.10 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **BB curl-rvs:** 80x12x3 • **lat raise:** 15x3 • **face pulls:** 20x3  
 03.09 ***`        `***   
 03.08 ***`        `***   
 03.07 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 160x12x4 • **tri pushdown:** 20x4  
 03.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 60x20x3  
-**Mon** - didn't feel great but had a decent workouk. **Tue** - didn't feel great after sleeping poorly; OHP was moderate/heavy; last rep was a grinder but I got it. **Wed** - rest. **Thur** - rest. **Fri** - didn't feel great. **Sat** - 
+**Mon** - didn't feel great but had a decent workouk. **Tue** - didn't feel great after sleeping poorly; OHP was moderate/heavy; last rep was a grinder but I got it. **Wed** - rest. **Thur** - rest. **Fri** - didn't feel great. **Sat** - was feeling a bit under the weather; squat was moderate/heavy with good form. **Sun** - still feeling ill; OHP was moderate/heavy; first time reping 165 for 9. **Recap** - good week despite illness.
 
 03.05 ***`Misc    `*** **pushups:** 25x4 • **ab wheel:** 10x4  
 03.04 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4  
