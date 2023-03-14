@@ -5,8 +5,9 @@
 
 *****
 
+03.14 ***`        `***   
 03.13 ***`        `***   
-**Mon** - out sick.
+**Mon** - out sick. **Tue** - out sick.
 
 03.12 ***`Upper   `*** **BB OH press:** 165x9,9,8,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,17  
 03.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x9x4, 160x15x3 • **SSB lunge:** 110x20x3  
@@ -485,13 +486,13 @@
 03.11 ***`Upper-2 `***   
 03.10 ***`Lower-2 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 60x12x4 • **lat pulldown:** 15x4 • **tri pushdown:** 15x4  
 03.09 ***`Flex    `***   
-03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 55x15x4 • **DB row-sngl:** 90x30x4 • **tri pushdown:** 15x4  
+03.08 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 55x15x4 • **DB row-sngl:** 90x15x4 • **tri pushdown:** 15x4  
 03.07 ***`Lower-1 `*** **run:** 1 mile @ 6:15 pace • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 35x15x4  
 - **Mon** - leg press activates quads much more than squats do. **Tue** - OH press didn't aggravate the shoulder. **Wed** - rest. **Thur** - no shoulder pain. **Fri/Sat/Sun** - rest. **Recap** - poor week; only got 3 workouts in.
 
 03.06 ***`Rest    `***   
 03.05 ***`Flex    `***   
-03.04 ***`Upper-2 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 30x30,35x25,40x20,45x15,40x20,35x25,30x30 • **DB row-sngl:** 90x30x4 • **tri pushdown:** 20x4  
+03.04 ***`Upper-2 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 30x30,35x25,40x20,45x15,40x20,35x25,30x30 • **DB row-sngl:** 90x15x4 • **tri pushdown:** 20x4  
 03.03 ***`Lower-2 `***   
 03.02 ***`Flex    `*** **run:** 1 mile @ 6:15 pace • **leg press:** 15x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **back extn:** 25x15x4  
 03.01 ***`Upper-1 `*** **run:** 1 mile @ 6:15 pace • **DB OH press:** 20x40,25x35,30x30,35x24,30x30,25x35,20x40 • **DB row-sngl:** 75x40x4  
@@ -539,7 +540,7 @@
 01.28 ***`Upper-2 `*** **bench press:** 170x8x4 • **BB OH press:** 135x8x3 • **chinups:** 10x3  
 01.27 ***`Lower-2 `*** **goblet squat:** 100x15x4 • **DB lunge:** 40x20x3  
 01.26 ***`Flex    `*** **elliptical:** 15 min • **cable fly:** 15x4  
-01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x5x4 • **DB row-sngl:** 80x30x4 • **DB OH press:** 52x15x3  
+01.25 ***`Upper-1 `*** **DB OH press-sngl:** 80x5x4 • **DB row-sngl:** 80x15x4 • **DB OH press:** 52x15x3  
 01.24 ***`Lower-1 `*** **SSB squat:** 160x10x4 • **goblet squat:** 90x15x4  
 - **Mon** - first time doing SSB squat; it felt good and seemed to engage the quads more; weight was moderate. **Tue** - felt stronger on the OH press. **Wed** - cardio is back to normal. **Thur** - 100s felt good; go up in reps next week. **Fri** - bench was painless and felt a bit lighter than last week; keep focusing on good form; OH press was medium/heavy; did full ROM; chinups were lighter than last week but still lacking. **Sat** - rest day; legs were really sore from DB lunge; slight ache in both shoulders. **Sun** - travel day. **Recap** - another OK week; better than last week but I'm still not at pre-sickness level.
 
@@ -548,7 +549,7 @@
 01.21 ***`Upper-2 `*** **bench press:** 165x8x4 • **chinups:** 10x3 • **lat raise:** 15x20x3  
 01.20 ***`Lower-2 `*** **goblet squat:** 90x15x4 • **DB OH press-sngl:** 80x5x3  
 01.19 ***`Flex    `***   
-01.18 ***`Upper-1 `*** **DB OH press:** 45x15x4 • **DB row-sngl:** 80x30x4  
+01.18 ***`Upper-1 `*** **DB OH press:** 45x15x4 • **DB row-sngl:** 80x15x4  
 01.17 ***`Lower-1 `*** **back squat:** 185x8x3 • **goblet squat:** 80x15x3  
 - **Mon** - still a bit under the weather and felt really weak but it was good to finally work out again. **Tue** - felt stronger than the day before. **Wed** - rest. **Thur** - felt stronger on the goblet squat; first time doing single arm DB OH press; it was heavy but felt good. **Fri** - bench was painless which is encouraging; felt weak on the chinups; slight shoulder ache from lat raise. **Sat** - cardio is still lagging. **Sun** - first time doing deadlift in over 2 months; focused on good form; no back pain. **Recap** - OK week getting back into it after being sick for 10 days.
 
@@ -574,7 +575,7 @@
 
 ## 2021
 
-01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row-sngl:** 90x30x3 • **DB OH press:** 52x18x3 • **chinups:** 10x5  
+01.02 ***`Upper-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row-sngl:** 90x15x3 • **DB OH press:** 52x18x3 • **chinups:** 10x5  
 01.01 ***`Rest    `***   
 12.31 ***`Lower-2 `*** **run:** 2 miles - sprints • **back squat:** 195x10x4 • **goblet squat:** 90x20x3  
 12.30 ***`Upper-2 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 12x4 • **Arnold press:** 50x15x4 • **tri pushdown:** 25x3 • **face pull:** 25x3  
@@ -583,7 +584,7 @@
 12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
 - **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
 
-12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x30x4  
+12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x15x4  
 12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
 12.24 ***`Upper-2 `*** **rest**  
 12.23 ***`Rest    `***   
