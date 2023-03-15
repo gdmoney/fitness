@@ -5,9 +5,10 @@
 
 *****
 
+03.15 ***`        `***   
 03.14 ***`        `***   
 03.13 ***`        `***   
-**Mon** - out sick. **Tue** - out sick.
+**Mon** - out sick. **Tue** - out sick. **Wed** - out sick but feeling better.
 
 03.12 ***`Upper   `*** **BB OH press:** 165x9,9,8,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,17  
 03.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x9x4, 160x15x3 • **SSB lunge:** 110x20x3  
