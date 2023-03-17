@@ -5,10 +5,12 @@
 
 *****
 
+03.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+03.16 ***`        `***   
 03.15 ***`        `***   
 03.14 ***`        `***   
 03.13 ***`        `***   
-**Mon** - out sick. **Tue** - out sick. **Wed** - out sick but feeling better.
+**Mon** - out sick. **Tue** - out sick. **Wed** - out sick but feeling better. **Thur** - decided to sit out one more day to fully recover. **Fri** - run felt good; pullups felt ok; I don't think I've lost much strength. **Sat** - 
 
 03.12 ***`Upper   `*** **BB OH press:** 165x9,9,8,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,17  
 03.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x9x4, 160x15x3 • **SSB lunge:** 110x20x3  
