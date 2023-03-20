@@ -5,12 +5,16 @@
 
 *****
 
+
+
+03.19 ***`Upper   `*** **DB OH press-sngl:** 80x12x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,17,14  
+03.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x2  
 03.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x4 • **chinups:** 10x11  
 03.16 ***`        `***   
 03.15 ***`        `***   
 03.14 ***`        `***   
 03.13 ***`        `***   
-**Mon** - out sick. **Tue** - out sick. **Wed** - out sick but feeling better. **Thur** - decided to sit out one more day to fully recover. **Fri** - run felt good; pullups also felt good; I don't think I've lost much strength. **Sat** -
+**Mon** - out sick. **Tue** - out sick. **Wed** - out sick but feeling better. **Thur** - decided to sit out one more day to fully recover. **Fri** - run felt good; pullups also felt good; I don't think I've lost much strength. **Sat** - squat was moderate/heavy with good form; didn't feel my strongest in the AM. **Sun** - OHP was moderate; go up to 90# already. **Recap** - strong finish to a mediocre week hampered by illness.
 
 03.12 ***`Upper   `*** **BB OH press:** 165x9,9,8,7 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,17  
 03.11 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x9x4, 160x15x3 • **SSB lunge:** 110x20x3  
