@@ -5,7 +5,8 @@
 
 *****
 
-
+03.20 ***`Misc    `*** **run:** 2m • **elliptical:** 20 min   
+**Mon** - first time doing the elliptical in a long time; felt good. **Tue** - 
 
 03.19 ***`Upper   `*** **DB OH press-sngl:** 80x12x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,17,14  
 03.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x2  
