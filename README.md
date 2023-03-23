@@ -5,9 +5,11 @@
 
 *****
 
-03.21 ***`        `***   
+03.23 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x2  
+03.22 ***`        `***   
+03.21 ***`Cardio  `*** **run:** 2m  
 03.20 ***`Misc    `*** **run:** 2m • **elliptical:** 20 min   
-**Mon** - first time doing the elliptical in a long time; felt good. **Tue** - rest due to rain. **Wed** - 
+**Mon** - first time doing the elliptical in a long time; felt good. **Tue** - got rained out. **Wed** - still dealing with stuffed ears. **Thur** - didn't feel great but had a decent workout. **Fri** - 
 
 03.19 ***`Upper   `*** **DB OH press-sngl:** 80x12x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,17,14  
 03.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x2  
