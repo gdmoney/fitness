@@ -5,11 +5,13 @@
 
 *****
 
+03.25 ***`Misc    `*** **run:** 2m • **pullups:** 12x3  
+03.24 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x3 • **lat pulldown:** 160x12x4 • **tri pushdown:** 25x4  
 03.23 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x2  
 03.22 ***`        `***   
 03.21 ***`Cardio  `*** **run:** 2m  
 03.20 ***`Misc    `*** **run:** 2m • **elliptical:** 20 min   
-**Mon** - first time doing the elliptical in a long time; felt good. **Tue** - got rained out. **Wed** - still dealing with stuffed ears. **Thur** - didn't feel great but had a decent workout; slight lower back ache from the back extns. **Fri** - 
+**Mon** - first time doing the elliptical in a long time; felt good. **Tue** - got rained out. **Wed** - still dealing with stuffed ears. **Thur** - didn't feel great but had a decent workout; slight lower back ache from the back extns. **Fri** - OHP felt heavier than before; only managed 3 sets; still not feeling great. **Sat** - 
 
 03.19 ***`Upper   `*** **DB OH press-sngl:** 80x12x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,17,14  
 03.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x15x2  
