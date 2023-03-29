@@ -5,7 +5,7 @@
 
 *****
 
-03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x3 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
+03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
 03.28 ***`        `***   
 03.27 ***`        `***   
 **Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy. **Thur** - 
