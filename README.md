@@ -5,6 +5,11 @@
 
 *****
 
+03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x3 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
+03.28 ***`        `***   
+03.27 ***`        `***   
+**Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy.
+
 03.26 ***`Lower   `*** **SSB squat:** 210x8x4, 160x15x3 • **SSB lunge:** 115x20x3  
 03.25 ***`Misc    `*** **run:** 2m • **pullups:** 12x3  
 03.24 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x3 • **lat pulldown:** 160x12x4 • **tri pushdown:** 25x4  
