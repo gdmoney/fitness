@@ -5,7 +5,7 @@
 
 *****
 
-03.30 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **BB curl-rvs:** 80x12x3 • **front raise:** 80x12x3 • **lat raise:** 15x3  
+03.30 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **BB curl-rvs:** 80x12x3 • **upright row:** 80x12x3 • **lat raise:** 15x3  
 03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
 03.28 ***`        `***   
 03.27 ***`        `***   
