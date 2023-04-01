@@ -5,11 +5,12 @@
 
 *****
 
+03.31 ***`Lower   `*** **deadlift:** 275x5x4 • **SSB squat:** 160x15x4 • **SSB lunge-rvs:** 115x20x4  
 03.30 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **BB curl-rvs:** 80x12x3 • **upright row:** 80x12x3 • **lat raise:** 15x3  
 03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
 03.28 ***`        `***   
 03.27 ***`        `***   
-**Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy. **Thur** - didn't feel great and ran out of steam after 3 sets; first time doing upright row in a while. **Fri** - 
+**Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy. **Thur** - didn't feel great and ran out of steam after 3 sets; first time doing upright row in a while. **Fri** - first time doing deadlift in over a year; it was light/moderate with good form; incorporate it into the program going forward. **Sat** - 
 
 03.26 ***`Lower   `*** **SSB squat:** 210x8x4, 160x15x3 • **SSB lunge:** 115x20x3  
 03.25 ***`Misc    `*** **run:** 2m • **pullups:** 12x3  
