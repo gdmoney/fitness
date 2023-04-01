@@ -145,21 +145,3 @@
 `*  ` - alternate weekly between OH press and push press  
 `** ` - alternate weekly between front squat and paused back squat  
 `***` - alternate weekly between sprints and hills
-
-*****
-
-### 4 day (WIP)
-
-| Day         | Movement(s)            | Exercise - 1          | Exercise - 2         | Exercise - 3       | Exercise - 4       |
-| :---------- | :--------------------- | :-------------------- | :------------------- | :----------------- | :----------------- |
-| *Monday*    | **`Squat-M + Pull-1`** | squat - M             | lunge                | pullups/chinups    | BB row             |
-| *Tuesday*   | **`Push-1 + DL-V   `** | bench press - M       | bench dip - W        | RDL                | good morning       |
-| *Wednesday* | **`Cardio-1        `** | run                   |                      |                    |                    |
-| *Thursday*  | **`Pull-2 + Squat-V`** | BB row                | BB curl              | squat - V*         | BSS                |
-| *Friday*    | **`DL-M + Push-2   `** | deadlift              | OH/push press**      | bench press - V*** | skull crushers     |
-| *Saturday*  | **`Cardio-2        `** | swim                  |                      |                    |                    |
-| *Sunday*    | **`Rest            `** | swim                  |                      |                    |                    |
-
-`*  ` - alternate weekly between front squat and paused back squat  
-`** ` - alternate weekly between OH press and push press  
-`***` - alternate weekly between paused and Larsen press
