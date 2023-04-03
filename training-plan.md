@@ -1,6 +1,18 @@
 ## Training Plan
 
 
+### 2023 - April
+
+| Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3      | Exercise - 4      |
+| :------------ | :---------------- | :--------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | leg press        | lunge / rvs lunge |                   |
+| **`Hinge  `** | deadlift          | RDL              | back extension    |                   |
+| **`Push   `** | BB OHP            | DB OHP / seated  | DB OHP single     | pushups           |
+| **`Pull   `** | pullups / chinups | lat pulldown     | DB row            | upright row       |
+| **`Misc   `** | cable pullover    | BB curl rvs grip | tri pushdown      | lat raise         |
+
+*****
+
 ### 2023 - January • February • March
 
 | Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3       | Exercise - 4           |
