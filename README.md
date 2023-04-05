@@ -5,9 +5,10 @@
 
 *****
 
+04.05 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x7x4 • **RDL:** 225x12x4 • **SSB lunge:** 115x20x4  
 04.04 ***`Misc    `*** **run:** 2m • **pullups:** 12x5 • **BB curl-rvs:** 80x12x3 • **upright row:** 80x15x3  
 04.03 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **cable pullover:** 15x3  
-**Mon** - OHP was moderate/heavy; did the first two at 85 and the last two at 75 degree angle; cable pullover felt good. **Tue** - light workout but felt good. **Wed** - 
+**Mon** - OHP was moderate/heavy; did the first two at 85 and the last two at 75 degree angle; cable pullover felt good. **Tue** - light workout but felt good. **Wed** - felt surprisingly strong in the morning; squat was moderate/heavy with good form; first time doing RDL in a long time. **Thur** - 
 
 04.02 ***`        `***   
 04.01 ***`        `***   
