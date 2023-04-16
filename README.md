@@ -5,13 +5,23 @@
 
 *****
 
+04.16 ***`Upper   `*** **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,20  
+04.15 ***`Misc    `*** **elliptical:** 20 min  
+04.14 ***`Lower   `*** **SSB squat:** 220x7x4, 160x15x3 • **SSB lunge:** 115x20x3  
+04.13 ***`        `***   
+04.12 ***`Upper   `*** **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,16  
+04.11 ***`        `***   
+04.10 ***`Cardio  `*** **run:** 2m  
+**Mon** - felt tired from the deadlifting the day before and had a slight back ache. **Tue** - rest. **Wed** - went a bit lighter on the OHP due to the left shoulder; it was moderate. **Thur** - rest. **Fri** - squat was moderate/heavy; pause deadlift and RDL until back if fully recovered. **Sat** - elliptical felt good. **Sun** - OHP was moderate; left shoulder still hurts but it's better. **Recap** - OK week; dealing with minor back and left shoulder injuries.
+
+04.09 ***`Lower   `*** **run:** 2m • **SSB squat:** 180x10x4 • **deadlift:** 275x5x4  
 04.08 ***`Misc    `*** **pullups:** 12x2  
 04.07 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 90x7x4 • **DB row-sngl:** 100x15x4 • **tri pushdown:** 25x4 • **cable pullover:** 15x4  
 04.06 ***`        `***   
 04.05 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x7x4 • **RDL:** 225x12x4 • **SSB lunge:** 115x20x3  
 04.04 ***`Misc    `*** **run:** 2m • **pullups:** 12x5 • **BB curl-rvs:** 80x12x3 • **upright row:** 80x15x3  
 04.03 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **cable pullover:** 15x3  
-**Mon** - OHP was moderate/heavy; did the first two at 85 and the last two at 75 degree angle; cable pullover felt good. **Tue** - light workout but felt good. **Wed** - felt surprisingly strong in the morning; squat was moderate/heavy with good form; first time doing RDL in a long time. **Thur** - rest. **Fri** - left shoulder was hurting so only did the right on the OHP; it was moderate/heavy. **Sat** -
+**Mon** - OHP was moderate/heavy; did the first two at 85 and the last two at 75 degree angle; cable pullover felt good. **Tue** - light workout but felt good. **Wed** - felt surprisingly strong in the morning; squat was moderate/heavy with good form; first time doing RDL in a long time. **Thur** - rest. **Fri** - left shoulder was hurting so only did the right on the OHP; it was moderate/heavy. **Sat** - only got two sets in. **Sun** - deadlift felt a bit lighter than last week but the form is still poor. **Recap** - decent week.
 
 04.02 ***`        `***   
 04.01 ***`        `***   
