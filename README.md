@@ -5,6 +5,10 @@
 
 *****
 
+04.18 ***`Misc    `*** **run:** 2m • **TBD**  
+04.17 ***`        `***   
+**Mon** - rest. **Tue** - 
+
 04.16 ***`Upper   `*** **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,20  
 04.15 ***`Misc    `*** **elliptical:** 20 min  
 04.14 ***`Lower   `*** **SSB squat:** 220x7x4, 160x15x3 • **SSB lunge:** 115x20x3  
