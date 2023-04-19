@@ -5,7 +5,7 @@
 
 *****
 
-04.19 ***`Lower   `*** **SSB squat:** 225x7x4, 160x15x1  
+04.19 ***`Lower   `*** **run:** 2m • **SSB squat:** 225x7x4, 160x15x1  
 04.18 ***`Cardio  `*** **run:** 2m   
 04.17 ***`        `***   
 **Mon** - rest. **Tue** - run felt good. **Wed** - squat was moderate heavy with good form; aggravated my lower back pain. **Thur** - 
