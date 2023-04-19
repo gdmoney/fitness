@@ -5,9 +5,9 @@
 
 *****
 
-04.18 ***`Misc    `*** **run:** 2m • **TBD**  
+04.18 ***`Cardio  `*** **run:** 2m   
 04.17 ***`        `***   
-**Mon** - rest. **Tue** - 
+**Mon** - rest. **Tue** - run felt good. **Wed** - 
 
 04.16 ***`Upper   `*** **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,20  
 04.15 ***`Misc    `*** **elliptical:** 20 min  
