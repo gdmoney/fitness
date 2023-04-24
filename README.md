@@ -5,13 +5,14 @@
 
 *****
 
+04.23 ***`Misc    `*** **elliptical:** 20 min  
 04.22 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,18,15  
 04.21 ***`        `***   
 04.20 ***`        `***   
 04.19 ***`Lower   `*** **run:** 2m • **SSB squat:** 225x7x4, 160x15x1  
 04.18 ***`Cardio  `*** **run:** 2m   
 04.17 ***`        `***   
-**Mon** - rest. **Tue** - run felt good. **Wed** - squat was moderate/heavy with good form; aggravated my lower back pain. **Thur** - rest. **Fri** - rest; felt like shit. **Sat** - OHP was moderate; slight left shoulder and back pain during the movement. **Sun** - 
+**Mon** - rest. **Tue** - run felt good. **Wed** - squat was moderate/heavy with good form; aggravated my lower back pain. **Thur** - rest. **Fri** - rest; felt like shit. **Sat** - OHP was moderate; slight left shoulder and back pain during the movement. **Sun** - good cardio on the elliptical. **Recap** - poor week; back and left shoulder still hurt.
 
 04.16 ***`Upper   `*** **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x22,20,20  
 04.15 ***`Misc    `*** **elliptical:** 20 min  
