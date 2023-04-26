@@ -5,8 +5,9 @@
 
 *****
 
+04.25 ***`Cardio  `*** **run:** 2m   
 04.24 ***`Cardio  `*** **run:** 2m   
-**Mon** - good run; wanted to rest my back a little more. **Tue** - 
+**Mon** - good run; wanted to rest my back a little more. **Tue** - another good run. **Wed** - 
 
 04.23 ***`Misc    `*** **elliptical:** 20 min  
 04.22 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,18,15  
