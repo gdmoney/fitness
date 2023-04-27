@@ -5,6 +5,7 @@
 
 *****
 
+04.27 ***`Upper   `*** **run:** 2m • **TBD**  
 04.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 55x20x3  
 04.25 ***`Cardio  `*** **run:** 2m   
 04.24 ***`Cardio  `*** **run:** 2m   
