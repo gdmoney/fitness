@@ -5,11 +5,12 @@
 
 *****
 
-04.27 ***`Upper   `*** **run:** 2m • **TBD**  
+04.28 ***`Misc    `*** **run:** 2m • **pullups:** 15x1  
+04.27 ***`Upper   `*** **run:** 2m • **bench press:** 195x8x4    
 04.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 55x20x3  
 04.25 ***`Cardio  `*** **run:** 2m   
 04.24 ***`Cardio  `*** **run:** 2m   
-**Mon** - good run; wanted to rest my back a little more. **Tue** - another good run. **Wed** - good workout but even leg press irritated my lower back. **Thur** - 
+**Mon** - good run; wanted to rest my back a little more. **Tue** - another good run. **Wed** - good workout but even leg press irritated my lower back. **Thur** - first time benching since August of 2022; it was moderate; left shoulder pain during the movement; a bit worse than on OHP.
 
 04.23 ***`Misc    `*** **elliptical:** 20 min  
 04.22 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,18,15  
