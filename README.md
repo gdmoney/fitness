@@ -5,6 +5,10 @@
 
 *****
 
+05.02 ***`Lower   `*** **run:** 1m • **TBD**  
+05.01 ***`Misc    `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown:** 25x4 • **lat raise:** 15x4  
+**Mon** - didn't feel great but had a decent workout at the hotel gym. **Tue** - 
+
 04.30 ***`Cardio  `*** **run:** 2m   
 04.29 ***`        `***   
 04.28 ***`Misc    `*** **run:** 2m • **pullups:** 15x1  
