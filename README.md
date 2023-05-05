@@ -5,11 +5,12 @@
 
 *****
 
+05.05 ***`Upper   `*** **run:** 1m • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x4 • **machine row:** 225x15x4  
 05.04 ***`Cardio  `*** **run:** 2m   
 05.03 ***`        `***   
 05.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x25x4  
 05.01 ***`Misc    `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown:** 25x4 • **lat raise:** 15x4  
-**Mon** - didn't feel great but had a decent workout at the hotel gym. **Tue** - another good workout at the hotel gym. **Wed** - rest. **Thur** - good run. **Fri** - 
+**Mon** - didn't feel great but had a decent workout at the hotel gym. **Tue** - another good workout at the hotel gym. **Wed** - rest. **Thur** - good run. **Fri** - skipped push/press movements as the left shoulder still hurts; pull movements felt strong. **Sat** - 
 
 04.30 ***`Cardio  `*** **run:** 2m   
 04.29 ***`        `***   
