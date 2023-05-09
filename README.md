@@ -5,8 +5,9 @@
 
 *****
 
+05.09 ***`Misc    `*** **elliptical:** 20 min  
 05.08 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - 
+**Mon** - good run. **Tue** - elliptical felt good in the morning. **Wed** - 
 
 05.07 ***`Misc    `*** **elliptical:** 20 min  
 05.06 ***`Cardio  `*** **run:** 2m   
