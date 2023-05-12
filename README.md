@@ -5,28 +5,29 @@
 
 *****
 
-05.11 ***`Cardio  `*** **run:** 2m   
+05.12 ***`Cardio  `*** **swim:** 1000y  
+05.11 ***`Cardio  `*** **run:** 2m  
 05.10 ***`        `***   
 05.09 ***`Misc    `*** **elliptical:** 20 min  
 05.08 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - elliptical felt good in the morning. **Wed** - rest. **Thur** - good run. **Fri** - 
+**Mon** - good run. **Tue** - elliptical felt good in the morning. **Wed** - rest. **Thur** - good run. **Fri** - first time swimming in over two years; it was tiring but felt good. **Sat** - 
 
 05.07 ***`Misc    `*** **elliptical:** 20 min  
-05.06 ***`Cardio  `*** **run:** 2m   
+05.06 ***`Cardio  `*** **run:** 2m  
 05.05 ***`Upper   `*** **run:** 1m • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x4 • **machine row:** 225x15x4  
-05.04 ***`Cardio  `*** **run:** 2m   
+05.04 ***`Cardio  `*** **run:** 2m  
 05.03 ***`        `***   
 05.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x25x4  
 05.01 ***`Misc    `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown:** 25x4 • **lat raise:** 15x4  
 **Mon** - didn't feel great but had a decent workout at the hotel gym. **Tue** - another good workout at the hotel gym. **Wed** - rest. **Thur** - good run. **Fri** - skipped push/press movements as the left shoulder still hurts; pull movements felt strong. **Sat** - good run. **Sun** - start alternating run and elliptical. **Recap** - another poor week but back is feeling better so I should be able to start squatting again soon.
 
-04.30 ***`Cardio  `*** **run:** 2m   
+04.30 ***`Cardio  `*** **run:** 2m  
 04.29 ***`        `***   
 04.28 ***`Misc    `*** **run:** 2m • **pullups:** 15x1  
 04.27 ***`Upper   `*** **run:** 2m • **bench press:** 195x8x4    
 04.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 55x20x3  
-04.25 ***`Cardio  `*** **run:** 2m   
-04.24 ***`Cardio  `*** **run:** 2m   
+04.25 ***`Cardio  `*** **run:** 2m  
+04.24 ***`Cardio  `*** **run:** 2m  
 **Mon** - good run; wanted to rest my back a little more. **Tue** - another good run. **Wed** - good workout but even leg press irritated my lower back. **Thur** - first time benching since August of 2022; it was moderate; left shoulder pain during the movement; a bit worse than on OHP. **Fri** - light day. **Sat** - rest. **Sun** - good run. **Recap** - poor week hampered by lower back and left shoulder injuries; I did get some good cardio in though.
 
 04.23 ***`Misc    `*** **elliptical:** 20 min  
@@ -34,7 +35,7 @@
 04.21 ***`        `***   
 04.20 ***`        `***   
 04.19 ***`Lower   `*** **run:** 2m • **SSB squat:** 225x7x4, 160x15x1  
-04.18 ***`Cardio  `*** **run:** 2m   
+04.18 ***`Cardio  `*** **run:** 2m  
 04.17 ***`        `***   
 **Mon** - rest. **Tue** - run felt good. **Wed** - squat was moderate/heavy with good form; aggravated my lower back pain. **Thur** - rest. **Fri** - rest; felt like shit. **Sat** - OHP was moderate; slight left shoulder and back pain during the movement. **Sun** - good cardio on the elliptical. **Recap** - poor week; back and left shoulder still hurt.
 
