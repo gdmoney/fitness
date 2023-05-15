@@ -5,12 +5,17 @@
 
 *****
 
+05.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
+**Mon** - good workout; legs felt strong; first time doing back extn in almost two months; no pain. **Tue** - 
+
+05.14 ***`        `***   
+05.13 ***`        `***   
 05.12 ***`Cardio  `*** **swim:** 1000y  
 05.11 ***`Cardio  `*** **run:** 2m  
 05.10 ***`        `***   
 05.09 ***`Misc    `*** **elliptical:** 20 min  
 05.08 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - elliptical felt good in the morning. **Wed** - rest. **Thur** - good run. **Fri** - first time swimming in over two years; it was tiring but felt good. **Sat** -
+**Mon** - good run. **Tue** - elliptical felt good in the morning. **Wed** - rest. **Thur** - good run. **Fri** - first time swimming in over two years; it was tiring but felt good. **Sat** - rest. **Sun** - rest. **Recap** - poor week; back is feeling better but left shoulder still hurts.
 
 05.07 ***`Misc    `*** **elliptical:** 20 min  
 05.06 ***`Cardio  `*** **run:** 2m  
