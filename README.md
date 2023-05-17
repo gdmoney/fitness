@@ -5,7 +5,7 @@
 
 *****
 
-05.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+05.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x4  
 05.16 ***`Upper   `*** **run:** 1m • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
 05.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
 **Mon** - good workout; run and legs both felt strong; first time doing back extn in almost two months; no pain. **Tue** - good workout; slight left shoulder pain during the movements. **Wed** - 
