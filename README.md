@@ -5,10 +5,12 @@
 
 *****
 
+05.19 ***`Cardio  `*** **swim:** 1000y  
+05.18 ***`        `***   
 05.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 05.16 ***`Upper   `*** **run:** 1m • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
 05.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
-**Mon** - good workout; run and legs both felt strong; first time doing back extn in almost two months; no pain. **Tue** - good workout; slight left shoulder pain during the movements. **Wed** - pullups felt strong; focused on full ROM. **Thur** - 
+**Mon** - good workout; run and legs both felt strong; first time doing back extn in almost two months; no pain. **Tue** - good workout; slight left shoulder pain during the movements. **Wed** - pullups felt strong; focused on full ROM. **Thur** - rest. **Fri** - swim felt good; a bit easier than last week. **Sat** - 
 
 05.14 ***`        `***   
 05.13 ***`        `***   
