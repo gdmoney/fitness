@@ -5,6 +5,9 @@
 
 *****
 
+05.22 ***`Cardio  `*** **run:** 1m  
+**Mon** - good run at the hotel gym. **Tue** - 
+
 05.21 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 05.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
 05.19 ***`Cardio  `*** **swim:** 1000y  
