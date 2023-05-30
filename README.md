@@ -5,6 +5,9 @@
 
 *****
 
+05.30 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
+**Mon** - rest. **Tue** - was sleep deprived but still had a decent workout. **Wed** - 
+
 05.28 ***`Cardio  `*** **run:** 2m  
 05.27 ***`        `***   
 05.26 ***`Cardio  `*** **run:** 2m  
