@@ -5,12 +5,18 @@
 
 *****
 
+06.06 ***`Cardio  `*** **run:** 1m  
+06.05 ***`Cardio  `*** **run:** 1m  
+**Mon** - hotel gym run. **Tue** - another good run. **Wed** - 
+
+06.04 ***`        `***   
+06.03 ***`        `***   
 06.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x2  
 06.01 ***`Cardio  `*** **run:** 2m  
 05.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 05.30 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 05.29 ***`        `***   
-**Mon** - rest. **Tue** - was sleep deprived but still had a decent workout. **Wed** - didn't feel great and only got 3 sets in. **Thur** - felt better and had a good run. **Fri** - didn't feel great.
+**Mon** - rest. **Tue** - was sleep deprived but still had a decent workout. **Wed** - didn't feel great and only got 3 sets in. **Thur** - felt better and had a good run. **Fri** - didn't feel great. **Sat** - rest. **Sun** - rest. **Recap** - poor week.
 
 05.28 ***`Cardio  `*** **run:** 2m  
 05.27 ***`        `***   
