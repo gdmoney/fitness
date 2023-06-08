@@ -5,9 +5,10 @@
 
 *****
 
+06.07 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
 06.06 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
 06.05 ***`Cardio  `*** **run:** 1m  
-**Mon** - hotel gym run. **Tue** - another good run ans swim. **Wed** - 
+**Mon** - hotel gym run. **Tue** - another good run and swim. **Wed** - same workout. **Thur** - 
 
 06.04 ***`        `***   
 06.03 ***`        `***   
