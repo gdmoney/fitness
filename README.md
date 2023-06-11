@@ -5,10 +5,14 @@
 
 *****
 
+
+06.10 ***`        `***   
+06.09 ***`Cardio  `*** **run:** 1m  
+06.08 ***`        `***   
 06.07 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
 06.06 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
 06.05 ***`Cardio  `*** **run:** 1m  
-**Mon** - hotel gym run. **Tue** - another good run and swim. **Wed** - same workout. **Thur** - 
+**Mon** - hotel gym run. **Tue** - another good run and swim. **Wed** - same workout. **Thur** - drive back from Vegas. **Fri** - good run but feeling a bit sick. **Sat** - rest; still feeling sick. **Sun** - 
 
 06.04 ***`        `***   
 06.03 ***`        `***   
