@@ -6,13 +6,18 @@
 *****
 
 
+06.13 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+06.12 ***`        `***   
+**Mon** - rest; still feeling ill. **Tue** - good run; starting to feel a little better. **Wed** - 
+
+06.11 ***`        `***   
 06.10 ***`        `***   
 06.09 ***`Cardio  `*** **run:** 1m  
 06.08 ***`        `***   
 06.07 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
 06.06 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
 06.05 ***`Cardio  `*** **run:** 1m  
-**Mon** - hotel gym run. **Tue** - another good run and swim. **Wed** - same workout. **Thur** - drive back from Vegas. **Fri** - good run but feeling a bit sick. **Sat** - rest; still feeling sick. **Sun** - 
+**Mon** - hotel gym run. **Tue** - another good run and swim. **Wed** - same workout. **Thur** - drive back from Vegas. **Fri** - good run but feeling a bit sick. **Sat** - rest; still feeling sick. **Sun** - another rest day. **Recap** - poor week hampered by illness.
 
 06.04 ***`        `***   
 06.03 ***`        `***   
