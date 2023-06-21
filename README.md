@@ -6,8 +6,8 @@
 *****
 
 06.21 ***`Lower   `*** **run:** 2m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
-06.20 ***`Cardio  `*** **run:** 2m
-06.19 ***`Cardio  `*** **run:** 2m
+06.20 ***`Cardio  `*** **run:** 2m  
+06.19 ***`Cardio  `*** **run:** 2m  
 **Mon** - still feeling ill. **Tue** - and the illness still persists; major DOMS in the legs. **Wed** - good workout. **Thur** - 
 
 06.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 165x12x4 • **SSB lunge:** 110x20x3  
