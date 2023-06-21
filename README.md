@@ -12,9 +12,9 @@
 
 06.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 165x12x4 • **SSB lunge:** 110x20x3  
 06.17 ***`        `***   
-06.16 ***`Cardio  `*** **run:** 2m
-06.15 ***`Cardio  `*** **run:** 2m
-06.14 ***`Cardio  `*** **run:** 2m
+06.16 ***`Cardio  `*** **run:** 2m  
+06.15 ***`Cardio  `*** **run:** 2m  
+06.14 ***`Cardio  `*** **run:** 2m  
 06.13 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 06.12 ***`        `***   
 **Mon** - rest; still feeling ill. **Tue** - good run; starting to feel a little better. **Wed/Thur/Fri** - still not feeling great. **Sat** - rest. **Sun** - first time doing squat in two months; it was moderate with good form; surprisingly I haven't lost much strength. **Recap** - poor week hampered by illness but at least I got good cardio in.
