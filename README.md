@@ -5,6 +5,7 @@
 
 *****
 
+06.21 ***`Lower   `*** **run:** 2m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 06.20 ***`Cardio  `*** **run:** 2m
 06.19 ***`Cardio  `*** **run:** 2m
 **Mon** - still feeling ill. **Tue** - and the illness still persists; major DOMS in the legs. **Wed** -
