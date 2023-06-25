@@ -5,7 +5,7 @@
 
 *****
 
-06.25 ***`Lower   `*** **run:** 1m • **SSB squat:** 200x9x4, 165x12x4 • **SSB lunge:** 110x20x2  
+06.25 ***`Lower   `*** **run:** 1m • **SSB squat:** 200x9x4, 165x12x3 • **SSB lunge:** 110x20x2  
 06.24 ***`Cardio  `*** **run:** 2m  
 06.23 ***`Cardio  `*** **run:** 2m  
 06.22 ***`Cardio  `*** **run:** 2m  
@@ -14,7 +14,7 @@
 06.19 ***`Cardio  `*** **run:** 2m  
 **Mon** - still feeling ill. **Tue** - and the illness still persists; major DOMS in the legs. **Wed** - good workout. **Thur** - good run. **Fri** - good run. **Sat** - good run. **Sun** - squat was moderate with good form; go up in weight next week. **Recap** - better week; keep up the cardio and add at least one more strength training day.
 
-06.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 165x12x4 • **SSB lunge:** 110x20x3  
+06.18 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 165x12x3 • **SSB lunge:** 110x20x3  
 06.17 ***`        `***   
 06.16 ***`Cardio  `*** **run:** 2m  
 06.15 ***`Cardio  `*** **run:** 2m  
