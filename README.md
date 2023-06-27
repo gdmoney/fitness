@@ -5,8 +5,9 @@
 
 *****
 
+06.27 ***`Cardio  `*** **run:** 2m  
 06.26 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 75x8x3 • **lat pulldown:** 160x12x3 • **tri pushdown:** 20x3 • **machine row:** 205x15x3  
-**Mon** - first time doing an Upper day in over a month; OHP still didn't agree with the left shoulder; kept the intensity moderate but a good workout overall. **Tue** - 
+**Mon** - first time doing an Upper day in over a month; OHP still didn't agree with the left shoulder; kept the intensity moderate but a good workout overall. **Tue** - feel a bit banged up from yesterday. **Wed** - 
 
 06.25 ***`Lower   `*** **run:** 1m • **SSB squat:** 200x9x4, 165x12x3 • **SSB lunge:** 110x20x2  
 06.24 ***`Cardio  `*** **run:** 2m  
