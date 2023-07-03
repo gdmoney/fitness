@@ -5,13 +5,14 @@
 
 *****
 
+07.02 ***`        `***   
 07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 165x12x1  
 06.30 ***`Upper   `*** **run:** 2m • **DB OHP-sngl(R):** 80x10x4 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x4  
 06.29 ***`        `***   
 06.28 ***`Cardio  `*** **run:** 2m  
 06.27 ***`Cardio  `*** **run:** 2m  
 06.26 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 75x8x3 • **lat pulldown:** 160x12x3 • **tri pushdown:** 20x3 • **machine row:** 205x15x3  
-**Mon** - first time doing an Upper day in over a month; OHP still didn't agree with the left shoulder; kept the intensity moderate but a good workout overall. **Tue** - feel a bit banged up from yesterday. **Wed** - good run. **Thur** - rest. **Fri** - OHP was moderate/heavy and felt stronger than the last time. **Sat** - good run; squat was moderate heavy with good form. **Sun** -
+**Mon** - first time doing an Upper day in over a month; OHP still didn't agree with the left shoulder; kept the intensity moderate but a good workout overall. **Tue** - feel a bit banged up from yesterday. **Wed** - good run. **Thur** - rest. **Fri** - OHP was moderate/heavy and felt stronger than the last time. **Sat** - good run; squat was moderate heavy with good form. **Sun** - rest. **Recap** - even better week with three good workouts; do four next week.
 
 06.25 ***`Lower   `*** **run:** 1m • **SSB squat:** 200x9x4, 165x12x3 • **SSB lunge:** 110x20x2  
 06.24 ***`Cardio  `*** **run:** 2m  
