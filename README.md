@@ -8,7 +8,7 @@
 07.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
 07.04 ***`Cardio  `*** **run:** 2m  
 07.03 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Wed** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - 
 
 07.02 ***`        `***   
 07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 165x12x1  
