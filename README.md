@@ -5,11 +5,12 @@
 
 *****
 
+07.07 ***`Cardio  `*** **run:** 2m  
 07.06 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x8x4 • **lat pulldown:** 205x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 07.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
 07.04 ***`Cardio  `*** **run:** 2m  
 07.03 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout; OHP was moderate/heavy; lat pulldown was heavy; go down one click for now. **Fri** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout; OHP was moderate/heavy; lat pulldown was heavy; go down one click for now. **Fri** - ok run; felt tired. **Sat** - 
 
 07.02 ***`        `***   
 07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 165x12x1  
