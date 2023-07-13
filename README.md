@@ -5,10 +5,11 @@
 
 *****
 
+07.13 ***`Cardio  `*** **run:** 2m  
 07.12 ***`Cardio  `*** **run:** 2m  
 07.11 ***`Lower   `*** **run:** 2m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
 07.10 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good run. **Fri** - 
 
 07.09 ***`        `***   
 07.08 ***`        `***   
