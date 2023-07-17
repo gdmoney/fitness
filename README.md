@@ -5,11 +5,17 @@
 
 *****
 
+07.17 ***`Cardio  `*** **run:** 2m  
+**Monday** - good run. **Tue** - 
+
+07.16 ***`Cardio  `*** **run:** 2m  
+07.16 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
+07.14 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x8x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 07.13 ***`Cardio  `*** **run:** 2m  
 07.12 ***`Cardio  `*** **run:** 2m  
 07.11 ***`Lower   `*** **run:** 2m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
 07.10 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good run. **Fri** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good run. **Fri** - good workout; OHP was moderate/heavy. **Sat** - squat was moderate heavy with good form; this is the heaviest squat I've done since hurting my back in April. **Sun** - got a good cardio workout from painting all day. **Recap** - OK week; need to start doing at least 4 sessions.
 
 07.09 ***`        `***   
 07.08 ***`        `***   
@@ -21,7 +27,7 @@
 **Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout; OHP was moderate/heavy; lat pulldown was heavy; go down one click for now. **Fri** - ok run; felt tired. **Sat** - rest. **Sun** - rest. **Recap** - poor week.
 
 07.02 ***`        `***   
-07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 165x12x1  
+07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x12x1  
 06.30 ***`Upper   `*** **run:** 2m • **DB OHP-sngl(R):** 80x10x4 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x4  
 06.29 ***`        `***   
 06.28 ***`Cardio  `*** **run:** 2m  
