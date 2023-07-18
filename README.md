@@ -5,8 +5,9 @@
 
 *****
 
+07.18 ***`Cardio  `*** **run:** 2m  
 07.17 ***`Cardio  `*** **run:** 2m  
-**Monday** - good run. **Tue** - 
+**Monday** - good run. **Tue** - another good run. **Wed** - 
 
 07.16 ***`Cardio  `*** **run:** 2m  
 07.16 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
