@@ -5,14 +5,17 @@
 
 *****
 
-07.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
+**Mon** - didn't feel great but had a decent workout; go up on DB lunge. **Tue** - 
+
+07.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 07.22 ***`        `***   
 07.21 ***`Cardio  `*** **run:** 2m  
 07.20 ***`Upper   `*** **run:** 2m • **DB OHP-sngl(R):** 80x10x3 • **lat pulldown:** 190x10x3 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
 07.19 ***`        `***   
 07.18 ***`Cardio  `*** **run:** 2m  
 07.17 ***`Cardio  `*** **run:** 2m  
-**Monday** - good run. **Tue** - another good run. **Wed** - rest. **Thur** - good workout; OHP was moderate/heavy and felt stronger than last week. **Fri** - good run and then painting all day. **Sat** - rest. **Sun** - first time doing pullups in over a month; no shoulder pain. **Recap** -
+**Monday** - good run. **Tue** - another good run. **Wed** - rest. **Thur** - good workout; OHP was moderate/heavy and felt stronger than last week. **Fri** - good run and then painting all day. **Sat** - rest. **Sun** - first time doing pullups in over a month; slight lat soreness the next day but no shoulder pain. **Recap** - poor week.
 
 07.16 ***`Cardio  `*** **run:** 2m  
 07.16 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
