@@ -5,7 +5,7 @@
 
 *****
 
-07.26 ***`Cardio  `*** **run:** 1m • **swim:** 500y  
+07.26 ***`Cardio  `*** **swim:** 500y  
 07.25 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x10x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
 07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
 **Mon** - didn't feel great but had a decent workout; go up on DB lunge. **Tue** - OHP was heavy, especially the last set. **Wed** - quick swim at Cortina pool felt good. **Thur** - 
