@@ -5,7 +5,7 @@
 
 *****
 
-07.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x2  
+07.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 115x20x2  
 07.26 ***`Cardio  `*** **swim:** 500y  
 07.25 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x10x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
 07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
