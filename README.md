@@ -5,9 +5,10 @@
 
 *****
 
-08.01 ***`Misc    `*** **run:** 2m • **pullups:** 10x4  
+08.02 ***`Cardio  `*** **run:** 2m  
+08.01 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 07.31 ***`        `***   
-**Mon** - rest. **Tue** - 
+**Mon** - rest. **Tue** - pullups felt pretty strong. **Wed** - good run. **Thur** - 
 
 07.30 ***`        `***   
 07.29 ***`        `***   
