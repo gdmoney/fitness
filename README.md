@@ -5,10 +5,18 @@
 
 *****
 
+08.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
+08.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+**Mon** - travel day. **Tue** - good workout at the MTV gym. **Wed** - 
+
+08.06 ***`        `***   
+08.05 ***`        `***   
+08.04 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
+08.03 ***`Cardio  `*** **run:** 2m  
 08.02 ***`Cardio  `*** **run:** 2m  
 08.01 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 07.31 ***`        `***   
-**Mon** - rest. **Tue** - pullups felt pretty strong. **Wed** - good run. **Thur** - 
+**Mon** - rest. **Tue** - pullups felt pretty strong. **Wed** - good run. **Thur** - good run. **Fri** - pullups felt strong again. **Sat/Sun** - rest in Catalina. **Recap** - poor week.
 
 07.30 ***`        `***   
 07.29 ***`        `***   
