@@ -5,10 +5,17 @@
 
 *****
 
+08.14 ***`        `***   
+**Mon** -
+
+08.13 ***`        `***   
+08.12 ***`        `***   
+08.11 ***`        `***   
+08.10 ***`        `***   
 08.09 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x10x3 • **lat pulldown:** 210x10x3 • **tri pushdown:** 25x3  
 08.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
 08.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
-**Mon** - travel day. **Tue** - good workout at the MTV gym. **Wed** - didn't feel my strongest in the morning; OHP was heavy. **Thur** - 
+**Mon** - travel day. **Tue** - good workout at the MTV gym. **Wed** - didn't feel my strongest in the morning; OHP was heavy. **Thur/Fri/Sat/Sun** - sick. **Recap** - poor week hampered by illness.
 
 08.06 ***`        `***   
 08.05 ***`        `***   
