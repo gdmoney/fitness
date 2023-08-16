@@ -5,8 +5,10 @@
 
 *****
 
+08.16 ***`Cardio  `*** **run:** 2m  
+08.15 ***`Cardio  `*** **run:** 2m  
 08.14 ***`        `***   
-**Mon** -
+**Mon** - rest. **Tue** - feeling better finally; decent run. **Wed** - feeling better yet but still not 100%. **Thur** - 
 
 08.13 ***`        `***   
 08.12 ***`        `***   
