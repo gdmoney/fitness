@@ -5,10 +5,12 @@
 
 *****
 
+08.18 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x7x4, 175x10x3 • **SSB lunge:** 110x20x3  
+08.17 ***`Cardio  `*** **run:** 1m  
 08.16 ***`Cardio  `*** **run:** 2m  
 08.15 ***`Cardio  `*** **run:** 2m  
 08.14 ***`        `***   
-**Mon** - rest. **Tue** - feeling better finally; decent run. **Wed** - feeling better yet but still not 100%. **Thur** - 
+**Mon** - rest. **Tue** - feeling better finally; decent run. **Wed** - feeling better yet but still not 100%. **Thur** - back to normal. **Fri** - squat was moderate/heavy with good form. **Sat** - 
 
 08.13 ***`        `***   
 08.12 ***`        `***   
