@@ -5,13 +5,14 @@
 
 *****
 
+08.20 ***`        `***   
 08.19 ***`Upper   `*** **run:** 2m • **BB OHP:** 95x10x4 • **BB row-ntrl:** 135x12x4 • **BB row:** 185x10x4 • **DB OHP-sngl(R):** 70x10x4  
 08.18 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x7x4, 175x10x3 • **SSB lunge:** 110x20x3  
 08.17 ***`Cardio  `*** **run:** 1m  
 08.16 ***`Cardio  `*** **run:** 2m  
 08.15 ***`Cardio  `*** **run:** 2m  
 08.14 ***`        `***   
-**Mon** - rest. **Tue** - feeling better finally; decent run. **Wed** - feeling better yet but still not 100%. **Thur** - back to normal. **Fri** - squat was moderate/heavy with good form. **Sat** - first time doing BB OHP since injuring my left shoulder in April; it hurt quite a bit during the movement; I'm going to keep pushing it through the pain and see if anything changes; first time doing BB row in over two years; add it back into rotation since I'm not deadlifting; DB OHP was moderate/heavy. **Sun** - 
+**Mon** - rest. **Tue** - feeling better finally; decent run. **Wed** - feeling better yet but still not 100%. **Thur** - back to normal. **Fri** - squat was moderate/heavy with good form. **Sat** - first time doing BB OHP since injuring my left shoulder in April; it hurt quite a bit during the movement; I'm going to keep pushing it through the pain and see if anything changes; first time doing BB row in over two years; add it back into rotation since I'm not deadlifting; DB OHP was moderate/heavy. **Sun** - rest. **Recap** - poor week.
 
 08.13 ***`        `***   
 08.12 ***`        `***   
