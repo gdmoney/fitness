@@ -5,8 +5,8 @@
 
 *****
 
-08.23 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x7x4, 180x12x3 • **SSB lunge-rvs:** 110x20x2  
-08.22 ***`        `***   
+08.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x7x4, 180x12x3 • **SSB lunge-rvs:** 110x20x2  
+08.21 ***`        `***   
 **Mon** - rest. **Tue** - good workout; squat was moderate/heavy and a bit lighter than last week. **Wed** - 
 
 08.20 ***`        `***   
