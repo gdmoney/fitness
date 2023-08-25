@@ -5,9 +5,12 @@
 
 *****
 
+08.25 ***`Cardio  `*** **swim:** 1000y  
+08.24 ***`Cardio  `*** **run:** 2m  
+08.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 08.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x7x4, 180x12x3 • **SSB lunge-rvs:** 110x20x2  
 08.21 ***`        `***   
-**Mon** - rest. **Tue** - good workout; squat was moderate/heavy and a bit lighter than last week. **Wed** - 
+**Mon** - rest. **Tue** - good workout; squat was moderate/heavy and a bit lighter than last week. **Wed** - pullups felt strong. **Thur** - good run. **Fri** - good swim at Terranea. **Sat** - 
 
 08.20 ***`        `***   
 08.19 ***`Upper   `*** **run:** 2m • **BB OHP:** 95x10x4 • **BB row-ntrl:** 135x12x4 • **BB row:** 185x10x4 • **DB OHP-sngl(R):** 70x10x4  
