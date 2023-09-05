@@ -5,8 +5,18 @@
 
 *****
 
+09.05 ***`        `***   
+09.04 ***`Misc    `*** **elliptical:** 20 min  
+**Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - 
+
+09.03 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+09.02 ***`        `***   
+09.01 ***`        `***   
+08.31 ***`        `***   
+08.30 ***`        `***   
 08.29 ***`        `***   
-**Mon** - rest. **Tue** - 
+08.28 ***`        `***   
+**Mon** - rest. **Tue** - rest. **Wed** - rest. **Thur** - rest. **Fri** - rest. **Sat** - rest. **Sun** - pullups felt good. **Recap** - poor week hampered by travel.
 
 08.27 ***`Cardio  `*** **run:** 1m  
 08.26 ***`Cardio  `*** **swim:** 1000y  
