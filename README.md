@@ -6,8 +6,9 @@
 *****
 
 09.05 ***`        `***   
+09.05 ***`        `***   
 09.04 ***`Misc    `*** **elliptical:** 20 min  
-**Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - 
+**Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - rest. **Thur** - 
 
 09.03 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 09.02 ***`        `***   
