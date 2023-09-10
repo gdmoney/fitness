@@ -5,10 +5,14 @@
 
 *****
 
+09.10 ***`        `***   
+09.09 ***`Misc    `*** **elliptical:** 20 min  
+09.08 ***`Misc    `*** **elliptical:** 20 min  
+09.07 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **tri pushdown:** 25x3  
 09.05 ***`        `***   
 09.05 ***`        `***   
 09.04 ***`Misc    `*** **elliptical:** 20 min  
-**Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - rest. **Thur** - 
+**Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - rest. **Thur** - good workout at the hotel gym. **Fri** - elliptical felt good; no shoulder pain. **Sat** - another good elliptical workout. **Sun** - rest. **Recap** - mediocre week hampered by travel.
 
 09.03 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 09.02 ***`        `***   
