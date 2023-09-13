@@ -5,6 +5,11 @@
 
 *****
 
+
+09.12 ***`Cardio  `*** **run:** 2m  
+09.11 ***`        `***   
+**Mon** - rest. **Tue** - good run. **Wed** - 
+
 09.10 ***`        `***   
 09.09 ***`Misc    `*** **elliptical:** 20 min  
 09.08 ***`Misc    `*** **elliptical:** 20 min  
