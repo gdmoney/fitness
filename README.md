@@ -5,10 +5,11 @@
 
 *****
 
+09.14 ***`Upper   `*** **run:** 1m • **bench press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **BB row:** 165x10x4 • **DB OHP-sngl(R):** 70x10x4  
 09.13 ***`Cardio  `*** **run:** 2m  
 09.12 ***`Cardio  `*** **run:** 2m  
 09.11 ***`        `***   
-**Mon** - rest. **Tue** - good run. **Wed** - really good run. **Thur** - 
+**Mon** - rest. **Tue** - good run. **Wed** - really good run. **Thur** - tried bench press for the first time since April but the left shoulder still hurts during the movement the same as during the OHP; curl also causes left shoulder pain; the rest was all good. **Fri** - 
 
 09.10 ***`        `***   
 09.09 ***`Misc    `*** **elliptical:** 20 min  
