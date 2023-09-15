@@ -5,7 +5,7 @@
 
 *****
 
-09.14 ***`Upper   `*** **run:** 1m • **bench press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **BB row:** 165x10x4 • **DB OHP-sngl(R):** 70x10x4  
+09.14 ***`Upper   `*** **run:** 1m • **bench press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **BB row:** 165x12x4 • **DB OHP-sngl(R):** 70x10x4  
 09.13 ***`Cardio  `*** **run:** 2m  
 09.12 ***`Cardio  `*** **run:** 2m  
 09.11 ***`        `***   
