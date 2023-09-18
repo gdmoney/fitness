@@ -6,7 +6,7 @@
 *****
 
 09.18 ***`Cardio  `*** **run:** 2m  
-**Mon** - leg DOMS still; run felt good but soreness and stiffness remain. **Tue** - 
+**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - 
 
 09.17 ***`        `***   
 09.16 ***`Misc    `*** **elliptical:** 20 min  
