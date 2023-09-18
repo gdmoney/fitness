@@ -5,12 +5,17 @@
 
 *****
 
+09.18 ***`Cardio  `*** **run:** 2m  
+**Mon** - leg DOMS still; run felt good but soreness and stiffness remain. **Tue** - 
+
+09.17 ***`        `***   
+09.16 ***`Misc    `*** **elliptical:** 20 min  
 09.15 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x2  
 09.14 ***`Upper   `*** **run:** 1m • **bench press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **BB row:** 165x12x4 • **DB OHP-sngl(R):** 70x10x4  
 09.13 ***`Cardio  `*** **run:** 2m  
 09.12 ***`Cardio  `*** **run:** 2m  
 09.11 ***`        `***   
-**Mon** - rest. **Tue** - good run. **Wed** - really good run. **Thur** - tried bench press for the first time since April but the left shoulder still hurts during the movement the same as during the OHP; curl also causes left shoulder pain; the rest was all good. **Fri** - had a really good run in the morning but didn't feel my strongest in the afternoon; squat was moderate. **Sat** - 
+**Mon** - rest. **Tue** - good run. **Wed** - really good run. **Thur** - tried bench press for the first time since April but the left shoulder still hurts during the movement the same as during the OHP; curl also causes left shoulder pain; the rest was all good. **Fri** - had a really good run in the morning but didn't feel my strongest in the afternoon; squat was moderate. **Sat** - good elliptical session. **Sun** - rest; DOMS in the legs. **Recap** - better week.
 
 09.10 ***`        `***   
 09.09 ***`Misc    `*** **elliptical:** 20 min  
