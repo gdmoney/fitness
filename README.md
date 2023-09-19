@@ -5,8 +5,9 @@
 
 *****
 
+09.19 ***`Upper   `*** **run:** 1m • **BB OH press:** 105x10x3 • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3  
 09.18 ***`Cardio  `*** **run:** 2m  
-**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - 
+**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - decent workout at the office gym; OHP still hurts the left shoulder but I decided to push through it; legs still sore but better. **Wed** - 
 
 09.17 ***`        `***   
 09.16 ***`Misc    `*** **elliptical:** 20 min  
@@ -33,7 +34,7 @@
 08.30 ***`        `***   
 08.29 ***`        `***   
 08.28 ***`        `***   
-**Mon** - rest. **Tue** - rest. **Wed** - rest. **Thur** - rest. **Fri** - rest. **Sat** - rest. **Sun** - pullups felt good. **Recap** - poor week hampered by travel.
+**Mon/Tue/Wed/Thur/Fri/Sat** - rest. **Sun** - pullups felt good. **Recap** - poor week hampered by travel.
 
 08.27 ***`Cardio  `*** **run:** 1m  
 08.26 ***`Cardio  `*** **swim:** 1000y  
