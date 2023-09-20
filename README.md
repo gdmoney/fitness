@@ -5,9 +5,10 @@
 
 *****
 
+09.20 ***`Misc    `*** **elliptical:** 20 min  
 09.19 ***`Upper   `*** **run:** 1m • **BB OH press:** 105x10x3 • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3  
 09.18 ***`Cardio  `*** **run:** 2m  
-**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - decent workout at the office gym; OHP still hurts the left shoulder but I decided to push through it; legs still sore but better. **Wed** - 
+**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - decent workout at the office gym; OHP still hurts the left shoulder but I decided to push through it; legs still sore but better. **Wed** - good elliptical session. **Thur** - 
 
 09.17 ***`        `***   
 09.16 ***`Misc    `*** **elliptical:** 20 min  
