@@ -5,6 +5,7 @@
 
 *****
 
+09.22 ***`Misc    `*** **pullups:** 10x2  
 09.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x3  
 09.20 ***`Misc    `*** **elliptical:** 20 min  
 09.19 ***`Upper   `*** **run:** 1m • **BB OH press:** 105x10x3 • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3  
