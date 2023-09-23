@@ -5,12 +5,13 @@
 
 *****
 
+09.23 ***`Upper   `*** **run:** 2m • **bench press:** 145x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl(R):** 80x2,70x2  
 09.22 ***`Misc    `*** **pullups:** 10x3  
 09.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x3  
 09.20 ***`Misc    `*** **elliptical:** 20 min  
 09.19 ***`Upper   `*** **run:** 1m • **BB OH press:** 105x10x3 • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3  
 09.18 ***`Cardio  `*** **run:** 2m  
-**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - decent workout at the office gym; OHP still hurts the left shoulder but I decided to push through it; legs still sore but better. **Wed** - good elliptical session. **Thur** - good lower session at the office gym. **Fri** - 
+**Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - decent workout at the office gym; OHP still hurts the left shoulder but I decided to push through it; legs still sore but better. **Wed** - good elliptical session. **Thur** - good lower session at the office gym. **Fri** - pullups are getting stronger. **Sat** - bench felt a bit stronger and the left shoulder hurt a bit less; narrower grip seems to be more agreeable; row and OHP also felt stronger. **Sun** - 
 
 09.17 ***`        `***   
 09.16 ***`Misc    `*** **elliptical:** 20 min  
