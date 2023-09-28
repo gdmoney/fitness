@@ -5,9 +5,10 @@
 
 *****
 
+09.27 ***`Cardio  `*** **run:** 2m  
 09.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3  
 09.25 ***`Misc    `*** **pullups:** 10x3  
-**Mon** - pullups at the park with Luka. **Tue** - good quick workout. **Wed** - 
+**Mon** - pullups at the park with Luka. **Tue** - good quick workout. **Wed** - travel day. **Thur** - 
 
 09.24 ***`        `***   
 09.23 ***`Upper   `*** **run:** 2m • **bench press:** 145x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl(R):** 80x2,70x2  
