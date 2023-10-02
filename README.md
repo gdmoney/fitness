@@ -1,16 +1,21 @@
-### Workout log, goals, and progress tracking.
+a### Workout log, goals, and progress tracking.
 
 *****
 **[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md)**  
 
 *****
 
+10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
+**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - 
+
+10.01 ***`        `***   
+09.30 ***`Upper   `*** **BB OH press:** 105x10x4 • **DB row-sngl:** 90x15x4 • **bench press:** 145x10x2 • **pushups:** 20x4  
 09.29 ***`        `***   
 09.28 ***`        `***   
 09.27 ***`Cardio  `*** **run:** 2m  
 09.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3  
 09.25 ***`Misc    `*** **pullups:** 10x3  
-**Mon** - pullups at the park with Luka. **Tue** - good quick workout. **Wed** - travel day. **Thur** - rest. **Fri** - travel day. **Sat** - 
+**Mon** - pullups at the park with Luka. **Tue** - good quick workout. **Wed** - travel day. **Thur** - rest. **Fri** - travel day. **Sat** - good workout; feels great to be able to bench again, even if it's only rep weight; left shoulder still hurts during both press movements but at least it doesn't seem to be getting worse; narrower grip helps; continue to up the frequency and the intensity. **Sun** - rest. **Recap** - OK week considering the travel.
 
 09.24 ***`        `***   
 09.23 ***`Upper   `*** **run:** 2m • **bench press:** 145x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl(R):** 80x2,70x2  
@@ -91,7 +96,7 @@
 07.26 ***`Cardio  `*** **swim:** 500y  
 07.25 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x10x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
 07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
-**Mon** - didn't feel great but had a decent workout; go up on DB lunge. **Tue** - OHP was heavy, especially the last set. **Wed** - quick swim at Cortina pool felt good. **Thur** - felt surprisingly strong in the morning after breakfast; squat was moderate/heavy; go up next week. **Fri** - good swim. **Sat** - rest. **Sun** - rest but got a decent cardio workout carpet cleaning. **Recap** - ok week.
+**Mon** - didn't feel great but had a decent workout; go up on DB lunge. **Tue** - OHP was heavy, especially the last set. **Wed** - quick swim at Cortina pool felt good. **Thur** - felt surprisingly strong in the morning after breakfast; squat was moderate/heavy; go up next week. **Fri** - good swim. **Sat** - rest. **Sun** - rest but got a decent cardio workout carpet cleaning. **Recap** - OK week.
 
 07.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 07.22 ***`        `***   
@@ -779,7 +784,7 @@
 02.09 ***`Flex    `***   
 02.08 ***`Upper-1 `***   
 02.07 ***`Lower-1 `*** **SSB squat:** 180x8x4, 130x15x3 • **SSB lunge:** 80x20x3 • **SSB lunge-rvs:** 80x20x3  
-- **Mon** - squat was moderate with good form. **Tue/Wed** - rest to improve the shoulder; it's better but still hurts. **Thur** - squat was moderate/heavy with good form; go up in weight on lunge next week. **Fri/Sat** - keep resting the shoulder. **Sun** - start doing both of these exercises more regularly twice a week. **Recap** - ok week again; shoulder continues to be out of commission for now but I'm continuing to make progress on lower movements.
+- **Mon** - squat was moderate with good form. **Tue/Wed** - rest to improve the shoulder; it's better but still hurts. **Thur** - squat was moderate/heavy with good form; go up in weight on lunge next week. **Fri/Sat** - keep resting the shoulder. **Sun** - start doing both of these exercises more regularly twice a week. **Recap** - OK week again; shoulder continues to be out of commission for now but I'm continuing to make progress on lower movements.
 
 02.06 ***`Rest    `***   
 02.05 ***`Flex    `***   
@@ -788,7 +793,7 @@
 02.02 ***`Flex    `*** **run:** 2 miles @ 6:30 pace (trdml)  
 02.01 ***`Upper-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB OH press:** 65x10x3 • **DB row-sngl:** 75x20x3  
 01.31 ***`Lower-1 `*** **run:** 2 miles @ 7:00 pace (trdml) • **DB squat:** 130x12x4 • **DB lunge:** 40x20x3  
-- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run was tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri/Sat/Sun** - rest. **Recap** - ok week hampered by travel and re-aggravated right shoulder but on the plus side I got good cardio work in.
+- **Mon** - run was easy; squat was moderate but the heavier dumbbells are difficult to wield. **Tue** - run was even easier; OH press was heavy with good form. **Wed** - run was tough; stick to 6:45 pace for now. **Thur** - run was easy; everything else was light but cardio heavy. **Fri/Sat/Sun** - rest. **Recap** - OK week hampered by travel and re-aggravated right shoulder but on the plus side I got good cardio work in.
 
 01.30 ***`Rest    `***   
 01.29 ***`Flex    `***   
@@ -864,7 +869,7 @@
 12.08 ***`Rest    `***   
 12.07 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 52x17x4 • **DB row-sngl:** 90x24x4  
 12.06 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 215x8x4 • **RDL:** 185x8x4  
-- **Mon** - squat was moderate and form was good; RDL was light and I had only a very slight back pain. **Tue** - back was a bit more sore and OH press seemed to aggravate it. **Wed** - back was hurting a bit so decided to switch rest days. **Thur** - squat was moderate; skipped the lunge as it didn't agree with my left knee. **Fri** - OH press was moderate/heavy with good form; wore a belt and didn't have any back pain. **Sat** - ended up resting to rehab back and left knee. **Recap** - ok week; OH press is starting to become decent again even though I still can't bench.
+- **Mon** - squat was moderate and form was good; RDL was light and I had only a very slight back pain. **Tue** - back was a bit more sore and OH press seemed to aggravate it. **Wed** - back was hurting a bit so decided to switch rest days. **Thur** - squat was moderate; skipped the lunge as it didn't agree with my left knee. **Fri** - OH press was moderate/heavy with good form; wore a belt and didn't have any back pain. **Sat** - ended up resting to rehab back and left knee. **Recap** - OK week; OH press is starting to become decent again even though I still can't bench.
 
 12.05 ***`Flex    `***   
 12.04 ***`Lower-3 `***   
