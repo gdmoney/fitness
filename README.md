@@ -1,4 +1,4 @@
-a### Workout log, goals, and progress tracking.
+### Workout log, goals, and progress tracking.
 
 *****
 **[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md)**  
