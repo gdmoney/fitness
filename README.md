@@ -5,8 +5,9 @@
 
 *****
 
+10.03 ***`Cardio  `*** **run:** 1m  
 10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
-**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - 
+**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - 
 
 10.01 ***`        `***   
 09.30 ***`Upper   `*** **BB OH press:** 105x10x4 • **DB row-sngl:** 90x15x4 • **bench press:** 145x10x2 • **pushups:** 20x4  
