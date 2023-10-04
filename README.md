@@ -5,9 +5,10 @@
 
 *****
 
+10.04 ***`Upper   `*** **run:** 2m • **bench press:** 155x10x4 • **BB row:** 175x12x4 • **BB OHP-sngl:** R:80x4, L:52x3  
 10.03 ***`Cardio  `*** **run:** 1m  
 10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
-**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - 
+**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - good workout; bench was light/moderate with very little left shoulder pain; OHP was moderate/heavy; left shoulder still hurt during the movement but less than before. **Thur** - 
 
 10.01 ***`        `***   
 09.30 ***`Upper   `*** **BB OH press:** 105x10x4 • **DB row-sngl:** 90x15x4 • **bench press:** 145x10x2 • **pushups:** 20x4  
