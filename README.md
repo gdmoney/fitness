@@ -5,12 +5,17 @@
 
 *****
 
+10.09 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
+**Mon** - good workout; felt surprisingly strong in the morning; squat was moderate/heavy; go up in weight next week. **Tue** - 
+
+10.08 ***`        `***   
+10.07 ***`        `***   
 10.06 ***`Cardio  `*** **run:** 2m  
 10.05 ***`Misc    `*** **elliptical:** 20 min  
 10.04 ***`Upper   `*** **run:** 2m • **bench press:** 155x10x4 • **BB row:** 175x12x4 • **BB OHP-sngl:** R:80x4, L:52x3  
 10.03 ***`Cardio  `*** **run:** 1m  
 10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
-**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - good workout; bench was light/moderate with very little left shoulder pain; OHP was moderate/heavy; left shoulder still hurt during the movement but less than before. **Thur** - good elliptical session. **Fri** - didn't feel great; kids are sick and I think they're starting to share it with me. **Sat** - 
+**Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - good workout; bench was light/moderate with very little left shoulder pain; OHP was moderate/heavy; left shoulder still hurt during the movement but less than before. **Thur** - good elliptical session. **Fri** - didn't feel great; kids are sick and I think they're starting to share it with me. **Sat** - rest. **Sun** - rest. **Recap** - OK week; started out strong but didn't finish great.
 
 10.01 ***`        `***   
 09.30 ***`Upper   `*** **BB OH press:** 105x10x4 • **DB row-sngl:** 90x15x4 • **bench press:** 145x10x2 • **pushups:** 20x4  
