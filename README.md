@@ -5,8 +5,9 @@
 
 *****
 
+10.07 ***`        `***   
 10.09 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
-**Mon** - good workout; felt surprisingly strong in the morning; squat was moderate/heavy; go up in weight next week. **Tue** - 
+**Mon** - good workout; felt surprisingly strong in the morning; squat was moderate/heavy; go up in weight next week. **Tue** - travel to San Jose and back. **Wed** - 
 
 10.08 ***`        `***   
 10.07 ***`        `***   
