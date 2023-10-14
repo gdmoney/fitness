@@ -5,11 +5,12 @@
 
 *****
 
+10.10 ***`        `***   
 10.12 ***`Cardio  `*** **run:** 2m  
 10.11 ***`Upper   `*** **BB OH press:** 110x10x4 • **DB bench press:** 52x15x4 • **DB row-sngl:** 90x15x4  
 10.10 ***`        `***   
 10.09 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
-**Mon** - good workout; felt surprisingly strong in the morning; squat was moderate/heavy; go up in weight next week. **Tue** - travel to San Jose and back. **Wed** - good home workout; OHP felt stronger than last week with minimal left shoulder pain; keep going up in weight; bench was light but hurt more than OHP. **Thur** - good run. **Fri** - 
+**Mon** - good workout; felt surprisingly strong in the morning; squat was moderate/heavy; go up in weight next week. **Tue** - travel to San Jose and back. **Wed** - good home workout; OHP felt stronger than last week with minimal left shoulder pain; keep going up in weight; bench was light but hurt more than OHP. **Thur** - good run. **Fri** - rest. **Sat** - 
 
 10.08 ***`        `***   
 10.07 ***`        `***   
