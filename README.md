@@ -57,7 +57,7 @@
 09.09 ***`Misc    `*** **elliptical:** 20 min  
 09.08 ***`Misc    `*** **elliptical:** 20 min  
 09.07 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **tri pushdown:** 25x3  
-09.05 ***`        `***   
+09.06 ***`        `***   
 09.05 ***`        `***   
 09.04 ***`Misc    `*** **elliptical:** 20 min  
 **Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - rest. **Thur** - good workout at the hotel gym. **Fri** - elliptical felt good; no shoulder pain. **Sat** - another good elliptical workout. **Sun** - rest. **Recap** - mediocre week hampered by travel.
@@ -126,7 +126,7 @@
 **Monday** - good run. **Tue** - another good run. **Wed** - rest. **Thur** - good workout; OHP was moderate/heavy and felt stronger than last week. **Fri** - good run and then painting all day. **Sat** - rest. **Sun** - first time doing pullups in over a month; slight lat soreness the next day but no shoulder pain. **Recap** - poor week.
 
 07.16 ***`Cardio  `*** **run:** 2m  
-07.16 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
+07.15 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
 07.14 ***`Upper   `*** **run:** 1m • **DB OHP-sngl(R):** 80x8x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 07.13 ***`Cardio  `*** **run:** 2m  
 07.12 ***`Cardio  `*** **run:** 2m  
@@ -390,7 +390,7 @@
 12.26 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x4  
 **Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** - good workout; squat was moderate with good form; go up in weight next week. **Wed** - pullups at the park. **Thur** - rest. **Fri** - rest. **Sat** - didn't feel my strongest in the morning but still hit my goal with the 200 PR; probably could've done a couple more with the 90 if I had done it before the 100 attempt; couldn't do any with my left. **Sun** - rest. **Recap** - mediocre week hampered by rain but I'm really happy with my OHP PR.
 
-12.22 ***`        `***   
+12.25 ***`        `***   
 12.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 12.23 ***`        `***   
 12.22 ***`        `***   
