@@ -1,6 +1,18 @@
 ## Training Plan
 
 
+### 2023 - October
+
+| Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3      | Exercise - 4      |
+| :------------ | :---------------- | :--------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | leg press        | lunge / rvs lunge |                   |
+| **`Hinge  `** | back extension    |                  |                   |                   |
+| **`Push   `** | BB bench press    | DB bench press   | BB OHP            | DB OHP / single   |
+| **`Pull   `** | pullups / chinups | BB row           | DB row            | lat pulldown      |
+| **`Misc   `** | tri pushdown      | elliptical       |                   |                   |
+
+*****
+
 ### 2023 - April
 
 | Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3      | Exercise - 4      |
@@ -15,12 +27,12 @@
 
 ### 2023 - January • February • March
 
-| Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3       | Exercise - 4           |
-| :------------ | :---------------- | :--------------- | :----------------- | :--------------------- |
-| **`Lower  `** | SSB squat         | leg press        | back extension     | lunge / reverse lunge  |
-| **`Push   `** | BB OHP            | DB OHP / seated  | DB OHP single      | pushups                |
-| **`Pull   `** | pullups / chinups | lat pulldown     | DB row             | machine row            |
-| **`Misc   `** | skull crushers    | BB curl rvs grip | tri push / extn    | face pulls / lat raise |
+| Movement      | Exercise - 1      | Exercise - 2     | Exercise - 3      | Exercise - 4           |
+| :------------ | :---------------- | :--------------- | :---------------- | :--------------------- |
+| **`Lower  `** | SSB squat         | leg press        | back extension    | lunge / rvs lunge      |
+| **`Push   `** | BB OHP            | DB OHP / seated  | DB OHP single     | pushups                |
+| **`Pull   `** | pullups / chinups | lat pulldown     | DB row            | machine row            |
+| **`Misc   `** | skull crushers    | BB curl rvs grip | tri push / extn   | face pulls / lat raise |
 
 *****
 
