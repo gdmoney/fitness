@@ -8,7 +8,7 @@
 | **`Legs   `** | SSB squat         | leg press        | lunge / rvs lunge |                   |
 | **`Hinge  `** | back extension    |                  |                   |                   |
 | **`Push   `** | BB bench press    | DB bench press   | BB OHP            | DB OHP / single   |
-| **`Pull   `** | pullups / chinups | BB row           | DB row            | lat pulldown      |
+| **`Pull   `** | BB row            | DB row           | pullups / chinups | lat pulldown      |
 | **`Misc   `** | tri pushdown      | elliptical       |                   |                   |
 
 *****
