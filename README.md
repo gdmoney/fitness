@@ -5,9 +5,10 @@
 
 *****
 
+10.18 ***`        `***   
 10.17 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x2  
 10.16 ***`Upper   `*** **run:** 1m • **bench press:** 155x10x3 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
-**Mon** - did a circuit style which made bench more challenging but on the plus side left shoulder pain was minimal. **Tue** - good workout. **Wed** - 
+**Mon** - did a circuit style which made bench more challenging but on the plus side left shoulder pain was minimal. **Tue** - good workout. **Wed** - rest. **Thur** - 
 
 10.15 ***`        `***   
 10.14 ***`Lower   `*** **run:** 1m • **SSB squat:** 220x8x4, 170x10x3 • **SSB lunge-rvs:** 110x20x2  
