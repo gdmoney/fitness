@@ -5,8 +5,9 @@
 
 *****
 
+10.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 10.23 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - 
 
 10.22 ***`        `***   
 10.21 ***`Misc    `*** **elliptical:** 20 min  
