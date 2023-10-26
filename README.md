@@ -5,9 +5,11 @@
 
 *****
 
+10.26 ***`Cardio  `*** **run:** 2m  
+10.25 ***`Upper   `*** **run:** 1m • **bench press:** 165x10x4 • **DB OH press:** 40x15x4 • **DB row-sngl:** 90x15x4  
 10.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 10.23 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - good workout. **Wed** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; very little shoulder pain on bench; slightly more on OHP but manageable. **Thur** - good run. **Fri** - 
 
 10.22 ***`        `***   
 10.21 ***`Misc    `*** **elliptical:** 20 min  
