@@ -5,11 +5,14 @@
 
 *****
 
+10.29 ***`Cardio  `*** **run:** 1m  
+10.28 ***`Misc    `*** **elliptical:** 20 min  
+10.27 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 50x20x2  
 10.26 ***`Cardio  `*** **run:** 2m  
 10.25 ***`Upper   `*** **run:** 1m • **bench press:** 165x10x4 • **DB OH press:** 40x15x4 • **DB row-sngl:** 90x15x4  
 10.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 10.23 ***`Cardio  `*** **run:** 2m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good workout; very little shoulder pain on bench; slightly more on OHP but manageable. **Thur** - good run. **Fri** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; very little shoulder pain on bench; slightly more on OHP but manageable. **Thur** - good run. **Fri** - good wokout; skipped back extn to rest my back a bit. **Sat** - good elliptical session. **Sun** - feeling a bit under the weather. **Recap** - good week.
 
 10.22 ***`        `***   
 10.21 ***`Misc    `*** **elliptical:** 20 min  
