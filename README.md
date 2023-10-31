@@ -5,6 +5,9 @@
 
 *****
 
+10.30 ***`Upper   `*** **run:** 1m • **BB OH press:** 115x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+**Mon** - OHP was moderate with minimal shoulder pain; go up in weight next week. **Tue** - 
+
 10.29 ***`Cardio  `*** **run:** 1m  
 10.28 ***`Misc    `*** **elliptical:** 20 min  
 10.27 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 50x20x2  
