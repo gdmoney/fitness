@@ -5,8 +5,15 @@
 
 *****
 
+
+11.05 ***`        `***   
+11.04 ***`        `***   
+11.03 ***`        `***   
+11.02 ***`        `***   
+11.01 ***`        `***   
+10.31 ***`        `***   
 10.30 ***`Upper   `*** **run:** 1m • **BB OH press:** 115x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
-**Mon** - OHP was moderate with minimal shoulder pain; go up in weight next week. **Tue** - 
+**Mon** - OHP was moderate with minimal shoulder pain; go up in weight next week. **Tue/Wed/Thur/Fri/Sat/Sun** - sick. **Recap** - poor week due to illness.
 
 10.29 ***`Cardio  `*** **run:** 1m  
 10.28 ***`Misc    `*** **elliptical:** 20 min  
