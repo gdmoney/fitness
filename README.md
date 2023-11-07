@@ -5,6 +5,9 @@
 
 *****
 
+11.07 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 55x20x2  
+11.06 ***`        `***   
+**Mon** - still feeling under the weather. **Tue** - finally feeling well enough to exercise. **Wed** - 
 
 11.05 ***`        `***   
 11.04 ***`        `***   
