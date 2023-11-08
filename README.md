@@ -5,9 +5,10 @@
 
 *****
 
+11.08 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
 11.07 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 55x20x2  
 11.06 ***`        `***   
-**Mon** - still feeling under the weather. **Tue** - finally feeling well enough to exercise. **Wed** - 
+**Mon** - still feeling under the weather. **Tue** - finally feeling well enough to exercise. **Wed** - good workout; OHP was moderate/heavy with good form; slight initial left shoulder pain but it got better. **Thur** - 
 
 11.05 ***`        `***   
 11.04 ***`        `***   
