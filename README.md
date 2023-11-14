@@ -5,8 +5,9 @@
 
 *****
 
+11.14 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x3 • **machine squat:** 150x10x3 • **DB lunge:** 50x20x2  
 11.13 ***`        `***   
-**Mon** - rest. **Tue** - 
+**Mon** - rest. **Tue** - good quick workout at the Aria hotel gym. **Wed** - 
 
 11.12 ***`        `***   
 11.11 ***`        `***   
@@ -460,7 +461,7 @@
 11.30 ***`        `***   
 11.29 ***`        `***   
 11.28 ***`Flex    `*** **pullups:** 10x5 • **tri pushdown:** 20x3  
-**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue/Wed/Thur/Fri** - rest and dealing with a cold. **Sat** - finally feeling better; decent workout at the Aria gym. **Sun** - pushups felt good; 2 min interval. **Recap** - poor week hampered by sickness.
+**Mon** - hotel gym; didn't feel great overall but neutral grip pullups felt good. **Tue/Wed/Thur/Fri** - rest and dealing with a cold. **Sat** - finally feeling better; decent workout at the Aria hotel gym. **Sun** - pushups felt good; 2 min interval. **Recap** - poor week hampered by sickness.
 
 11.27 ***`Cardio  `*** **run:** 2m  
 11.26 ***`Upper   `*** **run:** 2m • **BB OH press:** 165x7x3 • **chinups:** 10x3 • **DB OH press:** 52x20x3 • **DB row-sngl:** 100x15x3  
