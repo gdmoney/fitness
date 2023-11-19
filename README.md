@@ -5,9 +5,14 @@
 
 *****
 
+11.19 ***`Misc    `*** **elliptical:** 20 min  
+11.18 ***`        `***   
+11.17 ***`Cardio  `*** **run:** 1m  
+11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+11.15 ***`        `***   
 11.14 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x3 • **machine squat:** 150x10x3 • **DB lunge:** 50x20x2  
 11.13 ***`        `***   
-**Mon** - rest. **Tue** - good quick workout at the Aria hotel gym. **Wed** - 
+**Mon** - rest. **Tue** - good quick workout at the Aria hotel gym. **Wed** - rest and major DOMS in legs. **Thur** - first time doing heavy DB OHP since my left shoulder injury; it was moderate heavy without pain. **Fri** - good run. **Sat** - rest. **Sun** - good elliptical session. **Recap** - another OK week hampered by travel.
 
 11.12 ***`        `***   
 11.11 ***`        `***   
