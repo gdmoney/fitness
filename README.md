@@ -5,6 +5,9 @@
 
 *****
 
+11.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
+**Mon** - good workout back at the office gym. **Tue** - 
+
 11.19 ***`Misc    `*** **elliptical:** 20 min  
 11.18 ***`        `***   
 11.17 ***`Cardio  `*** **run:** 1m  
