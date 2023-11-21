@@ -1,7 +1,7 @@
 ## Training Plan
 
 
-### 2023 - October
+### 2023 - October • November
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      |
 | :------------ | :---------------- | :---------------- | :---------------- | :---------------- |
