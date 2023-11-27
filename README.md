@@ -5,8 +5,14 @@
 
 *****
 
+11.26 ***`        `***   
+11.25 ***`        `***   
+11.24 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 155x10x4 • **DB row-sngl:** 90x15x3  
+11.23 ***`        `***   
+11.22 ***`Misc    `*** **elliptical:** 20 min  
+11.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
 11.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good workout back at the office gym. **Tue** - 
+**Mon** - good workout back at the office gym. **Tue** - OHP was moderate/heavy and felt stronger than last week. **Wed** - good elliptical sesson. **Thur** - rest. **Fri** - bench was moderate/heavy; first time doing anything heavier than rep weight in over six months; no shoulder pain. **Sat** - rest. **Sun** - rest. **Recap** - solid week; feels great to be benching once again.
 
 11.19 ***`Misc    `*** **elliptical:** 20 min  
 11.18 ***`        `***   
