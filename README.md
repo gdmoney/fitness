@@ -7,7 +7,7 @@
 
 11.26 ***`        `***   
 11.25 ***`        `***   
-11.24 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 155x10x4 • **DB row-sngl:** 90x15x3  
+11.24 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 185x10x4 • **DB row-sngl:** 90x15x3  
 11.23 ***`        `***   
 11.22 ***`Misc    `*** **elliptical:** 20 min  
 11.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
