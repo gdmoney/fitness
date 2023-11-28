@@ -5,6 +5,10 @@
 
 *****
 
+11.28 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
+11.27 ***`        `***   
+**Mon** - rest. **Tue** - squat was moderate/heavy with good form. **Wed** - 
+
 11.26 ***`        `***   
 11.25 ***`        `***   
 11.24 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 185x10x4 • **DB row-sngl:** 90x15x3 • **pullups:** 10x1  
