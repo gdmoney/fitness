@@ -7,7 +7,7 @@
 
 11.28 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
 11.27 ***`        `***   
-**Mon** - rest. **Tue** - squat was moderate/heavy with good form. **Wed** - 
+**Mon** - rest. **Tue** - squat was moderate/heavy with good form; first time doing squat in 6 weeks so I've lost a little bit of strength but not too much. **Wed** - 
 
 11.26 ***`        `***   
 11.25 ***`        `***   
