@@ -5,10 +5,12 @@
 
 *****
 
+12.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
+11.30 ***`        `***   
 11.29 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **BB row:** 165x12x4 • **DB bench press:** 52x25x4  
 11.28 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
 11.27 ***`        `***   
-**Mon** - rest. **Tue** - squat was moderate/heavy with good form; first time doing squat in 6 weeks so I've lost a little bit of strength but not too much. **Wed** - OHP was moderate with best form to date; go up in weight next week; row was moderate; bench was light. **Thur** - 
+**Mon** - rest. **Tue** - squat was moderate/heavy with good form; first time doing squat in 6 weeks so I've lost a little bit of strength but not too much. **Wed** - OHP was moderate with best form to date; go up in weight next week; row was moderate; bench was light. **Thur** - rest. **Fri** - high rep range on the leg press ends up taxing the cardio too much; need to figure out how to make it more intensive with lower rep count. **Sat** - 
 
 11.26 ***`        `***   
 11.25 ***`        `***   
