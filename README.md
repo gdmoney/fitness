@@ -5,14 +5,17 @@
 
 *****
 
-12.03 ***`Upper   `*** **run:** 2m • **bench press:** 185x10x4 • **DB row-sngl:** 90x15x3 • **DB OHP:** 52x15x3 • **DB OHP-sngl(R):** 70x10x3  
+12.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 50x20x3  
+**Mon** - didn't feel great but had a decent workout. **Tue** - 
+
+12.03 ***`Upper   `*** **run:** 2m • **bench press:** 185x10x4 • **DB row-sngl:** 80x15x3 • **DB OHP:** 52x15x3 • **DB OHP-sngl(R):** 70x10x3  
 12.02 ***`Cardio  `*** **run:** 1m  
 12.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
 11.30 ***`        `***   
 11.29 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **BB row:** 165x12x4 • **DB bench press:** 52x25x4  
 11.28 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
 11.27 ***`        `***   
-**Mon** - rest. **Tue** - squat was moderate/heavy with good form; first time doing squat in 6 weeks so I've lost a little bit of strength but not too much. **Wed** - OHP was moderate with best form to date; go up in weight next week; row was moderate; bench was light. **Thur** - rest. **Fri** - high rep range on the leg press ends up taxing the cardio too much; need to figure out how to make it more intensive with lower rep count. **Sat** - good run. **Sun** - bench was moderate and felt much lighter than last week; no shoulder pain on bench or OHP. **Recap** - good week; first time getting 4 solid resistance sessions in in a long time.
+**Mon** - rest. **Tue** - squat was moderate/heavy with good form; first time doing squat in 6 weeks so I've lost a little bit of strength but not too much. **Wed** - OHP was moderate with best form to date; go up in weight next week; row was moderate; bench was light. **Thur** - rest. **Fri** - high rep range on the leg press ends up taxing the cardio too much; need to figure out how to make it more intensive with lower rep count. **Sat** - good run. **Sun** - bench was moderate and felt much lighter than last week; no shoulder pain on bench or OHP; dropped the weight on DB row to focus more on lat engagement. **Recap** - good week; first time getting 4 solid resistance sessions in in a long time.
 
 11.26 ***`        `***   
 11.25 ***`        `***   
