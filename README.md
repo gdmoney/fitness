@@ -5,9 +5,10 @@
 
 *****
 
+12.06 ***`Upper   `*** **run:** 1m • **BB OH press:** 130x10x4 • **DB bench press:** 60x20x4 • **tri pushdown:** 20x3  
 12.05 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x4  
 12.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 50x20x3  
-**Mon** - didn't feel great but had a decent workout. **Tue** - pullups were tough; I need to start doing them more. **Wed** - 
+**Mon** - didn't feel great but had a decent workout. **Tue** - pullups were tough; I need to start doing them more. **Wed** - OHP was moderate with good form; go up to 135 next week; bench was light/moderate. **Thur** - 
 
 12.03 ***`Upper   `*** **run:** 2m • **bench press:** 185x10x4 • **DB row-sngl:** 80x15x3 • **DB OHP:** 52x15x3 • **DB OHP-sngl(R):** 70x10x3  
 12.02 ***`Cardio  `*** **run:** 1m  
