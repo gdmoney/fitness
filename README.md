@@ -5,7 +5,7 @@
 
 *****
 
-12.05 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x3  
+12.05 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x4  
 12.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 50x20x3  
 **Mon** - didn't feel great but had a decent workout. **Tue** - pullups were tough; I need to start doing them more. **Wed** - 
 
