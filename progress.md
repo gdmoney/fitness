@@ -3,7 +3,7 @@
 
 ### 2023
 
-| Period           | SSB squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH press-sngl | Pullups          |
+| Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
 | :--------------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 | Jan - Feb - Mar  | 215x08x4         |                  |                  | 165x08x4         | 80x12x4 (R&L)    | 10x5             |
 | Apr - May - Jun  | 220x07x4         | 195x08x4         |                  | 155x08x4         | 90x07x4 (R)      | 12x5             |
