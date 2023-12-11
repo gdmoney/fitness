@@ -5,12 +5,14 @@
 
 *****
 
+12.10 ***`Misc    `*** **elliptical:** 10 min  
+12.09 ***`Upper   `*** **run:** 1m • **bench press:** 190x10x4 • **DB row-sngl:** 80x15x4 • **DB OHP-sngl:** 70x10x4  
 12.08 ***`Lower   `*** **run:** 1m • **SSB squat:** 215x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
 12.07 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5  
 12.06 ***`Upper   `*** **run:** 1m • **BB OH press:** 130x10x4 • **DB bench press:** 60x20x4 • **tri pushdown:** 20x3  
 12.05 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x4  
 12.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 50x20x3  
-**Mon** - didn't feel great but had a decent workout. **Tue** - pullups were tough; start doing them regularly at least once a week. **Wed** - OHP was moderate with good form; go up to 135 next week; bench was light/moderate. **Thur** - pullups felt stronger than the last time. **Fri** - squat was moderate/heavy with good form; lunge was light so go up next week. **Sat** - 
+**Mon** - didn't feel great but had a decent workout. **Tue** - pullups were tough; start doing them regularly at least once a week. **Wed** - OHP was moderate with good form; go up to 135 next week; bench was light/moderate. **Thur** - pullups felt stronger than the last time. **Fri** - squat was moderate/heavy with good form; lunge was light so go up next week. **Sat** - bench was moderate with good form and no shoulder pain; OHP was moderate; slight left shoulder pain in the bottom position. **Recap** - great week.
 
 12.03 ***`Upper   `*** **run:** 2m • **bench press:** 185x10x4 • **DB row-sngl:** 80x15x3 • **DB OHP:** 52x15x3 • **DB OHP-sngl(R):** 70x10x3  
 12.02 ***`Cardio  `*** **run:** 1m  
