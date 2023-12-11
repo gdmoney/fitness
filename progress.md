@@ -8,7 +8,7 @@
 | Jan - Feb - Mar  | 215x08x4         |                  |                  | 165x08x4         | 80x12x4 (R&L)    | 10x5             |
 | Apr - May - Jun  | 220x07x4         | 195x08x4         |                  | 155x08x4         | 90x07x4 (R)      | 12x5             |
 | Jul - Aug - Sep  | 230x07x4         | 145x10x4         |                  | 105x10x4         | 70x10x4 (R)      | 10x5             |
-| Oct - Nov - Dec  | 220x08x4         | 185x10x4         | 60x20x4          | nnnxnnxn         | 70x10x3 (R)      | 10x5             |
+| Oct - Nov - Dec  | 220x08x4         | 185x10x4         | 60x20x4          | nnnxnnxn         | 70x10x4 (R&L)    | 10x5             |
 
 *****
 
