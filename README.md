@@ -5,6 +5,10 @@
 
 *****
 
+12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
+12.11 ***`        `***   
+**Mon** - rest. **Tue** - good workout. **Wed** - 
+
 12.10 ***`Misc    `*** **elliptical:** 10 min  
 12.09 ***`Upper   `*** **run:** 1m • **bench press:** 190x10x4 • **DB row-sngl:** 80x15x4 • **DB OHP-sngl:** 70x10x4  
 12.08 ***`Lower   `*** **run:** 1m • **SSB squat:** 215x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
