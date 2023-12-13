@@ -5,9 +5,10 @@
 
 *****
 
+12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 135x10x4 • **DB bench press:** 65x15x4 • **tri pushdown:** 20x4  
 12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
 12.11 ***`        `***   
-**Mon** - rest. **Tue** - good workout. **Wed** - 
+**Mon** - rest. **Tue** - good workout. **Wed** - OHP was moderate; bench was light. **Thur** - 
 
 12.10 ***`Misc    `*** **elliptical:** 10 min  
 12.09 ***`Upper   `*** **run:** 1m • **bench press:** 190x10x4 • **DB row-sngl:** 80x15x4 • **DB OHP-sngl:** 70x10x4  
