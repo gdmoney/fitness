@@ -5,12 +5,17 @@
 
 *****
 
+12.18 ***`        `***   
+**Mon** - rest. **Tue** - 
+
+12.17 ***`Upper   `*** **run:** 1m • **DB OHP-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4
+12.16 ***`Upper   `*** **bench press:** 195x10x4  
 12.15 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 120x20x3  
 12.14 ***`Misc    `*** **run:** 1m • **pullups:** 10x6  
 12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 135x10x4 • **DB bench press:** 65x15x4 • **tri pushdown:** 20x4  
 12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
 12.11 ***`        `***   
-**Mon** - rest. **Tue** - good workout. **Wed** - OHP was moderate; bench was light. **Thur** - pullups are getting stronger. **Fri** - squat was moderate/heavy with good form. **Sat** - 
+**Mon** - rest. **Tue** - good workout. **Wed** - OHP was moderate; bench was light. **Thur** - pullups are getting stronger. **Fri** - squat was moderate/heavy with good form. **Sat** - bench was moderate; continue to go up in weight. **Sun** - OHP was moderate; no left shoulder pain. **Recap** - another great week.
 
 12.10 ***`Misc    `*** **elliptical:** 10 min  
 12.09 ***`Upper   `*** **run:** 1m • **bench press:** 190x10x4 • **DB row-sngl:** 80x15x4 • **DB OHP-sngl:** 70x10x4  
