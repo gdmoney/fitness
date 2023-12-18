@@ -8,7 +8,7 @@
 12.18 ***`        `***   
 **Mon** - rest. **Tue** - 
 
-12.17 ***`Upper   `*** **run:** 1m • **DB OHP-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4
+12.17 ***`Upper   `*** **run:** 1m • **DB OHP-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4  
 12.16 ***`Upper   `*** **bench press:** 195x10x4  
 12.15 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 120x20x3  
 12.14 ***`Misc    `*** **run:** 1m • **pullups:** 10x6  
