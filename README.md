@@ -5,8 +5,9 @@
 
 *****
 
+12.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 12.18 ***`        `***   
-**Mon** - rest. **Tue** - 
+**Mon** - rest. **Tue** - good workout; go up on back extn. **Wed** - 
 
 12.17 ***`Upper   `*** **run:** 1m • **DB OHP-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4  
 12.16 ***`Upper   `*** **bench press:** 195x10x4  
