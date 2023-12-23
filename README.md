@@ -5,11 +5,13 @@
 
 *****
 
+12.23 ***`Upper   `*** **run:** 1m • **bench press:** 200x10x4 • **BB row:** 175x10x4 • **DB OHP:** 52x20x4 • **DB row-sngl:** 90x15x4  
+12.22 ***`Cardio  `*** **run:** 1m  
 12.21 ***`Misc    `*** **run:** 1m • **pullups:** 10x5 • **leg raise:** 15x5  
 12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 140x10x4 • **DB bench press:** 70x15x4 • **tri pushdown:** 20x4  
 12.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 12.18 ***`        `***   
-**Mon** - rest. **Tue** - good workout; go up on back extn. **Wed** - OHP was moderate and felt pretty strong even after travel and in the awkward rack in the MTV gym; bench was also moderate.  **Thur** - pullups felt strong; add leg raises to the program. **Fri** - 
+**Mon** - rest. **Tue** - good workout; go up on back extn. **Wed** - OHP was moderate and felt pretty strong even after travel and in the awkward rack in the MTV gym; bench was also moderate.  **Thur** - pullups felt strong; add leg raises to the program. **Fri** - good run. **Sat** - bench was moderate; continue to go up incrementally; row was moderate; stock to this weight for now; OHP felt strong; try 60s in the gym. **Sun** - 
 
 12.17 ***`Upper   `*** **run:** 1m • **DB OHP-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4  
 12.16 ***`Upper   `*** **bench press:** 195x10x4  
