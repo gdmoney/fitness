@@ -12,7 +12,7 @@
 12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 140x10x4 • **DB bench press:** 70x15x4 • **tri pushdown:** 20x4  
 12.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 12.18 ***`        `***   
-**Mon** - rest. **Tue** - good workout; go up on back extn. **Wed** - OHP was moderate and felt pretty strong even after travel and in the awkward rack in the MTV gym; bench was also moderate.  **Thur** - pullups felt strong; add leg raises to the program. **Fri** - good run. **Sat** - bench was moderate; continue to go up incrementally; row was moderate; stick to this weight for now; OHP felt strong; try 60s in the gym. **Sun** - first time doing lunge with 70s; good forearm and grip workout also; felt the left shoulder a bit on the curl; lat raise felt good; add it to the program. **Recap** - good week.
+**Mon** - rest. **Tue** - good workout; go up on back extn. **Wed** - OHP was moderate and felt pretty strong even after travel and in the awkward rack in the MTV gym; bench was also moderate.  **Thur** - pullups felt strong; add leg raises to the program. **Fri** - good run. **Sat** - bench was moderate; continue to go up incrementally; row was moderate; stick to this weight for now; OHP felt strong; try 60s in the gym. **Sun** - first time doing lunge with 70s; good forearm and grip workout also; start going heavier on lunge; felt the left shoulder a bit on the curl; lat raise felt good; add it to the program. **Recap** - good week.
 
 12.17 ***`Upper   `*** **run:** 1m • **DB OHP-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4  
 12.16 ***`Upper   `*** **bench press:** 195x10x4  
