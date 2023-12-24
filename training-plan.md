@@ -1,6 +1,18 @@
 ## Training Plan
 
 
+### 2024 - January
+
+| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      |
+| :------------ | :---------------- | :---------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | leg press         | lunge / rvs lunge |                   |
+| **`Hinge  `** | back extension    |                   |                   |                   |
+| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   |
+| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |
+| **`Misc   `** | tri pushdown      | leg raise         | lat raise         |                   |
+
+*****
+
 ### 2023 - October • November • December
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      |
