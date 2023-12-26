@@ -5,6 +5,10 @@
 
 *****
 
+12.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x3  
+12.25 ***`        `***   
+**Mon** - rest and Christmas festivities. **Tue** - good workout. **Wed** - 
+
 12.24 ***`Misc    `*** **run:** 1m • **DB lunge:** 70x20x3 • **BB curl-rvs:** 55x12x3 • **lat raise:** 15x20x3  
 12.23 ***`Upper   `*** **run:** 1m • **bench press:** 200x10x4 • **BB row:** 175x10x4 • **DB OHP:** 52x20x4 • **DB row-sngl:** 90x15x4  
 12.22 ***`Cardio  `*** **run:** 1m  
