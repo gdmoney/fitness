@@ -5,15 +5,16 @@
 
 *****
 
+12.30 ***`Upper   `*** **bench press:** 205x10x4 • **BB row:** 175x12x4  
 12.29 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3  
 12.28 ***`Cardio  `*** **run:** 1m  
 12.27 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **DB row-sngl:** 90x15x4  
 12.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x3  
 12.25 ***`        `***   
-**Mon** - rest and Christmas festivities. **Tue** - good workout. **Wed** - OHP was moderate until the very last rep; stick with 145 for now; bench was light; go up to 75 next week. **Thur** - good run. **Fri** - didn't feel great after sleeping poorly; squat was moderate/heavy. **Sat** - 
+**Mon** - rest and Christmas festivities. **Tue** - good workout. **Wed** - OHP was moderate until the very last rep; stick with 145 for now; bench was light; go up to 75 next week. **Thur** - good run. **Fri** - didn't feel great after sleeping poorly; squat was moderate/heavy. **Sat** - didn't feel great after partying the night before; bench was moderate; stick to 205 for another week. **Sun** - 
 
 12.24 ***`Misc    `*** **run:** 1m • **DB lunge:** 70x20x3 • **BB curl-rvs:** 55x12x3 • **lat raise:** 15x20x3  
-12.23 ***`Upper   `*** **run:** 1m • **bench press:** 200x10x4 • **BB row:** 175x10x4 • **DB OHP:** 52x20x4 • **DB row-sngl:** 90x15x4  
+12.23 ***`Upper   `*** **run:** 1m • **bench press:** 200x10x4 • **BB row:** 175x12x4 • **DB OHP:** 52x20x4 • **DB row-sngl:** 90x15x4  
 12.22 ***`Cardio  `*** **run:** 1m  
 12.21 ***`Misc    `*** **run:** 1m • **pullups:** 10x5 • **leg raise:** 15x5  
 12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 140x10x4 • **DB bench press:** 70x15x4 • **tri pushdown:** 20x4  
