@@ -1,11 +1,18 @@
 ### Workout log, goals, and progress tracking.
 
 *****
-**[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
+**[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
 
 *****
 
-12.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x5 • **ab roller:** 20x5  
+01.01 ***`Cardio  `*** **run:** 1m  
+**Mon** - good run to start the year. **Tue** - 
+
+*****
+
+## 2023
+
+12.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 12.30 ***`Upper   `*** **bench press:** 205x10x4 • **BB row:** 175x12x4  
 12.29 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3  
 12.28 ***`Cardio  `*** **run:** 1m  
