@@ -9,7 +9,7 @@
 | **`Hinge  `** | back extension    |                   |                   |                   |
 | **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   |
 | **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |
-| **`Misc   `** | tri pushdown      | lat raise         | leg raise         | farmer's walk     |
+| **`Misc   `** | tri pushdown      | lat / Lu raise    | leg raise         | farmer's walk     |
 
 *****
 
