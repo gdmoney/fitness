@@ -5,8 +5,9 @@
 
 *****
 
+01.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x3  
 01.01 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run to start the year. **Tue** - 
+**Mon** - good run to start the year. **Tue** - lunge was easeir than the last time but still cardio heavy. **Wed** - 
 
 *****
 
