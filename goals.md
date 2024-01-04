@@ -3,15 +3,15 @@
 
 ### 2024
 
-- [ ]  stay injury free
-- [ ]  improved posture
-- [ ]  bench press: 225x15
-- [ ]  bench press: 275x05
+- [ ]  Stay injury free
+- [ ]  Improved posture
+- [ ]  Bench press: 225x15
+- [ ]  Bench press: 275x05
 - [ ]  BB OH press: 165x10
 - [ ]  BB OH press: 185x05
 - [ ]  SSB squat:   225x15
 - [ ]  SSB squat:   275x05
-- [ ]  pullups:      15x05
+- [ ]  Pullups:      15x05
 
 *****
 
