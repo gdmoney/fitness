@@ -5,6 +5,7 @@
 
 *****
 
+01.04 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x4  
 01.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **lat pulldown:** 170x12x3 • **tri pushdown:** 20x3  
 01.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x3  
 01.01 ***`Cardio  `*** **run:** 1m  
