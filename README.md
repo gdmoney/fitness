@@ -5,11 +5,11 @@
 
 *****
 
-01.04 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x4  
+01.04 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x4 • **ab wheel:** 20x5  
 01.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **lat pulldown:** 170x12x3 • **tri pushdown:** 20x3  
 01.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x3  
 01.01 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run to start the year. **Tue** - lunge was easeir than the last time but still cardio heavy. **Wed** - OHP was moderate/heavy; stick with 145 for now; bench was light/moderate; go up to 75; focused on lat engagement on lat pulldown. **Thur** - 
+**Mon** - good run to start the year. **Tue** - lunge was easeir than the last time but still cardio heavy. **Wed** - OHP was moderate/heavy; stick with 145 for now; bench was light/moderate; go up to 75; focused on lat engagement on lat pulldown. **Thur** -
 
 *****
 
