@@ -5,7 +5,7 @@
 
 | Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
 | :--------------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
-| Jan - Feb - Mar  |                  |                  |                  |                  |                  |                  |
+| Jan - Feb - Mar  | 230x06x4         |                  |                  |                  |                  |                  |
 | Apr - May - Jun  |                  |                  |                  |                  |                  |                  |
 | Jul - Aug - Sep  |                  |                  |                  |                  |                  |                  |
 | Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
