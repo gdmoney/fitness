@@ -5,7 +5,7 @@
 
 *****
 
-01.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x5 • **lat raise:** 25x4 • **ab wheel:** 20x5  
+01.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x5 • **lat raise:** 25x5 • **ab wheel:** 20x5  
 01.06 ***`Upper   `*** **run:** 2m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl:** 70x10x3 • **DB OHP:** 52x15x3  
 01.05 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 52x20x3  
 01.04 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x4 • **ab wheel:** 20x5  
