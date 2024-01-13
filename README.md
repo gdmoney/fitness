@@ -5,10 +5,12 @@
 
 *****
 
+01.12 ***`Cardio  `*** **run:** 2m  
+01.11 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x3 • **DB lunge-rvs:** 50x20x4  
 01.10 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x5 • **ab wheel:** 20x5  
 01.09 ***`Upper   `*** **run:** 1m • **shoulder press machine:** 12x4 • **tri pushdown:** 20x4 • **pushups:** 20x10  
 01.08 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge:** 70x20x2  
-**Mon** - squat was moderate/heavy with good form. **Tue** - worked out at the ATL hotel gym; did pushups on the 2 min interval; try 1:45 next time. **Wed** - 
+**Mon** - squat was moderate/heavy with good form. **Tue** - worked out at the ATL hotel gym; did pushups on the 2 min interval; try 1:45 next time. **Wed** - decent workout. **Thur** - legs felt strong. **Fri** - good run. **Sat** - 
 
 01.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x5 • **lat raise:** 25x5 • **ab wheel:** 20x5  
 01.06 ***`Upper   `*** **run:** 2m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl:** 70x10x3 • **DB OHP:** 52x15x3  
