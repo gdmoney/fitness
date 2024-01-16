@@ -5,6 +5,9 @@
 
 *****
 
+01.15 ***`Cardio  `*** **run:** 1m  
+**Mon** - good run. **Tue** - 
+
 01.14 ***`Upper   `*** **run:** 1m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP:** 52x20x3 • **DB row-sngl:** 90x15x3  
 01.13 ***`Cardio  `*** **run:** 2m  
 01.12 ***`Cardio  `*** **run:** 2m  
