@@ -5,8 +5,9 @@
 
 *****
 
+01.16 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x20x2  
 01.15 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run. **Tue** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - 
 
 01.14 ***`Upper   `*** **run:** 1m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP:** 52x20x3 • **DB row-sngl:** 90x15x3  
 01.13 ***`Cardio  `*** **run:** 2m  
