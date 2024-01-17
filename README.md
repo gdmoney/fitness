@@ -5,7 +5,7 @@
 
 *****
 
-01.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x3 • **DB bench press:** 75x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
+01.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x3 • **DB bench press:** 75x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
 01.16 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x20x2  
 01.15 ***`Cardio  `*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout. **Wed** - didn't feel great after sleeping poorly for no apparent reason; OHP was moderate/heavy; bench was light/moderate. **Thur** - 
