@@ -5,9 +5,10 @@
 
 *****
 
+01.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x3 • **DB bench press:** 75x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
 01.16 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x20x2  
 01.15 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - didn't feel great after sleeping poorly for no apparent reason; OHP was moderate/heavy; bench was light/moderate. **Thur** - 
 
 01.14 ***`Upper   `*** **run:** 1m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP:** 52x20x3 • **DB row-sngl:** 90x15x3  
 01.13 ***`Cardio  `*** **run:** 2m  
@@ -22,7 +23,7 @@
 01.06 ***`Upper   `*** **run:** 2m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl:** 70x10x3 • **DB OHP:** 52x15x3  
 01.05 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 52x20x3  
 01.04 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x4 • **ab wheel:** 20x5  
-01.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **lat pulldown:** 170x12x3 • **tri pushdown:** 20x3  
+01.03 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
 01.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x3  
 01.01 ***`Cardio  `*** **run:** 1m  
 **Mon** - good run to start the year. **Tue** - lunge was easeir than the last time but still cardio heavy. **Wed** - OHP was moderate/heavy; stick with 145 for now; bench was light/moderate; go up to 75 next week; focused on lat engagement on lat pulldown. **Thur** - good workout. **Fri** - felt strong in the morning; squat was moderate/heavy with good form; focused on upper body tightness which seemed to help; stick to this weight for now and go up in reps. **Sat** - felt strong in the evening after a nap; bench was moderate and felt lighter than last week; row also felt lighter; OHP was moderate. **Sun** - pullups felt strong; ab wheel is effective. **Recap** - good week to start the year strong.
