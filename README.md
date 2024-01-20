@@ -5,7 +5,7 @@
 
 *****
 
-01.20 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 70x20x3  
+01.20 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 52x20x3  
 01.19 ***`Cardio  `*** **run:** 2m  
 01.18 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x5 • **farmer's walk:** 200x5  
 01.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x3 • **DB bench press:** 75x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
