@@ -5,13 +5,14 @@
 
 *****
 
+01.21 ***`Misc    `*** **elliptical:** 20min • **pullups-wtd:** 25x6x4 • **tri pushdown:** 25x4 • **lat raise:** 25x4  
 01.20 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 52x20x3  
 01.19 ***`Cardio  `*** **run:** 2m  
 01.18 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x5 • **farmer's walk:** 200x5  
 01.17 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x3 • **DB bench press:** 75x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
 01.16 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x20x2  
 01.15 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - didn't feel great after sleeping poorly for no apparent reason; OHP was moderate/heavy; bench was light/moderate. **Thur** - pullups felt strong; first time doing the farmer's walk; used 100# DBs; it was moderate; use chalk next time. **Fri** - felt tired after sleeping poorly again. **Sat** - felt strong; squat was moderate/heavy. **Sun** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - didn't feel great after sleeping poorly for no apparent reason; OHP was moderate/heavy; bench was light/moderate. **Thur** - pullups felt strong; first time doing the farmer's walk; used 100# DBs; it was moderate; use chalk next time. **Fri** - felt tired after sleeping poorly again. **Sat** - felt strong; squat was moderate/heavy. **Sun** - upper session got rained out but made the most of it at the Cortina gym; first time doing weighted pullups in over a year; it was moderate; work up to 10 reps with 25 lbs. **Recap** - another good week for 8 in a row.
 
 01.14 ***`Upper   `*** **run:** 1m • **bench press:** 205x10x4 • **BB row:** 175x12x4 • **DB OHP:** 52x20x3 • **DB row-sngl:** 90x15x3  
 01.13 ***`Cardio  `*** **run:** 2m  
