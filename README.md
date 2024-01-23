@@ -5,8 +5,9 @@
 
 *****
 
+01.23 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x7x4 • **tri pushdown:** 25x4 • **farmer's walk:** 200x4 • **machine row:** 205x15x4  
 01.22 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - didn't feel great after sleeping poorly but had a decent workout. **Tue** - 
+**Mon** - didn't feel great after sleeping poorly but had a decent workout. **Tue** - woke up with a left shoulder ache so I skipped pushing/pressing movements; must've slept on it wrong; pullups were moderate; farmer's walk was a bit easier than the last time. **Wed** - 
 
 01.21 ***`Misc    `*** **elliptical:** 20min • **pullups-wtd:** 25x6x4 • **tri pushdown:** 25x4 • **lat raise:** 25x4  
 01.20 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 52x20x3  
@@ -332,7 +333,7 @@
 05.19 ***`Cardio  `*** **swim:** 1000y  
 05.18 ***`        `***   
 05.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
-05.16 ***`Upper   `*** **run:** 1m • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
+05.16 ***`Upper   `*** **run:** 1m • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 05.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
 **Mon** - good workout; run and legs both felt strong; first time doing back extn in almost two months; no pain. **Tue** - good workout; slight left shoulder pain during the movements. **Wed** - pullups felt strong; focused on full ROM. **Thur** - rest. **Fri** - swim felt good; a bit easier than last week. **Sat** - good workout; back extn felt better than last time; no pain; go up in weight next week. **Sun** - ligt workout. **Recap** - OK week considering the left shoulder injury; back seems to be recovered so start squatting next week.
 
@@ -347,7 +348,7 @@
 
 05.07 ***`Misc    `*** **elliptical:** 20 min  
 05.06 ***`Cardio  `*** **run:** 2m  
-05.05 ***`Upper   `*** **run:** 1m • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x4 • **machine row:** 225x15x4  
+05.05 ***`Upper   `*** **run:** 1m • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x4 • **machine row:** 220x15x4  
 05.04 ***`Cardio  `*** **run:** 2m  
 05.03 ***`        `***   
 05.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x4 • **DB lunge:** 50x25x4  
@@ -394,7 +395,7 @@
 04.01 ***`        `***   
 03.31 ***`Lower   `*** **deadlift:** 275x5x4 • **SSB squat:** 160x15x4 • **SSB lunge-rvs:** 115x20x4  
 03.30 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **BB curl-rvs:** 80x12x3 • **upright row:** 80x12x3 • **lat raise:** 15x3  
-03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 225x15x3  
+03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 03.28 ***`        `***   
 03.27 ***`        `***   
 **Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy. **Thur** - didn't feel great and ran out of steam after 3 sets; first time doing upright row in a while. **Fri** - first time doing deadlift in over a year; it was light/moderate with good form; incorporate it into the program going forward. **Sat** - rest; slight lower back pain; not sure if it's from the deatlift. **Sun** - rest. **Recap** - poor week.
@@ -465,7 +466,7 @@
 02.05 ***`        `***   
 02.04 ***`        `***   
 02.03 ***`Cardio  `*** **run:** 2m • **pushups:** 25x4    
-02.02 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 20x4 • **machine row:** 225x20x3  
+02.02 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 145x15x4 • **tri pushdown:** 20x4 • **machine row:** 220x20x3  
 02.01 ***`Lower   `*** **SSB squat:** 210x8x4, 160x15x3  
 01.31 ***`Misc    `*** **chinups:** 10x7  
 01.30 ***`        `***   
@@ -502,7 +503,7 @@
 01.07 ***`        `***   
 01.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
 01.05 ***`Misc    `*** **run:** 1m • **pullups:** 10x4 • **BB curl-rvs:** 80x12x4 • **face pulls:** 20x4 • **lat raise:** 15x4  
-01.04 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7,7,6,6 • **lat pulldown:** 145x15x4 • **tri push/extn:** 20x4 • **machine row:** 225x15x4  
+01.04 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7,7,6,6 • **lat pulldown:** 145x15x4 • **tri push/extn:** 20x4 • **machine row:** 220x15x4  
 01.03 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4 • **DB lunge:** 50x20x3  
 01.02 ***`        `***   
 **Mon** - rest. **Tue** - good workout at the office gym. **Wed** - OHP was heavy; focused on lat engagement on the pull movements. **Thur** - focused on lats on pullups and traps on face pulls. **Fri** - good workout; start overloading the leg press; higher reps or paused; go up on back extn and DB lunge. **Sat** - rest. **Sun** - good workout; OHP was moderate; go up to 90 next week. **Recap** - good week; stick with the current program for now.
