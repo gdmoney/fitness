@@ -5,7 +5,7 @@
 
 *****
 
-01.23 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x7x4 • **tri pushdown:** 25x4 • **farmer's walk:** 200x4 • **machine row:** 205x15x4  
+01.23 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x7x4 • **tri pushdown:** 20x4 • **farmer's walk:** 200x4 • **machine row:** 205x15x4  
 01.22 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
 **Mon** - didn't feel great after sleeping poorly but had a decent workout. **Tue** - woke up with a left shoulder ache so I skipped pushing/pressing movements; must've slept on it wrong; pullups were moderate; farmer's walk was a bit easier than the last time. **Wed** - 
 
