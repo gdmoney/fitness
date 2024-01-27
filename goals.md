@@ -11,7 +11,7 @@
 - [ ]  BB OH press: 185x05
 - [ ]  SSB squat:   225x15
 - [ ]  SSB squat:   275x05
-- [ ]  Pullups:      15x05
+- [ ]  Pullups-wtd:  25x15
 
 *****
 
