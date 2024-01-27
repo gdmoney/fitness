@@ -5,11 +5,13 @@
 
 *****
 
+01.27 ***`Upper   `*** **run:** 5m • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4  
+01.26 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x8x4 • **tri pushdown:** 25x4 • **farmer's walk:** 200x4 • **machine row:** 220x15x4  
 01.25 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 55x20x2  
 01.24 ***`Cardio  `*** **run:** 2m  
 01.23 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x7x4 • **tri pushdown:** 20x4 • **farmer's walk:** 200x4 • **machine row:** 205x15x4  
 01.22 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - didn't feel great after sleeping poorly but had a decent workout. **Tue** - woke up with a left shoulder ache so I skipped pushing/pressing movements; must've slept on it wrong; pullups were moderate; farmer's walk was a bit easier than the last time. **Wed** - left shoulder is feeling better but still hurts. **Thur** - good workout; felt strong after a good night's sleep; shoulder is feeling better. **Fri** - 
+**Mon** - didn't feel great after sleeping poorly but had a decent workout. **Tue** - woke up with a left shoulder ache so I skipped pushing/pressing movements; must've slept on it wrong; pullups were moderate; farmer's walk was a bit easier than the last time. **Wed** - left shoulder is feeling better but still hurts. **Thur** - good workout; felt strong after a good night's sleep; shoulder is feeling better. **Fri** - felt strong in the evening; superset all 4 which made the pullups harder but I still kept good form; farmer's walk was easier than the last time. **Sat** - first time running 5 miles in over a year; it felt good; neither bench nor OHP agreed with my left shoulder; continue to rest and start doing light weight high reps. **Sun** - 
 
 01.21 ***`Misc    `*** **elliptical:** 20min • **pullups-wtd:** 25x6x4 • **tri pushdown:** 25x4 • **lat raise:** 25x4  
 01.20 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge-rvs:** 52x20x3  
