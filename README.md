@@ -10,7 +10,7 @@
 01.31 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x8x3 • **tri pushdown:** 20x3 • **lat raise:** 20x3 • **machine row:** 220x20x3  
 01.30 ***`Cardio  `*** **run:** 1m  
 01.29 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge:** 70x20x2 • **leg raise:** 15x4  
-**Mon** - good workout at the MTV gym. **Tue** - didn't feel great after sleeping poorly at the hotel. **Wed** - didn't feel great after sleeping poorly again. **Thur** - felt good after sleeping well; shoulder press machine didn't aggravate the shoulder. **Fri** - 
+**Mon** - good workout at the MTV gym. **Tue** - didn't feel great after sleeping poorly at the hotel. **Wed** - didn't feel great after sleeping poorly again. **Thur** - felt good after sleeping well; shoulder press machine didn't aggravate the shoulder. **Fri** - good workout; felt strong. **Sat** - 
 
 01.28 ***`Cardio  `*** **run:** 2m  
 01.27 ***`Upper   `*** **run:** 5m • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4  
