@@ -5,6 +5,9 @@
 
 *****
 
+02.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
+**Mon** - didn't feel great but had a solid workout. **Tue** - 
+
 02.04 ***`Upper   `*** **run:** 2m • **BB OH press:** 125x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 70x15x4 • **BB row:** 175x12x4  
 02.03 ***`Cardio  `*** **elliptical:** 20 min  
 02.02 ***`Lower   `*** **elliptical:** 20 min • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
