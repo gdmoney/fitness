@@ -3,6 +3,7 @@
 
 ### 2024
 
+- [ ]  Work out every single day of the year
 - [ ]  Stay injury free
 - [ ]  Improved posture
 - [ ]  Bench press: 225x15
