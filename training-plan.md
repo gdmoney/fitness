@@ -1,7 +1,7 @@
 ## Training Plan
 
 
-### 2024 - January
+### 2024 - January • February
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      |
 | :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
