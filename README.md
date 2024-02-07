@@ -5,17 +5,18 @@
 
 *****
 
+02.06 ***`Misc    `*** **run:** 2m • **pullups-wtd:** 25x8x4 • **tri pushdown:** 25x4 • **lat raise:** 20x4  
 02.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - didn't feel great but had a solid workout. **Tue** - 
+**Mon** - didn't feel great but had a solid workout. **Tue** - light workout due to rain. **Wed** - 
 
 02.04 ***`Upper   `*** **run:** 2m • **BB OH press:** 125x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 70x15x4 • **BB row:** 175x12x4  
 02.03 ***`Cardio  `*** **elliptical:** 20 min  
 02.02 ***`Lower   `*** **elliptical:** 20 min • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
-02.01 ***`Upper   `*** **elliptical:** 20 min • **shoulder press machine:** 10x3 • **BB row:** 175x12x3 • **farmer's walk:** 200x3 • **DB row-sngl:** 90x15x3  
+02.01 ***`Upper   `*** **elliptical:** 20 min • **shoulder press:** 10x3 • **BB row:** 175x12x3 • **farmer's walk:** 200x3 • **DB row-sngl:** 90x15x3  
 01.31 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x8x3 • **tri pushdown:** 20x3 • **lat raise:** 20x3 • **machine row:** 220x20x3  
 01.30 ***`Cardio  `*** **run:** 1m  
 01.29 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge:** 70x20x2 • **leg raise:** 15x4  
-**Mon** - good workout at the MTV gym. **Tue** - didn't feel great after sleeping poorly at the hotel. **Wed** - didn't feel great after sleeping poorly again. **Thur** - felt good after sleeping well; shoulder press machine didn't aggravate the shoulder. **Fri** - good workout; felt strong. **Sat** - good elliptical session. **Sun** - left shoulder is feeling much better; only a slight initial pain during the pressing movements; both OHP and bench were light/moderate; continue to slowly add weight; row felt strong. **Recap** - good week and a good month. Total number of workouts in January: 31.
+**Mon** - good workout at the MTV gym. **Tue** - didn't feel great after sleeping poorly at the hotel. **Wed** - didn't feel great after sleeping poorly again. **Thur** - felt good after sleeping well; shoulder press didn't aggravate the shoulder. **Fri** - good workout; felt strong. **Sat** - good elliptical session. **Sun** - left shoulder is feeling much better; only a slight initial pain during the pressing movements; both OHP and bench were light/moderate; continue to slowly add weight; row felt strong. **Recap** - good week and a good month. Total number of workouts in January: 31.
 
 01.28 ***`Cardio  `*** **run:** 2m  
 01.27 ***`Upper   `*** **run:** 5m • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4  
@@ -40,7 +41,7 @@
 01.12 ***`Cardio  `*** **run:** 2m  
 01.11 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **DB lunge-rvs:** 50x20x4  
 01.10 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5 • **lat raise:** 20x5 • **ab wheel:** 20x5  
-01.09 ***`Upper   `*** **run:** 1m • **shoulder press machine:** 12x4 • **tri pushdown:** 20x4 • **pushups:** 20x10  
+01.09 ***`Upper   `*** **run:** 1m • **shoulder press:** 12x4 • **tri pushdown:** 20x4 • **pushups:** 20x10  
 01.08 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x6x4, 180x10x3 • **DB lunge:** 70x20x2  
 **Mon** - squat was moderate/heavy with good form. **Tue** - worked out at the ATL hotel gym; did pushups on the 2 min interval; try 1:45 next time. **Wed** - decent workout. **Thur** - legs felt strong. **Fri** - good run. **Sat** - another good run. **Sun** - bench was moderate. **Recap** - good week four days of travel notwithstanding.
 
