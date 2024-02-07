@@ -5,9 +5,10 @@
 
 *****
 
+02.07 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 75x10x4 • **DB bench press:** 75x15x3 • **DB row-sngl:** 90x15x3  
 02.06 ***`Misc    `*** **run:** 2m • **pullups-wtd:** 25x8x4 • **tri pushdown:** 25x4 • **lat raise:** 20x4  
 02.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - didn't feel great but had a solid workout. **Tue** - light workout due to rain. **Wed** - 
+**Mon** - didn't feel great but had a solid workout. **Tue** - light workout due to rain. **Wed** - felt rested in the morning but not my strongest; OHP was moderate/heavy; bench was light/moderate; no shoulder pain. **Thur** - 
 
 02.04 ***`Upper   `*** **run:** 2m • **BB OH press:** 125x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 70x15x4 • **BB row:** 175x12x4  
 02.03 ***`Cardio  `*** **elliptical:** 20 min  
