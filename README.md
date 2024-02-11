@@ -5,12 +5,14 @@
 
 *****
 
+02.11 ***`Cardio  `*** **elliptical:** 20 min • **ab wheel:** 20x5    
+02.10 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 130x10x4 • **BB row:** 175x12x4 • **bench press:** 185x10x4  
 02.09 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x2  
 02.08 ***`Cardio  `*** **run:** 2m  
 02.07 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 75x10x4 • **DB bench press:** 75x15x3 • **DB row-sngl:** 90x15x3  
 02.06 ***`Misc    `*** **run:** 2m • **pullups-wtd:** 25x8x4 • **tri pushdown:** 25x4 • **lat raise:** 20x4  
 02.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - didn't feel great but had a solid workout. **Tue** - light workout due to rain. **Wed** - felt rested in the morning but not my strongest; OHP was moderate/heavy; bench was light/moderate; no shoulder pain. **Thur** - good run. **Fri** - OK workout; felt rested but legs and joints felt tired. **Sat** - 
+**Mon** - didn't feel great but had a solid workout. **Tue** - light workout due to rain. **Wed** - felt rested in the morning but not my strongest; OHP was moderate/heavy; bench was light/moderate; no shoulder pain. **Thur** - good run. **Fri** - OK workout; felt rested but legs and joints felt tired. **Sat** - slight ache in both shoulders; movements didn't aggravate it; OHP was moderate; bench was light/moderate. **Sun** - light workout to close the week. **Recap** - good week; left shoulder seems to be healed.
 
 02.04 ***`Upper   `*** **run:** 2m • **BB OH press:** 125x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 70x15x4 • **BB row:** 175x12x4  
 02.03 ***`Cardio  `*** **elliptical:** 20 min  
