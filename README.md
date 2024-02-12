@@ -5,6 +5,9 @@
 
 *****
 
+02.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
+**Mon** - solid workout. **Tue** - 
+
 02.11 ***`Cardio  `*** **elliptical:** 20 min • **ab wheel:** 20x5    
 02.10 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 130x10x4 • **BB row:** 175x12x4 • **bench press:** 185x10x4  
 02.09 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x2  
