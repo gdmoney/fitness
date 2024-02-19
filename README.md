@@ -5,6 +5,9 @@
 
 *****
 
+02.19 ***`Misc    `*** **run:** 1m • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3 • **machine row:** 220x20x3 • **farmer's walk:** 200x3  
+**Mon** - good workout; kept it somewhat light to recuperate the shoulders. **Tue** - 
+
 02.18 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 190x10x4 • **BB row:** 175x12x4  
 02.17 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x7x4, 180x10x3  
 02.16 ***`Cardio  `*** **elliptical:** 10 min  
