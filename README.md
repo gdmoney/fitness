@@ -5,11 +5,14 @@
 
 *****
 
+02.18 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 190x10x4 • **BB row:** 175x12x4  
+02.17 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x7x4, 180x10x3  
+02.16 ***`Cardio  `*** **elliptical:** 10 min  
 02.15 ***`Cardio  `*** **elliptical:** 20 min  
 02.14 ***`Upper   `*** **run:** 1m • **BB OH press:** 135x10x4 • **DB bench press:** 80x12x4 • **DB row-sngl:** 90x14x4  
 02.13 ***`Misc    `*** **run:** 1m • **pullups-wtd:** 25x7x4 • **tri pushdown:** 25x4 • **farmer's walk:** 200x4  
 02.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - solid workout. **Tue** - didn't feel great after sleeping poorly; farmer's walk felt lighter than the last time. **Wed** - felt strong; OHP was moderate; bench was light/moderate; go up in weight next week; no shoulder pain. **Thur** - good elliptical session. **Fri** - 
+**Mon** - solid workout. **Tue** - didn't feel great after sleeping poorly; farmer's walk felt lighter than the last time. **Wed** - felt strong; OHP was moderate; bench was light/moderate; go up in weight next week; no shoulder pain. **Thur** - good elliptical session. **Fri** - felt a bit under the weather. **Sat** - good workout; felt strong. **Sun** - bench was light/moderate; slight shoulder ache but movement didn't aggravate it. **Recap** - good week; shoulder ache persists but it's manageable.
 
 02.11 ***`Cardio  `*** **elliptical:** 20 min • **ab wheel:** 20x5    
 02.10 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 130x10x4 • **BB row:** 175x12x4 • **bench press:** 185x10x4  
