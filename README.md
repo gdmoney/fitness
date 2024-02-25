@@ -5,13 +5,14 @@
 
 *****
 
+02.25 ***`Misc    `*** **run:** 1m • **chinups:** 10x5 • **skull crushers:** 75x12x5 • **farmer's walk:** 225x60'x5  
 02.24 ***`Cardio  `*** **run:** 1m  
 02.23 ***`Upper   `*** **bike:** 15 min • **BB OH press:** 135x10x4 • **DB bench press:** 80x15x4 • **DB row-sngl:** 90x14x4  
 02.22 ***`Cardio  `*** **elliptical:** 20 min  
 02.21 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x7x4, 180x10x3  
 02.20 ***`Cardio  `*** **elliptical:** 20 min  
 02.19 ***`Misc    `*** **run:** 1m • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3 • **machine row:** 220x20x3 • **farmer's walk:** 200x3  
-**Mon** - good workout; kept it somewhat light to recuperate the shoulders. **Tue** - didn't feel great. **Wed** - squat was moderate with good form. **Thur** - good elliptical session. **Fri** - OHP was moderate; bench was light/moderate; go up in weight on both; slight initial shoulder pain on bench. **Sat** - good run. **Sun** - 
+**Mon** - good workout; kept it somewhat light to recuperate the shoulders. **Tue** - didn't feel great. **Wed** - squat was moderate with good form. **Thur** - good elliptical session. **Fri** - OHP was moderate; bench was light/moderate; go up in weight on both; slight initial shoulder pain on bench. **Sat** - good run. **Sun** - good workout; bodyweight chinups felt strong; first time doing skull crushers in a year; only a slight left shoulder ache. **Recap** - good week; shoulder and leg joints are feeling better; stick to four workouts per week for now and cut back on the elliptical and road running.
 
 02.18 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 190x10x4 • **BB row:** 175x12x4  
 02.17 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x7x4, 180x10x3  
