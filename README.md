@@ -10,7 +10,7 @@
 
 02.25 ***`Misc    `*** **run:** 1m • **chinups:** 10x5 • **skull crushers:** 75x12x5 • **farmer's walk:** 225x60'x5  
 02.24 ***`Cardio  `*** **run:** 1m  
-02.23 ***`Upper   `*** **bike:** 15 min • **BB OH press:** 135x10x4 • **DB bench press:** 80x15x4 • **DB row-sngl:** 90x14x4  
+02.23 ***`Upper   `*** **bike:** 15 min • **BB OH press:** 135x10x4 • **DB bench press:** 80x15x4 • **DB row-sngl:** 90x15x4  
 02.22 ***`Cardio  `*** **elliptical:** 20 min  
 02.21 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x7x4, 180x10x3  
 02.20 ***`Cardio  `*** **elliptical:** 20 min  
