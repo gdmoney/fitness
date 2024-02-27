@@ -5,8 +5,9 @@
 
 *****
 
+02.27 ***`Cardio  `*** **elliptical:** 10 min • **rower:** 10 min • **bike:** 10 min  
 02.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - 
+**Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - tried different low-impact cardio movements; didn't feel much of anything on the rower; elliptical (legs only) and bike were ok. **Wed** - 
 
 02.25 ***`Misc    `*** **run:** 1m • **chinups:** 10x5 • **skull crushers:** 75x12x5 • **farmer's walk:** 225x60'x5  
 02.24 ***`Cardio  `*** **run:** 1m  
