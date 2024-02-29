@@ -9,7 +9,7 @@
 02.28 ***`Upper   `*** **elliptical:** 5 min • **BB OH press:** 140x10x4 • **DB bench press:** 85x15x4 • **DB row-sngl:** 85x15x4  
 02.27 ***`Cardio  `*** **elliptical:** 10 min • **rower:** 10 min • **bike:** 10 min  
 02.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - tried different low-impact cardio movements; didn't feel much of anything on the rower; elliptical (legs only) and bike were ok. **Wed** - cut back on the cardio; both my lower and upper sessions are already sufficiently cardio-intensive; OHP was moderate with good form; bench was also moderate; no pain on either movement; stick to these weights for now. **Thur** - good elliptical session. **Fri** - 
+**Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - tried different low-impact cardio movements; didn't feel much of anything on the rower; elliptical (office gym) and bike were ok. **Wed** - cut back on the cardio; both my lower and upper sessions are already sufficiently cardio-intensive; OHP was moderate with good form; bench was also moderate; no pain on either movement; stick to these weights for now. **Thur** - good elliptical session; no shoulder pain. **Fri** - 
 
 02.25 ***`Misc    `*** **run:** 1m • **chinups:** 10x5 • **skull crushers:** 75x12x5 • **farmer's walk:** 225x60'x5  
 02.24 ***`Cardio  `*** **run:** 1m  
