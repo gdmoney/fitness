@@ -1,20 +1,24 @@
 ## Training Plan
 
 
-### 2024 - January • February
+### 2024
 
-| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      |
-| :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
-| **`Legs   `** | SSB squat         | leg press         | lunge / rvs lunge |                   |                   |
-| **`Hinge  `** | back extension    |                   |                   |                   |                   |
-| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   |                   |
-| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |                   |
-| **`Misc   `** | tri pushdown      | lat raise         | farmer's walk     | shoulder shrug    | ab wheel          |
-| **`Cardio `** | run               | bike              | elliptical        |                   |                   |
+#### January • February • March
+
+| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      | Exercise - 6      | 
+| :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | leg press         | lunge / rvs lunge |                   |                   |                   |
+| **`Hinge  `** | back extension    |                   |                   |                   |                   |                   |
+| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    |                   |
+| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |                   |                   |
+| **`Misc   `** | tri pushdown      | lat raise         | farmer's walk     | shoulder shrug    | ab wheel          | cable cross-over  |
+| **`Cardio `** | run               | bike              | elliptical        |                   |                   |                   |
 
 *****
 
-### 2023 - October • November • December
+### 2023
+
+#### October • November • December
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      |
 | :------------ | :---------------- | :---------------- | :---------------- | :---------------- |
@@ -24,9 +28,8 @@
 | **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |
 | **`Misc   `** | tri pushdown      | elliptical        |                   |                   |
 
-*****
 
-### 2023 - April
+#### April
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      |
 | :------------ | :---------------- | :---------------- | :---------------- | :---------------- |
@@ -36,9 +39,8 @@
 | **`Pull   `** | pullups / chinups | lat pulldown      | DB row            | upright row       |
 | **`Misc   `** | cable pullover    | BB curl rvs grip  | tri pushdown      | lat raise         |
 
-*****
 
-### 2023 - January • February • March
+#### January • February • March
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4           |
 | :------------ | :---------------- | :---------------- | :---------------- | :--------------------- |
@@ -49,7 +51,9 @@
 
 *****
 
-### 2022 - July
+### 2022
+
+#### July
 
 **Week-1**
 
@@ -87,9 +91,8 @@
 | *Saturday*  | **`Upper  `** | bench press     | DB OH press    | chinups-wtd      |                 |
 | *Sunday*    | **`Flex   `** | skull crushers  | BB curl-rvs    | tri push/extn    | lat raise       |
 
-*****
 
-### 2022 - April/May/June
+#### April/May/June
 
 | Day         | Movement      | Exercise - 1    | Exercise - 2   | Exercise - 3     |
 | :---------- | :------------ | :-------------- | :------------- | :--------------- |
@@ -109,7 +112,9 @@
 
 *****
 
-### 2021 - July
+### 2021
+
+#### July
 
 | Day         | Movement        | Exercise - 1    | Exercise - 2   | Exercise - 3     | Exercise - 4   | Exercise - 5   | Exercise - 6       |
 | :---------- | :-------------- | :-------------- | :------------- | :--------------- | :------------- | :------------- | :----------------- |
@@ -125,9 +130,8 @@
 **V** - Variation: different movement, lighter, volume/technique/speed/paused  
 **W** - Weighted  
 
-*****
 
-### 2021 - June/July
+#### June/July
 
 | Day         | Movement       | Exercise - 1    | Exercise - 2   | Exercise - 3   | Exercise - 4   | Exercise - 5   | Exercise - 6   |
 | :---------- | :------------- | :-------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
@@ -143,9 +147,8 @@
 **V** - Variation: different movement, lighter, volume/technique/speed/paused  
 **W** - Weighted  
 
-*****
 
-### 2021 - April/May
+#### April/May
 
 | Day         | Movement       | Exercise - 1           | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :--------------------- | :------------------ | :---------------- | :---------------- |
@@ -162,9 +165,8 @@
 **W** - Weighted  
 `*  ` - alternate weekly between front squat and paused back squat
 
-*****
 
-### 2021 - January/February/March
+#### January/February/March
 
 | Day         | Movement       | Exercise - 1           | Exercise - 2        | Exercise - 3      | Exercise - 4      |
 | :---------- | :------------- | :--------------------- | :------------------ | :---------------- | :---------------- |
