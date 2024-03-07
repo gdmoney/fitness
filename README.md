@@ -5,9 +5,10 @@
 
 *****
 
+03.06 ***`Cardio  `*** **run:** 1m • **elliptical:** 10 min  
 03.05 ***`Upper   `*** **elliptical:** 10 min • **shoulder press:** 185x10x4 • **tri pushdown:** 25x4 • **cable x-over:** 15x4  
-03.04 ***`Cardio  `*** **run:** 1m    
-**Mon** - good run. **Tue** - good workout at the hotel gym; add smith machine shoulder press and cable cross-over to the program. **Wed** - 
+03.04 ***`Cardio  `*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout at the hotel gym; add smith machine shoulder press and cable cross-over to the program. **Wed** - good cardio session; felt good in the evening lack of sleep notwithstanding. **Thur** - 
 
 03.03 ***`Lower   `*** **elliptical:** 5 • **leg press:** 400x12x4 • **DB lunge:** 45x25x3  
 03.02 ***`Cardio  `*** **elliptical:** 10 min  
