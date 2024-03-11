@@ -5,10 +5,13 @@
 
 *****
 
+03.11 ***`Misc    `*** **run:** 0.5m • **elliptical:** 5 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **farmer's walk:** 200x130'x4  
+**Mon** - good workout; pullups felt strong. **Tue** - 
+
 03.10 ***`Cardio  `*** **elliptical:** 20 min  
-03.09 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x12x4  
+03.09 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x12x4  
 03.08 ***`Cardio  `*** **run:** 1m • **elliptical:** 10 min  
-03.07 ***`Upper   `*** **run:** 1m • **elliptical:** 5 min • **bench press-smith:** 10x4 • **tri pushdown:** 25x4  
+03.07 ***`Upper   `*** **run:** 0.5m • **elliptical:** 5 min • **bench press-smith:** 10x4 • **tri pushdown:** 25x4  
 03.06 ***`Cardio  `*** **run:** 1m • **elliptical:** 10 min  
 03.05 ***`Upper   `*** **elliptical:** 10 min • **shoulder press-smith:** 10x4 • **tri pushdown:** 25x4 • **cable x-over:** 15x4  
 03.04 ***`Cardio  `*** **run:** 1m  
