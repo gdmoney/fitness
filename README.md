@@ -5,8 +5,9 @@
 
 *****
 
+03.12 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x5  
 03.11 ***`Misc    `*** **run:** 0.5m • **elliptical:** 5 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **farmer's walk:** 200x130'x4  
-**Mon** - good workout; pullups felt strong. **Tue** - 
+**Mon** - good workout; pullups felt strong. **Tue** - good cardio session. **Wed** - 
 
 03.10 ***`Cardio  `*** **elliptical:** 20 min  
 03.09 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x12x4  
