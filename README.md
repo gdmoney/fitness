@@ -5,12 +5,14 @@
 
 *****
 
+03.17 ***`Misc    `*** **run:** 0.5m • **pullups:** 12x5 • **ab wheel:** 20x5  
+03.16 ***`Cardio  `*** **elliptical:** 20 min  
 03.15 ***`Lower   `*** **run:** 0.5m • **SSB squat:** 210x8x4, 180x10x2, 160x12x2  
 03.14 ***`Cardio  `*** **elliptical:** 20 min  
 03.13 ***`Upper   `*** **elliptical:** 5 min • **BB OH press:** 145x10x4 • **DB bench press:** 90x15x3 • **DB row-sngl:** 90x15x3  
 03.12 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x5  
 03.11 ***`Misc    `*** **run:** 0.5m • **elliptical:** 5 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **farmer's walk:** 200x130'x4  
-**Mon** - good workout; pullups felt strong. **Tue** - good cardio session. **Wed** - OHP and bench were both moderate/heavy; stick to this weight for now. **Thur** - good elliptical session. **Fri** - squat was moderate/heavy; didn't feel great in the morning. **Sat** - 
+**Mon** - good workout; pullups felt strong. **Tue** - good cardio session. **Wed** - OHP and bench were both moderate/heavy; stick to this weight for now. **Thur** - good elliptical session. **Fri** - squat was moderate/heavy; didn't feel great in the morning. **Sat** - good elliptical session. **Sun** - lighter workout to close out the week; pullups felt strong. **Recap** - good week.
 
 03.10 ***`Cardio  `*** **elliptical:** 20 min  
 03.09 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 70x12x4  
