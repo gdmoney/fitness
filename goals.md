@@ -6,12 +6,13 @@
 - [ ]  Work out every single day of the year
 - [ ]  Stay injury free
 - [ ]  Improved posture
-- [ ]  Bench press: 225x15
-- [ ]  Bench press: 275x05
+- [ ]  BB bench press: 225x15
+- [ ]  BB bench press: 275x05
+- [ ]  DB bench press: 100x15
 - [ ]  BB OH press: 165x10
 - [ ]  BB OH press: 185x05
-- [ ]  SSB squat:   245x10
-- [ ]  SSB squat:   275x05
+- [ ]  SSB squat:   250x10
+- [ ]  SSB squat:   280x05
 - [ ]  Pullups-wtd:  25x15
 
 *****
