@@ -5,8 +5,9 @@
 
 *****
 
+03.19 ***`Cardio  `*** **elliptical:** 20 min  
 03.18 ***`Upper   `*** **elliptical:** 5 min • **BB OH press:** 145x10x4 • **DB bench press:** 90x15x3 • **DB row-sngl:** 90x15x3  
-**Mon** - good workout; felt strong at lunchtime; OHP and bench were moderate/heavy and felt a bit lighter than last week. **Tue** - 
+**Mon** - good workout; felt strong at lunchtime; OHP and bench were moderate/heavy and felt a bit lighter than last week. **Tue** - good elliptical session. **Wed** - 
 
 03.17 ***`Misc    `*** **run:** 0.5m • **pullups:** 12x5 • **ab wheel:** 20x5  
 03.16 ***`Cardio  `*** **elliptical:** 20 min  
