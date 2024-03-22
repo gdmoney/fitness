@@ -15,7 +15,7 @@
 03.16 ***`Cardio  `*** **elliptical:** 20 min  
 03.15 ***`Lower   `*** **run:** 0.5m • **SSB squat:** 210x8x4, 180x10x2, 160x12x2  
 03.14 ***`Cardio  `*** **elliptical:** 20 min  
-03.13 ***`Upper   `*** **elliptical:** 5 min • **BB OH press:** 145x10x4 • **DB bench press:** 90x12x3 • **DB row-sngl:** 90x15x3  
+03.13 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 145x10x4 • **DB bench press:** 90x12x3 • **DB row-sngl:** 90x15x3  
 03.12 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x5  
 03.11 ***`Misc    `*** **run:** 0.5m • **elliptical:** 5 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **farmer's walk:** 200x130'x4  
 **Mon** - good workout; pullups felt strong. **Tue** - good cardio session. **Wed** - OHP and bench were both moderate/heavy; stick to this weight for now. **Thur** - good elliptical session. **Fri** - squat was moderate/heavy; didn't feel great in the morning. **Sat** - good elliptical session. **Sun** - lighter workout to close out the week; pullups felt strong. **Recap** - good week.
@@ -29,11 +29,11 @@
 03.04 ***`Cardio  `*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout at the hotel gym; add smith machine seated shoulder press and cable cross-over to the program. **Wed** - good cardio session; felt good in the evening lack of sleep notwithstanding. **Thur** - decent workout; smith machine bench felt awkward. **Fri** - good cardio session. **Sat** - good workout at the office gym. **Sun** - good elliptical session to close out the week. **Recap** - good week.
 
-03.03 ***`Lower   `*** **elliptical:** 5 • **leg press:** 400x12x4 • **DB lunge:** 45x25x3  
+03.03 ***`Lower   `*** **elliptical:** 10 min • **leg press:** 400x12x4 • **DB lunge:** 45x25x3  
 03.02 ***`Cardio  `*** **elliptical:** 10 min  
 03.01 ***`Misc    `*** **elliptical:** 10 min • **pullups:** 25x7x4 • **tri pushdown:** 25x4 • **farmer's walk:** 225x90'x4  
 02.29 ***`Cardio  `*** **elliptical:** 20 min  
-02.28 ***`Upper   `*** **elliptical:** 5 min • **BB OH press:** 140x10x4 • **DB bench press:** 85x15x4 • **DB row-sngl:** 85x15x4  
+02.28 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 140x10x4 • **DB bench press:** 85x15x4 • **DB row-sngl:** 85x15x4  
 02.27 ***`Cardio  `*** **elliptical:** 10 min • **rower:** 10 min • **bike:** 10 min  
 02.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
 **Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - tried different low-impact cardio movements; didn't feel much of anything on the rower; elliptical (office gym) and bike were ok. **Wed** - cut back on the cardio; both my lower and upper sessions are already sufficiently cardio-intensive; OHP was moderate with good form; bench was also moderate; no pain on either movement; stick to these weights for now. **Thur** - good elliptical session; no shoulder pain. **Fri** - farmer's walk felt stronger than last week. **Sat** - good elliptical session in the morning. **Sun** - decent workout at the hotel gym. **Recap** - good week and a good month. Total number of workouts in February: 29.
