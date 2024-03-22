@@ -5,9 +5,10 @@
 
 *****
 
+03.21 ***`Lower   `*** **elliptical:** 10 min • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
 03.20 ***`Cardio  `*** **run:** 2m  
 03.19 ***`Cardio  `*** **elliptical:** 20 min  
-03.18 ***`Upper   `*** **elliptical:** 5 min • **BB OH press:** 145x10x4 • **DB bench press:** 90x15x3 • **DB row-sngl:** 90x15x3  
+03.18 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 145x10x4 • **DB bench press:** 90x15x3 • **DB row-sngl:** 90x15x3  
 **Mon** - good workout; felt strong at lunchtime; OHP and bench were moderate/heavy and felt a bit lighter than last week. **Tue** - good elliptical session. **Wed** - didn't feel great after sleeping poorly so decided to go for a run. **Thur** - 
 
 03.17 ***`Misc    `*** **run:** 0.5m • **pullups:** 12x5 • **ab wheel:** 20x5  
