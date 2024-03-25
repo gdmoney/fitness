@@ -5,6 +5,9 @@
 
 *****
 
+03.25 ***`Cardio  `*** **run:** 1m • **elliptical:** 10 min • **ad wheel:** 20x4  
+**Mon** - good cardio session. **Tue** - 
+
 03.24 ***`Misc    `*** **elliptical:** 20 min • **pullups:** 10x4 • **tri pushdown:** 25x4  
 03.23 ***`Cardio  `*** **elliptical:** 15 min  
 02.22 ***`Upper   `*** **elliptical:** 10 min • **bench press:** 205x10x4 • **BB row-ntrl:** 165x12x4 • **DB OH press:** 52x20x3  
