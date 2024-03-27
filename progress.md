@@ -11,8 +11,8 @@
 | Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
 
 **Videos**  
-[BB OHP - 145x16](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-145x16.mp4)  
-[Pullups - 25x12](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-25x12.mp4)  
+- [BB OHP - 145x16](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-145x16.mp4)  
+- [Pullups - 25x12](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-25x12.mp4)  
 
 *****
 
