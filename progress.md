@@ -13,8 +13,8 @@
 **Videos**
 - [BB OHP: 145x16](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-145x16.mp4)
 - [Pullups: 25x12](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-25x12.mp4)
-- [Bench press: 205x18](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-bench-press-205x18.mov)
-- [SSB squat: 230x12](https://gd-public-bucket.s3.us-west-2.amazonaws.com/ssb-squat-230x12.mov)
+- [Bench press: 205x18](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-bench-press-205x18.mp4)
+- [SSB squat: 230x12](https://gd-public-bucket.s3.us-west-2.amazonaws.com/ssb-squat-230x12.mp4)
 
 *****
 
