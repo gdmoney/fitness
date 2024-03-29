@@ -5,7 +5,7 @@
 
 *****
 
-03.29 ***`Upper   `*** **run:** 2 m • **bench press:** 205x18 • **DB row-sngl:** 90x15x4
+03.29 ***`Upper   `*** **run:** 2 m • **bench press:** 205x18 • **DB row-sngl:** 90x15x4  
 03.28 ***`Lower   `*** **elliptical:** 20 min • **SSB squat:** 230x12 • **SSB lunge-rvs:** 110x20x3  
 03.27 ***`Upper   `*** **elliptical:** 10 min • **pullups:** 25x12 • **tri pushdown:** 25x3 • **machine row:** 220x20x3  
 03.26 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 145x16 • **str-arm pulldown:** 25x4 • **farmer's walk:** 200x130'x4  
