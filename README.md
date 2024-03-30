@@ -5,12 +5,13 @@
 
 *****
 
+03.30 ***`Cardio  `*** **elliptical:** 20 min  
 03.29 ***`Upper   `*** **run:** 2 m • **bench press:** 205x18 • **DB row-sngl:** 90x15x4  
 03.28 ***`Lower   `*** **elliptical:** 20 min • **SSB squat:** 230x12 • **SSB lunge-rvs:** 110x20x3  
 03.27 ***`Upper   `*** **elliptical:** 10 min • **pullups:** 25x12 • **tri pushdown:** 25x3 • **machine row:** 220x20x3  
 03.26 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 145x16 • **str-arm pulldown:** 25x4 • **farmer's walk:** 200x130'x4  
 03.25 ***`Cardio  `*** **run:** 1m • **elliptical:** 10 min • **ab wheel:** 20x4  
-**Mon** - good cardio session. **Tue** - BB OHP AMRAP; wanted to get at least 15 so I'm happy with 16; ROM was good. **Wed** - pullups AMRAP; I'm happy with 12 with good ROM. **Thur** - SSB squat AMRAP; I was hoping for 15 but I'll take 12. **Fri** - bench AMRAP; I'm happy with 18; felt strong in the morning. **Sat** - 
+**Mon** - good cardio session. **Tue** - BB OHP AMRAP; wanted to get at least 15 so I'm happy with 16; ROM was good. **Wed** - pullups AMRAP; I'm happy with 12 with good ROM. **Thur** - SSB squat AMRAP; I was hoping for 15 but I'll take 12. **Fri** - bench AMRAP; I'm happy with 18; felt strong in the morning. **Sat** - good cardio session. **Sun** - 
 
 03.24 ***`Misc    `*** **elliptical:** 20 min • **pullups:** 10x4 • **tri pushdown:** 25x4  
 03.23 ***`Cardio  `*** **elliptical:** 15 min  
