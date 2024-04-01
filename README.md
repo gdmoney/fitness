@@ -5,6 +5,9 @@
 
 *****
 
+04.01 ***`Misc    `*** **elliptical:** 10 min • **pullups/chinups:** 10x4 • **farmer's walk:** 200x130'x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 20x3  
+**Mon** - good workout. **Tue** - 
+
 03.31 ***`Cardio  `*** **elliptical:** 15 min  
 03.30 ***`Cardio  `*** **elliptical:** 20 min  
 03.29 ***`Upper   `*** **run:** 2 m • **bench press:** 205x18 • **DB row-sngl:** 90x15x4  
