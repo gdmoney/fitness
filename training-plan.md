@@ -3,6 +3,18 @@
 
 ### 2024
 
+#### April • May • June
+
+| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      |
+| :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | leg press         | lunge / rvs lunge |                   |                   |
+| **`Hinge  `** | back extension    |                   |                   |                   |                   |
+| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    |
+| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |                   |
+| **`Misc   `** | tri pushdown      | str arm pulldown  | farmer's walk     | ab wheel          | cable cross-over  |
+| **`Cardio `** | run               | elliptical        |                   |                   |                   |
+
+
 #### January • February • March
 
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      |
