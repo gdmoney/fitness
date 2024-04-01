@@ -10,7 +10,7 @@
 | **`Legs   `** | SSB squat         | leg press         | lunge / rvs lunge |                   |                   |
 | **`Hinge  `** | back extension    |                   |                   |                   |                   |
 | **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    |
-| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      |                   |
+| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      | machine row       |
 | **`Misc   `** | tri pushdown      | str arm pulldown  | farmer's walk     | ab wheel          | cable cross-over  |
 | **`Cardio `** | run               | elliptical        |                   |                   |                   |
 
