@@ -5,8 +5,9 @@
 
 *****
 
+04.02 ***`Cardio  `*** **run:** 2m  
 04.01 ***`Misc    `*** **elliptical:** 10 min • **pullups/chinups:** 10x4 • **farmer's walk:** 200x130'x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 20x3  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good run up and down the hill. **Wed** - 
 
 03.31 ***`Cardio  `*** **elliptical:** 15 min  
 03.30 ***`Cardio  `*** **elliptical:** 20 min  
