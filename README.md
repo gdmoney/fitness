@@ -5,9 +5,10 @@
 
 *****
 
+04.03 ***`Lower   `*** **elliptical:** 10 min • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
 04.02 ***`Cardio  `*** **run:** 2m  
 04.01 ***`Misc    `*** **elliptical:** 10 min • **pullups/chinups:** 10x4 • **farmer's walk:** 200x130'x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 20x3  
-**Mon** - good workout. **Tue** - good run up and down the hill. **Wed** - 
+**Mon** - good workout. **Tue** - good run up and down the hill. **Wed** - good workout in the morning. **Thur** - 
 
 03.31 ***`Cardio  `*** **elliptical:** 15 min  
 03.30 ***`Cardio  `*** **elliptical:** 20 min  
