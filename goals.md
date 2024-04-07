@@ -5,7 +5,7 @@
 
 - [ ]  Work out every single day of the year
 - [ ]  Stay injury free
-- [ ]  Improved posture
+- [ ]  Improve posture
 - [ ]  BB bench press: 225x15
 - [ ]  BB bench press: 275x05
 - [ ]  DB bench press: 100x15
