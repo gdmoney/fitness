@@ -5,6 +5,9 @@
 
 *****
 
+04.08 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 55x20x2  
+**Mon** - didn't feel great. **Tue** - 
+
 04.07 ***`Upper   `*** **run:** 1m • **DB bench press:** 90x23 • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4  
 04.06 ***`Cardio  `*** **elliptical:** 20 min  
 04.05 ***`Upper   `*** **elliptical:** 10 min • **shoulder press:** 140x10x3 • **lat pulldown:** 190x12x3 • **cable x-over:** 15x3  
