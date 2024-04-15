@@ -5,14 +5,14 @@
 
 *****
 
-04.14 ***`Upper   `*** **elliptical:** 10 min • **bench press:**  
+04.14 ***`Upper   `*** **elliptical:** 10 min • **bench press:** 210x10x4 • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4 • **BB OH press-sngl:** 70x10x3  
 04.13 ***`Cardio  `*** **elliptical:** 20 min • **ab wheel:** 20x4  
 04.12 ***`Misc    `*** **run:** 1m • **pullups:** 25x8x4, 12x2  
 04.11 ***`Cardio  `*** **elliptical:** 20 min  
 04.10 ***`Upper   `*** **elliptical:** 10 min • **BB OH press:** 150x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
 04.09 ***`Cardio  `*** **elliptical:** 20 min  
 04.08 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 55x20x2  
-**Mon** - didn't feel great. **Tue** - good cardio session. **Wed** - felt strong at lunchtime; OHP was moderate to moderate/heavy. **Thur** - good cardio session. **Fri** - pullups felt strong. **Sat** - good cardio session. **Sun** -
+**Mon** - didn't feel great. **Tue** - good cardio session. **Wed** - felt strong at lunchtime; OHP was moderate to moderate/heavy. **Thur** - good cardio session. **Fri** - pullups felt strong. **Sat** - good cardio session. **Sun** - bench was moderate; OHP was light/moderate; go up in reps or weight. **Recap** - good week.
 
 04.07 ***`Upper   `*** **run:** 1m • **DB bench press:** 90x23 • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4  
 04.06 ***`Cardio  `*** **elliptical:** 20 min  
@@ -34,7 +34,7 @@
 
 03.24 ***`Misc    `*** **elliptical:** 20 min • **pullups:** 10x4 • **tri pushdown:** 25x4  
 03.23 ***`Cardio  `*** **elliptical:** 15 min  
-03.22 ***`Upper   `*** **elliptical:** 10 min • **bench press:** 205x10x4 • **BB row-ntrl:** 165x12x4 • **DB OH press:** 52x20x3  
+03.22 ***`Upper   `*** **elliptical:** 10 min • **bench press:** 205x10x4 • **BB row:** 165x12x4 • **DB OH press:** 52x20x3  
 03.21 ***`Lower   `*** **elliptical:** 10 min • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
 03.20 ***`Cardio  `*** **run:** 2m  
 03.19 ***`Cardio  `*** **elliptical:** 20 min  
@@ -316,7 +316,7 @@
 **Mon** - rest. **Tue** - good workout; squat was moderate/heavy and a bit lighter than last week. **Wed** - pullups felt strong. **Thur** - good run. **Fri** - good swim at Terranea. **Sat** - swim felt better than the day before. **Sun** - good run. **Recap** - good cardio week but not great overall.
 
 08.20 ***`        `***   
-08.19 ***`Upper   `*** **run:** 2m • **BB OHP:** 95x10x4 • **BB row-ntrl:** 135x12x4 • **BB row:** 185x10x4 • **DB OH press-sngl(R):** 70x10x4  
+08.19 ***`Upper   `*** **run:** 2m • **BB OHP:** 95x10x4 • **BB row:** 135x12x4 • **BB row:** 185x10x4 • **DB OH press-sngl(R):** 70x10x4  
 08.18 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x7x4, 175x10x3 • **SSB lunge:** 110x20x3  
 08.17 ***`Cardio  `*** **run:** 1m  
 08.16 ***`Cardio  `*** **run:** 2m  
