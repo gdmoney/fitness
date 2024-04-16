@@ -5,8 +5,9 @@
 
 *****
 
+04.16 ***`Cardio  `*** **elliptical:** 20 min  
 04.15 ***`Lower   `*** **elliptical:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good cardio session. **Wed** - 
 
 04.14 ***`Upper   `*** **elliptical:** 10 min • **bench press:** 210x10x4 • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4 • **BB OH press-sngl:** 70x10x3  
 04.13 ***`Cardio  `*** **elliptical:** 20 min • **ab wheel:** 20x4  
