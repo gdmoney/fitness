@@ -5,11 +5,12 @@
 
 *****
 
+04.19 ***`Misc    `*** **elpt:** 10 min • **pullups/chinups:** 50x5x4 • **farmer's walk:** 200x130'x4 • **str-arm pulldown:** 15x3 • **machine row:** 235x15x3  
 04.18 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 04.17 ***`Upper   `*** **elpt:** 10 min • **shoulder press:** 150x10x3 • **lat pulldown:** 190x12x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
 04.16 ***`Cardio  `*** **elpt:** 20 min  
 04.15 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
-**Mon** - good workout. **Tue** - good cardio session. **Wed** - decent workout despite not feeling my strongest in the morning. **Thur** - good cardio session. **Fri** - 
+**Mon** - good workout. **Tue** - good cardio session. **Wed** - decent workout despite not feeling my strongest in the morning. **Thur** - good cardio session. **Fri** - heavy pullups felt good; alternate between heavier and lighter weights. **Sat** - 
 
 04.14 ***`Upper   `*** **elpt:** 10 min • **bench press:** 210x10x4 • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4 • **BB OH press-sngl:** 70x10x3  
 04.13 ***`Cardio  `*** **elpt:** 20 min • **ab wheel:** 20x4  
