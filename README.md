@@ -5,8 +5,9 @@
 
 *****
 
+04.23 ***`Cardio  `*** **run:** 1.5m • **ab wheel:** 20x4  
 04.22 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2  
-**Mon** - decent workout despite not feeling great. **Tue** - 
+**Mon** - decent workout despite not feeling great. **Tue** - good cardio session. **Wed** - 
 
 04.21 ***`Cardio  `*** **elpt:** 10 min  
 04.20 ***`Cardio  `*** **elpt:** 10 min  
