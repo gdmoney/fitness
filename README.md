@@ -5,6 +5,9 @@
 
 *****
 
+04.22 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2  
+**Mon** - decent workout despite not feeling great. **Tue** - 
+
 04.21 ***`Cardio  `*** **elpt:** 10 min  
 04.20 ***`Cardio  `*** **elpt:** 10 min  
 04.19 ***`Misc    `*** **elpt:** 10 min • **pullups:** 50x5x4 • **farmer's walk:** 200x4 • **str-arm pulldown:** 80x15x3 • **machine row:** 235x15x3  
