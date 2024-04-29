@@ -5,6 +5,9 @@
 
 *****
 
+04.29 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
+**Mon** - good workout; felt good. **Tue** - 
+
 04.28 ***`Upper   `*** **elpt:** 10 min • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4  
 04.27 ***`Upper   `*** **elpt:** 10 min • **pullups:** 45x5x4 • **cable x-over:** 15x4 • **str-srm pulldown:** 20x4 • **farmer's walk:** 225x45sx4  
 04.26 ***`Misc    `*** **ab wheel:** 20x5 • **pullups:** 10x1  
