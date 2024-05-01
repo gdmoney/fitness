@@ -5,9 +5,10 @@
 
 *****
 
+05.01 ***`Upper   `*** **elpt:** 10 min • **shoulder press:** 160x10x4 • **lat pulldown:** 190x12x4 • **machine row:** 250x15x3  
 04.30 ***`Cardio  `*** **run:** 2m  
 04.29 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
-**Mon** - good workout; felt good. **Tue** - good run outside. **Wed** - 
+**Mon** - good workout; felt good. **Tue** - good run outside. **Wed** - press was moderate/heavy; didn't quite lock out the very last rep. **Thur** - 
 
 04.28 ***`Upper   `*** **elpt:** 10 min • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4  
 04.27 ***`Upper   `*** **elpt:** 10 min • **pullups:** 45x5x4 • **cable x-over:** 15x4 • **str-srm pulldown:** 20x4 • **farmer's walk:** 225x45sx4  
