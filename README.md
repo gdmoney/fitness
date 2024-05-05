@@ -5,16 +5,17 @@
 
 *****
 
+05.05 ***`Upper   `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 25x3  
 05.04 ***`Upper   `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press-sngl:** 80x10x4  
 05.03 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 05.02 ***`Cardio  `*** **elpt:** 20 min  
 05.01 ***`Upper   `*** **elpt:** 10 min • **shoulder press:** 160x10x4 • **lat pulldown:** 190x12x4 • **machine row:** 250x15x3  
 04.30 ***`Cardio  `*** **run:** 2m  
 04.29 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
-**Mon** - good workout; felt good. **Tue** - good run outside. **Wed** - press was moderate/heavy; didn't quite lock out the very last rep. **Thur** - good cardio session. **Fri** - good run. **Sat** - good workout; felt pretty strong in the morning; bench was moderate; OHP was also moderate. **Sun** - 
+**Mon** - good workout; felt good. **Tue** - good run outside. **Wed** - press was moderate/heavy; didn't quite lock out the very last rep. **Thur** - good cardio session. **Fri** - good run. **Sat** - good workout; felt pretty strong in the morning; bench was moderate; OHP was also moderate. **Sun** - good workout; pullups felt strong. **Recap** - good week. Total number of workouts in April: 30.
 
 04.28 ***`Upper   `*** **elpt:** 10 min • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4  
-04.27 ***`Upper   `*** **elpt:** 10 min • **pullups:** 45x5x4 • **cable x-over:** 15x4 • **str-srm pulldown:** 20x4 • **farmer's walk:** 225x45sx4  
+04.27 ***`Upper   `*** **elpt:** 10 min • **pullups:** 45x5x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x4 • **farmer's walk:** 225x45sx4  
 04.26 ***`Misc    `*** **ab wheel:** 20x5 • **pullups:** 10x1  
 04.25 ***`Cardio  `*** **elpt:** 20 min  
 04.24 ***`Upper   `*** **elpt:** 10 min • **BB OH press:** 150x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
