@@ -5,6 +5,9 @@
 
 *****
 
+05.06 ***`Lower   `*** **run:** 0.75m • **leg press:** 400x20x3 • **back extn:** 90x12x4 • **DB lunge-rvs:** 55x20x2 • **DB lunge:** 55x20x2  
+**Mon** - good workout. **Tue** - 
+
 05.05 ***`Upper   `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 25x3  
 05.04 ***`Upper   `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press-sngl:** 80x10x4  
 05.03 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
@@ -20,7 +23,7 @@
 04.25 ***`Cardio  `*** **elpt:** 20 min  
 04.24 ***`Upper   `*** **elpt:** 10 min • **BB OH press:** 150x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
 04.23 ***`Cardio  `*** **run:** 1.5m • **ab wheel:** 20x4  
-04.22 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2  
+04.22 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x12x3 • **DB lunge-rvs:** 50x20x2  
 **Mon** - decent workout despite not feeling great. **Tue** - good cardio session. **Wed** - OHP was moderate/heavy with good form. **Thur** - good cardio session. **Fri** - lightest workout of the year due to a logistical mishap. **Sat** - pullups felt strong; this is a good workout that I can do at the complex gym. **Sun** - bench was moderate even though I didn't feel great in the morning due to being sleep deprived. **Recap** - decent week.
 
 04.21 ***`Cardio  `*** **elpt:** 10 min  
