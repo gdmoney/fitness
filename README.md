@@ -5,8 +5,9 @@
 
 *****
 
+05.07 ***`Cardio  `*** **run:** 1m  
 05.06 ***`Lower   `*** **run:** 0.75m • **leg press:** 400x20x3 • **back extn:** 90x12x4 • **DB lunge-rvs:** 55x20x2 • **DB lunge:** 55x20x2  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good outdoor run. **Wed** - 
 
 05.05 ***`Upper   `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 25x3  
 05.04 ***`Upper   `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press-sngl:** 80x10x4  
