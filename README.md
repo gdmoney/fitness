@@ -5,12 +5,13 @@
 
 *****
 
+05.11 ***`Upper   `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x4 • **tri pushdown:** 25x4  
 05.10 ***`Cardio  `*** **run:** 2m  
 05.09 ***`Cardio  `*** **run:** 1m  
 05.08 ***`Upper   `*** **elpt:** 10 min • **BB OH press:** 150x10x4 • **lat pulldown:** 190x12x3 • **machine row:** 250x15x3  
 05.07 ***`Cardio  `*** **run:** 1m  
 05.06 ***`Lower   `*** **run:** 0.75m • **leg press:** 400x20x3 • **back extn:** 90x12x4 • **DB lunge-rvs:** 55x20x2 • **DB lunge:** 55x20x2  
-**Mon** - good workout. **Tue** - good outdoor run. **Wed** - good workout, lack of sleep notwithstanding; OHP was moderate/heavy. **Thur** - good outdoor run. **Fri** - good outdoor run. **Sat** - 
+**Mon** - good workout. **Tue** - good outdoor run. **Wed** - good workout, lack of sleep notwithstanding; OHP was moderate/heavy. **Thur** - good outdoor run. **Fri** - good outdoor run. **Sat** - decent workout. **Sun** - 
 
 05.05 ***`Upper   `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x3 • **tri pushdown:** 25x3  
 05.04 ***`Upper   `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press-sngl:** 80x10x4  
