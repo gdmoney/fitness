@@ -5,10 +5,11 @@
 
 *****
 
-05.15 ***`Upper   `*** **run:** 0.75m • **shoulder press-mchn:** 180x10x4 • **lat pulldown:** 190x12x3 • **machine row:** 250x15x4  
+05.16 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
+05.15 ***`Upper   `*** **run:** 0.75m • **shoulder press-mchn:** 180x10x4 • **lat pulldown:** 190x12x3 • **machine row:** 250x20x4  
 05.14 ***`Cardio  `*** **run:** 2m  
 05.13 ***`Lower   `*** **run:** 0.75m • **leg press:** 400x20x3 • **back extn:** 90x12x4 • **DB lunge-rvs:** 55x20x2 • **DB lunge:** 55x20x2  
-**Mon** - good workout. **Tue** - good run outdoors. **Wed** - good workout; shoulder press was moderate/heavy; go up in weight next time. **Thur** - 
+**Mon** - good workout. **Tue** - good run outdoors. **Wed** - good workout; shoulder press was moderate/heavy; go up in weight next time. **Thur** - good workout. **Fri** - 
 
 05.12 ***`Upper   `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press:** 70x10x3  
 05.11 ***`Upper   `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **str-arm pulldown:** 20x4 • **tri pushdown:** 25x4  
