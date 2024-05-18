@@ -5,6 +5,7 @@
 
 *****
 
+05.18 ***`Misc    `*** **elpt:** 15 min • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4  
 05.17 ***`Upper   `*** **run:** 1m • **pullups:** 50x5x4 • **cable x-over:** 15x4  
 05.16 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 05.15 ***`Upper   `*** **run:** 0.75m • **shoulder press-mchn:** 180x10x4 • **lat pulldown:** 190x12x3 • **machine row:** 250x20x4  
