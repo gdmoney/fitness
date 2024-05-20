@@ -5,6 +5,9 @@
 
 *****
 
+05.20 ***`Cardio  `*** **run:** 1m  
+**Mon** - good run to start the week. **Tue** - 
+
 05.19 ***`Upper   `*** **run:** 1m • **bench press:** 220x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x3 • **farmer's walk:** 225x45sx3  
 05.18 ***`Misc    `*** **elpt:** 15 min • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4  
 05.17 ***`Upper   `*** **run:** 1m • **pullups:** 50x5x4 • **cable x-over:** 15x4  
