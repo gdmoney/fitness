@@ -5,9 +5,10 @@
 
 *****
 
+05.22 ***`Cardio  `*** **run:** 1m  
 05.21 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x12x3 • **DB lunge-rvs:** 55x20x2 • **DB lunge:** 55x20x2  
 05.20 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run to start the week. **Tue** - decent workout. **Wed** - 
+**Mon** - good run to start the week. **Tue** - decent workout. **Wed** - good treadmill run. **Thur** - 
 
 05.19 ***`Upper   `*** **run:** 1m • **bench press:** 220x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x3 • **farmer's walk:** 225x45sx3  
 05.18 ***`Misc    `*** **elpt:** 15 min • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4  
