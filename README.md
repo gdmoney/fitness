@@ -5,11 +5,12 @@
 
 *****
 
+05.24 ***`Upper   `*** **run:** 0.75m • **pullups:** 50x5x4 • **cable x-over:** 15x3 • **machine row:** 250x15x3  
 05.23 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 190x12x4  
 05.22 ***`Cardio  `*** **run:** 1m  
 05.21 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x12x3 • **DB lunge-rvs:** 55x20x2 • **DB lunge:** 55x20x2  
 05.20 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run to start the week. **Tue** - decent workout. **Wed** - good treadmill run. **Thur** - felt strong; OHP was moderate to moderate/heavy. **Fri** - 
+**Mon** - good run to start the week. **Tue** - decent workout. **Wed** - good treadmill run. **Thur** - felt strong; OHP was moderate to moderate/heavy. **Fri** - mediocre workout; didn't feel great. **Sat** - 
 
 05.19 ***`Upper   `*** **run:** 1m • **bench press:** 220x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x3 • **farmer's walk:** 225x45sx3  
 05.18 ***`Misc    `*** **elpt:** 15 min • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4  
