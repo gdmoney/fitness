@@ -5,9 +5,10 @@
 
 *****
 
+05.29 ***`Upper   `*** **run:** 0.75m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 190x12x4 • **machine row:** 250x15x4  
 05.28 ***`Cardio  `*** **run:** 1m • **cable crunch:** 20x5  
 05.27 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x3 • **DB lunge:** 52x20x2 • **DB lunge-rvs:** 52x20x2  
-**Mon** - first time squatting in 2 months; it was moderate/heavy with good form. **Tue** - cable crunch felt good; add it to the program. **Wed** - 
+**Mon** - first time squatting in 2 months; it was moderate/heavy with good form. **Tue** - cable crunch felt good; add it to the program. **Wed** - OHP was heavy; only managed 9 reps on the last 2 sets; pull felt strong. **Thur** - 
 
 05.26 ***`Upper   `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 225x45sx3  
 05.25 ***`Misc    `*** **elpt:** 20 min • **tri pushdown:** 25x4 • **str-arm pulldown:** 15x4 • **ab wheel:** 20x4  
@@ -40,7 +41,7 @@
 05.04 ***`Upper   `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press-sngl:** 80x10x4  
 05.03 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 05.02 ***`Cardio  `*** **elpt:** 20 min  
-05.01 ***`Upper   `*** **elpt:** 10 min • **shoulder press-smith** 160x10x4 • **lat pulldown:** 190x12x4 • **machine row:** 250x15x3  
+05.01 ***`Upper   `*** **elpt:** 10 min • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 190x12x4 • **machine row:** 250x15x3  
 04.30 ***`Cardio  `*** **run:** 2m  
 04.29 ***`Lower   `*** **run:** 0.5m • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
 **Mon** - good workout; felt good. **Tue** - good run outside. **Wed** - press was moderate/heavy; didn't quite lock out the very last rep. **Thur** - good cardio session. **Fri** - good run. **Sat** - good workout; felt pretty strong in the morning; bench was moderate; OHP was also moderate. **Sun** - good workout; pullups felt strong. **Recap** - good week. Total number of sets: 51. Total number of workouts in April: 30.
@@ -58,7 +59,7 @@
 04.20 ***`Cardio  `*** **elpt:** 10 min  
 04.19 ***`Misc    `*** **elpt:** 10 min • **pullups:** 50x5x4 • **farmer's walk:** 200x4 • **str-arm pulldown:** 80x15x3 • **machine row:** 235x15x3  
 04.18 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
-04.17 ***`Upper   `*** **elpt:** 10 min • **shoulder press-smith** 150x10x3 • **lat pulldown:** 190x12x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
+04.17 ***`Upper   `*** **elpt:** 10 min • **shoulder press-smith:** 150x10x3 • **lat pulldown:** 190x12x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
 04.16 ***`Cardio  `*** **elpt:** 20 min  
 04.15 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 90x10x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
 **Mon** - good workout. **Tue** - good cardio session. **Wed** - decent workout despite not feeling my strongest in the morning. **Thur** - good cardio session. **Fri** - heavy pullups felt good; alternate between heavier and lighter weights. **Sat** - didn't feel great. **Sun** - didn't feel great. **Recap** - OK week. Total number of sets: 40.
@@ -74,7 +75,7 @@
 
 04.07 ***`Upper   `*** **run:** 1m • **DB bench press:** 90x23 • **BB row:** 175x12x4 • **DB row-sngl:** 90x15x4  
 04.06 ***`Cardio  `*** **elpt:** 20 min  
-04.05 ***`Upper   `*** **elpt:** 10 min • **shoulder press-smith** 140x10x3 • **lat pulldown:** 190x12x3 • **cable x-over:** 15x3  
+04.05 ***`Upper   `*** **elpt:** 10 min • **shoulder press-smith:** 140x10x3 • **lat pulldown:** 190x12x3 • **cable x-over:** 15x3  
 04.04 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 04.03 ***`Lower   `*** **elpt:** 10 min • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x2 • **DB lunge:** 50x20x2  
 04.02 ***`Cardio  `*** **run:** 2m  
