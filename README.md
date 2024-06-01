@@ -5,7 +5,7 @@
 
 *****
 
-05.31 ***`Misc    `*** **run:** 1m • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3 • **farmer's walk:** 225x45sx3  
+05.31 ***`Upper   `*** **run:** 1m • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3 • **farmer's walk:** 225x45sx3  
 05.30 ***`Upper   `*** **run:** 1m • **pullups:** 10x2, 25x7x2  
 05.29 ***`Upper   `*** **run:** 0.75m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 190x12x4 • **machine row:** 250x15x4  
 05.28 ***`Cardio  `*** **run:** 1m • **cable crunch:** 20x5  
