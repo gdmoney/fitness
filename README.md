@@ -5,8 +5,9 @@
 
 *****
 
+06.04 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 06.03 ***`Lower   `*** **run:** 1m • **leg press:** 420x12x3 • **back extn:** 90x12x3 • **DB lunge:** 50x20x3  
-**Mon** - decent workout at the Wynn gym. **Tue** - 
+**Mon** - decent workout at the Wynn gym. **Tue** - decent workout. **Wed** - 
 
 06.02 ***`Misc    `*** **elpt:** 15 min
 06.01 ***`Cardio  `*** **run:** 1m  
