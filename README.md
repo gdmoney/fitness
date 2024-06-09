@@ -5,10 +5,13 @@
 
 *****
 
+06.08 ***`Upper   `*** **elpt:** 10 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
+06.07 ***`Cardio  `*** **run:** 1m  
+06.06 ***`Upper   `***  
 06.05 ***`Upper   `*** **run:** 1m • **shoulder press-smith:** 160x10x3 • **lat pulldown:** 190x12x3 • **pec fly machine:** 250x15x3  
 06.04 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 06.03 ***`Lower   `*** **run:** 1m • **leg press:** 420x12x3 • **back extn:** 90x12x3 • **DB lunge:** 50x20x3  
-**Mon** - decent workout at the Wynn gym. **Tue** - decent workout. **Wed** - mediocre workout; didn't feel great in the morning; pec fly felt good. **Thur** - 
+**Mon** - decent workout at the Wynn gym. **Tue** - decent workout. **Wed** - mediocre workout; didn't feel great in the morning; pec fly felt good. **Thur** - first missed workout of the year. **Fri** - mediocre run. **Sat** - good workout to get back into the flow after five days of Vegas festivities; pullups and x-over both felt strong; maybe taking a rest day helped. **Sun** - 
 
 06.02 ***`Cardio  `*** **elpt:** 15 min  
 06.01 ***`Cardio  `*** **run:** 1m  
