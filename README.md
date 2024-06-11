@@ -5,8 +5,9 @@
 
 *****
 
+06.11 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x5  
 06.10 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x3 • **DB lunge:** 52x20x2 • **DB lunge-rvs:** 52x20x2  
-**Mon** - good workout; squat was moderate/heavy. **Tue** - 
+**Mon** - good workout; squat was moderate/heavy. **Tue** - good outdoor run. **Wed** - 
 
 06.09 ***`Cardio  `*** **run:** 2m  
 06.08 ***`Upper   `*** **elpt:** 10 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
