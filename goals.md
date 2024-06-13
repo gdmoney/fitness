@@ -14,7 +14,7 @@
 - [ ]  SSB squat:   250x10
 - [ ]  SSB squat:   280x05
 - [ ]  Pullups-wtd:  25x15
-- [ ]  Pullups-wtd:  50x10
+- [ ]  Pullups-wtd:  50x10
 
 *****
 
