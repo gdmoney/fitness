@@ -5,12 +5,13 @@
 
 *****
 
+06.15 ***`Cardio  `*** **run:** 1m  
 06.14 ***`Upper   `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 15x4  
 06.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 90x15x3 • **upright row:** 75x12x3 • **BB curl-rvs:** 75x10x3  
 06.12 ***`Cardio  `*** **run:** 1m  
 06.11 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x5  
 06.10 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x3 • **DB lunge:** 52x20x2 • **DB lunge-rvs:** 52x20x2  
-**Mon** - good workout; squat was moderate/heavy. **Tue** - good outdoor run. **Wed** - didn't feel good. **Thur** - didn't feel strong in the morning; OHP was moderate/heavy; first time doing upright row and reverse curl in a long time; hopefully it doesn't aggravate my shoulders. **Fri** - good workout; felt strong in the morning. **Sat** - 
+**Mon** - good workout; squat was moderate/heavy. **Tue** - good outdoor run. **Wed** - didn't feel good. **Thur** - didn't feel strong in the morning; OHP was moderate/heavy; first time doing upright row and reverse curl in a long time; hopefully it doesn't aggravate my shoulders. **Fri** - good workout; felt strong in the morning. **Sat** - decent run. **Sun** - 
 
 06.09 ***`Cardio  `*** **run:** 2m  
 06.08 ***`Upper   `*** **elpt:** 10 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
