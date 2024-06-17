@@ -5,13 +5,14 @@
 
 *****
 
+06.16 ***`Upper   `*** **elpt:** 10 min • **bench press:** 225x10x3, 9  
 06.15 ***`Cardio  `*** **run:** 1m  
 06.14 ***`Upper   `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 15x4  
 06.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 90x15x3 • **upright row:** 75x12x3 • **BB curl-rvs:** 75x10x3  
 06.12 ***`Cardio  `*** **run:** 1m  
 06.11 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x5  
 06.10 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x3 • **DB lunge:** 52x20x2 • **DB lunge-rvs:** 52x20x2  
-**Mon** - good workout; squat was moderate/heavy. **Tue** - good outdoor run. **Wed** - didn't feel good. **Thur** - didn't feel strong in the morning; OHP was moderate/heavy; first time doing upright row and reverse curl in a long time; hopefully it doesn't aggravate my shoulders. **Fri** - good workout; felt strong in the morning. **Sat** - decent run outdoors. **Sun** - 
+**Mon** - good workout; squat was moderate/heavy. **Tue** - good outdoor run. **Wed** - didn't feel good. **Thur** - didn't feel strong in the morning; OHP was moderate/heavy; first time doing upright row and reverse curl in a long time; hopefully it doesn't aggravate my shoulders. **Fri** - good workout; felt strong in the morning. **Sat** - decent run outdoors. **Sun** - bench was moderate heavy; didn't want to risk the last rep without safeties. **Recap** - OK week. Total number of sets: 48.
 
 06.09 ***`Cardio  `*** **run:** 2m  
 06.08 ***`Upper   `*** **elpt:** 10 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
@@ -20,7 +21,7 @@
 06.05 ***`Upper   `*** **run:** 1m • **shoulder press-smith:** 160x10x3 • **lat pulldown:** 190x12x3 • **pec fly machine:** 250x15x3  
 06.04 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
 06.03 ***`Lower   `*** **run:** 1m • **leg press:** 420x12x3 • **back extn:** 90x12x3 • **DB lunge:** 50x20x3  
-**Mon** - decent workout at the Wynn gym. **Tue** - decent workout. **Wed** - mediocre workout; didn't feel great in the morning; pec fly felt good. **Thur** - first missed workout of the year. **Fri** - mediocre run. **Sat** - good workout to get back into the flow after five days of Vegas festivities; pullups and x-over both felt strong; maybe taking a rest day helped. **Sun** - good outdoor run. **Recap** - mediocre week hampered by travel but still managed to get 3 good sessions in. Total number of sets: 36
+**Mon** - decent workout at the Wynn gym. **Tue** - decent workout. **Wed** - mediocre workout; didn't feel great in the morning; pec fly felt good. **Thur** - first missed workout of the year. **Fri** - mediocre run. **Sat** - good workout to get back into the flow after five days of Vegas festivities; pullups and x-over both felt strong; maybe taking a rest day helped. **Sun** - good outdoor run. **Recap** - mediocre week hampered by travel but still managed to get 3 good sessions in. Total number of sets: 36.
 
 06.02 ***`Cardio  `*** **elpt:** 15 min  
 06.01 ***`Cardio  `*** **run:** 1m  
