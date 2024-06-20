@@ -5,10 +5,11 @@
 
 *****
 
+06.20 ***`Upper   `*** **run:** 1m • **shoulder press-mchn:** 10x3 • **lat pulldown:** 12x3 • **machine row:** 15x3  
 06.19 ***`Lower   `*** **run:** 1m • **leg press:** 390x10x4 • **leg extension:** 10x4 • **leg curl:** 10x4  
 06.18 ***`Cardio  `*** **run:** 2m  
 06.17 ***`        `***   
-**Mon** - felt sick and took the day off. **Tue** - good outdoor run. **Wed** - good workout at the Terranea gym. **Thur** - 
+**Mon** - felt sick and took the day off. **Tue** - good outdoor run. **Wed** - good workout at the Terranea gym. **Thur** - another solid workout at the Terranea gym. **Fri** - 
 
 06.16 ***`Upper   `*** **elpt:** 10 min • **bench press:** 225x10x3, 9  
 06.15 ***`Cardio  `*** **run:** 1m  
