@@ -5,13 +5,14 @@
 
 *****
 
-06.22 ***`Misc    `*** **run:** 1m • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3 • **ab wheel:** 20x4  
+06.23 ***`Upper   `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2 • **DB OHP-sngl:** 80x10x2  
+06.22 ***`Misc    `*** **run:** 1m • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4 • **ab wheel:** 20x4  
 06.21 ***`Upper   `*** **run:** 1m • **pullups:** 25x8x3 • **cable x-over:** 15x3  
 06.20 ***`Upper   `*** **run:** 1m • **shoulder press-mchn:** 10x3 • **lat pulldown:** 12x3 • **machine row:** 15x3  
 06.19 ***`Lower   `*** **run:** 1m • **leg press:** 390x10x4 • **leg extension:** 10x4 • **leg curl:** 10x4  
 06.18 ***`Cardio  `*** **run:** 2m  
 06.17 ***`        `***   
-**Mon** - felt sick and took the day off. **Tue** - good outdoor run. **Wed** - good workout at the Terranea gym. **Thur** - another solid workout at the Terranea gym. **Fri** - didn't feel great in the morning. **Sat** - good workout. **Sun** - 
+**Mon** - felt sick and took the day off. **Tue** - good outdoor run. **Wed** - good workout at the Terranea gym. **Thur** - another solid workout at the Terranea gym. **Fri** - didn't feel great in the morning. **Sat** - good workout. **Sun** - good workout; felt strong in the morning; bench was moderate/heavy; OHP was also moderate/heavy. **Recap** - good week considering 3 days of travel. Total number of sets: 51.
 
 06.16 ***`Upper   `*** **elpt:** 10 min • **bench press:** 225x10x3, 9  
 06.15 ***`Cardio  `*** **run:** 1m  
