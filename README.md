@@ -6,7 +6,7 @@
 *****
 
 06.24 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
-**Mon** - good cardio session to start the max attempt week. **Tue** - 
+**Mon** - good cardio session to start the AMRAP week. **Tue** - 
 
 06.23 ***`Upper   `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2 • **DB OHP-sngl:** 80x10x2  
 06.22 ***`Misc    `*** **run:** 1m • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4 • **ab wheel:** 20x4  
