@@ -10,7 +10,7 @@
 | Jul - Aug - Sep  |                  |                  |                  |                  |                  |                  |
 | Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
 
-**Videos**
+**Videos**  
 Q2
 - [Bench press: 225x14](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-225x14.mp4)
 
