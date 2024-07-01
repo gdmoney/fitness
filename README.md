@@ -5,12 +5,17 @@
 
 *****
 
+07.01 ***`Cardio  `*** **run:** 1m  
+**Mon** - good run to start the week. **Tue** - 
 
+06.30 ***`Upper   `*** **run:** 1m • **pullups:** 50x8  
+06.29 ***`Cardio  `*** **run:** 1m  
+06.28 ***`Upper   `*** **run:** 1m • **bench press:** 225x14 • **DB bench press:** 100x14 • **SSB squat:** 230x12  
 06.27 ***`        `***   
 06.26 ***`Cardio  `*** **run:** 1m  
 06.25 ***`Cardio  `*** **run:** 1m  
 06.24 ***`Cardio  `*** **run:** 1m • **ab wheel:** 20x4  
-**Mon** - good cardio session to start the AMRAP week. **Tue** - good outdoor run. **Wed** - another good outdoor run. **Thur** - rest. **Fri** - 
+**Mon** - good cardio session to start the AMRAP week. **Tue** - good outdoor run. **Wed** - another good outdoor run. **Thur** - rest. **Fri** - felt pretty strong in the morning; I'm happy with 14 on the bench; DB bench felt a bit off; I should be able to get a couple more reps soon; on squat got the same number of reps but it felt a bit stronger; go up in weight. **Sat** - light cardio. **Sun** - didn't feel great in the morning but I'll take the 8. **Recap** - solid AMRAP week with 3 PRs. Total number of workouts in June: 27.
 
 06.23 ***`Upper   `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2 • **DB OHP-sngl:** 80x10x2  
 06.22 ***`Misc    `*** **run:** 1m • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4 • **ab wheel:** 20x4  
