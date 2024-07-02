@@ -5,8 +5,9 @@
 
 *****
 
+07.02 ***`Cardio  `*** **run:** 2m  
 07.01 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run to start the week. **Tue** - 
+**Mon** - good run to start the week. **Tue** - good outdoor run. **Wed** - 
 
 06.30 ***`Upper   `*** **run:** 1m • **pullups:** 50x8  
 06.29 ***`Cardio  `*** **run:** 1m  
