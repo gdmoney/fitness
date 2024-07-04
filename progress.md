@@ -13,7 +13,7 @@
 **Videos**  
 Q2
 - [Bench press: 225x14](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-225x14.mp4)
-- [BB OHP: 155x13](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-145x13.mp4)
+- [BB OHP: 155x13](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-155x13.mp4)
 
 Q1
 - [Bench press: 205x18](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-205x18.mp4)
