@@ -5,9 +5,11 @@
 
 *****
 
+07.04 ***`Upper   `*** **run:** 1m • **BB OH press** 155x13 • **DB bench press:** 90x12x4 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x12x4  
+07.03 ***`Cardio  `*** **run:** 1m  
 07.02 ***`Cardio  `*** **run:** 2m  
 07.01 ***`Cardio  `*** **run:** 1m  
-**Mon** - good run to start the week. **Tue** - good outdoor run. **Wed** - 
+**Mon** - good run to start the week. **Tue** - good outdoor run. **Wed** - decided to rest the shoulder one more day. **Thur** - felt good but not my strongest in the morning; I should be able to get a couple more next time. **Fri** - 
 
 06.30 ***`Upper   `*** **run:** 1m • **pullups:** 50x8  
 06.29 ***`Cardio  `*** **run:** 1m  
