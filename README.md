@@ -5,12 +5,17 @@
 
 *****
 
+07.08 ***`Cardio`*** **run:** 2m  
+**Mon** - good outdoor run. **Tue** - 
+
+07.07 ***`      `***   
+07.06 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 07.05 ***`Lower `*** **run:** 1m • **Hatfield squat:** 210x10x4, 180x12x3  
 07.04 ***`Upper `*** **run:** 1m • **BB OH press** 155x13 • **DB bench press:** 90x12x4 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x12x4  
 07.03 ***`Cardio`*** **run:** 1m  
 07.02 ***`Cardio`*** **run:** 2m  
 07.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run to start the week. **Tue** - good outdoor run. **Wed** - decided to rest the shoulder one more day. **Thur** - felt good but not my strongest in the morning; I should be able to get a couple more next time. **Fri** - Hatfield squat felt good; felt it in the legs much more than a regular squat. **Sat** - 
+**Mon** - good run to start the week. **Tue** - good outdoor run. **Wed** - decided to rest the shoulder one more day. **Thur** - felt good but not my strongest in the morning; I should be able to get a couple more next time. **Fri** - Hatfield squat felt good; felt it in the legs much more than a regular squat. **Sat** - good workout. **Sun** - rest after previous night's festivities. **Recap** - OK week; only got 3 resistance days in but they we all solid. Total number of sets: 30.
 
 06.30 ***`Upper `*** **run:** 1m • **pullups:** 50x8  
 06.29 ***`Cardio`*** **run:** 1m  
