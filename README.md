@@ -5,8 +5,10 @@
 
 *****
 
+07.10 ***`Cardio`*** **elpt:** 15 min
+07.09 ***`      `***   
 07.08 ***`Cardio`*** **run:** 2m  
-**Mon** - good outdoor run. **Tue** - 
+**Mon** - good outdoor run. **Tue** - was sick as a dog. **Wed** - good cardio session. **Thur** - 
 
 07.07 ***`      `***   
 07.06 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
