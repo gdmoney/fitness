@@ -5,7 +5,7 @@
 
 *****
 
-07.10 ***`Cardio`*** **elpt:** 15 min
+07.10 ***`Cardio`*** **elpt:** 15 min  
 07.09 ***`      `***   
 07.08 ***`Cardio`*** **run:** 2m  
 **Mon** - good outdoor run. **Tue** - was sick as a dog. **Wed** - good cardio session. **Thur** - 
