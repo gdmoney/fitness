@@ -5,10 +5,12 @@
 
 *****
 
+07.12 ***`Lower `*** **run:** 2m • **Hatfield squat:** 210x12x4, 180x15x3  
+07.11 ***`Cardio`*** **run:** 1m  
 07.10 ***`Cardio`*** **elpt:** 15 min  
 07.09 ***`      `***   
 07.08 ***`Cardio`*** **run:** 2m  
-**Mon** - good outdoor run. **Tue** - was sick as a dog. **Wed** - good cardio session. **Thur** - 
+**Mon** - good outdoor run. **Tue** - was sick as a dog. **Wed** - good cardio session. **Thur** - didn't feel great. **Fri** - felt strong in the morning; squat was moderate; go up in weight next week. **Sat** - 
 
 07.07 ***`      `***   
 07.06 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
