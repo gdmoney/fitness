@@ -5,13 +5,14 @@
 
 *****
 
+07.14 ***`Upper `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 07.13 ***`Upper `*** **elpt:** 10 min • **BB OH press:** 155x10x2 • **bench press:** 225x10x2 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x3 • **upright row:** 75x12x3  
 07.12 ***`Lower `*** **run:** 2m • **Hatfield squat:** 210x12x4, 180x15x3  
 07.11 ***`Cardio`*** **run:** 1m  
 07.10 ***`Cardio`*** **elpt:** 15 min  
 07.09 ***`      `***   
 07.08 ***`Cardio`*** **run:** 2m  
-**Mon** - good outdoor run. **Tue** - was sick as a dog. **Wed** - good cardio session. **Thur** - didn't feel great. **Fri** - felt strong in the morning; squat was moderate; go up in weight next week. **Sat** - didn't feel my strongest in the morning but a decent workout overall. **Sun** - 
+**Mon** - good outdoor run. **Tue** - was sick as a dog. **Wed** - good cardio session. **Thur** - didn't feel great. **Fri** - felt strong in the morning; squat was moderate; go up in weight next week. **Sat** - didn't feel my strongest in the morning but a decent workout overall. **Sun** - felt strong in the morning after sleeping better. **Recap** - OK week; started out slow but finished strong. Total number of sets: 35.
 
 07.07 ***`      `***   
 07.06 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
