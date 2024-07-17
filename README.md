@@ -5,6 +5,11 @@
 
 *****
 
+07.17 ***`Cardio`*** **run:** 2m  
+07.16 ***`Cardio`*** **run:** 2m  
+07.15 ***`Cardio`*** **elpt:** 10 min  
+**Mon** - cardio felt good. **Tue** - good outdoor run. **Wed** - another good ourdoor run. **Thur** - 
+
 07.14 ***`Upper `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 07.13 ***`Upper `*** **elpt:** 10 min • **BB OH press:** 155x10x2 • **bench press:** 225x10x2 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x3 • **upright row:** 75x12x3  
 07.12 ***`Lower `*** **run:** 2m • **Hatfield squat:** 210x12x4, 180x15x3  
