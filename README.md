@@ -5,9 +5,10 @@
 
 *****
 
-07.23 ***`Cardio`*** **run:** 2m  
-07.22 ***`Cardio`*** **run:** 1m  
-**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - 
+07.24 ***`Lower `*** **run:** 1m • **Hatfield squat:** 230x10x4, 180x15x3  
+07.23 ***`Cardio`*** **run:** 1m  
+07.22 ***`Cardio`*** **run:** 2m  
+**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - squat was moderate/heavy; stick with this weight for now. **Thur** - 
 
 07.21 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 07.20 ***`Cardio`*** **run:** 1m  
