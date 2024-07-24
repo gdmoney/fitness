@@ -5,8 +5,9 @@
 
 *****
 
+07.23 ***`Cardio`*** **run:** 2m  
 07.22 ***`Cardio`*** **run:** 1m  
-**Mon** - good outdoor run. **Tue** - 
+**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - 
 
 07.21 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 07.20 ***`Cardio`*** **run:** 1m  
