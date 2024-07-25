@@ -5,10 +5,11 @@
 
 *****
 
+07.25 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **TBD:**  
 07.24 ***`Lower `*** **run:** 1m • **Hatfield squat:** 230x10x4, 180x15x3  
 07.23 ***`Cardio`*** **run:** 1m  
 07.22 ***`Cardio`*** **run:** 2m  
-**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - squat was moderate/heavy; stick with this weight for now. **Thur** - 
+**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - squat was moderate/heavy; stick with this weight for now. **Thur** - OHP was moderate/heavy with good form. **Fri** - 
 
 07.21 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 07.20 ***`Cardio`*** **run:** 1m  
