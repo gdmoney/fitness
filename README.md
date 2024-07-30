@@ -5,7 +5,7 @@
 
 *****
 
-07.30 ***`Cardio`*** **swim:** 500y
+07.30 ***`Cardio`*** **swim:** 500y  
 07.29 ***`Cardio`*** **run:** 2m  
 **Mon** good outdoor run. **Tue** - nice swim at the Terranea pool; first swim in almost a year. **Wed** - 
 
