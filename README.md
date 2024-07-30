@@ -5,13 +5,18 @@
 
 *****
 
+07.30 ***`Cardio`*** **swim:** 500y
+07.29 ***`Cardio`*** **run:** 2m  
+**Mon** good outdoor run. **Tue** - nice swim at the Terranea pool; first swim in almost a year. **Wed** - 
+
+07.28 ***`Upper `*** **run:** 1m • **bench press** 225x10x2,9,7 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x12x4 • **farmer's walk:** 225x45sx3  
 07.27 ***`Upper `*** **run:** 1m • **pullups:** 12x5  
 07.26 ***`Cardio`*** **run:** 1m  
 07.25 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **TBD:**  
 07.24 ***`Lower `*** **run:** 1m • **Hatfield squat:** 230x10x4, 180x15x3  
 07.23 ***`Cardio`*** **run:** 1m  
 07.22 ***`Cardio`*** **run:** 2m  
-**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - squat was moderate/heavy; stick with this weight for now. **Thur** - OHP was moderate/heavy with good form. **Fri** - didn't feel great. **Sat** - BW pullups felt strong. **Sun** - 
+**Mon** - good outdoor run. **Tue** - another good outdoor run. **Wed** - squat was moderate/heavy; stick with this weight for now. **Thur** - OHP was moderate/heavy with good form. **Fri** - didn't feel great. **Sat** - BW pullups felt strong. **Sun** - bench felt heavy; need to start doing it more consisently. **Recap** - decent week. Total number of sets: 33.
 
 07.21 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 07.20 ***`Cardio`*** **run:** 1m  
