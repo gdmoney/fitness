@@ -5,13 +5,14 @@
 
 *****
 
+08.04 ***`Upper `*** **run:** 1m • **bench press** 225x10x3 • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4 • **farmer's walk:** 225x45sx3  
 08.03 ***`Upper `*** **run:** 1m • **pullups:** 50x5x4 • **cable x-over:** 12x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **DB bench press:** 90x12x3  
 08.01 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 07.31 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x2, 180x10x2 • **Hatfield squat:** 230x10x2, 180x12x2 • **DB lunge:** 52x20x2  
 07.30 ***`Cardio`*** **swim:** 500y  
 07.29 ***`Cardio`*** **run:** 2m  
-**Mon** good outdoor run. **Tue** - first swim in almost a year; was tired all day. **Wed** - good leg workout. **Thur** - didn't feel great. **Fri** - good workout; OHP was moderate/heavy but felt better than last week; bench was also moderate/heavy. **Sat** - good workout; pullups felt strong. **Sun** - 
+**Mon** good outdoor run. **Tue** - first swim in almost a year; was tired all day. **Wed** - good leg workout. **Thur** - didn't feel great. **Fri** - good workout; OHP was moderate/heavy but felt better than last week; bench was also moderate/heavy. **Sat** - good workout; pullups felt strong. **Sun** - good workout; felt strong mid morning; bench was moderate/heavy and felt lighter than last week. **Recap** - good week with 4 solid workouts, 2 days of travel notwithstanding. Total number of sets: 51. Total number of workouts in July: 31.
 
 07.28 ***`Upper `*** **run:** 1m • **bench press** 225x10x2,9,7 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x12x4 • **farmer's walk:** 225x45sx3  
 07.27 ***`Upper `*** **run:** 1m • **pullups:** 12x5  
