@@ -5,6 +5,10 @@
 
 *****
 
+08.06 ***`Cardio`*** **elpt:** 20 min
+08.05 ***`Cardio`*** **run:** 1m  
+**Mon** - didn't feel great. **Tue** - good elliptical session; hardest one to date. **Wed** - 
+
 08.04 ***`Upper `*** **run:** 1m • **bench press** 225x10x3 • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4 • **farmer's walk:** 225x45sx3  
 08.03 ***`Upper `*** **run:** 1m • **pullups:** 50x5x4 • **cable x-over:** 12x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **DB bench press:** 90x12x3  
