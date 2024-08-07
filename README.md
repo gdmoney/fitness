@@ -5,7 +5,7 @@
 
 *****
 
-08.06 ***`Cardio`*** **elpt:** 20 min
+08.06 ***`Cardio`*** **elpt:** 20 min  
 08.05 ***`Cardio`*** **run:** 1m  
 **Mon** - didn't feel great. **Tue** - good elliptical session; hardest one to date. **Wed** - 
 
