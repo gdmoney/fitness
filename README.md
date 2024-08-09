@@ -5,9 +5,10 @@
 
 *****
 
+08.07 ***`Lower `*** **run:** 1m • **SSB squat:** 220x8x2, 180x10x2 • **Hatfield squat:** 240x10x2, 180x12x2  
 08.06 ***`Cardio`*** **elpt:** 20 min  
 08.05 ***`Cardio`*** **run:** 1m  
-**Mon** - didn't feel great. **Tue** - good elliptical session; hardest one to date. **Wed** - 
+**Mon** - didn't feel great. **Tue** - good elliptical session; hardest one to date. **Wed** - felt strong in the evening; squat was moderate/heavy. **Thur** - 
 
 08.04 ***`Upper `*** **run:** 1m • **bench press** 225x10x3 • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4 • **farmer's walk:** 225x45sx3  
 08.03 ***`Upper `*** **run:** 1m • **pullups:** 50x5x4 • **cable x-over:** 12x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
