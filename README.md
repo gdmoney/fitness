@@ -5,14 +5,14 @@
 
 *****
 
-08.18 ***`Upper `*** **run:** 1m • **bench press** 235x10x3 • **DB OHP-sngl:** 80x10x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
+08.18 ***`Upper `*** **run:** 1m • **bench press** 235x8x4 • **DB OHP-sngl:** 80x10x3 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 08.17 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.16 ***`Upper `*** **run:** 1m • **BB OH press:** 160x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4 • **farmer's walk:** 225x45sx3  
 08.15 ***`Cardio`*** **run:** 1m  
 08.14 ***`Cardio`*** **run:** 1m  
 08.13 ***`Lower `*** **run:** 1m • **DB lunge:** 70x20x4 • **DB lunge-rvs:** 52x20x4  
 08.12 ***`Cardio`*** **run:** 1m  
-**Mon** - good outdoor run. **Tue** - good workout; had a slight back ache so skipped the squat. **Wed** - travel day. **Thur** - good run. **Fri** - felt strong in the evening despite feeling tired and sleepy in the afternoon; OHP was moderate/heavy with good form; bench was moderate. **Sat** - good workout. **Sun** - 
+**Mon** - good outdoor run. **Tue** - good workout; had a slight back ache so skipped the squat. **Wed** - travel day. **Thur** - good run. **Fri** - felt strong in the evening despite feeling tired and sleepy in the afternoon; OHP was moderate/heavy with good form; bench was moderate. **Sat** - good workout. **Sun** - good workout; felt strong mid-morning; bench and OHP were both moderate. **Recap** - good week, slow start notwithstanding. Total number of sets: 49.
 
 08.11 ***`Upper `*** **run:** 1m • **bench press** 225x10x3 • **DB OHP-sngl:** 70x10x4 • **farmer's walk:** 225x45sx3  
 08.10 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4  
