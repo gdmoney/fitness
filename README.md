@@ -5,6 +5,7 @@
 
 *****
 
+08.18 ***`Upper `*** **run:** 1m • **bench press** 235x10x3 • **DB OHP-sngl:** 80x10x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 08.17 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.16 ***`Upper `*** **run:** 1m • **BB OH press:** 160x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4 • **farmer's walk:** 225x45sx3  
 08.15 ***`Cardio`*** **run:** 1m  
