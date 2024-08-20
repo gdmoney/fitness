@@ -5,6 +5,10 @@
 
 *****
 
+08.20 ***`Lower `*** **run:** 1m • **SSB squat:** 220x8x2, 170x10x2 • **Hatfield squat:** 240x10x2, 190x12x2  
+08.19 ***`Cardio`*** **run:** 1m  
+**Mon** good outdoor run. **Tue** - good workout; felt strong in the morning after sleeping well. **Wed** - 
+
 08.18 ***`Upper `*** **run:** 1m • **bench press** 235x8x4 • **DB OHP-sngl:** 80x10x3 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 08.17 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.16 ***`Upper `*** **run:** 1m • **BB OH press:** 160x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4 • **farmer's walk:** 225x45sx3  
