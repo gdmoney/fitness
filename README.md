@@ -5,7 +5,7 @@
 
 *****
 
-08.26 ***`Lower `*** **run:** 1m • **leg press:** 390x10x4 • **leg extension:** 10x4 • **leg curl:** 10x4  
+08.26 ***`Lower `*** **run:** 1m • **leg press:** 390x12x4 • **leg extension:** 15x4 • **leg curl:** 12x4  
 **Mon** - good workout at the Terranea gym. **Tue** - 
 
 08.25 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **lat pulldown:** 12x4  
