@@ -5,6 +5,9 @@
 
 *****
 
+09.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4  
+**Mon** - good workout to get back into the rhythm. **Tue** - 
+
 09.01 ***`Cardio`*** **run:** 1m  
 08.31 ***`Cardio`*** **elpt:** 15 min  
 08.30 ***`Cardio`*** **run:** 1m  
