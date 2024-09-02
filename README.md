@@ -5,12 +5,14 @@
 
 *****
 
+09.01 ***`Cardio`*** **run:** 1m  
+08.31 ***`Cardio`*** **elpt:** 15 min  
 08.30 ***`Cardio`*** **run:** 1m  
 08.29 ***`      `***   
 08.28 ***`Cardio`*** **elpt:** 10 min  
 08.27 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 08.26 ***`Lower `*** **run:** 1m • **leg press:** 390x12x4 • **leg extension:** 15x4 • **leg curl:** 12x4  
-**Mon** - good workout at the Terranea gym. **Tue** - 5 am treadmill run. **Wed** - was short on time in the morning. **Thur** - sick. **Fri** - felt a little better but still under the weather. **Sat** - 
+**Mon** - good workout at the Terranea gym. **Tue** - 5 am treadmill run. **Wed** - was short on time in the morning. **Thur** - sick. **Fri** - felt a little better but still under the weather. **Sat** - good elliptical session. **Sun** - only managed to get cardio in. **Recap** - poor week hampered by travel and illness. Total number of sets: 16. Total number of workouts in August: 30.
 
 08.25 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **lat pulldown:** 12x4  
 08.24 ***`Cardio`*** **run:** 1m  
