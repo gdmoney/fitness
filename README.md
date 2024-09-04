@@ -5,8 +5,9 @@
 
 *****
 
+09.03 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
 09.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4  
-**Mon** - good workout to get back into the rhythm. **Tue** - 
+**Mon** - good workout to get back into the rhythm. **Tue** - good workout at the office gym. **Wed** - 
 
 09.01 ***`Cardio`*** **run:** 1m  
 08.31 ***`Cardio`*** **elpt:** 15 min  
