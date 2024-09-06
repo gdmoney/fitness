@@ -5,11 +5,12 @@
 
 *****
 
+09.06 ***`Upper `*** **run:** 1m • **ab wheel:** 20x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 09.05 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x4 • **cable x-over:** 15x3 • **tri pushdown:** 20x3 • **machine row:** 15x2  
 09.04 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 09.03 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
 09.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4  
-**Mon** - good workout to get back into the rhythm. **Tue** - good workout at the office gym. **Wed** - start doing the ab wheel twice a week. **Thur** - good lunchtime workout. **Fri** - 
+**Mon** - good workout to get back into the rhythm. **Tue** - good workout at the office gym. **Wed** - start doing the ab wheel twice a week. **Thur** - good lunchtime workout. **Fri** - good workout. **Sat** - 
 
 09.01 ***`Cardio`*** **run:** 1m  
 08.31 ***`Cardio`*** **elpt:** 15 min  
@@ -29,7 +30,7 @@
 08.19 ***`Cardio`*** **run:** 1m  
 **Mon** good outdoor run. **Tue** - good workout; felt strong in the morning after sleeping well. **Wed** - decent workout; OHP felt heavier than last week. **Thur** - good workout. **Fri** - good treadmill run at the Terranea gym. **Sat** - same as yesterday. **Sun** - decent workout. **Recap** - good week, travel notwithstanding. Total number of sets: 41.
 
-08.18 ***`Upper `*** **run:** 1m • **bench press** 235x8x4 • **DB OHP-sngl:** 80x10x3 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
+08.18 ***`Upper `*** **run:** 1m • **bench press:** 235x8x4 • **DB OHP-sngl:** 80x10x3 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 08.17 ***`Upper `*** **run:** 1m • **pullups:** 50x5x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.16 ***`Upper `*** **run:** 1m • **BB OH press:** 160x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4 • **farmer's walk:** 225x45sx3  
 08.15 ***`Cardio`*** **run:** 1m  
@@ -38,7 +39,7 @@
 08.12 ***`Cardio`*** **run:** 1m  
 **Mon** - good outdoor run. **Tue** - good workout; had a slight back ache so skipped the squat. **Wed** - travel day. **Thur** - good run. **Fri** - felt strong in the evening despite feeling tired and sleepy in the afternoon; OHP was moderate/heavy with good form; bench was moderate. **Sat** - good workout. **Sun** - good workout; felt strong mid-morning; bench and OHP were both moderate. **Recap** - good week, slow start notwithstanding. Total number of sets: 49.
 
-08.11 ***`Upper `*** **run:** 1m • **bench press** 225x10x3 • **DB OHP-sngl:** 70x10x4 • **farmer's walk:** 225x45sx3  
+08.11 ***`Upper `*** **run:** 1m • **bench press:** 225x10x3 • **DB OHP-sngl:** 70x10x4 • **farmer's walk:** 225x45sx3  
 08.10 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4  
 08.09 ***`Upper `*** **elpt:** 10 min • **pullups:** 25x8x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.08 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4  
@@ -47,7 +48,7 @@
 08.05 ***`Cardio`*** **run:** 1m  
 **Mon** - didn't feel great. **Tue** - good elliptical session; hardest one to date. **Wed** - felt strong in the evening; squat was moderate/heavy. **Thur** - good workout; felt strong in the evening once again; OHP was moderate/heavy. **Fri** - decent workout despite not feeling great mid-morning. **Sat** - light workout. **Sun** - bench was moderate/heavy with better form with no bounce; OHP was light; go up to 80 next time. **Recap** - good week. Total number of sets: 49.
 
-08.04 ***`Upper `*** **run:** 1m • **bench press** 225x10x3 • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4 • **farmer's walk:** 225x45sx3  
+08.04 ***`Upper `*** **run:** 1m • **bench press:** 225x10x3 • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4 • **farmer's walk:** 225x45sx3  
 08.03 ***`Upper `*** **run:** 1m • **pullups:** 50x5x4 • **cable x-over:** 12x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 08.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **DB bench press:** 90x12x3  
 08.01 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
@@ -56,7 +57,7 @@
 07.29 ***`Cardio`*** **run:** 2m  
 **Mon** good outdoor run. **Tue** - first swim in almost a year; was tired all day. **Wed** - good leg workout. **Thur** - didn't feel great. **Fri** - good workout; OHP was moderate/heavy but felt better than last week; bench was also moderate/heavy. **Sat** - good workout; pullups felt strong. **Sun** - good workout; felt strong mid morning; bench was moderate/heavy and felt lighter than last week. **Recap** - good week with 4 solid workouts, 2 days of travel notwithstanding. Total number of sets: 51. Total number of workouts in July: 29.
 
-07.28 ***`Upper `*** **run:** 1m • **bench press** 225x10x2,9,7 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x12x4 • **farmer's walk:** 225x45sx3  
+07.28 ***`Upper `*** **run:** 1m • **bench press:** 225x10x2,9,7 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x12x4 • **farmer's walk:** 225x45sx3  
 07.27 ***`Upper `*** **run:** 1m • **pullups:** 12x5  
 07.26 ***`Cardio`*** **run:** 1m  
 07.25 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **TBD:**  
