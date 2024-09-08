@@ -5,13 +5,14 @@
 
 *****
 
+09.08 ***`Upper `*** **run:** 1m • **incline press-smith:** 180x10x4 • **DB OHP-sngl:** 80x10x3 • **tri pushdown:** 25x3 • **lat raise:** 15x3  
 09.07 ***`Cardio`*** **run:** 1m  
 09.06 ***`Misc  `*** **run:** 1m • **ab wheel:** 20x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 09.05 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x4 • **cable x-over:** 15x3 • **tri pushdown:** 20x3 • **machine row:** 15x2  
 09.04 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 09.03 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
 09.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x12x4  
-**Mon** - good workout to get back into the rhythm. **Tue** - good workout at the office gym. **Wed** - start doing the ab wheel twice a week. **Thur** - good lunchtime workout. **Fri** - good workout. **Sat** - good outdoor run. **Sun** - 
+**Mon** - good workout to get back into the rhythm. **Tue** - good workout at the office gym. **Wed** - start doing the ab wheel twice a week. **Thur** - good lunchtime workout. **Fri** - good workout. **Sat** - good outdoor run. **Sun** - good workout; press was moderate. **Recap** - good week. Total number of sets: 64.
 
 09.01 ***`Cardio`*** **run:** 1m  
 08.31 ***`Cardio`*** **elpt:** 15 min  
