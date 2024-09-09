@@ -5,6 +5,9 @@
 
 *****
 
+09.09 ***`Cardio`*** **elpt:** 10 min  
+**Mon** - good elliptical session. **Tue** - 
+
 09.08 ***`Upper `*** **run:** 1m • **incline press-smith:** 180x10x4 • **DB OHP-sngl:** 80x10x3 • **tri pushdown:** 25x3 • **lat raise:** 15x3  
 09.07 ***`Cardio`*** **run:** 1m  
 09.06 ***`Misc  `*** **run:** 1m • **ab wheel:** 20x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
