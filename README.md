@@ -5,9 +5,10 @@
 
 *****
 
+09.18 ***`Upper `*** **run:** 1m • **BB OH press:** 165x8x4 • **DB row-sngl:** 95x15x3 • **DB bench press:** 90x12x3  
 09.17 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
 09.16 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
-**Mon** - didn't feel great after sleeping poorly. **Tue** - good outdoor run. **Wed** - 
+**Mon** - didn't feel great after sleeping poorly. **Tue** - good outdoor run. **Wed** - felt strong at lunchtime; OHP felt good and was moderate/heavy with good form. **Thur** - 
 
 09.15 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **DB OHP-sngl:** 80x10x4 • **farmer's walk:** 225x45sx4  
 09.14 ***`Cardio`*** **elpt:** 15 min  
