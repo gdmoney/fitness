@@ -5,6 +5,9 @@
 
 *****
 
+09.23 ***`Upper `*** **run:** 1m • **BB OH press:** 165x8x4 • **DB row-sngl:** 95x15x4 • **DB bench press:** 95x12x4  
+**Mon** - felt strong at lunchtime; OHP was only moderate and even lighter than last week; bench was also moderate. **Tue** - 
+
 09.22 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 09.21 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 09.20 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 80x12x4 • **upright row:** 80x15x4 • **lat raise:** 15x4  
