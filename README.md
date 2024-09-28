@@ -5,12 +5,13 @@
 
 *****
 
+09.28 ***`Upper `*** **elpt:** 15 min • **BB curl-rvs:** 12x3 • **upright row:** 15x3 • **lat raise:** 15x3  
 09.27 ***`Upper `*** **run:** 1m • **pullups:** 10x7 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 09.26 ***`      `***   
 09.25 ***`Cardio`*** **run:** 1m
 09.24 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2 • **DB lunge-rvs:** 55x20x2  
 09.23 ***`Upper `*** **run:** 1m • **BB OH press:** 165x8x4 • **DB row-sngl:** 95x15x4 • **DB bench press:** 95x12x4  
-**Mon** - felt strong at lunchtime; OHP was only moderate and even lighter than last week; bench was also moderate. **Tue** - good lunchtime workout. **Wed** - good morning run. **Thur** - 4:30 am call time and travel day. **Fri** - 
+**Mon** - felt strong at lunchtime; OHP was only moderate and even lighter than last week; bench was also moderate. **Tue** - good lunchtime workout. **Wed** - good morning run. **Thur** - 4:30 am call time and travel day. **Fri** - BW pullups felt strong. **Sat** - decent workout; did the cable variation on all the movements. **Sun** - 
 
 09.22 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 09.21 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
