@@ -5,6 +5,7 @@
 
 *****
 
+09.29 ***`Upper `*** **bench press:** 245x7x4  
 09.28 ***`Upper `*** **elpt:** 15 min • **BB curl-rvs:** 12x3 • **upright row:** 15x3 • **lat raise:** 15x3  
 09.27 ***`Upper `*** **run:** 1m • **pullups:** 10x7 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 09.26 ***`      `***   
