@@ -5,9 +5,10 @@
 
 *****
 
+10.02 ***`Upper `*** **run:** 1m • **BB OH press:** 165x11 • **machine row:** 250x15x3  
 10.01 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2 • **DB lunge-rvs:** 55x20x2  
 09.30 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
-**Mon** - good outdoor run. **Tue** - good workout after work. **Wed** - 
+**Mon** - good outdoor run. **Tue** - good workout after work. **Wed** - BB OHP AMRAP; ROM could've been better but I'm still happy with 11. **Thur** - 
 
 09.29 ***`Upper `*** **bench press:** 245x7x4  
 09.28 ***`Upper `*** **elpt:** 15 min • **BB curl-rvs:** 12x3 • **upright row:** 15x3 • **lat raise:** 15x3  
