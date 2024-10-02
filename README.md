@@ -5,8 +5,9 @@
 
 *****
 
+10.01 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2 • **DB lunge-rvs:** 55x20x2  
 09.30 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
-**Mon** - good outdoor run. **Tue** - 
+**Mon** - good outdoor run. **Tue** - good workout after work. **Wed** - 
 
 09.29 ***`Upper `*** **bench press:** 245x7x4  
 09.28 ***`Upper `*** **elpt:** 15 min • **BB curl-rvs:** 12x3 • **upright row:** 15x3 • **lat raise:** 15x3  
