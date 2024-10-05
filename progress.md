@@ -11,6 +11,11 @@
 | Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
 
 **Videos**  
+Q3
+- [Bench press: 245x9](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-245x9.mp4)
+- [BB OHP: 165x11](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-165x11.mp4)
+
+
 Q2
 - [Bench press: 225x14](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-225x14.mp4)
 - [BB OHP: 155x13](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-155x13.mp4)
