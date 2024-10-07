@@ -8,7 +8,7 @@
 - [ ]  Improve posture
 - [ ]  BB bench press: 225x15
 - [ ]  BB bench press: 275x05
-- [ ]  DB bench press: 100x15
+- [x]  DB bench press: 100x15
 - [x]  BB OH press: 165x10 - did 11 in October
 - [ ]  BB OH press: 185x05
 - [ ]  SSB squat:   250x10

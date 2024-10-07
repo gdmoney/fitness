@@ -5,9 +5,9 @@
 
 | Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
 | :--------------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
-| Jan - Feb - Mar  | 230x12           | **205x18**       | **90x23**        | **145x16**       | 75x10x4          | **25x12**        |
-| Apr - May - Jun  | 230x12           | **225x14**       | **100x14**       | **155x13**       | 80x10x4          | **50x8**         |
-| Jul - Aug - Sep  | 220x8x2          | **245x09**       | 95x12x4          | **165x11**       | 80x10x4          | 50x5x4           |
+| Jan - Feb - Mar  | **230x12**       | **205x18**       | **90x23**        | **145x16**       | 75x10x4          | **25x12**        |
+| Apr - May - Jun  | 230x12           | **225x14**       | 100x14           | **155x13**       | 80x10x4          | **50x8**         |
+| Jul - Aug - Sep  | 220x8x2          | **245x09**       | **100x15**       | **165x11**       | 80x10x4          | 50x5x4           |
 | Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
 
 **Videos**  
@@ -23,6 +23,7 @@ Q2
 Q3
 - [Bench press: 245x9](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-245x9.mp4)
 - [BB OHP: 165x11](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-165x11.mp4)
+- [DB bench press: 100x15](https://gd-public-bucket.s3.us-west-2.amazonaws.com/db-bench-press-100x15.mp4)
 
 *****
 
