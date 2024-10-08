@@ -6,7 +6,7 @@
 *****
 
 10.07 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the Santa Monica hotel gym. **Tue** - 
+**Mon** - good run at the Santa Monica hotel gym. **Tue** -
 
 10.06 ***`Upper `*** **run:** 1m • **DB bench press:** 100x15 • **farmer's walk:** 220x60sx3  
 10.05 ***`Upper `*** **run:** 1m • **tri pushdown:** 20x4 • **str-arm pulldown:** 20x4  
