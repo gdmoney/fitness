@@ -5,9 +5,10 @@
 
 *****
 
+10.09 ***`Lower `*** **run:** 1m • **leg press:** 12x4 • **leg extension:** 15x4 • **leg curl:** 12x4 • **pullups:** 10x1  
 10.08 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **leg raise:** 15x2    
 10.07 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the Santa Monica hotel gym. **Tue** - good workout at the hotel gym. **Wed** - 
+**Mon** - good run at the Santa Monica hotel gym. **Tue** - good workout at the hotel gym. **Wed** - another good workout at the hotel gym. **Thur** - 
 
 10.06 ***`Upper `*** **run:** 1m • **DB bench press:** 100x15 • **farmer's walk:** 220x60sx3  
 10.05 ***`Upper `*** **run:** 1m • **tri pushdown:** 20x4 • **str-arm pulldown:** 20x4  
