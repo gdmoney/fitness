@@ -5,11 +5,18 @@
 
 *****
 
+10.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 210x10x4  
+10.14 ***`Upper `*** **run:** 1m • **bench press:** 235x8x4 • **DB OHP-sngl:** 80x10x3 • **farmer's walk:** 260x45sx3  
+**Mon** - good workout; felt strong in the evening; bench was moderate/heavy; slight left shoulder ache during the movement; go up to 90 on OHP. **Tue** - good workout; first time doing squat in a long time; it was moderate/heavy. **Wed** - 
+
+10.13 ***`      `***   
+10.12 ***`Cardio`*** **run:** 1m  
+10.11 ***`Cardio`*** **run:** 1m  
 10.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **DB row-sngl:** 95x15x3 • **DB bench press:** 95x12x3 • **pullups:** 5x2  
 10.09 ***`Lower `*** **run:** 1m • **leg press:** 12x4 • **leg extension:** 15x4 • **leg curl:** 12x4 • **pullups:** 10x1  
 10.08 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **leg raise:** 15x2    
 10.07 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the Santa Monica hotel gym. **Tue** - good workout at the hotel gym. **Wed** - another good workout at the hotel gym. **Thur** - good workout back at the office gym; press started out moderate and got heavy towards the end; bench was also moderate/heavy; keep focusing on wide-grip pullups with lat engagement. **Fri** - 
+**Mon** - good run at the Santa Monica hotel gym. **Tue** - good workout at the hotel gym. **Wed** - another good workout at the hotel gym. **Thur** - good workout back at the office gym; press started out moderate and got heavy towards the end; bench was also moderate/heavy; keep focusing on wide-grip pullups with lat engagement. **Fri** - good run. **Sat** - good run. **Sun** - took a day off due to sleep deprivation. **Recap** - poor week. Total number of sets: 29.
 
 10.06 ***`Upper `*** **run:** 1m • **DB bench press:** 100x15 • **farmer's walk:** 220x60sx3  
 10.05 ***`Upper `*** **run:** 1m • **tri pushdown:** 20x4 • **str-arm pulldown:** 20x4  
