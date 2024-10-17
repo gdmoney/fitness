@@ -5,10 +5,11 @@
 
 *****
 
+10.17 ***`Upper `*** **run:** 1m • **pullups-astd:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 10.16 ***`Cardio`*** **elpt:** 15 min  
 10.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 210x10x4  
 10.14 ***`Upper `*** **run:** 1m • **bench press:** 235x8x4 • **DB OHP-sngl:** 80x10x3 • **farmer's walk:** 260x45sx3  
-**Mon** - good workout; felt strong in the evening; bench was moderate/heavy; slight left shoulder ache during the movement; go up to 90 on OHP. **Tue** - good workout; first time doing squat in a long time; it was moderate/heavy. **Wed** - felt a bit under the weather. **Thur** - 
+**Mon** - good workout; felt strong in the evening; bench was moderate/heavy; slight left shoulder ache during the movement; go up to 90 on OHP. **Tue** - good workout; first time doing squat in a long time; it was moderate/heavy. **Wed** - felt a bit under the weather. **Thur** - good workout; first time doing assisted pullups; focused on keeping the elbows out for lat engagement. **Fri** - 
 
 10.13 ***`      `***   
 10.12 ***`Cardio`*** **run:** 1m  
