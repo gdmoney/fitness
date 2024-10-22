@@ -5,6 +5,10 @@
 
 *****
 
+10.22 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x2 • **pullups-astd:** 12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **machine row:** 15x3  
+10.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
+**Mon** - good lunchtime workout. **Tue** - another good lunchtim eworkout. **Wed** - 
+
 10.20 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 100x10x4  
 10.19 ***`Cardio`*** **run:** 1m  
 10.18 ***`Upper `*** **run:** 1m • **pullups-astd:** 10x3 • **BB curl-rvs:** 80x12x3 • **upright row:** 80x15x3  
