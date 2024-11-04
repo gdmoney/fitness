@@ -5,13 +5,14 @@
 
 *****
 
+11.03 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **lat raise:** 20x3 • **BB curl-rvs:** 85x12x3 • **upright row:** 85x15x3  
 11.02 ***`Upper `*** **run:** 1m • **bench press:** 235x8x4 • **DB OHP-sngl:** 80x10x4 • **DB row-sngl:** 90x15x4 • **farmer's walk:** 260x45sx4  
 11.01 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x2, 180x10x2 • **Hatfield squat:** 230x10x2, 200x12x2 • **DB lunge:** 52x20x2 • **ab wheel:** 20x4  
 10.31 ***`      `***   
 10.30 ***`      `***   
 10.29 ***`      `***   
 10.28 ***`      `***   
-**Mon/Tue/Wed/Thur** - couldn't get any workouts in Vegas with early call times and early gym closure. **Fri** - good workout to get back in the rhythm. **Sat** - decent workout despite not feeling great; bench felt heavier than last week; farmer's walk felt surprisingly strong. **Sun** - ... **Recap** poor week hampered by travel. Total number of sets: 14+16+. Total number of workouts in October: 22.
+**Mon/Tue/Wed/Thur** - couldn't get any workouts in Vegas with early call times and early gym closure. **Fri** - good workout to get back in the rhythm. **Sat** - decent workout despite not feeling great; bench felt heavier than last week; farmer's walk felt surprisingly strong. **Sun** - good workout to at least finish the week strong. **Recap** poor week hampered by travel. Total number of sets: 48. Total number of workouts in October: 22.
 
 10.27 ***`      `***   
 10.26 ***`      `***   
