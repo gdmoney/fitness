@@ -5,13 +5,17 @@
 
 *****
 
+11.11 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
+**Mon** - good workout to start the week. **Tue** - 
+
+11.10 ***`Upper `*** **run:** 1m • **farmer's walk:** 260x45sx4  
 11.09 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x12x4 • **upright row:** 90x15x4 • **ab wheel:** 20x4  
 11.08 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 11.07 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **DB row-sngl:** 95x15x3 • **DB bench press:** 95x12x3  
 11.06 ***`Cardio`*** **elpt:** 20 min  
 11.05 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 11.04 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x3  
-**Mon** - decent workout back at the office gym. **Tue** - didn't feel great after sleeping poorly. **Wed** - good elliptical session. **Thur** - decent workout; press felt surprisingly strong; bench was moderate. **Fri** - good workout. **Sat** - light day. **Sun** - 
+**Mon** - decent workout back at the office gym. **Tue** - didn't feel great after sleeping poorly. **Wed** - good elliptical session. **Thur** - decent workout; press felt surprisingly strong; bench was moderate. **Fri** - good workout. **Sat** - light day. **Sun** - farmer's walk felt strong again; go up in weight next week. **Recap** - good week. Total number of sets: 48.
 
 11.03 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **lat raise:** 20x3 • **BB curl-rvs:** 85x12x3 • **upright row:** 85x15x3  
 11.02 ***`Upper `*** **run:** 1m • **bench press:** 235x8x4 • **DB OHP-sngl:** 80x10x4 • **DB row-sngl:** 90x15x4 • **farmer's walk:** 260x45sx4  
