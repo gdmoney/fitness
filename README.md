@@ -9,7 +9,7 @@
 11.13 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x15x4  
 11.12 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x12x3 • **upright row:** 90x15x3 • **machine row:** 235x15x3 • **cable crunch:** 20x3  
 11.11 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good workout to start the week. **Tue** - kept it light as I didn't feel great. **Wed** - OK workout; OHP felt heavy; bench was moderate. **Thur** - good elliptical session. **Fri** - 
+**Mon** - good workout to start the week. **Tue** - kept it light as I didn't feel great. **Wed** - OK workout; OHP felt heavy; bench was moderate. **Thur** - good elliptical session. **Fri** -
 
 11.10 ***`Upper `*** **run:** 1m • **farmer's walk:** 260x45sx4  
 11.09 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x12x4 • **upright row:** 90x15x4 • **ab wheel:** 20x4  
