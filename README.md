@@ -6,7 +6,7 @@
 *****
 
 11.17 ***`Upper `*** **run:** 1m • **bench press-smith:** 200x10x4 • **shoulder press-mchn:** 180x10x4 • **farmer's walk:** 260x45sx4  
-11.16 ***`Cardio`*** **run:** 1m
+11.16 ***`Cardio`*** **run:** 1m  
 11.15 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 11.14 ***`Cardio`*** **elpt:** 20 min • **ab wheel:** 20x4  
 11.13 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB row-sngl:** 100x15x4 • **DB bench press:** 90x15x4  
