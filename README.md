@@ -5,8 +5,9 @@
 
 *****
 
+11.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 11.18 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good cardio day. **Wed** - 
 
 11.17 ***`Upper `*** **run:** 1m • **bench press-smith:** 200x10x4 • **shoulder press-mchn:** 180x10x4 • **farmer's walk:** 260x45sx4  
 11.16 ***`Cardio`*** **run:** 1m  
