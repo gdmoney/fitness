@@ -18,7 +18,7 @@
 11.20 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2,155x10x2 • **machine row:** 235x15x4 • **DB bench press:** 95x15x3  
 11.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 11.18 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good workout. **Tue** - good cardio day. **Wed** - good workout; OHP felt strong; bench was moderate. **Thur** - felt under the weather. **Fri** - good cardio session despite but still felt under the weather. **Sat** - sick day. **Sun** - sick day. **Recap** - started the week strong until I got sick. Total number of sets: 28.
+**Mon** - good workout. **Tue** - good cardio day. **Wed** - good workout; OHP felt strong; bench was moderate. **Thur** - felt under the weather. **Fri** - good cardio session despite still feeling under the weather. **Sat** - sick day. **Sun** - sick day. **Recap** - started the week strong until I got sick. Total number of sets: 28.
 
 11.17 ***`Upper `*** **run:** 1m • **bench press-smith:** 200x10x4 • **shoulder press-mchn:** 180x10x4 • **farmer's walk:** 260x45sx4  
 11.16 ***`Cardio`*** **run:** 1m  
