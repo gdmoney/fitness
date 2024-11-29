@@ -5,8 +5,11 @@
 
 *****
 
+11.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
+11.27 ***`      `***   
+11.26 ***`      `***   
 11.25 ***`      `***   
-**Mon** - still sick. **Tue** - 
+**Mon/Tue/Wed** - sick. **Thur** - good workout to get back into the rhythm; felt surprisingly strong. **Fri** - 
 
 11.24 ***`      `***   
 11.23 ***`      `***   
