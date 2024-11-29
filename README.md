@@ -9,7 +9,7 @@
 11.27 ***`      `***   
 11.26 ***`      `***   
 11.25 ***`      `***   
-**Mon/Tue/Wed** - sick. **Thur** - good workout to get back into the rhythm; felt surprisingly strong. **Fri** - 
+**Mon/Tue/Wed** - sick. **Thur** - good workout to get back into the rhythm; felt surprisingly strong. **Fri** -
 
 11.24 ***`      `***   
 11.23 ***`      `***   
