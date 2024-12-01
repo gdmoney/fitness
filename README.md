@@ -5,11 +5,14 @@
 
 *****
 
+12.01 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **farmer's walk:** 260x60sx4  
+11.30 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x2  
+11.29 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x3 • **shoulder press-mchn:** 180x10x3 • **machine row:** 235x15x4 • **DB bench press:** 90x15x4  
 11.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
 11.27 ***`      `***   
 11.26 ***`      `***   
 11.25 ***`      `***   
-**Mon/Tue/Wed** - sick. **Thur** - good workout to get back into the rhythm; felt surprisingly strong. **Fri** -
+**Mon/Tue/Wed** - sick. **Thur** - good workout to get back into the rhythm; felt surprisingly strong. **Fri** - decent workout; press felt heavy. **Sat** - good workout; pullups felt strong. **Sun** - still feeling under the weather; bench was moderate/heavy; could've done 7 reps; farmer's walk felt strong. **Recap** - decent week considering the illness. Total number of sets: 44. November missed workouts: 5.
 
 11.24 ***`      `***   
 11.23 ***`      `***   
