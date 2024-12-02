@@ -5,6 +5,9 @@
 
 *****
 
+12.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
+**Mon** - decent workout despite still being under the weather. **Tue** - 
+
 12.01 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **farmer's walk:** 260x60sx4  
 11.30 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x2  
 11.29 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x3 • **shoulder press-mchn:** 180x10x3 • **machine row:** 235x15x4 • **DB bench press:** 90x15x4  
