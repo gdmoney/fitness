@@ -5,8 +5,10 @@
 
 *****
 
+12.04 ***`Upper `*** **run:** 1m • **skull crushers:** 85x12x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
+12.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 12.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
-**Mon** - decent workout despite still being under the weather. **Tue** - 
+**Mon** - decent workout despite still being under the weather. **Tue** - felt even worse. **Wed** - finally felt better in the evening after feeling sick again in the morning; skull crushers felt good. **Thur** - 
 
 12.01 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **farmer's walk:** 260x60sx4  
 11.30 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x2  
