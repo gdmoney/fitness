@@ -11,7 +11,7 @@
 12.08 ***`Cardio`*** **run:** 5m  
 12.07 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
 12.06 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2, 155x10x2 • **machine row:** 250x15x4  
-12.05 ***`Cardio`*** **run:** 1m
+12.05 ***`Cardio`*** **run:** 1m  
 12.04 ***`Upper `*** **run:** 1m • **skull crushers:** 85x12x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 12.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 12.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
