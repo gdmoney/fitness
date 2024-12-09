@@ -6,15 +6,16 @@
 *****
 
 12.09 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x2, 160x12x2  
-**Mon** - good workout; squat was moderate; go up in weight next week. **Tue** - 
+**Mon** - good workout; squat felt strong and was moderate; go up in weight next week. **Tue** - 
 
 12.08 ***`Cardio`*** **run:** 5m  
-
+12.07 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
+12.06 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2, 155x10x2 • **machine row:** 250x15x4  
 12.05 ***`Cardio`*** **run:** 1m
 12.04 ***`Upper `*** **run:** 1m • **skull crushers:** 85x12x4 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4  
 12.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 12.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
-**Mon** - decent workout despite still being under the weather. **Tue** - felt even worse. **Wed** - finally felt better in the evening after feeling sick again in the morning; skull crushers felt good. **Thur** - still felt sick. **Fri** - **Sun** - good run with Luka at the lake. **Recap** - 
+**Mon** - decent workout despite still being under the weather. **Tue** - felt even worse. **Wed** - finally felt better in the evening after feeling sick again in the morning; skull crushers felt good. **Thur** - still felt sick. **Fri** - OHP felt surprisingly strong despite the illness. **Sat** - decent workout. **Sun** - good run with Luka at the lake. **Recap** - OK week considering the lingering illness. Total number of sets: 40.
 
 12.01 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **farmer's walk:** 260x60sx4  
 11.30 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x2  
@@ -29,7 +30,7 @@
 11.23 ***`      `***   
 11.22 ***`Cardio`*** **run:** 1m • **elliptical:** 10 min  
 11.22 ***`Cardio`*** **run:** 1m • **pullups:** 10x2  
-11.20 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2,155x10x2 • **machine row:** 235x15x4 • **DB bench press:** 95x15x3  
+11.20 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2, 155x10x2 • **machine row:** 235x15x4 • **DB bench press:** 95x15x3  
 11.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 11.18 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
 **Mon** - good workout. **Tue** - good cardio day. **Wed** - good workout; OHP felt strong; bench was moderate. **Thur** - felt under the weather. **Fri** - good cardio session despite still feeling under the weather. **Sat** - sick day. **Sun** - sick day. **Recap** - started the week strong until I got sick. Total number of sets: 28.
