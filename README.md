@@ -5,8 +5,9 @@
 
 *****
 
+12.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x8x3 • **DB bench press:** 100x10x3 • **shoulder press-mchn:** 190x10x3 • **machine row:** 250x15x3  
 12.09 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x2, 160x12x2  
-**Mon** - good workout; squat felt strong and was moderate; go up in weight next week. **Tue** - 
+**Mon** - good workout; squat felt strong and was moderate; go up in weight next week. **Tue** - felt strong despite the lingering illness; OHP and bench were both moderate. **Wed** - 
 
 12.08 ***`Cardio`*** **run:** 5m  
 12.07 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
