@@ -5,9 +5,14 @@
 
 *****
 
+12.15 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **farmer's walk:** 260x60sx4 • **DB OHP-sngl:** 80x10x4 • **ab wheel:** 20x4  
+12.14 ***`      `***   
+12.13 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x3 • **pullups-astd:** 12x3 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
+12.12 ***`      `***   
+12.11 ***`Cardio`*** **run:** 1m  
 12.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x8x3 • **DB bench press:** 100x10x3 • **shoulder press-mchn:** 190x10x3 • **machine row:** 250x15x3  
 12.09 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x2, 160x12x2  
-**Mon** - good workout; squat felt strong and was moderate; go up in weight next week. **Tue** - felt strong despite the lingering illness; OHP and bench were both moderate. **Wed** - 
+**Mon** - good workout; squat felt strong and was moderate; go up in weight next week. **Tue** - felt strong despite the lingering illness; OHP and bench were both moderate. **Wed** - didn't feel great. **Thur** - felt even worse and took the day off. **Fri** - good workout. **Sat** - took the day off following the previous night's festivities. **Sun** - good workout; felt strong in the morning; bench was moderate/heavy; OHP was moderate. **Recap** - another OK week considering the lingering illness. Total number of sets: 50.
 
 12.08 ***`Cardio`*** **run:** 5m  
 12.07 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3  
