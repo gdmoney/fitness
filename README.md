@@ -5,10 +5,11 @@
 
 *****
 
+12.19 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x2 • **pullups-astd:** 12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 12.18 ***`Upper `*** **run:** 1m • **skull crushers:** 95x12x4 • **BB curl-rvs:** 95x10x4 • **upright row:** 95x12x4  
 12.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
 12.16 ***`Cardio`*** **run:** 1m  
-**Mon** - felt under the weather again and both shoulders were sore from Sunday's bench session. **Tue** - good workout; felt good. **Wed** - good workout. **Thur** - 
+**Mon** - felt under the weather again and both shoulders were sore from Sunday's bench session. **Tue** - good workout; felt good. **Wed** - good workout. **Thur** - good workout. **Fri** - 
 
 12.15 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **farmer's walk:** 260x60sx4 • **DB OHP-sngl:** 80x10x4 • **ab wheel:** 20x4  
 12.14 ***`      `***   
