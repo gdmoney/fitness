@@ -9,7 +9,7 @@
 12.18 ***`Upper `*** **run:** 1m • **skull crushers:** 95x12x4 • **BB curl-rvs:** 95x10x4 • **upright row:** 95x12x4  
 12.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
 12.16 ***`Cardio`*** **run:** 1m  
-**Mon** - felt under the weather again and both shoulders were sore from Sunday's bench session. **Tue** - good workout; felt good. **Wed** - good workout. **Thur** - good workout. **Fri** - 
+**Mon** - felt under the weather again and both shoulders were sore from Sunday's bench session. **Tue** - good workout; felt better. **Wed** - good workout. **Thur** - good workout. **Fri** - 
 
 12.15 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **farmer's walk:** 260x60sx4 • **DB OHP-sngl:** 80x10x4 • **ab wheel:** 20x4  
 12.14 ***`      `***   
@@ -577,7 +577,7 @@
 10.07 ***`        `***   
 10.06 ***`Cardio  `*** **run:** 2m  
 10.05 ***`Misc    `*** **elliptical:** 20 min  
-10.04 ***`Upper   `*** **run:** 2m • **bench press:** 155x10x4 • **BB row:** 175x12x4 • **BB OHP-sngl:** R:80x4, L:52x3  
+10.04 ***`Upper   `*** **run:** 2m • **bench press:** 155x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl:** R:80x4, L:52x3  
 10.03 ***`Cardio  `*** **run:** 1m  
 10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
 **Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - good workout; bench was light/moderate with very little left shoulder pain; OHP was moderate/heavy; left shoulder still hurt during the movement but less than before. **Thur** - good elliptical session. **Fri** - didn't feel great; kids are sick and I think they're starting to share it with me. **Sat** - rest. **Sun** - rest. **Recap** - OK week; started out strong but didn't finish great.
