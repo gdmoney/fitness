@@ -5,11 +5,17 @@
 
 *****
 
+12.23 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
+**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - 
+
+12.22 ***`Upper `*** **run:** 1m • **DB OHP-sngl:** 90x8x4 • **farmer's walk:** 260x60sx3  
+12.21 ***`Upper `*** **run:** 1m • **DB bench press:** 100x12x4  
+12.20 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 90x15x4  
 12.19 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x2 • **pullups-astd:** 12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 12.18 ***`Upper `*** **run:** 1m • **skull crushers:** 95x12x4 • **BB curl-rvs:** 95x10x4 • **upright row:** 95x12x4  
 12.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 50x20x2  
 12.16 ***`Cardio`*** **run:** 1m  
-**Mon** - felt under the weather again and both shoulders were sore from Sunday's bench session. **Tue** - good workout; felt better. **Wed** - good workout. **Thur** - good workout. **Fri** - 
+**Mon** - felt under the weather again and both shoulders were sore from Sunday's bench session. **Tue** - good workout; felt better. **Wed** - good workout. **Thur** - good workout. **Fri** - felt really strong in the morning; new PR on BB OHP for sets. **Sat** - felt good; new PR on DB bench press for sets; shoulders didn't hurt. **Sun** - felt strong; new PR on DB OHP for sets; farmer's walk aggravated both shoulders. **Recap** - good week with 3 PRs. Total number of sets: 53.
 
 12.15 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **farmer's walk:** 260x60sx4 • **DB OHP-sngl:** 80x10x4 • **ab wheel:** 20x4  
 12.14 ***`      `***   
