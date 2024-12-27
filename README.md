@@ -5,8 +5,11 @@
 
 *****
 
+12.26 ***`Cardio`*** **run:** 1m  
+12.25 ***`Cardio`*** **run:** 1m  
+12.24 ***`Cardio`*** **run:** 1m  
 12.23 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
-**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - 
+**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - 
 
 12.22 ***`Upper `*** **run:** 1m • **DB OHP-sngl:** 90x8x4 • **farmer's walk:** 260x60sx3  
 12.21 ***`Upper `*** **run:** 1m • **DB bench press:** 100x12x4  
