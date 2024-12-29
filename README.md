@@ -5,11 +5,13 @@
 
 *****
 
+12.28 ***`Upper `*** **run:** 1m • **bench press:** 225x15x1, 205x10x2, 185x12x2  
+12.27 ***`Lower `*** **run:** 1m • **SSB squat:** 250x10x1, 210x10x2, 180x12x2  
 12.26 ***`Cardio`*** **run:** 1m  
 12.25 ***`Cardio`*** **run:** 1m  
 12.24 ***`Cardio`*** **run:** 1m  
 12.23 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
-**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - 
+**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - legs felt strong; squat was heavy but the form was good; hit a new PR and the EoY squat goal. **Sat** - felt pretty strong mid-morning; hit a new PR and the EoY bench goal; minimal shoulder ache right after and none the next day. **Sun** - 
 
 12.22 ***`Upper `*** **run:** 1m • **DB OHP-sngl:** 90x8x4 • **farmer's walk:** 260x60sx3  
 12.21 ***`Upper `*** **run:** 1m • **DB bench press:** 100x12x4  
