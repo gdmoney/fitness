@@ -9,12 +9,12 @@
 - [x]  BB bench press: 225x15
 - [ ]  BB bench press: 275x05
 - [x]  DB bench press: 100x15
-- [x]  BB OH press: 165x10
-- [ ]  BB OH press: 185x05
-- [x]  SSB squat:   250x10
-- [ ]  SSB squat:   280x05
-- [ ]  Pullups-wtd:  25x15
-- [ ]  Pullups-wtd:  50x10
+- [x]  BB OH press:    165x10
+- [ ]  BB OH press:    185x05
+- [x]  SSB squat:      250x10
+- [ ]  SSB squat:      280x05
+- [ ]  Pullups-wtd:     25x15
+- [ ]  Pullups-wtd:     50x10
 
 *****
 
