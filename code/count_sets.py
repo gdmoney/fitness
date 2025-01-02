@@ -1,3 +1,5 @@
+# counts the total number of sets by adding the weekly totals
+
 import re
 
 def read_readme(file_path):
