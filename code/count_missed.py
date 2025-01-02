@@ -4,7 +4,7 @@ import re
 
 def count_missed_workouts(file_path):
     missed_workout_count = 0
-    missed_workout_pattern = re.compile(r'Missed Workouts: (\d+)')
+    missed_workout_pattern = re.compile(r'missed workouts: (\d+)')
     
     with open(file_path, 'r') as file:
         for line in file:
