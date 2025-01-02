@@ -150,13 +150,13 @@
 2024.09.16 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
 **Mon** - didn't feel great after sleeping poorly. **Tue** - good outdoor run. **Wed** - felt strong at lunchtime; OHP felt good and was moderate/heavy with good form. **Thur** - good workout. **Fri** - decent workout despite feeling a bit under the weather. **Sat** - good outdoor run. **Sun** - only managed to get cardio in. **Recap** - decent week. Total number of sets: 56.
 
-2024.09.15 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **DB OHP-sngl:** 80x10x4 • **farmer's walk:** 225x45sx4  
-2024.09.14 ***`Cardio`*** **elpt:** 15 min  
-2024.09.13 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4 • **lat raise:** 20x15x4  
-2024.09.12 ***`Upper `*** **elpt:** 10 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
-2024.09.11 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 95x15x4 • **DB bench press:** 95x12x4  
-2024.09.10 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
-2024.09.09 ***`Cardio`*** **elpt:** 10 min  
+2024.09.15 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4 • **DB OHP-sngl:** 80x10x4 • **farmer's walk:** 225x45sx4  
+2024.09.14 ***`Cardio`*** **elpt:** 15 min  
+2024.09.13 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 85x12x4 • **upright row:** 85x15x4 • **lat raise:** 20x15x4  
+2024.09.12 ***`Upper `*** **elpt:** 10 min • **pullups:** 25x8x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
+2024.09.11 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 95x15x4 • **DB bench press:** 95x12x4  
+2024.09.10 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
+2024.09.09 ***`Cardio`*** **elpt:** 10 min  
 **Mon** - good elliptical session. **Tue** - good workout. **Wed** - another good lunchtime workout; OHP was moderate and felt strong; could've done another set; bench was also moderate. **Thur** - good workout. **Fri** - good workout. **Sat** - good elliptical session. **Sun** - felt surprisingly strong late morning; bench and OHP were both moderate; farmer's walk felt strong also. **Recap** - another good week. Total number of sets: 58.
 
 2024.09.08 ***`Upper `*** **run:** 1m • **incline press-smith:** 180x10x4 • **DB OHP-sngl:** 80x10x3 • **tri pushdown:** 25x3 • **lat raise:** 15x3  
