@@ -33,4 +33,4 @@ if __name__ == "__main__":
         lines = file.readlines()
     
     total = extract_missed_workouts(lines)
-    print(f"\nTotal missed workouts in 2024: {total}")
+    print(f"\nTotal number of missed workouts in 2024: {total}")
