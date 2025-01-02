@@ -14,6 +14,6 @@ def count_missed_workouts(file_path):
     
     return missed_workout_count
 
-file_path = 'C:/Users/gdavitiani/Documents/GitHub/fitness/README.md'  # Path to your README.md file
+file_path = 'README.md'  # Path to your README.md file
 total_missed_workouts = count_missed_workouts(file_path)
 print(f'Total missed workouts: {total_missed_workouts}')
