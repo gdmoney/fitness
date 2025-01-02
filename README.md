@@ -5,7 +5,15 @@
 
 *****
 
+01.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **leg extension:** 15x4 • **leg curl:** 15x4  
+01.01 ***`      `***   
+12.31 ***`Upper `*** **run:** 1m • **BB OH press:** 175x11x1, 145x10x4  
+12.30 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - felt strong in the morning; good form and a new PR on OHP to close out the year strong. **Wed** - too the day off to recover from the previous night's festivities. **Thur** - good workout to get back into the rhythm. **Fri** - 
 
+*****
+
+## 2024
 
 12.29 ***`Cardio`*** **run:** 1m  
 12.28 ***`Upper `*** **run:** 1m • **bench press:** 225x15x1, 205x10x2, 185x12x2  
@@ -14,7 +22,7 @@
 12.25 ***`Cardio`*** **run:** 1m  
 12.24 ***`Cardio`*** **run:** 1m  
 12.23 ***`Cardio`*** **run:** 2m • **ab wheel:** 20x4  
-**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - legs felt strong; squat was heavy but the form was good; hit a new PR and the EoY squat goal. **Sat** - felt pretty strong mid-morning; hit a new PR and the EoY bench goal; minimal shoulder ache right after and none the next day. **Sun** - felt tired all day. **Recap** - good week with 2 PRs and EoY goals. Total number of sets: 10.
+**Mon** - good cardio day; shoulders felt better; ab wheel didn't aggravate. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - legs felt strong; squat was heavy but the form was good; hit a new PR and the EoY squat goal. **Sat** - felt pretty strong mid-morning; hit a new PR and the EoY bench goal; minimal shoulder ache right after and none the next day. **Sun** - felt tired all day. **Recap** - good week with 2 PRs and EoY goals. Total number of sets: 10. December missed workouts: 2.
 
 12.22 ***`Upper `*** **run:** 1m • **DB OHP-sngl:** 90x8x4 • **farmer's walk:** 260x60sx3  
 12.21 ***`Upper `*** **run:** 1m • **DB bench press:** 100x12x4  
@@ -475,9 +483,7 @@
 01.01 ***`Cardio`*** **run:** 1m  
 **Mon** - good run to start the year. **Tue** - lunge was easeir than the last time but still cardio heavy. **Wed** - OHP was moderate/heavy; stick with 145 for now; bench was light/moderate; go up to 75 next week; focused on lat engagement on lat pulldown. **Thur** - good workout. **Fri** - felt strong in the morning; squat was moderate/heavy with good form; focused on upper body tightness which seemed to help; stick to this weight for now and go up in reps. **Sat** - felt strong in the evening after a nap; bench was moderate and felt lighter than last week; row also felt lighter; OHP was moderate. **Sun** - pullups felt strong; ab wheel is effective. **Recap** - good week to start the year strong. Total number of sets: 76.
 
-*****
-
-## 2023
+ç
 
 12.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 12.30 ***`Upper   `*** **bench press:** 205x10x4 • **BB row:** 175x12x4  

@@ -3,8 +3,8 @@
 
 ### 2024
 
-- [ ]  Work out every single day of the year
-- [ ]  Stay injury free
+- [ ]  Work out every single day of the year (missed 23 days)
+- [x]  Stay injury free
 - [ ]  Improve posture
 - [x]  BB bench press: 225x15
 - [ ]  BB bench press: 275x05
@@ -15,6 +15,8 @@
 - [ ]  SSB squat:      280x05
 - [ ]  Pullups-wtd:     25x15
 - [ ]  Pullups-wtd:     50x10
+
+**Recap** - good year even though I hit only 5 goals out of 12. Not having any notable injuries was great as I was able to do all the movements throughout the year. **Highlights:** BB OHP 175 for 11 reps followed by BB bench press 225 for 15 reps. **Misses:** too many missed workouts (23). While working out every single day is not realistic due to illness, I shouldn't miss any days for any other reason. **Plans for next year:** stick with the current program as it seems to be working. Keep focusing on building a strong foundation with higher rep sets and clean form. Maintain current strength levels while losing weight.
 
 *****
 
