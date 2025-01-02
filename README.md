@@ -229,7 +229,7 @@
 2024.07.17 ***`Cardio`*** **run:** 2m  
 2024.07.16 ***`Cardio`*** **run:** 2m  
 2024.07.15 ***`Cardio`*** **elpt:** 10 min  
-**Mon** - cardio felt good. **Tue** - good outdoor run. **Wed** - another good ourdoor run. **Thur** - good outdoor run. **Fri** - good outdoor run. **Sat** - good run. **Sun** - good run. **Recap** - good cardio only week.
+**Mon** - cardio felt good. **Tue** - good outdoor run. **Wed** - another good ourdoor run. **Thur** - good outdoor run. **Fri** - good outdoor run. **Sat** - good run. **Sun** - good run. **Recap** - good cardio only week. Total number of sets: 4.
 
 2024.07.14 ***`Upper `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 2024.07.13 ***`Upper `*** **elpt:** 10 min • **BB OH press:** 155x10x2 • **bench press:** 225x10x2 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x3 • **upright row:** 75x12x3  
@@ -256,7 +256,7 @@
 2024.06.26 ***`Cardio`*** **run:** 1m  
 2024.06.25 ***`Cardio`*** **run:** 1m  
 2024.06.24 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
-**Mon** - good cardio session to start the AMRAP week. **Tue** - good outdoor run. **Wed** - another good outdoor run. **Thur** - rest. **Fri** - felt pretty strong in the morning; I'm happy with 14 on the bench; DB bench felt a bit off; I should be able to get a couple more reps soon; on squat got the same number of reps but it felt a bit stronger; go up in weight. **Sat** - light cardio. **Sun** - didn't feel great in the morning but I'll take the 8. **Recap** - solid AMRAP week with 3 PRs. June missed workouts: 3.
+**Mon** - good cardio session to start the AMRAP week. **Tue** - good outdoor run. **Wed** - another good outdoor run. **Thur** - rest. **Fri** - felt pretty strong in the morning; I'm happy with 14 on the bench; DB bench felt a bit off; I should be able to get a couple more reps soon; on squat got the same number of reps but it felt a bit stronger; go up in weight. **Sat** - light cardio. **Sun** - didn't feel great in the morning but I'll take the 8. **Recap** - solid AMRAP week with 3 PRs. Total number of sets: 8. June missed workouts: 3.
 
 2024.06.23 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2 • **DB OHP-sngl:** 80x10x2  
 2024.06.22 ***`Misc  `*** **run:** 1m • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4 • **ab wheel:** 20x4  
@@ -373,7 +373,7 @@
 2024.03.27 ***`Misc  `*** **elliptical:** 10 min • **pullups:** 25x12 • **tri pushdown:** 25x3 • **machine row:** 220x20x3  
 2024.03.26 ***`Upper `*** **elliptical:** 10 min • **BB OH press:** 145x16 • **str-arm pulldown:** 25x4 • **farmer's walk:** 200x130'x4  
 2024.03.25 ***`Cardio`*** **run:** 1m • **elliptical:** 10 min • **ab wheel:** 20x4  
-**Mon** - good cardio session. **Tue** - BB OHP AMRAP; wanted to get at least 15 so I'm happy with 16; ROM was good. **Wed** - pullups AMRAP; I'm happy with 12 with good ROM. **Thur** - SSB squat AMRAP; I was hoping for 15 but I'll take 12. **Fri** - bench AMRAP; I'm happy with 18; felt strong in the morning. **Sat** - good cardio session. **Sun** - lighter cardio session to close out the AMRAP week. **Recap** - good week and a good month. March missed workouts: 0.
+**Mon** - good cardio session. **Tue** - BB OHP AMRAP; wanted to get at least 15 so I'm happy with 16; ROM was good. **Wed** - pullups AMRAP; I'm happy with 12 with good ROM. **Thur** - SSB squat AMRAP; I was hoping for 15 but I'll take 12. **Fri** - bench AMRAP; I'm happy with 18; felt strong in the morning. **Sat** - good cardio session. **Sun** - lighter cardio session to close out the AMRAP week. **Recap** - good week and a good month. Total number of sets: 28.March missed workouts: 0.
 
 2024.03.24 ***`Misc  `*** **elliptical:** 20 min • **pullups:** 10x4 • **tri pushdown:** 25x4  
 2024.03.23 ***`Cardio`*** **elliptical:** 15 min  
