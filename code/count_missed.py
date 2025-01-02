@@ -1,4 +1,4 @@
-# counta the total number of missed workouts by adding the monthly totals
+# countw the total number of missed workouts by adding the monthly totals
 
 import re
 
