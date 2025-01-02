@@ -171,7 +171,7 @@
 2024.09.01 ***`Cardio`*** **run:** 1m  
 2024.08.31 ***`Cardio`*** **elpt:** 15 min  
 2024.08.30 ***`Cardio`*** **run:** 1m  
-2024.08.29 ***`      `***   
+2024.08.29 ***`      `***   
 2024.08.28 ***`Cardio`*** **elpt:** 10 min  
 2024.08.27 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 2024.08.26 ***`Lower `*** **run:** 1m • **leg press:** 390x12x4 • **leg extension:** 15x4 • **leg curl:** 12x4  
