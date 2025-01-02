@@ -1,55 +1,26 @@
 import re
 from datetime import datetime
 
-def parse_sets(exercise_text):
-    # Split exercises by bullet points
-    exercises = exercise_text.split('•')
+def extract_weekly_sets(lines):
     total_sets = 0
+    in_2024 = False
     
-    for exercise in exercises:
-        # Look for patterns like "x10x4", "x15x3", etc.
-        match = re.search(r'x\d+x(\d+)', exercise)
-        if match:
-            total_sets += int(match.group(1))
+    for line in lines:
+        # Check for year header to know we're in 2024 section
+        if '## 2024' in line:
+            in_2024 = True
+        elif '## 2023' in line:  # Stop when we hit 2023
+            break
+            
+        if not in_2024:
             continue
             
-        # Look for patterns like "10x3", "15x4", etc.
-        match = re.search(r'\b\d+x(\d+)', exercise)
+        # Look for "Total number of sets: N" pattern
+        match = re.search(r'Total number of sets:\s*(\d+)', line)
         if match:
-            total_sets += int(match.group(1))
+            sets = int(match.group(1))
+            total_sets += sets
             
-    return total_sets
-
-def is_2024_entry(date_str):
-    try:
-        date = datetime.strptime(date_str, '%Y.%m.%d')
-        return date.year == 2024
-    except ValueError:
-        return False
-
-def count_daily_sets(workout_line):
-    # Skip rest days or empty entries
-    if '***`      `***' in workout_line:
-        return 0
-        
-    # Split the line after the date and workout type
-    parts = workout_line.split('***')
-    if len(parts) < 3:
-        return 0
-        
-    exercises = parts[2]  # Get the exercise portion
-    return parse_sets(exercises)
-
-def count_total_sets(lines):
-    total_sets = 0
-    for line in lines:
-        # Look for date at start of line (YYYY.MM.DD)
-        date_match = re.match(r'(\d{4}\.\d{2}\.\d{2})', line)
-        if date_match:
-            date = date_match.group(1)
-            if is_2024_entry(date):
-                sets = count_daily_sets(line)
-                total_sets += sets
     return total_sets
 
 if __name__ == "__main__":
@@ -58,5 +29,5 @@ if __name__ == "__main__":
     with open(file_path, 'r') as file:
         lines = file.readlines()
     
-    total = count_total_sets(lines)
+    total = extract_weekly_sets(lines)
     print(f"Total number of sets in 2024: {total}")
