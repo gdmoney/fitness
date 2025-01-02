@@ -1,3 +1,5 @@
+# counts the total number of sets in 2024 by adding the weekly totals
+
 import re
 from datetime import datetime
 
