@@ -10,7 +10,7 @@
 2025.01.01 ***`      `***   
 2025.12.31 ***`Upper `*** **run:** 1m • **BB OH press:** 175x11x1, 145x10x4  
 2025.12.30 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - felt strong in the morning; good form and a new PR on OHP to close out the year strong. **Wed** - took the day off to recover from the previous night's festivities. **Thur** - good workout to get back into the rhythm. **Fri** - didn't feel great in the morning. **Sat** -
+**Mon** - good run. **Tue** - felt strong in the morning; good form and a new PR on OHP to close out the year strong. **Wed** - took the day off to recover from the previous night's festivities. **Thur** - good workout to get back into the rhythm. **Fri** - didn't feel great in the morning. **Sat** - 
 
 *****
 
