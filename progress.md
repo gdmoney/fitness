@@ -91,7 +91,7 @@ Q4
 | November        | 275          | 300          | 20 (3/4)     | 175          | 135          |
 | December        | 285          | 295          | 22 (3/4)     | 175          | 145          |
 
-***Videos***
+**Videos**
 - [Bench press: 300x1](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-300x1.mp4)
 
 *****
