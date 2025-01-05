@@ -1,6 +1,19 @@
 ## Goals
 
 
+### 2025
+
+- [ ]  Have fewer missed workouts than last year
+- [ ]  Stay injury free
+- [ ]  Improve posture
+- [ ]  BB bench press: 225x20
+- [ ]  DB bench press: 100x20
+- [ ]  BB OH press:    185x10
+- [ ]  SSB squat:      260x10
+- [ ]  Pullups-wtd:       TBD
+
+*****
+
 ### 2024
 
 - [ ]  Work out every single day of the year (missed 23 days)

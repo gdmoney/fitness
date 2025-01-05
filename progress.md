@@ -1,6 +1,18 @@
 ## Progress
 
 
+### 2025
+
+| Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
+| :--------------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
+| Jan - Feb - Mar  |                  |   225x10x4       |   100x10x3       |                  |                  |                  |
+| Apr - May - Jun  |                  |                  |                  |                  |                  |                  |
+| Jul - Aug - Sep  |                  |                  |                  |                  |                  |                  |
+| Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
+
+
+*****
+
 ### 2024
 
 | Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
@@ -62,6 +74,14 @@ Q4
 | Jul - Aug - Sep |              |              |              |              |              |              |
 | Oct - Nov - Dec |              |              |              |              |              |              |
 
+**Videos**
+- [Pullups: 18](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-18.mp4)
+- [Squat: 300x1](https://gd-public-bucket.s3.us-west-2.amazonaws.com/squat-300x1.mp4)
+- [Bench press: 290x2](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-290x2.mp4)
+- [Bench press: 315x1](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-315x1.mp4)
+- [Bench press: 320x1](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-320x1.mp4)
+- [BB OHP: 180x2](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bb-ohp-180x2.mp4)
+
 *****
 
 ### 2020
@@ -70,3 +90,13 @@ Q4
 | :-------------- | :----------: | :----------: | :----------: | :----------: | :----------: |
 | November        | 275          | 300          | 20 (3/4)     | 175          | 135          |
 | December        | 285          | 295          | 22 (3/4)     | 175          | 145          |
+
+***Videos***
+- [Bench press: 300x1](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-300x1.mp4)
+
+*****
+
+### 2019
+
+**Videos**
+- [Pushups: 100](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pushups-100.mp4)

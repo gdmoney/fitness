@@ -1,6 +1,21 @@
 ## Training Plan
 
 
+### 2025
+
+#### January • February • March
+
+| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      | Exercise - 6      |
+| :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | leg press         | lunge / rvs lunge | Hatfield squat    |                   |                   |
+| **`Hinge  `** | back extension    |                   |                   |                   |                   |                   |
+| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    |                   |
+| **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      | machine row       |                   | 
+| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB curl reverse   | upright row       |
+| **`Cardio `** | run               | elliptical        | ab wheel          |                   |                   |                   |
+
+*****
+
 ### 2024
 
 #### October • November • December
