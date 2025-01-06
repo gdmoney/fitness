@@ -7,7 +7,7 @@
 *****
 
 2025.01.06 ***`Lower `*** **run:** 1m • **SSB squat:** 210x10x2, 180x12x2 • **Hatfield squat:** 250x10x2, 210x12x2  
-**Mon** good workout; legs felt strong. **Tue** - 
+**Mon** - good workout; legs felt strong. **Tue** - 
 
 2025.01.05 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **BB row:** 165x10x4  
 2025.01.04 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **machine row:** 15x3  
