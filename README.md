@@ -6,16 +6,17 @@
 
 *****
 
+2025.01.07 ***`Cardio`*** **run:** 1m  
 2025.01.06 ***`Lower `*** **run:** 1m • **SSB squat:** 210x10x2, 180x12x2 • **Hatfield squat:** 250x10x2, 210x12x2  
-**Mon** - good workout; legs felt strong. **Tue** - 
+**Mon** - good workout; legs felt strong. **Tue** - good run. **Wed** - 
 
 2025.01.05 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **BB row:** 165x10x4  
 2025.01.04 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **machine row:** 15x3  
 2025.01.03 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x3 • **skull crushers:** 85x15x3 • **BB curl-rvs:** 85x12x4 • **upright row:** 85x12x4  
 2025.01.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **leg extension:** 15x2 • **leg curl:** 15x2  
 2025.01.01 ***`      `***   
-2025.12.31 ***`Upper `*** **run:** 1m • **BB OH press:** 175x11x1, 145x10x4  
-2025.12.30 ***`Cardio`*** **run:** 1m  
+2024.12.31 ***`Upper `*** **run:** 1m • **BB OH press:** 175x11x1, 145x10x4  
+2024.12.30 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - felt strong in the morning; good form and a new PR on OHP to close out the year strong. **Wed** - took the day off to recover from the previous night's festivities. **Thur** - good workout to get back into the rhythm. **Fri** - didn't feel great in the morning. **Sat** - decent workout; pullups felt heavy; start doing them more frequently. **Sun** - bench felt strong and was moderate/heavy; add BB row to the program. **Recap** - good week to start the year. Total number of sets: 53.
 
 *****
