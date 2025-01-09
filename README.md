@@ -6,10 +6,11 @@
 
 *****
 
+2025.01.09 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **pullups-astd:** 10x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 2025.01.08 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **machine row:** 235x15x4 • **shoulder press-mchn:** 180x10x4  
 2025.01.07 ***`Cardio`*** **run:** 1m  
 2025.01.06 ***`Lower `*** **run:** 1m • **SSB squat:** 210x10x2, 180x12x2 • **Hatfield squat:** 250x10x2, 210x12x2  
-**Mon** - good workout; legs felt strong. **Tue** - good run. **Wed** - good workout; OHP was moderate/heavy; row was light; no shoulder pain. **Thur** - 
+**Mon** - good workout; legs felt strong. **Tue** - good run. **Wed** - good workout; OHP was moderate/heavy; row was light; no shoulder pain. **Thur** - good workout; pullups felt stronger than last week. **Fri** - 
 
 2025.01.05 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **BB row:** 165x10x4  
 2025.01.04 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **machine row:** 15x3  
