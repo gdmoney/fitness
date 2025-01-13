@@ -6,6 +6,9 @@
 
 *****
 
+2025.01.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **leg extension:** 15x2 • **leg curl:** 15x2  
+**Mon** - good workout despite the sore throat. **Tue** - 
+
 2025.01.12 ***`Upper `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 90x12x4 • **upright row:** 90x15x4  
 2025.01.11 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.01.10 ***`Cardio`*** **run:** 1m  
