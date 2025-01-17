@@ -6,7 +6,7 @@
 
 *****
 
-2025.01.17 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x10x4 • **upright row:** 90x12x • **lat raise:** 15x4  
+2025.01.17 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x10x4 • **upright row:** 90x12x4 • **lat raise:** 15x4  
 2025.01.16 ***`Cardio`*** **run:** 1m  
 2025.01.15 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 2025.01.14 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2, 155x10x2 • **machine row:** 250x15x4 • **shoulder press-mchn:** 180x10x2  
