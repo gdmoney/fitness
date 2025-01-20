@@ -6,6 +6,9 @@
 
 *****
 
+2025.01.20 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 45x20x2  
+**Mon** - good workout; throat still hurts. **Tue** - 
+
 2025.01.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.01.18 ***`Cardio`*** **run:** 1m  
 2025.01.17 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x10x4 • **upright row:** 90x12x4 • **lat raise:** 15x4  
