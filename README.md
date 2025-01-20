@@ -6,12 +6,14 @@
 
 *****
 
+2025.01.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
+2025.01.18 ***`Cardio`*** **run:** 1m  
 2025.01.17 ***`Upper `*** **run:** 1m • **BB curl-rvs:** 90x10x4 • **upright row:** 90x12x4 • **lat raise:** 15x4  
 2025.01.16 ***`Cardio`*** **run:** 1m  
 2025.01.15 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 2025.01.14 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x2, 155x10x2 • **machine row:** 250x15x4 • **shoulder press-mchn:** 180x10x2  
 2025.01.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **leg extension:** 15x2 • **leg curl:** 15x2  
-**Mon** - good workout despite the sore throat. **Tue** - good workout; OHP was moderate/heavy; row was light. **Wed** - good workout; pullups felt good. **Thur** - good run. **Fri** - didn't feel great with lingering sore throat. **Sat** - 
+**Mon** - good workout despite the sore throat. **Tue** - good workout; OHP was moderate/heavy; row was light. **Wed** - good workout; pullups felt good. **Thur** - good run. **Fri** - didn't feel great with lingering sore throat. **Sat** - good run; throat still hurts and shoulders still ache. **Sun** - good run; shoulders are feeling better but the throat still hurts. **Recap** - mediocre week hampered by the lingering sore throat. Total number of sets: 50.
 
 2025.01.12 ***`Upper `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 90x12x4 • **upright row:** 90x15x4  
 2025.01.11 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
