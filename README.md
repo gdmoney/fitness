@@ -6,8 +6,10 @@
 
 *****
 
+2025.01.22 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **cable row:** 15x4 • **rear delt-mchn:** 15x4 • **leg raise:** 15x4  
+2025.01.21 ***`Cardio`*** **run:** 1m  
 2025.01.20 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 45x20x2  
-**Mon** - good workout; throat still hurts. **Tue** - 
+**Mon** - good workout; throat still hurts. **Tue** - good run. **Wed** - decent workout in the MTV gym; throat still hurts. **Thur** - 
 
 2025.01.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.01.18 ***`Cardio`*** **run:** 1m  
