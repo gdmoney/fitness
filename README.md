@@ -6,13 +6,14 @@
 
 *****
 
+2025.01.26 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB OHP-sngl:** 80x10x4  
 2025.01.25 ***`Cardio`*** **run:** 1m  
 2025.01.24 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **DB lunge-rvs:** 30x20x4  
 2025.01.23 ***`Upper `*** **run:** 1m • **pullups:** 10x2 • **lat pulldown:** 190x12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
 2025.01.22 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **cable row:** 15x4 • **rear delt-mchn:** 15x4 • **leg raise:** 15x4  
 2025.01.21 ***`Cardio`*** **run:** 1m  
 2025.01.20 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 45x20x2  
-**Mon** - good workout; throat still hurts. **Tue** - good run. **Wed** - decent workout in the MTV gym; throat still hurts. **Thur** - good workout; pullups felt better. **Fri** - good workout; changed it up with a Lower day. **Sat** - good run. **Sun** - 
+**Mon** - good workout; throat still hurts. **Tue** - good run. **Wed** - decent workout in the MTV gym; throat still hurts. **Thur** - good workout; pullups felt better. **Fri** - good workout; changed it up with a Lower day. **Sat** - good run. **Sun** - good workout; bench and OHP were both moderate/heavy; no shoulder pain. **Recap** - better week; shoulder ache is mostly gone and throat is finally starting to feel better. Total number of sets: 54.
 
 2025.01.19 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.01.18 ***`Cardio`*** **run:** 1m  
