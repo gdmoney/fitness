@@ -6,6 +6,10 @@
 
 *****
 
+2025.01.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge-rvs:** 40x20x2  
+2025.01.27 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout. **Wed** - 
+
 2025.01.26 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB OHP-sngl:** 80x10x4  
 2025.01.25 ***`Cardio`*** **run:** 1m  
 2025.01.24 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **DB lunge-rvs:** 30x20x4  
