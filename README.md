@@ -6,10 +6,11 @@
 
 *****
 
+2025.01.30 ***`Upper `*** **run:** 3m • **pullups:** 10x4 • **cable x-over:** 15x4  
 2025.01.29 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **machine row-sngl:** 15x4  
 2025.01.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge-rvs:** 40x20x2  
 2025.01.27 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy; tried single arm row for the first time. **Thur** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy; tried single arm row for the first time. **Thur** - pullups felt strong; being even a few pounds lighter makes a noticeable difference. **Fri** - 
 
 2025.01.26 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB OHP-sngl:** 80x10x4  
 2025.01.25 ***`Cardio`*** **run:** 1m  
