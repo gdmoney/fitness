@@ -9,8 +9,8 @@
 2025.02.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 **Mon** - felt a bit under the weather. **Tue** - 
 
-2025.02.02 ***`Cardio`*** **run:** 1m
-2025.02.01 ***`Cardio`*** **run:** 1m
+2025.02.02 ***`Cardio`*** **run:** 1m  
+2025.02.01 ***`Cardio`*** **run:** 1m  
 2025.01.31 ***`Upper `*** **run:** 1m • **lat pulldown:** 185x15x4 • **tri pushdown:** 25x4 • **ab wheel:** 25x4  
 2025.01.30 ***`Upper `*** **run:** 3m • **pullups:** 10x4 • **cable x-over:** 15x4  
 2025.01.29 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **machine row-sngl:** 15x4  
