@@ -6,12 +6,17 @@
 
 *****
 
+2025.02.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
+**Mon** - felt a bit under the weather. **Tue** - 
+
+2025.02.02 ***`Cardio`*** **run:** 1m
+2025.02.01 ***`Cardio`*** **run:** 1m
 2025.01.31 ***`Upper `*** **run:** 1m • **lat pulldown:** 185x15x4 • **tri pushdown:** 25x4 • **ab wheel:** 25x4  
 2025.01.30 ***`Upper `*** **run:** 3m • **pullups:** 10x4 • **cable x-over:** 15x4  
 2025.01.29 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **machine row-sngl:** 15x4  
 2025.01.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge-rvs:** 40x20x2  
 2025.01.27 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy; tried single arm row for the first time. **Thur** - pullups felt strong; being even a few pounds lighter makes a noticeable difference. **Fri** - good workout. **Sat** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy; tried single arm row for the first time. **Thur** - pullups felt strong; being even a few pounds lighter makes a noticeable difference. **Fri** - good workout. **Sat** - good run; couldn't find the time for a workout. **Sun** - good run but felt a bit under the weather. **Recap** - mediocre week with only 4 strength sessions. Total number of sets: 38. January missed workouts: 1.
 
 2025.01.26 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB OHP-sngl:** 80x10x4  
 2025.01.25 ***`Cardio`*** **run:** 1m  
