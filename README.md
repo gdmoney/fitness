@@ -6,9 +6,12 @@
 
 *****
 
+2025.02.07 ***`      `***   
+2025.02.06 ***`      `***   
+2025.02.05 ***`Cardio`*** **run:** 2m
 2025.02.04 ***`Lower `*** **run:** 1m • **SSB squat:** 230x8x2, 180x10x4 • **Hatfield squat:** 260x10x2  
 2025.02.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
-**Mon** - felt a bit under the weather. **Tue** - good workout; squat was moderate/heavy and felt strong. **Wed** - 
+**Mon** - felt a bit under the weather. **Tue** - good workout; squat was moderate/heavy and felt strong. **Wed** - good run felt quite a bit under the weather. **Thur** - out sick with the flu. **Fri** - sick. **Sat** - 
 
 2025.02.02 ***`Cardio`*** **run:** 1m  
 2025.02.01 ***`Cardio`*** **run:** 1m  
