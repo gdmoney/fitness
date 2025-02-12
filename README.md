@@ -14,7 +14,7 @@
 2025.02.08 ***`      `***   
 2025.02.07 ***`      `***   
 2025.02.06 ***`      `***   
-2025.02.05 ***`Cardio`*** **run:** 2m
+2025.02.05 ***`Cardio`*** **run:** 2m  
 2025.02.04 ***`Lower `*** **run:** 1m • **SSB squat:** 230x8x2, 180x10x4 • **Hatfield squat:** 260x10x2  
 2025.02.03 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 **Mon** - felt a bit under the weather. **Tue** - good workout; squat was moderate/heavy and felt strong. **Wed** - good run felt quite a bit under the weather. **Thur-Sun** - out sick with the flu. **Recap** - poor week hampered by illness. Total number of sets: 12.
