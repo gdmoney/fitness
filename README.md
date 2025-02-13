@@ -6,9 +6,10 @@
 
 *****
 
+2025.02.12 ***`      `***   
 2025.02.11 ***`      `***   
 2025.02.10 ***`      `***   
-**Mon** - still out sick but finally starting to feel better. **Tue** - feeling better still but not well enough to exercise. **Wed** - 
+**Mon** - still out sick but finally starting to feel better. **Tue** - feeling better still but not well enough to exercise. **Wed** - one final sick day. **Thur** - 
 
 2025.02.09 ***`      `***   
 2025.02.08 ***`      `***   
