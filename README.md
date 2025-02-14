@@ -6,11 +6,12 @@
 
 *****
 
+2025.02.14 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 180x10x4 • **lat pulldown:** 12x4  
 2025.02.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2  
 2025.02.12 ***`      `***   
 2025.02.11 ***`      `***   
 2025.02.10 ***`      `***   
-**Mon** - still out sick but finally starting to feel better. **Tue** - feeling better still but not well enough to exercise. **Wed** - one final sick day. **Thur** - good workout to get back into the rhythm.
+**Mon** - still out sick but finally starting to feel better. **Tue** - feeling better still but not well enough to exercise. **Wed** - one final sick day. **Thur** - good workout to get back into the rhythm. **Fri** - 
 
 2025.02.09 ***`      `***   
 2025.02.08 ***`      `***   
