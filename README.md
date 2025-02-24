@@ -6,12 +6,26 @@
 
 *****
 
+2025.02.24 ***`Upper `*** **ab wheel:** 25x4 • **BB OH press:** 145x10x4 • **pullups-astd:** 12x4  
+**Mon** - getting back into after missing most of the last three weeks with illness; felt weak but not too bad; OHP was moderate/heavy. **Tue** - 
+
+2025.02.23 ***`      `***   
+2025.02.22 ***`      `***   
+2025.02.21 ***`      `***   
+2025.02.20 ***`      `***   
+2025.02.19 ***`      `***   
+2025.02.18 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4  
+2025.02.17 ***`Cardio`*** **run:** 1m  
+**Mon** - started to develop butt pain. **Tue** - pain worsened. **Wed** - had surgery. **Thur-Sun** - recovering after surgery. **Recap** - even poorer week hampered by illness. Total number of sets: 12.
+
+2025.02.16 ***`Cardio`*** **run:** 1m  
+2025.02.15 ***`Cardio`*** **run:** 1m  
 2025.02.14 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 180x10x4 • **lat pulldown:** 12x4  
 2025.02.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2  
 2025.02.12 ***`      `***   
 2025.02.11 ***`      `***   
 2025.02.10 ***`      `***   
-**Mon** - still out sick but finally starting to feel better. **Tue** - feeling better still but not well enough to exercise. **Wed** - one final sick day. **Thur** - good workout to get back into the rhythm. **Fri** - 
+**Mon** - still out sick but finally starting to feel better. **Tue** - feeling better still but not well enough to exercise. **Wed** - one final sick day. **Thur** - good workout to get back into the rhythm. **Fri** - decent workout; OHP was moderate/heavy. **Sat** - Luka's B-Day party; only managed to get cardio in. **Sun** - another cardio only day. **Recap** - another poor week hampered by illness. Total number of sets: 18.
 
 2025.02.09 ***`      `***   
 2025.02.08 ***`      `***   
