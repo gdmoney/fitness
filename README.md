@@ -6,9 +6,10 @@
 
 *****
 
+2025.02.26 ***`Upper `*** **run:** 1m • **DB bench press:** 90x10x4 • **DB row-sngl:** 80x15x4 • **hammer curl:** 40x10x4  
 2025.02.25 ***`Upper `*** **ab wheel:** 25x4 • **pullups:** 10x6  
 2025.02.24 ***`Upper `*** **ab wheel:** 25x4 • **BB OH press:** 145x10x4 • **pullups-astd:** 12x4  
-**Mon** - getting back into it after missing most of the last three weeks with illness; felt weak but not too bad; OHP was moderate/heavy. **Tue** - pullups felt heavy but got progressively lighter. **Wed** - 
+**Mon** - getting back into it after missing most of the last three weeks with illness; felt weak but not too bad; OHP was moderate/heavy. **Tue** - pullups felt heavy but got progressively lighter. **Wed** - felt stronger; bench was moderate; curl felt good; add it to the rotation. **Thur** - 
 
 2025.02.23 ***`      `***   
 2025.02.22 ***`      `***   

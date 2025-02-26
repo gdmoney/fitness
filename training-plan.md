@@ -11,7 +11,7 @@
 | **`Hinge  `** | back extension    |                   |                   |                   |                   |                   |
 | **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    |                   |
 | **`Pull   `** | BB row            | DB row            | pullups / chinups | lat pulldown      | machine row       |                   | 
-| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB curl reverse   | upright row       |
+| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB/DB curl / rvs  | upright row       |
 | **`Cardio `** | run               | elliptical        | ab wheel          |                   |                   |                   |
 
 *****
