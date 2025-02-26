@@ -8,7 +8,7 @@
 
 2025.02.25 ***`Upper `*** **ab wheel:** 25x4 • **pullups:** 10x6  
 2025.02.24 ***`Upper `*** **ab wheel:** 25x4 • **BB OH press:** 145x10x4 • **pullups-astd:** 12x4  
-**Mon** - getting back into it after missing most of the last three weeks with illness; felt weak but not too bad; OHP was moderate/heavy. **Tue** - pullups felt heavy. **Wed** - 
+**Mon** - getting back into it after missing most of the last three weeks with illness; felt weak but not too bad; OHP was moderate/heavy. **Tue** - pullups felt heavy but got progressively lighter. **Wed** - 
 
 2025.02.23 ***`      `***   
 2025.02.22 ***`      `***   
