@@ -8,7 +8,7 @@
 
 2025.03.04 ***`Cardio`*** **ab wheel:** 25x4  
 2025.03.03 ***`Cardio`*** **run:** 1m  
-**Mon** - felt sore throughout. **Tue** - still sore. **Wed** - 
+**Mon** - felt sore everywhere. **Tue** - still sore but less so. **Wed** - 
 
 2025.03.02 ***`Upper `*** **run:** 1m • **bench press:** 195x10x3 • **DB OHP-sngl:** 70x10x4 • **DB bench press:** 70x10x3  
 2025.03.01 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x3, 160x10x3  
