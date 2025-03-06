@@ -6,6 +6,7 @@
 
 *****
 
+2025.03.06 ***`Upper `*** **run:** 1m • **TBD**  
 2025.03.05 ***`Upper `*** **run:** 1m • **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x15x5 • **hammer curl:** 40x10x4  
 2025.03.04 ***`Cardio`*** **ab wheel:** 25x4  
 2025.03.03 ***`Cardio`*** **run:** 1m  
