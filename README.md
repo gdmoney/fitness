@@ -6,11 +6,11 @@
 
 *****
 
-2025.03.06 ***`Upper `*** **run:** 1m • **TBD**  
+2025.03.06 ***`Upper `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 170x12x4 • **tri pushdown:** 20x4  
 2025.03.05 ***`Upper `*** **run:** 1m • **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x15x5 • **hammer curl:** 40x10x4  
 2025.03.04 ***`Cardio`*** **ab wheel:** 25x4  
 2025.03.03 ***`Cardio`*** **run:** 1m  
-**Mon** - felt sore everywhere. **Tue** - still sore but less so. **Wed** - light workout; shoulders are feeling better. **Thur** - 
+**Mon** - felt sore everywhere. **Tue** - still sore but less so. **Wed** - light workout; shoulders are feeling better. **Thur** - good workout despite not feeling great; OHP was moderate and felt lighter than last week; go up next time. **Fri** - 
 
 2025.03.02 ***`Upper `*** **run:** 1m • **bench press:** 195x10x3 • **DB OHP-sngl:** 70x10x4 • **DB bench press:** 70x10x3  
 2025.03.01 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x3, 160x10x3  
