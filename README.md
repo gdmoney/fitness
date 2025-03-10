@@ -6,11 +6,17 @@
 
 *****
 
+2025.03.10 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
+**Mon** - good workout despite not feeling great; pullups felt stronger than the last time. **Tue** - 
+
+2025.03.09 ***`Cardio`*** **run:** 1m  
+2025.03.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x2  
+2025.03.07 ***`Cardio`*** **run:** 1m  
 2025.03.06 ***`Upper `*** **run:** 1m • **BB OH press:** 145x10x4 • **lat pulldown:** 170x12x4 • **tri pushdown:** 20x4  
-2025.03.05 ***`Upper `*** **run:** 1m • **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x15x5 • **hammer curl:** 40x10x4  
+2025.03.05 ***`Upper `*** **run:** 1m • **skull crushers:** 75x15x4 • **BB curl-rvs:** 75x12x4 • **upright row:** 75x15x4 • **hammer curl:** 40x10x4  
 2025.03.04 ***`Cardio`*** **ab wheel:** 25x4  
 2025.03.03 ***`Cardio`*** **run:** 1m  
-**Mon** - felt sore everywhere. **Tue** - still sore but less so. **Wed** - light workout; shoulders are feeling better. **Thur** - good workout despite not feeling great; OHP was moderate and felt lighter than last week; go up next time. **Fri** - 
+**Mon** - felt sore everywhere. **Tue** - still sore but less so. **Wed** - light workout; shoulders are feeling better. **Thur** - good workout despite not feeling great; OHP was moderate and felt lighter than last week; go up next time. **Fri** - **Sat** - good workout at the Four Seasons hotel gym. **Sun** - decided to rest the shoulders. **Recap** - decent week; feeling stronger than last week; still have 3 weeks to get back into pre-illness shape. Total number of sets: 42.
 
 2025.03.02 ***`Upper `*** **run:** 1m • **bench press:** 195x10x3 • **DB OHP-sngl:** 70x10x4 • **DB bench press:** 70x10x3  
 2025.03.01 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x3, 160x10x3  
