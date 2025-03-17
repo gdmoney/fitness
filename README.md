@@ -6,12 +6,17 @@
 
 *****
 
-2025.03.14 ***`Upper `*** **run:** 1m • **skull crushers:** 85x12x4 • **BB curl-rvs:** 85x10x4 • **upright row:** 85x12x4 • **hammer curl:** 40x10x4  
+2025.03.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
+**Mon** - good workout. **Tue** - 
+
+2025.03.16 ***`Cardio`*** **run:** 1m  
+2025.03.15 ***`Cardio`*** **run:** 2m  
+2025.03.14 ***`Upper `*** **run:** 1m • **skull crushers:** 85x12x4 • **BB curl-rvs:** 85x10x4 • **upright row:** 85x12x4 • **hammer curl:** 45x10x4  
 2025.03.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2  
 2025.03.12 ***`Cardio`*** **run:** 1m  
 2025.03.11 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 140x10x3 • **lat pulldown:** 170x12x3 • **shoulder press-mchn:** 160x10x3 • **DB bench press:** 75x20x3  
 2025.03.10 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
-**Mon** - good workout despite not feeling great; pullups felt stronger than the last time. **Tue** - good workout; OHP was moderate was moderate; go up next time; bench was light. **Wed** - cardio day. **Thur** - good workout. **Fri** - good bro day workout. **Sat** - 
+**Mon** - good workout despite not feeling great; pullups felt stronger than the last time. **Tue** - good workout; OHP was moderate was moderate; go up next time; bench was light. **Wed** - cardio day. **Thur** - good workout. **Fri** - good bro day workout. **Sat** - good run at the lake with Luka; first time he ran 2 miles without stopping and at a pretty good tempo. **Sun** - good run. **Recap** - good week; only got 4 workouts in but they were all quality; feeling stronger than last week. Total number of sets: 50.
 
 2025.03.09 ***`Cardio`*** **run:** 1m  
 2025.03.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x2  
