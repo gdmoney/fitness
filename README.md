@@ -6,10 +6,11 @@
 
 *****
 
+2025.03.20 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.03.19 ***`Cardio`*** **run:** 1m  
 2025.03.18 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 175x12x4 • **DB bench press:** 75x20x2  
 2025.03.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
-**Mon** - good workout. **Tue** - good workout; OHP felt strong and was moderate to moderate/heavy; stick to this weight for now; pulldown also felt stronger. **Wed** - good run. **Thur** - 
+**Mon** - good workout. **Tue** - good workout; OHP felt strong and was moderate to moderate/heavy; stick to this weight for now; pulldown also felt stronger. **Wed** - good run. **Thur** - good workout; pullups felt strong. **Fri** - 
 
 2025.03.16 ***`Cardio`*** **run:** 1m  
 2025.03.15 ***`Cardio`*** **run:** 2m  
