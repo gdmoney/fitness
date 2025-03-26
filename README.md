@@ -6,12 +6,18 @@
 
 *****
 
-2025.03.21 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **DB row-sngl:** 75x15xe • **DB OHP-sngl:** 75x10x3  
+2025.03.25 ***`Cardio`*** **elpt:** 10 min  
+2025.03.24 ***`Cardio`*** **run:** 1m  
+**Mon** - good run at the SF hotel gym. **Tue** - another good run. **Wed** - 
+
+2025.03.23 ***`Cardio`*** **run:** 1m  
+2025.03.22 ***`Cardio`*** **run:** 1m  
+2025.03.21 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **DB row-sngl:** 75x15x3 • **DB OHP-sngl:** 75x10x3  
 2025.03.20 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.03.19 ***`Cardio`*** **run:** 1m  
 2025.03.18 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 175x12x4 • **DB bench press:** 75x20x2  
 2025.03.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
-**Mon** - good workout. **Tue** - good workout; OHP felt strong and was moderate to moderate/heavy; stick to this weight for now; pulldown also felt stronger. **Wed** - good run. **Thur** - good workout; pullups felt strong. **Fri** - good workout; bench and OHP were both moderate; go up next week. **Sat** - 
+**Mon** - good workout. **Tue** - good workout; OHP felt strong and was moderate to moderate/heavy; stick to this weight for now; pulldown also felt stronger. **Wed** - good run. **Thur** - good workout; pullups felt strong. **Fri** - good workout; bench and OHP were both moderate; go up next week. **Sat** - good run. **Sun** - good run at the SF hotel gym. **Recap** - another good week; feeling stronger than last week. Total number of sets: 42.
 
 2025.03.16 ***`Cardio`*** **run:** 1m  
 2025.03.15 ***`Cardio`*** **run:** 2m  
