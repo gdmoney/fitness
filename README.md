@@ -6,12 +6,13 @@
 
 *****
 
+2025.03.29 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB bench press:** 75x20x2 • **DB row-sngl:** 90x15x4  
 2025.03.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 2025.03.27 ***`Cardio`*** **run:** 1m  
 2025.03.26 ***`      `***   
 2025.03.25 ***`Cardio`*** **elpt:** 10 min  
 2025.03.24 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the SF hotel gym. **Tue** - another good run. **Wed** - rest day. **Thur** - good run on the travel day. **Fri** - good workout; felt strong. **Sat** - 
+**Mon** - good run at the SF hotel gym. **Tue** - another good run. **Wed** - rest day. **Thur** - good run on the travel day. **Fri** - good workout; felt strong. **Sat** - good workout despite not feeling great; OHP was moderate to moderate/heavy; bench was moderate. **Sun** - 
 
 2025.03.23 ***`Cardio`*** **run:** 1m  
 2025.03.22 ***`Cardio`*** **run:** 1m  
