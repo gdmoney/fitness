@@ -6,6 +6,9 @@
 
 *****
 
+2025.03.31 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **hammer curl:** 50x10x2  
+**Mon** - good workout; go up on pulldown and tri pushdown next week. **Tue** - 
+
 2025.03.30 ***`Upper `*** **run:** 1m • **chinups:** 10x4 • **skull crushers:** 85x15x4  
 2025.03.29 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB bench press:** 75x20x2 • **DB row-sngl:** 90x15x4  
 2025.03.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
@@ -13,7 +16,7 @@
 2025.03.26 ***`      `***   
 2025.03.25 ***`Cardio`*** **elpt:** 10 min  
 2025.03.24 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the SF hotel gym. **Tue** - another good run. **Wed** - rest day. **Thur** - good run on the travel day. **Fri** - good workout; felt strong. **Sat** - good workout despite not feeling great; OHP was moderate to moderate/heavy; bench was moderate. **Sun** - both chinups and skull crushers felt strong. **Recap** - OK week hampered slightly by travel; on the plus side, a little bit of rest seems to have helped with the shoulders recovery and my strength is almost back to pre illness levels. Total number of sets: 28.
+**Mon** - good run at the SF hotel gym. **Tue** - another good run. **Wed** - rest day. **Thur** - good run on the travel day. **Fri** - good workout; felt strong. **Sat** - good workout despite not feeling great; OHP was moderate to moderate/heavy; bench was moderate. **Sun** - both chinups and skull crushers felt strong. **Recap** - OK week hampered slightly by travel; on the plus side, a little bit of rest seems to have helped with the shoulders recovery and my strength is almost back to pre illness levels. Total number of sets: 28. March missed workouts: 1.
 
 2025.03.23 ***`Cardio`*** **run:** 1m  
 2025.03.22 ***`Cardio`*** **run:** 1m  
