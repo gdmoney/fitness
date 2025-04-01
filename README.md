@@ -6,8 +6,9 @@
 
 *****
 
+2025.04.01 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 2025.03.31 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **hammer curl:** 50x10x2  
-**Mon** - good workout; go up on pulldown and tri pushdown next week. **Tue** - 
+**Mon** - good workout; go up on pulldown and tri pushdown next week. **Tue** - good workout. **Wed** - 
 
 2025.03.30 ***`Upper `*** **run:** 1m • **chinups:** 10x4 • **skull crushers:** 85x15x4  
 2025.03.29 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB bench press:** 75x20x2 • **DB row-sngl:** 90x15x4  
