@@ -6,13 +6,18 @@
 
 *****
 
+2025.04.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
+2025.04.07 ***`Upper `*** **run:** 1m • **skull crushers:** 95x12x4 • **hammer curl:** 50x10x4  
+**Mon** - good bro day workout; slight shoulder ache afterwards. **Tue** - good workout. **Wed** - 
+
+2025.04.06 ***`Cardio`*** **run:** 1m  
 2025.04.05 ***`Upper `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
 2025.04.04 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **tri pushdown:** 20x4  
 2025.04.03 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 150x10x4 • **machine row:** 175x15x4  
 2025.04.02 ***`Cardio`*** **run:** 1m  
 2025.04.01 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 2025.03.31 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **hammer curl:** 50x10x2  
-**Mon** - good workout; go up on pulldown and tri pushdown next week. **Tue** - good workout. **Wed** - good cardio day. **Thur** - good workout; press was moderate/heavy. **Fri** - pullups felt strong despite not feeling great overall. **Sat** - good workout; felt strong in the morning; bench was moderate; OHP was also moderate. **Sun** - 
+**Mon** - good workout; go up on pulldown and tri pushdown next week. **Tue** - good workout. **Wed** - good cardio day. **Thur** - good workout; press was moderate/heavy. **Fri** - pullups felt strong despite not feeling great overall. **Sat** - good workout; felt strong in the morning; bench was moderate; OHP was also moderate. **Sun** - only managed to get cardio in. **Recap** - good week. Total number of sets: 52.
 
 2025.03.30 ***`Upper `*** **run:** 1m • **chinups:** 10x4 • **skull crushers:** 85x15x4  
 2025.03.29 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB bench press:** 75x20x2 • **DB row-sngl:** 90x15x4  
