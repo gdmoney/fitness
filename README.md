@@ -6,11 +6,14 @@
 
 *****
 
+2025.04.13 ***`Cardio`*** **run:** 2m  
+2025.04.12 ***`Cardio`*** **run:** 2m  
+2025.04.11 ***`Upper `*** **run:** 1m • **pullups:** 25x6x2 • **cable x-over:** 15x2 • **tri pushdown:** 20x2  
 2025.04.10 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x3, 165x9 • **DB bench press:** 75x20x3, 75x18  
 2025.04.09 ***`Cardio`*** **run:** 1m  
 2025.04.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 2025.04.07 ***`Upper `*** **run:** 1m • **skull crushers:** 95x12x4 • **hammer curl:** 50x10x4  
-**Mon** - good bro day workout; slight shoulder ache afterwards. **Tue** - good workout. **Wed** - didn't feel great. **Thur** - good workout; OHP felt strong; almost tied my PR for sets with 165. **Fri** - 
+**Mon** - good bro day workout; slight shoulder ache afterwards. **Tue** - good workout. **Wed** - didn't feel great. **Thur** - good workout; OHP felt strong; almost tied my PR for sets with 165. **Fri** - good workout; pullups felt strong. **Sat** - good run. **Sun** - good run. **Recap** - mediocre week with only 4 resistance days but on the plus side my strength seems to be back. Total number of sets: 32.
 
 2025.04.06 ***`Cardio`*** **run:** 1m  
 2025.04.05 ***`Upper `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
