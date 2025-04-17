@@ -6,6 +6,12 @@
 
 *****
 
+2025.04.17 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 175x12x4 • **DB bench press:** 75x20x2,75x18,75x16
+2025.04.16 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x2, 160x12x2  
+2025.04.15 ***`Cardio`*** **run:** 1m  
+2025.04.14 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - first time squatting in 6 weeks; it felt heavy. **Thur** - good workout; shoulder press felt strong; go up on lat pulldown. **Fri** - 
+
 2025.04.13 ***`Cardio`*** **run:** 2m  
 2025.04.12 ***`Cardio`*** **run:** 2m  
 2025.04.11 ***`Upper `*** **run:** 1m • **pullups:** 25x6x2 • **cable x-over:** 15x2 • **tri pushdown:** 20x2  
