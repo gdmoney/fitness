@@ -6,9 +6,10 @@
 
 *****
 
+2025.04.23 ***`Upper `*** **run:** 1m • **pullups:** 12x2, 10x2 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
 2025.04.22 ***`Cardio`*** **run:** 1m  
 2025.04.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2  
-**Mon** - good workout; go up on back extension. **Tue** - good run. **Wed** - 
+**Mon** - good workout; go up on back extension. **Tue** - good run. **Wed** - good workout after work; felt pretty strong despite feeling tired. **Thur** - 
 
 2025.04.20 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x2  
 2025.04.19 ***`Cardio`*** **run:** 1m  
