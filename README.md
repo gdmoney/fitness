@@ -6,10 +6,11 @@
 
 *****
 
+2025.05.01 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x4 • **lat pulldown:** 200x10x4  
 2025.04.30 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 2025.04.29 ***`Cardio`*** **run:** 1m  
 2025.04.28 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout back at my home gym; legs felt strong. **Thur** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout back at my home gym; legs felt strong. **Thur** - OHP felt strong; start mixing up the rep ranges more; with sets of 5-6, I'm able to hold my breath and stay tight throughout the set. **Fri** - 
 
 2025.04.27 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable curl:** 10x4  
 2025.04.26 ***`Upper `*** **run:** 1m • **chest press-mchn:** 10x4 • **machine row:** 15x4  
