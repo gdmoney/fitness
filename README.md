@@ -6,12 +6,17 @@
 
 *****
 
+2025.05.05 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x15x2  
+**Mon** - good workout. **Tue** - 
+
+2025.05.04 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4  
+2025.05.03 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4  
 2025.05.02 ***`Upper `*** **run:** 1m • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
 2025.05.01 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x4 • **lat pulldown:** 200x10x4  
 2025.04.30 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x2  
 2025.04.29 ***`Cardio`*** **run:** 1m  
 2025.04.28 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout back at my home gym; legs felt strong. **Thur** - OHP felt strong; start mixing up the rep ranges more; with sets of 5-6, I'm able to hold my breath and stay tight throughout the set. **Fri** - decent workout; didn't feel my strongest mid-morning. **Sat** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout back at my home gym; legs felt strong. **Thur** - OHP felt strong; start mixing up the rep ranges more; with sets of 5-6, I'm able to hold my breath and stay tight throughout the set. **Fri** - decent workout; didn't feel my strongest mid-morning. **Sat** - good workout; felt strong. **Sun** - bench was moderate/heavy with good form. **Recap** - decent week; got 5 workouts in but fewer total sets. Total number of sets: 38.
 
 2025.04.27 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable curl:** 10x4  
 2025.04.26 ***`Upper `*** **run:** 1m • **chest press-mchn:** 10x4 • **machine row:** 15x4  
