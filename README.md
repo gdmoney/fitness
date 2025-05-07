@@ -6,8 +6,10 @@
 
 *****
 
+2025.05.07 ***`Upper `*** **run:** 1m • **pullups:** 25x7x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
+2025.05.06 ***`Cardio`*** **run:** 1m  
 2025.05.05 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x15x2  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - felt a bit tired after 6 straight days of lifting. **Wed** - good workout; felt strong. **Thur** - 
 
 2025.05.04 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4  
 2025.05.03 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4  
