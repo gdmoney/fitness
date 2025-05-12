@@ -6,10 +6,13 @@
 | Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
 | :--------------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 | Jan - Feb - Mar  |   230x08x2       |   225x10x4       |   100x10x4       |   165x10x2       |    80x10x4       |       10x4       |
-| Apr - May - Jun  |                  |   245x06x4       |    75x20x4       |   175x06x3       |    80x10x4       |   12x4, 25x7x4   |
+| Apr - May - Jun  |                  | **245x10**       |    75x20x4       |   175x06x3       |    80x10x4       |   12x4, 25x7x4   |
 | Jul - Aug - Sep  |                  |                  |                  |                  |                  |                  |
 | Oct - Nov - Dec  |                  |                  |                  |                  |                  |                  |
 
+**Videos**  
+Q2
+- [Bench press: 245x10](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-245x10.mp4)
 
 *****
 

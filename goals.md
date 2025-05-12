@@ -8,6 +8,7 @@
 - [ ]  Improve posture
 - [ ]  Lose weight
 - [ ]  BB bench press: 225x20
+- [ ]  BB bench press: 275x05
 - [ ]  DB bench press: 100x20
 - [ ]  BB OH press:    185x10
 - [ ]  SSB squat:      260x10

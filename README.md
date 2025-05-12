@@ -6,11 +6,17 @@
 
 *****
 
+2025.05.12 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x2  
+**Mon** - good workout. **Tue** - 
+
+2025.05.11 ***`      `***   
+2025.05.10 ***`Upper `*** **run:** 1m • **bench hpress:** 245x10,8,8,6  
+2025.05.09 ***`Cardio`*** **run:** 1m  
 2025.05.08 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20x4  
 2025.05.07 ***`Upper `*** **run:** 1m • **pullups:** 25x7x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
 2025.05.06 ***`Cardio`*** **run:** 1m  
 2025.05.05 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x15x2  
-**Mon** - good workout. **Tue** - felt a bit tired after 6 straight days of lifting. **Wed** - good workout; felt strong. **Thur** - good workout; press and bench were both moderate. **Fri** - 
+**Mon** - good workout. **Tue** - felt a bit tired after 6 straight days of lifting. **Wed** - good workout; felt strong. **Thur** - good workout; press and bench were both moderate. **Fri** - **Sat** - bench felt really strong; set a new PR with 245; probably could've done 2 more reps if I wasn't doing 4 sets. **Sun** - rest day. **Recap** - good week. Total number of sets: 38.
 
 2025.05.04 ***`Upper `*** **run:** 1m • **bench press:** 245x6x4  
 2025.05.03 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4  
