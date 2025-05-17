@@ -6,8 +6,13 @@
 
 *****
 
+2025.05.17 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4 • **DB row-sngl:** 90x15x4  
+2025.05.16 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20x4  
+2025.05.15 ***`Cardio`*** **run:** 1m  
+2025.05.14 ***`Cardio`*** **run:** 1m  
+2025.05.13 ***`Cardio`*** **run:** 1m  
 2025.05.12 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x2  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good workout; press was moderate/heavy; stick to this weight for now; bench was light. **Sat** - good workout. **Sun** - 
 
 2025.05.11 ***`      `***   
 2025.05.10 ***`Upper `*** **run:** 1m • **bench hpress:** 245x10,8,8,6  
