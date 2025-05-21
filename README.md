@@ -6,6 +6,11 @@
 
 *****
 
+2025.05.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
+2025.05.20 ***`Cardio`*** **run:** 1m  
+2025.05.19 ***`Cardio`*** **run:** 1m  
+**Mon** - didn't feel great after sleeping poorly. **Tue** - slept poorly again. **Wed** - good workout despite poor sleep yet again the night before. **Thur** - 
+
 2025.05.18 ***`Upper `*** **run:** 1m • **farmer's walk:** 250x1minx4 • **ab wheel:** 25x4  
 2025.05.17 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4 • **DB row-sngl:** 90x15x4  
 2025.05.16 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20x4  
