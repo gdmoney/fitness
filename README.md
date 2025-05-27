@@ -6,12 +6,18 @@
 
 *****
 
-2025.05.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x12x4 • **lat pulldown:** 200x10x4  
+2025.05.27 ***`Cardio`*** **run:** 1m  
+2025.05.26 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - 
+
+2025.05.25 ***`Upper `*** **run:** 1m • **bench press:** 245x9,7x3 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
+2025.05.24 ***`Cardio`*** **run:** 1m  
+2025.05.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x12x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 90x15x4  
 2025.05.22 ***`Cardio`*** **run:** 1m  
 2025.05.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.05.20 ***`Cardio`*** **run:** 1m  
 2025.05.19 ***`Cardio`*** **run:** 1m  
-**Mon** - didn't feel great after sleeping poorly. **Tue** - slept poorly again. **Wed** - good workout despite poor sleep yet again the night before. **Thur** - didn't feel great. **Fri** - decent workout despite being sleep deprived again; go up on lat pulldown. **Sat** - 
+**Mon** - didn't feel great after sleeping poorly. **Tue** - slept poorly again. **Wed** - good workout despite poor sleep yet again the night before. **Thur** - didn't feel great. **Fri** - decent workout despite being sleep deprived again; go up on lat pulldown; bench was moderate. **Sat** - good run. **Sun** - good workout; bench felt a bit heavier than the last time; probably because I did DB bench only two days ago; OHP was moderate. **Recap** - mediocre week with only 3 lift days. Total number of sets: 36.
 
 2025.05.18 ***`Upper `*** **run:** 1m • **farmer's walk:** 250x1minx4 • **ab wheel:** 25x4  
 2025.05.17 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4 • **DB row-sngl:** 90x15x4  
