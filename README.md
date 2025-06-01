@@ -6,13 +6,14 @@
 
 *****
 
+2025.06.01 ***`Upper `*** **run:** 1m • **bench press:** 245x8x4 • **farmer's walk:** 260x1minx4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
 2025.05.31 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
 2025.05.30 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.05.29 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x4 • **lat pulldown:** 200x10x4  
 2025.05.28 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.05.27 ***`Cardio`*** **run:** 1m  
 2025.05.26 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - had a 5 am call time. **Thur** - good workout; OHP was moderate/heavy. **Fri** - good workout; finished all 12 sets in under 30 minutes. **Sat** - good workout; pullups felt strong; go up on cable x-over. **Sun** - 
+**Mon** - good run. **Tue** - good run. **Wed** - had a 5 am call time. **Thur** - good workout; OHP was moderate/heavy. **Fri** - good workout; finished all 12 sets in under 30 minutes. **Sat** - good workout; pullups felt strong; go up on cable x-over. **Sun** - good workout; felt strong. **Recap** - good week. Total number of sets: 48. May misses workouts: 0.
 
 2025.05.25 ***`Upper `*** **run:** 1m • **bench press:** 245x9,7x3 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
 2025.05.24 ***`Cardio`*** **run:** 1m  
