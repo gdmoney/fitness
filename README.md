@@ -17,7 +17,7 @@
 2025.05.28 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.05.27 ***`Cardio`*** **run:** 1m  
 2025.05.26 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - had a 5 am call time. **Thur** - good workout; OHP was moderate/heavy. **Fri** - good workout; finished all 12 sets in under 30 minutes. **Sat** - good workout; pullups felt strong; go up on cable x-over. **Sun** - good workout; felt strong. **Recap** - good week. Total number of sets: 48. May misses workouts: 0.
+**Mon** - good run. **Tue** - good run. **Wed** - had a 5 am call time. **Thur** - good workout; OHP was moderate/heavy. **Fri** - good workout; finished all 12 sets in under 30 minutes. **Sat** - good workout; pullups felt strong; go up on cable x-over. **Sun** - good workout; felt strong. **Recap** - good week. Total number of sets: 48. May missed workouts: 0.
 
 2025.05.25 ***`Upper `*** **run:** 1m • **bench press:** 245x9,7x3 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
 2025.05.24 ***`Cardio`*** **run:** 1m  
