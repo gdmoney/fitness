@@ -8,7 +8,7 @@
 
 2025.06.03 ***`Upper `*** **run:** 1m • **skull crushers:** 100x12x4 • **BB curl-rvs:** 100x10x4 • **upright row:** 100x12x4  
 2025.06.02 ***`Cardio`*** **run:** 1m  
-
+**Mon** - good run. **Tue** - good workout. **Wed** - 
 
 2025.06.01 ***`Upper `*** **run:** 1m • **bench press:** 245x8x4 • **farmer's walk:** 260x1minx4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
 2025.05.31 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
