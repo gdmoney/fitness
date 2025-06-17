@@ -6,13 +6,27 @@
 
 *****
 
+2025.06.17 ***`Cardio`*** **run:** 1m  
+2025.06.16 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - 
+
+2025.06.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 230x12x4 • **DB lunge:** 70x10x4  
+2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **uprigh row:** 95x12x4  
+2025.06.13 ***`Cardio`*** **swim:** 500y  
+2025.06.12 ***`Cardio`*** **run:** 1m  
+2025.06.11 ***`Cardio`*** **run:** 1m  
+2025.06.10 ***`Cardio`*** **run:** 1m  
+2025.06.09 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good swim at Terranea. **Sat** - good workout; bench felt heavy; OHP was moderate. **Sun** - squat was moderate/heavy. **Recap** - poor week with only 2 lifting days. Total number of sets: 34.
+
+2025.06.08 ***`Cardio`*** **run:** 1m  
 2025.06.07 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.06.06 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.06.05 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x10x4 • **lat pulldown:** 215x10x4 • **DB bench press:** 100x12x4  
 2025.06.04 ***`Cardio`*** **run:** 1m  
 2025.06.03 ***`Upper `*** **run:** 1m • **skull crushers:** 100x12x4 • **BB curl-rvs:** 100x10x4 • **upright row:** 100x12x4  
 2025.06.02 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good workout; press was moderate/heavy; bench was moderate until the last few reps. **Fri** - good run. **Sat** - good workout. **Sun** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good workout; press was moderate/heavy; bench was moderate until the last few reps. **Fri** - good run. **Sat** - good workout. **Sun** - good run. **Recap** - OK week. Total number of sets: 40.
 
 2025.06.01 ***`Upper `*** **run:** 1m • **bench press:** 245x8x4 • **farmer's walk:** 260x1minx4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
 2025.05.31 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
@@ -30,7 +44,7 @@
 2025.05.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.05.20 ***`Cardio`*** **run:** 1m  
 2025.05.19 ***`Cardio`*** **run:** 1m  
-**Mon** - didn't feel great after sleeping poorly. **Tue** - slept poorly again. **Wed** - good workout despite poor sleep yet again the night before. **Thur** - didn't feel great. **Fri** - decent workout despite being sleep deprived again; go up on lat pulldown; bench was moderate. **Sat** - good run. **Sun** - good workout; bench felt a bit heavier than the last time; probably because I did DB bench only two days ago; OHP was moderate. **Recap** - mediocre week with only 3 lift days. Total number of sets: 36.
+**Mon** - didn't feel great after sleeping poorly. **Tue** - slept poorly again. **Wed** - good workout despite poor sleep yet again the night before. **Thur** - didn't feel great. **Fri** - decent workout despite being sleep deprived again; go up on lat pulldown; bench was moderate. **Sat** - good run. **Sun** - good workout; bench felt a bit heavier than the last time; probably because I did DB bench only two days ago; OHP was moderate. **Recap** - mediocre week with only 3 lifting days. Total number of sets: 36.
 
 2025.05.18 ***`Upper `*** **run:** 1m • **farmer's walk:** 250x1minx4 • **ab wheel:** 25x4  
 2025.05.17 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x12x4 • **DB row-sngl:** 90x15x4  
