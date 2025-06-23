@@ -6,9 +6,17 @@
 
 *****
 
+2025.06.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 150x8x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 90x15,12  
+**Mon** - good workout in New York at the Mid City Gym. **Tue** - 
+
+2025.06.22 ***`Cardio`*** **run:** 1m  
+2025.06.21 ***`      `***   
+2025.06.20 ***`Cardio`*** **swim:** 1000y  
+2025.06.19 ***`Cardio`*** **run:** 1m  
+2025.06.18 ***`Cardio`*** **run:** 1m  
 2025.06.17 ***`Cardio`*** **run:** 1m  
 2025.06.16 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good swim at Ned Baumer. **Sat** - travel day. **Sun** - good run at the New York hotel gym. **Recap** - decent cardio only week but not great overall.
 
 2025.06.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 230x12x4 • **DB lunge:** 70x10x4  
 2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **uprigh row:** 95x12x4  
@@ -35,7 +43,7 @@
 2025.05.28 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.05.27 ***`Cardio`*** **run:** 1m  
 2025.05.26 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - had a 5 am call time. **Thur** - good workout; OHP was moderate/heavy. **Fri** - good workout; finished all 12 sets in under 30 minutes. **Sat** - good workout; pullups felt strong; go up on cable x-over. **Sun** - good workout; felt strong. **Recap** - good week. Total number of sets: 48. May missed workouts: 0.
+**Mon** - good run. **Tue** - good run. **Wed** - had a 5 am call time. **Thur** - good workout; OHP was moderate/heavy. **Fri** - good workout; finished all 12 sets in under 30 minutes. **Sat** - good workout; pullups felt strong; go up on cable x-over. **Sun** - good workout; felt strong. **Recap** - good week. Total number of sets: 48. May missed workouts: 1.
 
 2025.05.25 ***`Upper `*** **run:** 1m • **bench press:** 245x9,7x3 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
 2025.05.24 ***`Cardio`*** **run:** 1m  
