@@ -19,7 +19,7 @@
 **Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good swim at Ned Baumer. **Sat** - travel day. **Sun** - good run at the New York hotel gym. **Recap** - decent cardio only week but not great overall.
 
 2025.06.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 230x12x4 • **DB lunge:** 70x10x4  
-2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **uprigh row:** 95x12x4  
+2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **upright row:** 95x12x4  
 2025.06.13 ***`Cardio`*** **swim:** 500y  
 2025.06.12 ***`Cardio`*** **run:** 1m  
 2025.06.11 ***`Cardio`*** **run:** 1m  
@@ -64,7 +64,7 @@
 **Mon** - good workout. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good workout; press was moderate/heavy; stick to this weight for now; bench was light. **Sat** - good workout. **Sun** - didn't feel great; first time doing farmer's walk since last December; no shoulder pain. **Recap** - good week. Total number of sets: 42.
 
 2025.05.11 ***`      `***   
-2025.05.10 ***`Upper `*** **run:** 1m • **bench hpress:** 245x10,8,8,6  
+2025.05.10 ***`Upper `*** **run:** 1m • **bench press:** 245x10,8,8,6  
 2025.05.09 ***`Cardio`*** **run:** 1m  
 2025.05.08 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20x4  
 2025.05.07 ***`Upper `*** **run:** 1m • **pullups:** 25x7x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
