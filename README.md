@@ -6,8 +6,9 @@
 
 *****
 
+2025.06.24 ***`Cardio`*** **run:** 1m • **leg raise:** 15x4  
 2025.06.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 150x8x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 95x15,12  
-**Mon** - good workout in New York at the Mid City Gym. **Tue** - 
+**Mon** - good workout in New York at the Mid City Gym. **Tue** - good run. **Wed** - 
 
 2025.06.22 ***`Cardio`*** **run:** 1m  
 2025.06.21 ***`      `***   
