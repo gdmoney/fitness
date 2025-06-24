@@ -326,7 +326,7 @@
 2024.10.23 ***`Upper `*** **run:** 1m • **bench press:** 245x8x3 • **DB OHP-sngl:** 80x10x3  
 2024.10.22 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x2 • **pullups-astd:** 12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **machine row:** 15x3  
 2024.10.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good lunchtime workout. **Tue** - another good lunchtim eworkout. **Wed** - good workout; bench felt strong and was medium/heavy. **Thur/Fri/Sat/Sun** - couldn't get any workouts in Vegas with early call times and early gym closures. **Recap** - poor week hampered by travel. Total number of sets: 32.
+**Mon** - good lunchtime workout. **Tue** - another good lunchtime eworkout. **Wed** - good workout; bench felt strong and was medium/heavy. **Thur/Fri/Sat/Sun** - couldn't get any workouts in Vegas with early call times and early gym closures. **Recap** - poor week hampered by travel. Total number of sets: 32.
 
 2024.10.20 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 100x10x4  
 2024.10.19 ***`Cardio`*** **run:** 1m  
@@ -704,7 +704,7 @@
 2024.01.03 ***`Upper `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **lat pulldown:** 175x12x3 • **tri pushdown:** 20x3  
 2024.01.02 ***`Lower `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x3  
 2024.01.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run to start the year. **Tue** - lunge was easeir than the last time but still cardio heavy. **Wed** - OHP was moderate/heavy; stick with 145 for now; bench was light/moderate; go up to 75 next week; focused on lat engagement on lat pulldown. **Thur** - good workout. **Fri** - felt strong in the morning; squat was moderate/heavy with good form; focused on upper body tightness which seemed to help; stick to this weight for now and go up in reps. **Sat** - felt strong in the evening after a nap; bench was moderate and felt lighter than last week; row also felt lighter; OHP was moderate. **Sun** - pullups felt strong; ab wheel is effective. **Recap** - good week to start the year strong. Total number of sets: 76.
+**Mon** - good run to start the year. **Tue** - lunge was easier than the last time but still cardio heavy. **Wed** - OHP was moderate/heavy; stick with 145 for now; bench was light/moderate; go up to 75 next week; focused on lat engagement on lat pulldown. **Thur** - good workout. **Fri** - felt strong in the morning; squat was moderate/heavy with good form; focused on upper body tightness which seemed to help; stick to this weight for now and go up in reps. **Sat** - felt strong in the evening after a nap; bench was moderate and felt lighter than last week; row also felt lighter; OHP was moderate. **Sun** - pullups felt strong; ab wheel is effective. **Recap** - good week to start the year strong. Total number of sets: 76.
 
 ## 2023
 
