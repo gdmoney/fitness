@@ -6,6 +6,7 @@
 
 *****
 
+2025.06.26 ***`Cardio`*** **swim:** 1000y  
 2025.06.25 ***`Lower `*** **run:** 1m • **hack squat:** 230x10x4 • **back extn:** 90x12x4 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2025.06.24 ***`Cardio`*** **run:** 1m • **leg raise:** 15x4  
 2025.06.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 150x8x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 95x15,12  
