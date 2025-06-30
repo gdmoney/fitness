@@ -6,6 +6,9 @@
 
 *****
 
+2025.06.30 ***`Upper `*** **ab wheel:** 25x4 • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x10x4 • **upright row:** 95x12x4  
+**Mon** - good workout. **Tue** - 
+
 2025.06.29 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,6 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
 2025.06.28 ***`Cardio`*** **run:** 1m  
 2025.06.27 ***`Cardio`*** **swim:** 1000y  
