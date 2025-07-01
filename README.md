@@ -6,8 +6,9 @@
 
 *****
 
+2025.07.01 ***`Cardio`*** **run:** 1m  
 2025.06.30 ***`Upper `*** **ab wheel:** 25x4 • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x10x4 • **upright row:** 95x12x4  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good run. **Wed** - 
 
 2025.06.29 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,6 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
 2025.06.28 ***`Cardio`*** **run:** 1m  
@@ -16,7 +17,7 @@
 2025.06.25 ***`Lower `*** **run:** 1m • **hack squat:** 230x10x4 • **back extn:** 90x12x4 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2025.06.24 ***`Cardio`*** **run:** 1m • **leg raise:** 15x4  
 2025.06.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 150x8x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 95x15,12  
-**Mon** - good workout in New York at the Mid City Gym. **Tue** - good run. **Wed** - good leg workout on the last day of NY trip. **Thur** - good swim at Ned Baumer. **Fri** - another good swim. **Sat** - good run. **Sun** - didn't feel great after a poor night's sleep; bench felt heavy; OHP was moderate. **Recap** - decent week. Total number of sets: 40.
+**Mon** - good workout in New York at the Mid City Gym. **Tue** - good run. **Wed** - good leg workout on the last day of NY trip. **Thur** - good swim at Ned Baumer. **Fri** - another good swim. **Sat** - good run. **Sun** - didn't feel great after a poor night's sleep; bench felt heavy; OHP was moderate. **Recap** - decent week. Total number of sets: 40. June missed workouts: 1.
 
 2025.06.22 ***`Cardio`*** **run:** 1m  
 2025.06.21 ***`      `***   
