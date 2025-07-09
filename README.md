@@ -6,6 +6,7 @@
 
 *****
 
+2025.07.09 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 100x15x4 • **DB bench press:** TBD  
 2025.07.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
 2025.07.07 ***`Cardio`*** **run:** 1m • **swim:** 1000y  
 **Mon** - good cardio day. **Tue** - good leg day. **Wed** - 
