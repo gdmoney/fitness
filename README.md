@@ -11,7 +11,7 @@
 **Mon** - Good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - 
 
 2025.07.13 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x4  
-2025.07.12 ***`Cardio`*** **run:** 1m • **swim:** 1000y  
+2025.07.12 ***`Cardio`*** **swim:** 1000y  
 2025.07.11 ***`Cardio`*** **run:** 1m  
 2025.07.10 ***`Cardio`*** **run:** 1m  
 2025.07.09 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 100x15x4 • **DB bench press:** 100x10x4  
