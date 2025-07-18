@@ -6,10 +6,11 @@
 
 *****
 
+2025.07.17 ***`Cardio`*** **swim:** 1000y  
 2025.07.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 210x12x4 • **DB bench press:** 75x20  
 2025.07.15 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.07.14 ***`Lower `*** **run:** 1m • **leg press:** 300x12x3 • **DB lunge:** 65x12x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
-**Mon** - good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - one more good workout at the Terranea gym. **Thur** - 
+**Mon** - good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - one more good workout at the Terranea gym. **Thur** - good swim. **Fri** - 
 
 2025.07.13 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x4  
 2025.07.12 ***`Cardio`*** **swim:** 1000y  
