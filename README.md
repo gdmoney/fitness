@@ -6,11 +6,17 @@
 
 *****
 
+2025.07.21 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - 
+
+2025.07.20 ***`Upper `*** **run:** 1m • **skull crushers:** 105x10x4 • **curl variations:** 20x6 • **tricep variations:** 20x6  
+2025.07.19 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2,80x12x2    
+2025.07.18 ***`Cardio`*** **run:** 1m  
 2025.07.17 ***`Cardio`*** **swim:** 1000y  
-2025.07.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 210x12x4 • **DB bench press:** 75x20  
+2025.07.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 210x12x4 • **DB bench press:** 75x20x2  
 2025.07.15 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.07.14 ***`Lower `*** **run:** 1m • **leg press:** 300x12x3 • **DB lunge:** 65x12x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
-**Mon** - good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - one more good workout at the Terranea gym. **Thur** - good swim. **Fri** - 
+**Mon** - good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - one more good workout at the Terranea gym. **Thur** - good swim. **Fri** - good run. **Sat** - decent workout despite not feeling my strongest in the morning; bench was moderate/heavy; slight shoulder ache afterwards but went away the next day; OHP felt strong. **Sun** - good arm workout with Charles at the Casa gym. **Recap** - good week with 5 solid workouts. Total number of sets: 62.
 
 2025.07.13 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x4  
 2025.07.12 ***`Cardio`*** **swim:** 1000y  
