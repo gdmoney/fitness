@@ -6,8 +6,9 @@
 
 *****
 
+2025.07.22 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
 2025.07.21 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - 
 
 2025.07.20 ***`Upper `*** **run:** 1m • **skull crushers:** 105x10x4 • **curl variations:** 20x6 • **tricep variations:** 20x6  
 2025.07.19 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2,80x12x2    
