@@ -6,12 +6,14 @@
 
 *****
 
+2025.07.27 ***`Upper `*** **run:** 1m • **bench press:** 265x5,5,4,4 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x4  
+2025.07.26 ***`Cardio`*** **swim:** 1000y  
 2025.07.25 ***`Cardio`*** **run:** 1m  
 2025.07.24 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **dips-astd:** 10x4  
 2025.07.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20x2  
 2025.07.22 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
 2025.07.21 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good workout; shoulder press felt strong. **Thur** - good workout; pullups felt strong. **Fri** - good run. **Fri** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; shoulder press felt strong. **Thur** - good workout; pullups felt strong. **Fri** - good run. **Sat** - good swim at the Casa lap pool. **Sun** - bench was heavy; stick to 255-265 for now.
 
 2025.07.20 ***`Upper `*** **run:** 1m • **skull crushers:** 105x10x4 • **curl variations:** 20x12 • **tricep variations:** 20x12  
 2025.07.19 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2,80x12x2    
