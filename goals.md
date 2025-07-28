@@ -3,7 +3,7 @@
 
 ### 2025
 
-- [ ]  Have fewer missed workouts than last year (14 missed days)
+- [ ]  Have fewer missed workouts than last year (nn missed days)
 - [ ]  Stay injury free
 - [ ]  Improve posture
 - [ ]  Lose weight
