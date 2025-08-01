@@ -6,11 +6,12 @@
 
 *****
 
+2025.08.01 ***`Upper `*** **run:** 1m • **skull crushers:** 100x10x4 • **dips-astd:** 10x4 • **BB curl-rvs:** 80x12x4 • **upright row:** 90x12x4  
 2025.07.31 ***`Upper `*** **run:** 1m • **pullups:** 25x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.07.30 ***`Cardio`*** **run:** 1m  
 2025.07.29 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x10x4  
 2025.07.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
-**Mon** - good workout. **Tue** - good workout; press was moderate/heavy. **Wed** - good run. **Thur** - good workout; felt strong. **Fri** - 
+**Mon** - good workout. **Tue** - good workout; press was moderate/heavy. **Wed** - good run. **Thur** - good workout; felt strong. **Fri** - good workout; curl and row were too light. **Sat** - 
 
 2025.07.27 ***`Upper `*** **run:** 1m • **bench press:** 265x5,5,4,4 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x12x4  
 2025.07.26 ***`Cardio`*** **swim:** 1000y  
