@@ -6,6 +6,10 @@
 
 *****
 
+2025.08.05 ***`Lower `*** **run:** 1m • **leg press:** 400x15x2 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
+2025.08.04 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout. **Wed** - 
+
 2025.08.03 ***`Upper `*** **run:** 1m • **DB bench press:** 90x15x4  
 2025.08.02 ***`Upper `*** **run:** 1m • **bench press:** 265x5x2, 245x8x2, 225x8x2 • **DB row-sngl:** 100x15x4  
 2025.08.01 ***`Upper `*** **run:** 1m • **skull crushers:** 100x10x4 • **dips-astd:** 10x4 • **BB curl-rvs:** 80x12x4 • **upright row:** 90x12x4  
