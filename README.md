@@ -6,9 +6,10 @@
 
 *****
 
+2025.08.06 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x2,155x10x2,135x12x2 • **lat pulldown:** 200x10x2 • **DB bench press:** 75x20x2  
 2025.08.05 ***`Lower `*** **run:** 1m • **leg press:** 400x15x2 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.08.04 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - 
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy and felt strong. **Thur** - 
 
 2025.08.03 ***`Upper `*** **run:** 1m • **DB bench press:** 90x15x4  
 2025.08.02 ***`Upper `*** **run:** 1m • **bench press:** 265x5x2, 245x8x2, 225x8x2 • **DB row-sngl:** 100x15x4  
