@@ -6,7 +6,7 @@
 
 *****
 
-2025.08.11 ***`Upper `*** **run:** 1m • **bench press:** 265x4x2, 245x7,5, 225x8,10 • **DB row-sngl:** 90x15x4 • **DB OHPsngl:** 90x6x2, 80x12x2  
+2025.08.11 ***`Upper `*** **run:** 1m • **bench press:** 265x4x2, 245x7,5, 225x8,10 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2, 80x12x2  
 **Mon** - good workout getting back into it after 2 days of illness; bench felt heavier than last week; OHP felt strong. **Tue** - 
 
 2025.08.10 ***`      `***   
