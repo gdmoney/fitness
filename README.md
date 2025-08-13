@@ -6,17 +6,18 @@
 
 *****
 
+2025.08.12 ***`Cardio`*** **run:** 1m  
 2025.08.11 ***`Upper `*** **run:** 1m • **bench press:** 265x4x2, 245x7,5, 225x8,10 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2, 80x12x2  
-**Mon** - good workout getting back into it after 2 days of illness; bench felt heavier than last week; OHP felt strong. **Tue** - 
+**Mon** - good workout getting back into it after 2 days of illness; bench felt heavier than last week; OHP felt strong. **Tue** - good run. **Wed** - 
 
 2025.08.10 ***`      `***   
 2025.08.09 ***`      `***   
-
+2025.08.08 ***`Cardio`*** **run:** 1m  
 2025.08.07 ***`Cardio`*** **run:** 1m  
 2025.08.06 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x2, 155x10x2, 135x12x2 • **lat pulldown:** 200x10x2 • **DB bench press:** 75x20x2  
 2025.08.05 ***`Lower `*** **run:** 1m • **leg press:** 400x15x2 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.08.04 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy and felt strong. **Thur** - good morning run followed by a trip to Seaworld. **Fri** - ?. **Sat** - out sick with a stomach flu. **Sun** - feeling better but not well enough to workout. **Recap** - poor week hampered by illness. Total number of sets: 20.
+**Mon** - good run. **Tue** - good workout. **Wed** - good workout; OHP was moderate/heavy and felt strong. **Thur** - good morning run followed by a trip to Seaworld. **Fri** - felt a bit sick. **Sat** - out sick with a stomach flu. **Sun** - feeling better but not well enough to workout. **Recap** - poor week hampered by illness. Total number of sets: 20.
 
 2025.08.03 ***`Upper `*** **run:** 1m • **DB bench press:** 90x15x4  
 2025.08.02 ***`Upper `*** **run:** 1m • **bench press:** 265x5x2, 245x8x2, 225x8x2 • **DB row-sngl:** 100x15x4  
