@@ -6,12 +6,13 @@
 
 *****
 
-2025.08.15 ***`Upper `*** **run:** 1m • **pullups:** 40x7x4, 12x3 • **cable x-over:** 15x4 • **tri pushdown:** 20x2  
+2025.08.16 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x2, 155x10x2, 135x15x2 • **DB bench press:** 100x10x2, 90x12x2, 80x15x2  
+2025.08.15 ***`Upper `*** **run:** 1m • **pullups:** 40x7x4, 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x2  
 2025.08.14 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.08.13 ***`Cardio`*** **run:** 1m  
 2025.08.12 ***`Cardio`*** **run:** 1m  
 2025.08.11 ***`Upper `*** **run:** 1m • **bench press:** 265x4x2, 245x7,5, 225x8,10 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2, 80x12x2  
-**Mon** - good workout getting back into it after 2 days of illness; bench felt heavier than last week; OHP felt strong. **Tue** - good run. **Wed** - good run. **Thur** - good workout. **Fri** - good workout; pullups felt strong. **Sat** - 
+**Mon** - good workout getting back into it after 2 days of illness; bench felt heavier than last week; OHP felt strong. **Tue** - good run. **Wed** - good run. **Thur** - good workout. **Fri** - good workout; pullups felt strong. **Sat** - good workout; OHP and bench were both moderate/heavy. **Sun** - 
 
 2025.08.10 ***`      `***   
 2025.08.09 ***`      `***   
