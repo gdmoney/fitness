@@ -6,7 +6,7 @@
 
 *****
 
-2025.08.15 ***`Upper `*** **run:** 1m • **pullups:** 40x7x4, 12x2 • **cable x-over:** 15x4 • **tri pushdown:** 20x2  
+2025.08.15 ***`Upper `*** **run:** 1m • **pullups:** 40x7x4, 12x3 • **cable x-over:** 15x4 • **tri pushdown:** 20x2  
 2025.08.14 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.08.13 ***`Cardio`*** **run:** 1m  
 2025.08.12 ***`Cardio`*** **run:** 1m  
