@@ -13,7 +13,7 @@
 2025.08.24 ***`      `***   
 2025.08.23 ***`Cardio`*** **run:** 1m  
 2025.08.22 ***`Upper `*** **elpt:** 10 min • **chest press:** 210x10x4 • **seated row:** 12x4  
-2025.08.21 ***`Cardio`*** **manual labor**
+2025.08.21 ***`Cardio`*** **manual labor**  
 2025.08.20 ***`Upper `*** **run:** 1m • **skull crushers:** 100x10x4 • **BB curl-rvs:** 90x10x4 • **upright row:** 100x12x4  
 2025.08.19 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x5x2, 160x10x2, 140x12x2 • **lat pulldown:** 200x10x4  
 2025.08.18 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
