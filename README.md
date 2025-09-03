@@ -6,6 +6,13 @@
 
 *****
 
+2025.09.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
+2025.09.01 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - 
+
+
+
+
 2025.08.26 ***`Upper `*** **elpt:** 10 min • **ab wheel:** 25x4  
 2025.08.25 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good cardio workout at the Terranea gym. **Wed** - 
