@@ -6,16 +6,19 @@
 
 *****
 
+2025.09.03 ***`Cardio`*** **run:** 1m  
 2025.09.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.09.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - 
+**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - good early morning run. **Thur** - 
 
-
-
-
+2025.08.31 ***`Cardio`*** **run:** 1m  
+2025.08.30 ***`Upper `*** **pushups:** 50
+2025.08.29 ***`Cardio`*** **run:** 1m  
+2025.08.28 ***`Lower `*** **run:** 1m • **leg press:** 320x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
+2025.08.27 ***`Cardio`*** **elpt:** 10 min  
 2025.08.26 ***`Upper `*** **elpt:** 10 min • **ab wheel:** 25x4  
 2025.08.25 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good cardio workout at the Terranea gym. **Wed** - 
+**Mon** - good run. **Tue** - good cardio workout at the Terranea gym. **Wed** - good elliptical session. **Thur** - good leg workout on the last day at Terranea. **Fri** - good run. **Sat** - pushups with Luka. **Sun** - good run. **Recap** - poor week hampered by travel but on the plus side, I didn't miss any days. Total number of sets: 17. August missed workouts: 3.
 
 2025.08.24 ***`      `***   
 2025.08.23 ***`Cardio`*** **run:** 1m  
@@ -24,7 +27,7 @@
 2025.08.20 ***`Upper `*** **run:** 1m • **skull crushers:** 100x10x4 • **BB curl-rvs:** 90x10x4 • **upright row:** 100x12x4  
 2025.08.19 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x5x2, 160x10x2, 140x12x2 • **lat pulldown:** 200x10x4  
 2025.08.18 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
-**Mon** - good workout. **Tue** - OHP felt strong; first time doing 180; go for 6-7 next time. **Wed** - good workout. **Thur** - got a good workout unloading the cargo van at Terranea. **Fri** - good workout at the Terranea gym. **Sat** - good run. **Sun** - long day at work. **Recap** - decent week. Total number of sets: 42.
+**Mon** - good workout. **Tue** - OHP felt strong; first time doing 180; go for 6-7 next time. **Wed** - good workout. **Thur** - got a good workout unloading the cargo van at Terranea. **Fri** - good workout at the Terranea gym. **Sat** - good run. **Sun** - gym was already closed after a long day at work. **Recap** - decent week. Total number of sets: 42.
 
 2025.08.17 ***`Cardio`*** **run:** 1m  
 2025.08.16 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x2, 155x10x2, 135x15x2 • **DB bench press:** 100x10x2, 90x12x2, 80x15x2  
