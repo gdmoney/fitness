@@ -6,10 +6,11 @@
 
 *****
 
+2025.09.04 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x8x2, 160x10x2, 140x12x2 • **lat pulldown:** 200x10x4  
 2025.09.03 ***`Cardio`*** **run:** 1m  
 2025.09.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.09.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - good early morning run. **Thur** - 
+**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - good early morning run. **Thur** - decent workout despite not feeling great after sleeping poorly. **Fri** - 
 
 2025.08.31 ***`Cardio`*** **run:** 1m  
 2025.08.30 ***`Upper `*** **pushups:** 50
