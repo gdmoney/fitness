@@ -29,7 +29,7 @@
 **Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - good early morning run. **Thur** - decent workout despite not feeling great after sleeping poorly. **Fri** - good workout. **Sat** - good run. **Sun** - good run. **Recap** - OK week. Total number of sets: 34.
 
 2025.08.31 ***`Cardio`*** **run:** 1m  
-2025.08.30 ***`Upper `*** **pushups:** 50
+2025.08.30 ***`Upper `*** **pushups:** 50  
 2025.08.29 ***`Cardio`*** **run:** 1m  
 2025.08.28 ***`Lower `*** **run:** 1m • **leg press:** 320x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 2025.08.27 ***`Cardio`*** **elpt:** 10 min  
