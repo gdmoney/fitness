@@ -6,12 +6,27 @@
 
 *****
 
+2025.09.16 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 90x15x4 • **DB lunge:** 65x12x1  
+2025.09.15 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - first resistance workout in over a week; felt strong. **Wed** - 
+
+2025.09.14 ***`      `***   
+2025.09.13 ***`      `***   
+2025.09.12 ***`Cardio`*** **run:** 1m  
+2025.09.11 ***`Cardio`*** **run:** 1m  
+2025.09.10 ***`Cardio`*** **run:** 1m  
+2025.09.09 ***`Cardio`*** **run:** 1m  
+2025.09.08 ***`Cardio`*** **run:** 1m  
+**Mon-Fri** - cardio only week hampered by travel and behind the ear abscess surgery on Friday. **Sat-Sun** - post surgery recovery. **Recap** - poor week. Total number of sets: 0.
+
+2025.09.07 ***`Cardio`*** **run:** 1m  
+2025.09.06 ***`Cardio`*** **run:** 1m  
 2025.09.05 ***`Upper `*** **run:** 1m • **pullups:** 25x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.09.04 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x8x2, 160x10x2, 140x12x2 • **lat pulldown:** 200x10x4  
 2025.09.03 ***`Cardio`*** **run:** 1m  
 2025.09.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.09.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - good early morning run. **Thur** - decent workout despite not feeling great after sleeping poorly. **Fri** - good workout. **Sat** - 
+**Mon** - good run. **Tue** - good workout after work; felt strong and energetic. **Wed** - good early morning run. **Thur** - decent workout despite not feeling great after sleeping poorly. **Fri** - good workout. **Sat** - good run. **Sun** - good run. **Recap** - OK week. Total number of sets: 34.
 
 2025.08.31 ***`Cardio`*** **run:** 1m  
 2025.08.30 ***`Upper `*** **pushups:** 50
