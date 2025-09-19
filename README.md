@@ -6,11 +6,12 @@
 
 *****
 
+2025.09.19 ***`Upper `*** **run:** 1m • **pullups:** 45x5x2, 25x8x2 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.09.18 ***`Upper `*** **run:** 1m • **skull crushers:** 90x12x4 • **BB curl-rvs:** 80x12x4 • **upright row:** 90x12x4  
 2025.09.17 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20,15  
 2025.09.16 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 90x15x4 • **DB lunge:** 65x12x1  
 2025.09.15 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - first resistance workout in over a week; felt strong. **Wed** - good workout; press felt a bit heavy. **Thur** - good workout. **Fri** - 
+**Mon** - good run. **Tue** - first resistance workout in over a week; felt strong. **Wed** - good workout; press felt a bit heavy. **Thur** - good workout. **Fri** - good workout; pullups felt strong. **Sat** - 
 
 2025.09.14 ***`      `***   
 2025.09.13 ***`      `***   
