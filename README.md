@@ -6,11 +6,17 @@
 
 *****
 
+2025.09.29 ***`Upper `*** **run:** 1m • **chest press:** 200x10x4 • **seated row:** 12x4 • **lat pulldown:** 12x4  
+**Mon** - good workout at the Del gym. **Tue** - 
+
+2025.09.28 ***`      `***   
+2025.09.27 ***`Cardio`*** **run:** 1m  
+2025.09.26 ***`Cardio`*** **run:** 1m  
 2025.09.25 ***`Lower `*** **run:** 1m • **leg press:** 400x15x2 • **back extn:** 90x15x4 • **DB lunge:** 65x12x4  
 2025.09.24 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x8x2, 160x10x2, 140x12x2 • **lat pulldown:** 200x10x6  
 2025.09.23 ***`Cardio`*** **run:** 1m  
 2025.09.22 ***`Cardio`*** **run:** 1m  
-**Mon** - good ru. **Tue** - good run. **Wed** - good workout; pulldown felt strong. **Thur** - good workout. **Fri** - 
+**Mon** - good ru. **Tue** - good run. **Wed** - good workout; pulldown felt strong. **Thur** - good workout. **Fri** - **Sat** - good run. **Sun** - rest day. **Recap** - poor week. Total number of sets: 22.
 
 2025.09.21 ***`Cardio`*** **run:** 1m  
 2025.09.20 ***`Cardio`*** **run:** 1m  
