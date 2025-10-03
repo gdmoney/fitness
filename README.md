@@ -6,7 +6,7 @@
 
 *****
 
-2025.10.03 ***`Full  `*** **run:** 1m • **leg press:** 400x15x2 • **back extn:** 90x15x4 • **DB lunge:** 65x12x2 • **shoulder press-smith:** 170x8x4, 160x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
+2025.10.03 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **DB lunge:** 65x12x2 • **shoulder press-smith:** 170x8x4, 160x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2025.10.02 ***`Cardio`*** **run:** 1m  
 2025.10.01 ***`      `***   
 2025.09.30 ***`Upper `*** **pushups:** 25x6  
