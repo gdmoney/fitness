@@ -6,12 +6,19 @@
 
 *****
 
-2025.10.03 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **DB lunge:** 65x12x2 • **shoulder press-smith:** 170x8x4, 160x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
+2025.10.08 ***`Cardio`*** **run:** 1m  
+2025.10.07 ***`Lower `*** **run:** 1m • **SSB squat:** 180x10x4  
+2025.10.06 ***`      `***   
+**Mon** - rest day after the weekend's festivities in LB. **Tue** - first time squatting in several months; it felt good; start doing it more frequently. **Wed** - goood run but feeling a bit under the weather. **Thur** - 
+
+2025.10.05 ***`Cardio`*** **run:** 1m  
+2025.10.04 ***`Upper `*** **run:** 1m • **pullups:** 45x7x2, 25x8x2 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4 • **skull crushers:** 95x12x4 • **upright row:** 95x15x4  
+2025.10.03 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **DB lunge:** 65x12x2 • **shoulder press-smith:** 170x8x2, 160x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2025.10.02 ***`Cardio`*** **run:** 1m  
 2025.10.01 ***`      `***   
 2025.09.30 ***`Upper `*** **pushups:** 25x6  
 2025.09.29 ***`Upper `*** **run:** 1m • **chest press:** 200x10x4 • **seated row:** 12x4 • **lat pulldown:** 12x4  
-**Mon** - good workout at the Del gym. **Tue** - pushups felt good. **Wed** - rest day. **Thur** - good run. **Fri** - good workout; doubled up on upper and lower; press and pulldown felt strong. **Sat** - .... **Sun** - .... **Recap** - .... Total number of sets: nn. September missed workouts: 4.
+**Mon** - good workout at the Del gym. **Tue** - pushups felt good. **Wed** - rest day. **Thur** - good run. **Fri** - good workout; doubled up on upper and lower; press and pulldown felt strong. **Sat** - good workout; pullups felt strong. **Sun** - good run. **Recap** - decent week despite a slow start. Total number of sets: 58. September missed workouts: 4.
 
 2025.09.28 ***`      `***   
 2025.09.27 ***`Cardio`*** **run:** 1m  
