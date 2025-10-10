@@ -6,10 +6,11 @@
 
 *****
 
+2025.10.09 ***`Cardio`*** **run:** 1m  
 2025.10.08 ***`Cardio`*** **run:** 1m  
 2025.10.07 ***`Lower `*** **run:** 1m • **SSB squat:** 180x10x4  
 2025.10.06 ***`      `***   
-**Mon** - rest day after the weekend's festivities in LB. **Tue** - first time squatting in several months; it felt good; start doing it more frequently. **Wed** - goood run but feeling a bit under the weather. **Thur** - 
+**Mon** - rest day after the weekend's festivities in LB. **Tue** - first time squatting in several months; it felt good; start doing it more frequently. **Wed** - goood run but feeling a bit under the weather. **Thur** - good run. **Fri** - 
 
 2025.10.05 ***`Cardio`*** **run:** 1m  
 2025.10.04 ***`Upper `*** **run:** 1m • **pullups:** 45x7x2, 25x8x2 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4 • **skull crushers:** 95x12x4 • **upright row:** 95x15x4  
