@@ -5,10 +5,10 @@
 
 | Period           | SSB Squat        | BB Bench Press       | DB Bench Press   | BB OH Press          | DB OH Press-sngl    | Pullups           |
 | :--------------- | :--------------: | :------------------: | :--------------: | :------------------: | :-----------------: | :---------------: |
-| Jan - Feb - Mar  |   230x08x2       |   225x10x4           |   100x10x4       |   165x10x2           |    80x10x4          |      10x4         |
-| Apr - May - Jun  |   210x08x4       | **245x10**, 245x08x4 |   100x12x4       |   175x06x4           |    80x10x4          |      12x4         |
-| Jul - Aug - Sep  |   180x08x4       |   255x06x4, 265x05x2 |   100x10x4       |   165x10x4           |    90x06x2, 80x10x4 |   40x07x4         |
-| Oct - Nov - Dec  |                  |                      |                  |                      |                     |                   |
+| Jan - Feb - Mar  |   230x08x2       |   225x10x4           |   100x10x4       |   165x10x2           |    80x10x4          |       10x4        |
+| Apr - May - Jun  |   210x08x4       | **245x10**, 245x08x4 |   100x12x4       |   175x06x4           |    80x10x4          |       12x4        |
+| Jul - Aug - Sep  |   180x08x4       |   255x06x4, 265x05x2 |   100x10x4       |   165x10x4           |    90x06x2, 80x10x4 |    40x07x4        |
+| Oct - Nov - Dec  |   180x10x4       |   275x02x2           |                  |   175x07x2           |                     |    45x07x2        |
 
 **Videos**  
 Q2
@@ -103,3 +103,4 @@ Q4
 
 **Videos**
 - [Pushups: 100](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pushups-100.mp4)
+
