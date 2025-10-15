@@ -6,11 +6,19 @@
 
 *****
 
+2025.10.15 ***`Cardio`*** **run:** 1m  
+2025.10.14 ***`Cardio`*** **run:** 1m  
+2025.10.13 ***`Lower `*** **run:** 1m • **DB lunge:** 70x15x4 • **DB lunge-rvs:** 50x20x4  
+**Mon** - good workout. **Tue** - good run but felt a bit under the weather. **Wed** - feeling better. **Thur** - 
+
+2025.10.12 ***`Upper `*** **run:** 1m • **bench press:** 275x2x2, 255x4x2 • **DB row-sngl:** 100x15x4  
+2025.10.11 ***`Cardio`*** **run:** 1m  
+2025.10.10 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 165x8x2, 155x9x2 • **lat pulldown:** 200x12x4  
 2025.10.09 ***`Cardio`*** **run:** 1m  
 2025.10.08 ***`Cardio`*** **run:** 1m  
 2025.10.07 ***`Lower `*** **run:** 1m • **SSB squat:** 180x10x4  
 2025.10.06 ***`      `***   
-**Mon** - rest day after the weekend's festivities in LB. **Tue** - first time squatting in several months; it felt good; start doing it more frequently. **Wed** - goood run but feeling a bit under the weather. **Thur** - good run. **Fri** - 
+**Mon** - rest day after the weekend's festivities in LB. **Tue** - first time squatting in several months; it felt good; start doing it more frequently. **Wed** - goood run but feeling a bit under the weather. **Thur** - good run. **Fri** - good workout; OHP felt strong. **Sat** - good run. **Sun** - good workout; bench was heavy. **Recap** - decent week. Total number of sets: 22.
 
 2025.10.05 ***`Cardio`*** **run:** 1m  
 2025.10.04 ***`Upper `*** **run:** 1m • **pullups:** 45x7x2, 25x8x2 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4 • **skull crushers:** 95x12x4 • **upright row:** 95x15x4  
@@ -1018,7 +1026,7 @@
 **Mon** - rest. **Tue** - good workout; squat was moderate/heavy and a bit lighter than last week. **Wed** - pullups felt strong. **Thur** - good run. **Fri** - good swim at Terranea. **Sat** - swim felt better than the day before. **Sun** - good run. **Recap** - good cardio week but not great overall.
 
 08.20 ***`        `***   
-08.19 ***`Upper   `*** **run:** 2m • **BB OHP:** 95x10x4 • **BB row:** 135x12x4 • **BB row:** 185x10x4 • **DB OH press-sngl(R):** 70x10x4  
+08.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 95x10x4 • **BB row:** 135x12x4 • **BB row:** 185x10x4 • **DB OH press-sngl(R):** 70x10x4  
 08.18 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x7x4, 175x10x3 • **SSB lunge:** 110x20x3  
 08.17 ***`Cardio  `*** **run:** 1m  
 08.16 ***`Cardio  `*** **run:** 2m  
