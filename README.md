@@ -6,10 +6,12 @@
 
 *****
 
+2025.10.17 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 165x8x2, 155x10x2 • **lat pulldown:** 200x12x4  
+2025.10.16 ***`Cardio`*** **run:** 1m  
 2025.10.15 ***`Cardio`*** **run:** 1m  
 2025.10.14 ***`Cardio`*** **run:** 1m  
 2025.10.13 ***`Lower `*** **run:** 1m • **DB lunge:** 70x15x4 • **DB lunge-rvs:** 50x20x4  
-**Mon** - good workout. **Tue** - good run but felt a bit under the weather. **Wed** - feeling better. **Thur** - 
+**Mon** - good workout. **Tue** - good run but felt a bit under the weather. **Wed** - feeling better. **Thur** - good run. **Fri** - good workout after sleeping well; OHP was moderate to moderate/heavy with good form and felt stronger than last week. **Sat** - 
 
 2025.10.12 ***`Upper `*** **run:** 1m • **bench press:** 275x2x2, 255x4x2 • **DB row-sngl:** 100x15x4  
 2025.10.11 ***`Cardio`*** **run:** 1m  
