@@ -6,7 +6,7 @@
 
 *****
 
-2025.10.17 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 165x8x2, 155x10x2 • **lat pulldown:** 200x12x4  
+2025.10.17 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 165x8x2, 155x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 100x12x2, 90x12x2, 80x12x2  
 2025.10.16 ***`Cardio`*** **run:** 1m  
 2025.10.15 ***`Cardio`*** **run:** 1m  
 2025.10.14 ***`Cardio`*** **run:** 1m  
