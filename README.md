@@ -6,12 +6,27 @@
 
 *****
 
+2025.10.28 ***`Cardio`*** **run:** 1m  
+2025.10.27 ***`      `***   
+**Mon** - rest day after previous night's festivities. **Tue** - good run.
+
+2025.10.26 ***`Cardio`*** **run:** 1m  
+2025.10.25 ***`Cardio`*** **elpt:** 10 min  
+2025.10.24 ***`Cardio`*** **elpt:** 10 min  
+2025.10.23 ***`Cardio`*** **elpt:** 10 min  
+2025.10.22 ***`Cardio`*** **run:** 1m  
+2025.10.21 ***`Upper `*** **run:** 1m • **bench press:** 275x3x2, 255x6x2 • **DB row-sngl:** 100x15x4 • **DB OHP**: 70x10x2  
+2025.10.20 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout; bench felt stronger than last week. **Wed** - good run. **Thur/Fri/Sat/Sun** - good cardio workouts at the Aria gym. **Recap** - poor week hampered by travel but at least I managed to get good cardio in. Total number of sets: 10.
+
+2025.10.19 ***`Cardio`*** **run:** 1m  
+2025.10.18 ***`Cardio`*** **run:** 1m  
 2025.10.17 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 165x8x2, 155x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 100x12x2, 90x12x2, 80x12x2  
 2025.10.16 ***`Cardio`*** **run:** 1m  
 2025.10.15 ***`Cardio`*** **run:** 1m  
 2025.10.14 ***`Cardio`*** **run:** 1m  
 2025.10.13 ***`Lower `*** **run:** 1m • **DB lunge:** 70x15x4 • **DB lunge-rvs:** 50x20x4  
-**Mon** - good workout. **Tue** - good run but felt a bit under the weather. **Wed** - feeling better. **Thur** - good run. **Fri** - good workout after sleeping well; OHP was moderate to moderate/heavy with good form and felt stronger than last week. **Sat** - 
+**Mon** - good workout. **Tue** - good run but felt a bit under the weather. **Wed** - feeling better. **Thur** - good run. **Fri** - good workout after sleeping well; OHP was moderate to moderate/heavy with good form and felt stronger than last week; bench also felt strong. **Sat** - good run. **Sun** - good run. **Recap** - poor week but OHP is feeling strong again. Total number of sets: 24.
 
 2025.10.12 ***`Upper `*** **run:** 1m • **bench press:** 275x2x2, 255x4x2 • **DB row-sngl:** 100x15x4  
 2025.10.11 ***`Cardio`*** **run:** 1m  
