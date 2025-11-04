@@ -6,9 +6,18 @@
 
 *****
 
+2025.11.04 ***`Cardio`*** **run:** 1m  
+2025.11.03 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - 
+
+2025.11.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x7x4 • **lat raise:** 15x4 • **front raise**: 15x4 • **rear raise:** 15x4  
+2025.11.01 ***`Upper `*** **run:** 1m • **pullups:** 45x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4  
+2025.10.31 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
+2025.10.30 ***`Cardio`*** **elpt:** 10 min  
+2025.10.29 ***`Cardio`*** **elpt:** 10 min  
 2025.10.28 ***`Cardio`*** **run:** 1m  
 2025.10.27 ***`      `***   
-**Mon** - rest day after previous night's festivities. **Tue** - good run.
+**Mon** - rest day after previous night's festivities. **Tue/Wed/Thur:** good cardio workouts at the Aria gym. **Fri** - good run back at home. **Sat** - pullups felt strong. **Sun** - good workout with Charles at the Casa gym. **Recap** - poor week hampered by travel. Total number of sets: 36. October missed workouts: 3.
 
 2025.10.26 ***`Cardio`*** **run:** 1m  
 2025.10.25 ***`Cardio`*** **elpt:** 10 min  
