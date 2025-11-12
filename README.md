@@ -12,7 +12,7 @@
 **Mon** - felt a bit under the weather. **Tue** - better but still under the weather. **Wed** - good workout; both OHP and pulldown felt strong. **Thur** - 
 
 2025.11.09 ***`Cardio`*** **run:** 1m  
-2025.11.08 ***`Cardio`*** **run:** 1m • **soccer game**
+2025.11.08 ***`Cardio`*** **run:** 1m • **soccer game**  
 2025.11.07 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.11.06 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 155x10x2, 135x12x2  
 2025.11.05 ***`Cardio`*** **run:** 1m  
