@@ -6,9 +6,10 @@
 
 *****
 
+2025.11.12 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x12x4 • **shoulder press-mchn:** 180x12x2  
 2025.11.11 ***`Cardio`*** **run:** 1m  
 2025.11.10 ***`Cardio`*** **run:** 1m  
-**Mon** - felt a bit under the weather. **Tue** - better but still under the weather. **Wed** - 
+**Mon** - felt a bit under the weather. **Tue** - better but still under the weather. **Wed** - good workout; both OHP and pulldown felt strong. **Thur** - 
 
 2025.11.09 ***`Cardio`*** **run:** 1m  
 2025.11.08 ***`Cardio`*** **run:** 1m • **soccer game**
