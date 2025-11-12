@@ -6,12 +6,18 @@
 
 *****
 
+2025.11.11 ***`Cardio`*** **run:** 1m  
+2025.11.10 ***`Cardio`*** **run:** 1m  
+**Mon** - felt a bit under the weather. **Tue** - better but still under the weather. **Wed** - 
+
+2025.11.09 ***`Cardio`*** **run:** 1m  
+2025.11.08 ***`Cardio`*** **run:** 1m • **soccer game**
 2025.11.07 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.11.06 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 155x10x2, 135x12x2  
 2025.11.05 ***`Cardio`*** **run:** 1m  
 2025.11.04 ***`Cardio`*** **run:** 1m  
 2025.11.03 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workou; OHP felt a bit heavy but my form was good. **Fri** - good workout; pullups felt strong. **Sat** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workou; OHP felt a bit heavy but my form was good. **Fri** - good workout; pullups felt strong. **Sat** - got a great cardio workout at Luka's soccer family day. **Sun** - good run. **Recap** - poor week. Total number of sets: 18.
 
 2025.11.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x7x4 • **lat raise:** 15x4 • **front raise**: 15x4 • **rear raise:** 15x4  
 2025.11.01 ***`Upper `*** **run:** 1m • **pullups:** 45x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4  
