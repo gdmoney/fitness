@@ -6,6 +6,9 @@
 
 *****
 
+2025.11.17 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - 
+
 2025.11.16 ***`Upper `*** **run:** 1m • **cable x-over:** 15x3 • **skull crushers:** 90x12x3 • **BB curl-rvs:** 80x12x3 • **upright row:** 90x15x3  
 2025.11.15 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **pullups:** 12x2  
 2025.11.14 ***`      `***   
