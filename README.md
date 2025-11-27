@@ -6,6 +6,13 @@
 
 *****
 
+2025.11.27 ***`Cardio`*** **run:** 1m  
+2025.11.26 ***`Cardio`*** **run:** 1m  
+2025.11.25 ***`Cardio`*** **run:** 1m  
+2025.11.24 ***`Cardio`*** **run:** 1m  
+**Mon** - sick. **Tue** - sick. **Wed** - sick. **Thur** - starting to feel better. **Fri** - 
+
+
 2025.11.20 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 155x10x2, 135x12x2 • **lat pulldown:** 215x10x4 • **DB bench press:** 75x20x2   
 2025.11.19 ***`Cardio`*** **run:** 1m  
 2025.11.18 ***`Cardio`*** **run:** 1m  
