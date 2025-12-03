@@ -6,23 +6,28 @@
 
 *****
 
+2025.12.03 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 90x12x4  
 2025.12.02 ***`Cardio`*** **run:** 1m  
 2025.12.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout; OHP felt strong. **Thur** - 
 
-
+2025.11.30 ***`Cardio`*** **run:** 1m  
+2025.11.29 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **shoulder press-smith:** 160x10x3 • **lat pulldown:** 200x12x3  
+2025.11.28 ***`Cardio`*** **run:** 1m  
 2025.11.27 ***`Cardio`*** **run:** 1m  
 2025.11.26 ***`Cardio`*** **run:** 1m  
 2025.11.25 ***`Cardio`*** **run:** 1m  
 2025.11.24 ***`Cardio`*** **run:** 1m  
-**Mon** - sick. **Tue** - sick. **Wed** - sick. **Thur** - starting to feel better. **Fri** - 
+**Mon** - sick. **Tue** - sick. **Wed** - sick. **Thur** - starting to feel better. **Fri** - feeling even better. **Sat** - good workout. **Sun** - good run. **Recap** - poor week hampered by illness. Total number of sets: 14.
 
-
-2025.11.20 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 155x10x2, 135x12x2 • **lat pulldown:** 215x10x4 • **DB bench press:** 75x20x2   
+2025.11.23 ***`Cardio`*** **run:** 1m  
+2025.11.22 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **pullups:** 10x2 • **tri pushdown:** 20x2  
+2025.11.21 ***`Cardio`*** **elpt:** 15 min  
+2025.11.20 ***`Upper `*** **run:** 1m • **BB OH press:** 175x7x2, 155x10x2, 135x12x2 • **lat pulldown:** 215x10x4 • **DB bench press:** 75x20x2  
 2025.11.19 ***`Cardio`*** **run:** 1m  
 2025.11.18 ***`Cardio`*** **run:** 1m  
 2025.11.17 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; felt strong after a good night's sleep; OHP felt strong. **Fri** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; felt strong after a good night's sleep; OHP felt strong. **Fri** - good elliptical session. **Sat** - good workout. **Sun** - good run. **Recap** - poor week hampered by illness. Total number of sets: 24.
 
 2025.11.16 ***`Upper `*** **run:** 1m • **cable x-over:** 15x3 • **skull crushers:** 90x12x3 • **BB curl-rvs:** 80x12x3 • **upright row:** 90x15x3  
 2025.11.15 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **pullups:** 12x2  
