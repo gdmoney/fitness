@@ -6,9 +6,9 @@
 
 *****
 
-
+2025.12.02 ***`Cardio`*** **run:** 1m  
 2025.12.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - 
+**Mon** - good run. **Tue** - good run. **Wed** - 
 
 
 2025.11.27 ***`Cardio`*** **run:** 1m  
