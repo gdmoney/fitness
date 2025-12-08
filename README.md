@@ -6,6 +6,9 @@
 
 *****
 
+2025.12.08 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **seated row:** 200x12x4 • **shoulder press-mchn**: 180x10x4  
+**Mon** - good workout; bench was moderate/heavy and felt pretty good considering I haven't benched in almost 2 months. **Tue** - 
+
 2025.12.07 ***`Cardio`*** **run:** 1m  
 2025.12.06 ***`Cardio`*** **run:** 1m  
 2025.12.05 ***`Upper `*** **run:** 1m • **pullups:** 12x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **dips-astd:** 10x3  
