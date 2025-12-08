@@ -13,7 +13,7 @@
 2025.12.03 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 90x12x4  
 2025.12.02 ***`Cardio`*** **run:** 1m  
 2025.12.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout; OHP felt strong. **Thur** - good workout; first time squatting in 2 months. **Fri** - good workout; start doing dips more frequently. **Sat** - good run. **Sun** - good run. **Recap** - OK week. Total number of sets: 30. November missed workouts: 1.
+**Mon** - good run. **Tue** - good run. **Wed** - good workout; OHP felt strong. **Thur** - good workout; first time squatting in 2 months. **Fri** - good workout; start doing dips more frequently. **Sat** - good run. **Sun** - good run. **Recap** - OK week. Total number of sets: 30.
 
 2025.11.30 ***`Cardio`*** **run:** 1m  
 2025.11.29 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **shoulder press-smith:** 160x10x3 • **lat pulldown:** 200x12x3  
@@ -22,7 +22,7 @@
 2025.11.26 ***`Cardio`*** **run:** 1m  
 2025.11.25 ***`Cardio`*** **run:** 1m  
 2025.11.24 ***`Cardio`*** **run:** 1m  
-**Mon** - sick. **Tue** - sick. **Wed** - sick. **Thur** - starting to feel better. **Fri** - feeling even better. **Sat** - good workout. **Sun** - good run. **Recap** - poor week hampered by illness. Total number of sets: 14.
+**Mon** - sick. **Tue** - sick. **Wed** - sick. **Thur** - starting to feel better. **Fri** - feeling even better. **Sat** - good workout. **Sun** - good run. **Recap** - poor week hampered by illness. Total number of sets: 14. November missed workouts: 1.
 
 2025.11.23 ***`Cardio`*** **run:** 1m  
 2025.11.22 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **pullups:** 10x2 • **tri pushdown:** 20x2  
