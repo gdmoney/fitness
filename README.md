@@ -6,10 +6,14 @@
 
 *****
 
+2025.12.07 ***`Cardio`*** **run:** 1m  
+2025.12.06 ***`Cardio`*** **run:** 1m  
+2025.12.05 ***`Upper `*** **run:** 1m • **pullups:** 12x3 • **cable x-over:** 15x3 • **tri pushdown:** 25x3 • **dips-astd:** 10x3  
+2025.12.04 ***`Lower `*** **run:** 1m • **SSB squat:** 160x10x6  
 2025.12.03 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 90x12x4  
 2025.12.02 ***`Cardio`*** **run:** 1m  
 2025.12.01 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout; OHP felt strong. **Thur** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout; OHP felt strong. **Thur** - good workout; first time squatting in 2 months. **Fri** - good workout; start doing dips more frequently. **Sat** - good run. **Sun** - good run. **Recap** - OK week. Total number of sets: 30. November missed workouts: 1.
 
 2025.11.30 ***`Cardio`*** **run:** 1m  
 2025.11.29 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **shoulder press-smith:** 160x10x3 • **lat pulldown:** 200x12x3  
