@@ -6,8 +6,9 @@
 
 *****
 
+2025.12.09 ***`Upper `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 80x12x4 • **upright row:** 90x15x4 • **dips-astd:** 10x4  
 2025.12.08 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **seated row:** 200x12x4 • **shoulder press-mchn**: 180x10x4  
-**Mon** - good workout; bench was moderate/heavy and felt pretty good considering I haven't benched in almost 2 months. **Tue** - 
+**Mon** - good workout; bench was moderate/heavy and felt pretty good considering I haven't benched in almost 2 months. **Tue** - good workout. **Wed** - 
 
 2025.12.07 ***`Cardio`*** **run:** 1m  
 2025.12.06 ***`Cardio`*** **run:** 1m  
