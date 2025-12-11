@@ -9,7 +9,7 @@
 2025.12.10 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2025.12.09 ***`Upper `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 80x12x4 • **upright row:** 90x15x4 • **dips-astd:** 10x4  
 2025.12.08 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **seated row:** 200x12x4 • **shoulder press-mchn**: 180x10x4  
-**Mon** - good workout; bench was moderate/heavy and felt pretty good considering I haven't benched in almost 2 months. **Tue** - good workout. **Wed** - good workou; both leg press and back extn felt light. **Thur** - 
+**Mon** - good workout; bench was moderate/heavy and felt pretty good considering I haven't benched in almost 2 months. **Tue** - good workout. **Wed** - good workout; both leg press and back extn felt light. **Thur** - 
 
 2025.12.07 ***`Cardio`*** **run:** 1m  
 2025.12.06 ***`Cardio`*** **run:** 1m  
