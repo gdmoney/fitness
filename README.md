@@ -6,6 +6,7 @@
 
 *****
 
+2025.12.20 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 20x3 • **dips-astd:** 10x3  
 2025.12.19 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2025.12.18 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x12x4 • **dips-astd:** 10x4  
 2025.12.17 ***`Cardio`*** **run:** 2m  
