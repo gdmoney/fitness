@@ -6,13 +6,14 @@
 
 *****
 
-2025.12.20 ***`Upper `*** **run:** 1m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 20x3 • **dips-astd:** 10x3  
+2025.12.21 ***`Upper `*** **run:** 1m • **bench press:** 275x3x2, 245x6x2 • **DB row-sngl:** 100x15x4 • **DB OHP-sngl**: 80x10x4  
+2025.12.20 ***`Upper `*** **run:** 2m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 20x3 • **dips-astd:** 10x3 • **ab wheel:** 25x4  
 2025.12.19 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2025.12.18 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x12x4 • **dips-astd:** 10x4  
 2025.12.17 ***`Cardio`*** **run:** 2m  
 2025.12.16 ***`Cardio`*** **run:** 1m  
 2025.12.15 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; press was moderat/heavy; pulldown felt strong; dips also felt strong. **Fri** - good workout; need to figure out a way to make the leg press more challenging. **Sat** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; press was moderat/heavy; pulldown felt strong; dips also felt strong. **Fri** - good workout; need to figure out a way to make the leg press more challenging. **Sat** - decent workout; didn't feel my strongest. **Sun** - good workout; bench was moderate/heavy. **Recap** - good week. Total number of sets: 52.
 
 2025.12.14 ***`Cardio`*** **run:** 1m  
 2025.11.13 ***`      `***   
