@@ -3,8 +3,6 @@
 
 ### 2025
 
-#### January • February • March • April • May • June
-
 | Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      |
 | :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
 | **`Legs   `** | SSB squat         | Hatfield squat    | leg press         | lunge / rvs lunge | leg curl / extn   |

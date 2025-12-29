@@ -2,12 +2,21 @@
 
 
 *****
-**[Training Plan](/training-plan.md) • [Progress](/progress.md) • [Goals](/goals.md) • [2024](#2024) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
+**[Goals](/goals.md) • [Progress](/progress.md) • [Training Plan](/training-plan.md) • [2024](#2024) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
 
 *****
 
+2025.12.29 ***`Upper `*** **elpt:** 10 min • **bench press:** 275x4x1, 225x10x2, 205x10x2  
+**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7.
+
+2025.12.28 ***`Cardio`*** **ab wheel:** 25x4  
+2025.12.27 ***`Cardio`*** **run:** 2m  
+2025.12.26 ***`Cardio`*** **run:** 1m  
+2025.12.25 ***`Cardio`*** **run:** 1m  
+2025.12.24 ***`Cardio`*** **run:** 1m  
+2025.12.23 ***`Cardio`*** **run:** 1m  
 2025.12.22 ***`Cardio`*** **run:** 1m  
-**Mon** - felt a bit tired. **Tue** - 
+**Mon - Sun** -- deload/cardio only week. Total number of sets: 4.
 
 2025.12.21 ***`Upper `*** **run:** 1m • **bench press:** 275x3x2, 245x6x2 • **DB row-sngl:** 100x15x4 • **DB OHP-sngl**: 80x10x4  
 2025.12.20 ***`Upper `*** **run:** 2m • **pullups:** 10x3 • **cable x-over:** 15x3 • **tri pushdown:** 20x3 • **dips-astd:** 10x3 • **ab wheel:** 25x4  
