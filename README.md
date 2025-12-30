@@ -6,7 +6,7 @@
 
 *****
 
-2025.12.29 ***`Upper `*** **elpt:** 10 min • **bench press:** 275x4x1, 225x10x2, 205x10x2  
+2025.12.29 ***`Upper `*** **elpt:** 10 min • **bench press:** 275x4x1, 225x10x2, 205x10x2 • **DB curl:** 20x5  
 **Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7.
 
 2025.12.28 ***`Cardio`*** **ab wheel:** 25x4  
