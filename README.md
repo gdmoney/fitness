@@ -6,9 +6,10 @@
 
 *****
 
+2025.12.31 ***`Upper `*** **run:** 1m • **pullups:** 45x9x1, 10x3 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.12.30 ***`Lower `*** **elpt:** 15 min • **SSB squat:** 260x1, 280x1, 180x10x4 • **farmer's walk:** 215x1mx4  
 2025.12.29 ***`Upper `*** **elpt:** 10 min • **bench press:** 275x4x1, 225x10x2, 205x10x2 • **DB curl:** 20x5  
-**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7. **Tue** - 280 is a PR but I wasn't happy with the depth. **Wed** - 
+**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7. **Tue** - 280 is a PR but I wasn't happy with the depth. **Wed** - good workout; 45lbs for 9 is a PR but I wasn't happy with the ROM; go for 10 next year; go up on cable x-over. **Thur** - 
 
 2025.12.28 ***`Cardio`*** **ab wheel:** 25x4  
 2025.12.27 ***`Cardio`*** **run:** 2m  
@@ -952,247 +953,247 @@
 
 ## 2023
 
-12.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
-12.30 ***`Upper   `*** **bench press:** 205x10x4 • **BB row:** 175x12x4  
-12.29 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3  
-12.28 ***`Cardio  `*** **run:** 1m  
-12.27 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **DB row-sngl:** 90x15x4  
-12.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x3  
-12.25 ***`        `***   
+2023.12.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
+2023.12.30 ***`Upper   `*** **bench press:** 205x10x4 • **BB row:** 175x12x4  
+2023.12.29 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3  
+2023.12.28 ***`Cardio  `*** **run:** 1m  
+2023.12.27 ***`Upper   `*** **run:** 1m • **BB OH press:** 145x10x4 • **DB bench press:** 70x15x4 • **DB row-sngl:** 90x15x4  
+2023.12.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge-rvs:** 50x20x3  
+2023.12.25 ***`        `***   
 **Mon** - rest and Christmas festivities. **Tue** - good workout. **Wed** - OHP was moderate until the very last rep; stick with 145 for now; bench was light; go up to 75 next week. **Thur** - good run. **Fri** - didn't feel great after sleeping poorly; squat was moderate/heavy. **Sat** - didn't feel great after partying the night before; bench was moderate; stick to 205 for another week. **Sun** - pullups felt strong. **Recap** - another good week to finish the year strong.
 
-12.24 ***`Misc    `*** **run:** 1m • **DB lunge:** 70x20x3 • **BB curl-rvs:** 55x12x3 • **lat raise:** 15x20x3  
-12.23 ***`Upper   `*** **run:** 1m • **bench press:** 200x10x4 • **BB row:** 175x12x4 • **DB OH press:** 52x20x4 • **DB row-sngl:** 90x15x4  
-12.22 ***`Cardio  `*** **run:** 1m  
-12.21 ***`Misc    `*** **run:** 1m • **pullups:** 10x5 • **leg raise:** 15x5  
-12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 140x10x4 • **DB bench press:** 70x15x4 • **tri pushdown:** 20x4  
-12.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
-12.18 ***`        `***   
+2023.12.24 ***`Misc    `*** **run:** 1m • **DB lunge:** 70x20x3 • **BB curl-rvs:** 55x12x3 • **lat raise:** 15x20x3  
+2023.12.23 ***`Upper   `*** **run:** 1m • **bench press:** 200x10x4 • **BB row:** 175x12x4 • **DB OH press:** 52x20x4 • **DB row-sngl:** 90x15x4  
+2023.12.22 ***`Cardio  `*** **run:** 1m  
+2023.12.21 ***`Misc    `*** **run:** 1m • **pullups:** 10x5 • **leg raise:** 15x5  
+2023.12.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 140x10x4 • **DB bench press:** 70x15x4 • **tri pushdown:** 20x4  
+2023.12.19 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
+2023.12.18 ***`        `***   
 **Mon** - rest. **Tue** - good workout; go up on back extn. **Wed** - OHP was moderate and felt pretty strong even after travel and in the awkward rack in the MTV gym; bench was also moderate.  **Thur** - pullups felt strong; add leg raises to the program. **Fri** - good run. **Sat** - bench was moderate; continue to go up incrementally; row was moderate; stick to this weight for now; OHP felt strong; try 60s in the gym. **Sun** - first time doing lunge with 70s; good forearm and grip workout also; start going heavier on lunge; felt the left shoulder a bit on the curl; lat raise felt good; add it to the program. **Recap** - good week.
 
-12.17 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4  
-12.16 ***`Upper   `*** **bench press:** 195x10x4  
-12.15 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 120x20x3  
-12.14 ***`Misc    `*** **run:** 1m • **pullups:** 10x6  
-12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 135x10x4 • **DB bench press:** 65x15x4 • **tri pushdown:** 20x4  
-12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
-12.11 ***`        `***   
+2023.12.17 ***`Upper   `*** **run:** 1m • **DB OH press-sngl:** 70x10x4 • **DB row-sngl:** 80x15x4 • **BB row:** 175x10x4  
+2023.12.16 ***`Upper   `*** **bench press:** 195x10x4  
+2023.12.15 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 120x20x3  
+2023.12.14 ***`Misc    `*** **run:** 1m • **pullups:** 10x6  
+2023.12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 135x10x4 • **DB bench press:** 65x15x4 • **tri pushdown:** 20x4  
+2023.12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
+2023.12.11 ***`        `***   
 **Mon** - rest. **Tue** - good workout. **Wed** - OHP was moderate; bench was light. **Thur** - pullups are getting stronger. **Fri** - squat was moderate/heavy with good form. **Sat** - bench was moderate; continue to go up in weight. **Sun** - OHP was moderate; no left shoulder pain. **Recap** - another great week.
 
-12.10 ***`Misc    `*** **elliptical:** 10 min  
-12.09 ***`Upper   `*** **run:** 1m • **bench press:** 190x10x4 • **DB row-sngl:** 80x15x4 • **DB OH press-sngl:** 70x10x4  
-12.08 ***`Lower   `*** **run:** 1m • **SSB squat:** 215x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
-12.07 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5  
-12.06 ***`Upper   `*** **run:** 1m • **BB OH press:** 130x10x4 • **DB bench press:** 60x20x4 • **tri pushdown:** 20x3  
-12.05 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x4  
-12.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 50x20x3  
+2023.12.10 ***`Misc    `*** **elliptical:** 10 min  
+2023.12.09 ***`Upper   `*** **run:** 1m • **bench press:** 190x10x4 • **DB row-sngl:** 80x15x4 • **DB OH press-sngl:** 70x10x4  
+2023.12.08 ***`Lower   `*** **run:** 1m • **SSB squat:** 215x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
+2023.12.07 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x5  
+2023.12.06 ***`Upper   `*** **run:** 1m • **BB OH press:** 130x10x4 • **DB bench press:** 60x20x4 • **tri pushdown:** 20x3  
+2023.12.05 ***`Misc    `*** **run:** 1m • **pullups/chinups:** 10x4  
+2023.12.04 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 50x20x3  
 **Mon** - didn't feel great but had a decent workout. **Tue** - pullups were tough; start doing them regularly at least once a week. **Wed** - OHP was moderate with good form; go up to 135 next week; bench was light/moderate. **Thur** - pullups felt stronger than the last time. **Fri** - squat was moderate/heavy with good form; lunge was light so go up next week. **Sat** - bench was moderate with good form and no shoulder pain; OHP was moderate; slight left shoulder pain in the bottom position. **Sun** - light workout to end the week. **Recap** - great week.
 
-12.03 ***`Upper   `*** **run:** 2m • **bench press:** 185x10x4 • **DB row-sngl:** 80x15x3 • **DB OH press:** 52x15x3 • **DB OH press-sngl(R):** 70x10x3  
-12.02 ***`Cardio  `*** **run:** 1m  
-12.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
-11.30 ***`        `***   
-11.29 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **BB row:** 165x12x4 • **DB bench press:** 52x25x4  
-11.28 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
-11.27 ***`        `***   
+2023.12.03 ***`Upper   `*** **run:** 2m • **bench press:** 185x10x4 • **DB row-sngl:** 80x15x3 • **DB OH press:** 52x15x3 • **DB OH press-sngl(R):** 70x10x3  
+2023.12.02 ***`Cardio  `*** **run:** 1m  
+2023.12.01 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x2  
+2023.11.30 ***`        `***   
+2023.11.29 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **BB row:** 165x12x4 • **DB bench press:** 52x25x4  
+2023.11.28 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x10x3 • **SSB lunge:** 110x20x3  
+2023.11.27 ***`        `***   
 **Mon** - rest. **Tue** - squat was moderate/heavy with good form; first time doing squat in 6 weeks so I've lost a little bit of strength but not too much. **Wed** - OHP was moderate with best form to date; go up in weight next week; row was moderate; bench was light. **Thur** - rest. **Fri** - high rep range on the leg press ends up taxing the cardio too much; need to figure out how to make it more intensive with lower rep count. **Sat** - good run. **Sun** - bench was moderate and felt much lighter than last week; no shoulder pain on bench or OHP; dropped the weight on DB row to focus more on lat engagement. **Recap** - good week; first time getting 4 solid resistance sessions in in a long time.
 
-11.26 ***`        `***   
-11.25 ***`        `***   
-11.24 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 185x10x4 • **DB row-sngl:** 90x15x3 • **pullups:** 10x1  
-11.23 ***`        `***   
-11.22 ***`Misc    `*** **elliptical:** 20 min  
-11.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
-11.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
+2023.11.26 ***`        `***   
+2023.11.25 ***`        `***   
+2023.11.24 ***`Upper   `*** **elliptical:** 20 min • **bench press:** 185x10x4 • **DB row-sngl:** 90x15x3 • **pullups:** 10x1  
+2023.11.23 ***`        `***   
+2023.11.22 ***`Misc    `*** **elliptical:** 20 min  
+2023.11.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+2023.11.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
 **Mon** - good workout back at the office gym. **Tue** - OHP was moderate/heavy and felt stronger than last week; keep focusing on full ROM. **Wed** - good elliptical sesson. **Thur** - rest. **Fri** - bench was moderate/heavy; first time doing anything heavier than rep weight in over six months; no shoulder pain. **Sat** - rest. **Sun** - rest. **Recap** - solid week; feels great to be benching once again.
 
-11.19 ***`Misc    `*** **elliptical:** 20 min  
-11.18 ***`        `***   
-11.17 ***`Cardio  `*** **run:** 1m  
-11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
-11.15 ***`        `***   
-11.14 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x3 • **machine squat:** 150x10x3 • **DB lunge:** 50x20x2  
-11.13 ***`        `***   
+2023.11.19 ***`Misc    `*** **elliptical:** 20 min  
+2023.11.18 ***`        `***   
+2023.11.17 ***`Cardio  `*** **run:** 1m  
+2023.11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 65x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+2023.11.15 ***`        `***   
+2023.11.14 ***`Lower   `*** **run:** 1m • **leg press:** 400x10x3 • **machine squat:** 150x10x3 • **DB lunge:** 50x20x2  
+2023.11.13 ***`        `***   
 **Mon** - rest. **Tue** - good quick workout at the Aria hotel gym. **Wed** - rest and major DOMS in legs. **Thur** - first time doing heavy DB OH press since my left shoulder injury; it was moderate heavy without pain. **Fri** - good run. **Sat** - rest. **Sun** - good elliptical session. **Recap** - another OK week hampered by travel.
 
-11.12 ***`        `***   
-11.11 ***`        `***   
-11.10 ***`Misc    `*** **elliptical:** 20 min  
-11.09 ***`        `***   
-11.08 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
-11.07 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 55x20x2  
-11.06 ***`        `***   
+2023.11.12 ***`        `***   
+2023.11.11 ***`        `***   
+2023.11.10 ***`Misc    `*** **elliptical:** 20 min  
+2023.11.09 ***`        `***   
+2023.11.08 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+2023.11.07 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge:** 55x20x2  
+2023.11.06 ***`        `***   
 **Mon** - still feeling under the weather. **Tue** - finally feeling well enough to exercise. **Wed** - good workout; OHP was moderate/heavy with good form; slight initial left shoulder pain but it got better after the first set. **Thur** - rest. **Fri** - good elliptical session. **Sat** - rest. **Sun** - rest. **Recap** - OK week hampered by travel.
 
-11.05 ***`        `***   
-11.04 ***`        `***   
-11.03 ***`        `***   
-11.02 ***`        `***   
-11.01 ***`        `***   
-10.31 ***`        `***   
-10.30 ***`Upper   `*** **run:** 1m • **BB OH press:** 115x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+2023.11.05 ***`        `***   
+2023.11.04 ***`        `***   
+2023.11.03 ***`        `***   
+2023.11.02 ***`        `***   
+2023.11.01 ***`        `***   
+2023.10.31 ***`        `***   
+2023.10.30 ***`Upper   `*** **run:** 1m • **BB OH press:** 115x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
 **Mon** - OHP was moderate with minimal shoulder pain; go up in weight next week. **Tue/Wed/Thur/Fri/Sat/Sun** - sick. **Recap** - poor week due to illness.
 
-10.29 ***`Cardio  `*** **run:** 1m  
-10.28 ***`Misc    `*** **elliptical:** 20 min  
-10.27 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 50x20x2  
-10.26 ***`Cardio  `*** **run:** 2m  
-10.25 ***`Upper   `*** **run:** 1m • **bench press:** 165x10x4 • **DB OH press:** 40x15x4 • **DB row-sngl:** 90x15x4  
-10.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
-10.23 ***`Cardio  `*** **run:** 2m  
+2023.10.29 ***`Cardio  `*** **run:** 1m  
+2023.10.28 ***`Misc    `*** **elliptical:** 20 min  
+2023.10.27 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 50x20x2  
+2023.10.26 ***`Cardio  `*** **run:** 2m  
+2023.10.25 ***`Upper   `*** **run:** 1m • **bench press:** 165x10x4 • **DB OH press:** 40x15x4 • **DB row-sngl:** 90x15x4  
+2023.10.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
+2023.10.23 ***`Cardio  `*** **run:** 2m  
 **Mon** - good run. **Tue** - good workout. **Wed** - good workout; very little shoulder pain on bench; slightly more on OHP but manageable. **Thur** - good run. **Fri** - good wokout; skipped back extn to rest my back a bit. **Sat** - good elliptical session. **Sun** - feeling a bit under the weather. **Recap** - good week.
 
-10.22 ***`        `***   
-10.21 ***`Misc    `*** **elliptical:** 20 min  
-10.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 115x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
-10.19 ***`        `***   
-10.18 ***`        `***   
-10.17 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x2  
-10.16 ***`Upper   `*** **run:** 1m • **bench press:** 155x10x3 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+2023.10.22 ***`        `***   
+2023.10.21 ***`Misc    `*** **elliptical:** 20 min  
+2023.10.20 ***`Upper   `*** **run:** 1m • **BB OH press:** 115x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
+2023.10.19 ***`        `***   
+2023.10.18 ***`        `***   
+2023.10.17 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x2  
+2023.10.16 ***`Upper   `*** **run:** 1m • **bench press:** 155x10x3 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
 **Mon** - did a circuit style which made bench more challenging but on the plus side left shoulder pain was minimal. **Tue** - good workout. **Wed** - rest. **Thur** - rest. **Fri** - good workout; minimal pain on OHP. **Sat** - good workout. **Sun** - rest. **Recap** - another decent week.
 
-10.15 ***`        `***   
-10.14 ***`Lower   `*** **run:** 1m • **SSB squat:** 220x8x4, 170x10x3 • **SSB lunge-rvs:** 110x20x2  
-10.13 ***`        `***   
-10.12 ***`Cardio  `*** **run:** 2m  
-10.11 ***`Upper   `*** **BB OH press:** 110x10x4 • **DB bench press:** 52x15x4 • **DB row-sngl:** 90x15x4  
-10.10 ***`        `***   
-10.09 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
+2023.10.15 ***`        `***   
+2023.10.14 ***`Lower   `*** **run:** 1m • **SSB squat:** 220x8x4, 170x10x3 • **SSB lunge-rvs:** 110x20x2  
+2023.10.13 ***`        `***   
+2023.10.12 ***`Cardio  `*** **run:** 2m  
+2023.10.11 ***`Upper   `*** **BB OH press:** 110x10x4 • **DB bench press:** 52x15x4 • **DB row-sngl:** 90x15x4  
+2023.10.10 ***`        `***   
+2023.10.09 ***`Lower   `*** **run:** 1m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x3  
 **Mon** - good workout; felt surprisingly strong in the morning; squat was moderate/heavy; go up in weight next week. **Tue** - travel to San Jose and back. **Wed** - good home workout; OHP felt stronger than last week with minimal left shoulder pain; keep going up in weight; bench was light but hurt more than OHP. **Thur** - good run. **Fri** - rest. **Sat** - good workout; squat was moderate/heavy and felt strong. **Sun** - rest. **Recap** - decent week; feels great to be benching and pressing again.
 
-10.08 ***`        `***   
-10.07 ***`        `***   
-10.06 ***`Cardio  `*** **run:** 2m  
-10.05 ***`Misc    `*** **elliptical:** 20 min  
-10.04 ***`Upper   `*** **run:** 2m • **bench press:** 155x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl:** R:80x4, L:52x3  
-10.03 ***`Cardio  `*** **run:** 1m  
-10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
+2023.10.08 ***`        `***   
+2023.10.07 ***`        `***   
+2023.10.06 ***`Cardio  `*** **run:** 2m  
+2023.10.05 ***`Misc    `*** **elliptical:** 20 min  
+2023.10.04 ***`Upper   `*** **run:** 2m • **bench press:** 155x10x4 • **BB row:** 175x12x4 • **DB OHP-sngl:** R:80x4, L:52x3  
+2023.10.03 ***`Cardio  `*** **run:** 1m  
+2023.10.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 50x20x3  
 **Mon** - good workout; both legs and back felt stronger than last week. **Tue** - didn't feel great after sleeping poorly. **Wed** - good workout; bench was light/moderate with very little left shoulder pain; OHP was moderate/heavy; left shoulder still hurt during the movement but less than before. **Thur** - good elliptical session. **Fri** - didn't feel great; kids are sick and I think they're starting to share it with me. **Sat** - rest. **Sun** - rest. **Recap** - OK week; started out strong but didn't finish great.
 
-10.01 ***`        `***   
-09.30 ***`Upper   `*** **BB OH press:** 105x10x4 • **DB row-sngl:** 90x15x4 • **bench press:** 145x10x2 • **pushups:** 20x4  
-09.29 ***`        `***   
-09.28 ***`        `***   
-09.27 ***`Cardio  `*** **run:** 2m  
-09.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3  
-09.25 ***`Misc    `*** **pullups:** 10x3  
+2023.10.01 ***`        `***   
+2023.09.30 ***`Upper   `*** **BB OH press:** 105x10x4 • **DB row-sngl:** 90x15x4 • **bench press:** 145x10x2 • **pushups:** 20x4  
+2023.09.29 ***`        `***   
+2023.09.28 ***`        `***   
+2023.09.27 ***`Cardio  `*** **run:** 2m  
+2023.09.26 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3  
+2023.09.25 ***`Misc    `*** **pullups:** 10x3  
 **Mon** - pullups at the park with Luka. **Tue** - good quick workout. **Wed** - travel day. **Thur** - rest. **Fri** - travel day. **Sat** - good workout; feels great to be able to bench again, even if it's only rep weight; left shoulder still hurts during both press movements but at least it doesn't seem to be getting worse; narrower grip helps; continue to up the frequency and the intensity. **Sun** - rest. **Recap** - OK week considering the travel.
 
-09.24 ***`        `***   
-09.23 ***`Upper   `*** **run:** 2m • **bench press:** 145x10x4 • **BB row:** 175x12x4 • **DB OH press-sngl(R):** 80x2,70x2  
-09.22 ***`Misc    `*** **pullups:** 10x3  
-09.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x3  
-09.20 ***`Misc    `*** **elliptical:** 20 min  
-09.19 ***`Upper   `*** **run:** 1m • **BB OH press:** 105x10x3 • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3  
-09.18 ***`Cardio  `*** **run:** 2m  
+2023.09.24 ***`        `***   
+2023.09.23 ***`Upper   `*** **run:** 2m • **bench press:** 145x10x4 • **BB row:** 175x12x4 • **DB OH press-sngl(R):** 80x2,70x2  
+2023.09.22 ***`Misc    `*** **pullups:** 10x3  
+2023.09.21 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 70x12x3 • **DB lunge-rvs:** 50x20x3  
+2023.09.20 ***`Misc    `*** **elliptical:** 20 min  
+2023.09.19 ***`Upper   `*** **run:** 1m • **BB OH press:** 105x10x3 • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3  
+2023.09.18 ***`Cardio  `*** **run:** 2m  
 **Mon** - leg DOMS persists; run felt good but still sore and stiff. **Tue** - decent workout at the office gym; OHP still hurts the left shoulder but I decided to push through it; legs still sore but better. **Wed** - good elliptical session. **Thur** - good lower session at the office gym. **Fri** - pullups are getting stronger. **Sat** - bench felt a bit stronger and the left shoulder hurt a bit less; narrower grip seems to be more agreeable; row and OHP also felt stronger. **Sun** - rest. **Recap** - solid week; good mix of strength and cardio.
 
-09.17 ***`        `***   
-09.16 ***`Misc    `*** **elliptical:** 20 min  
-09.15 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x2  
-09.14 ***`Upper   `*** **run:** 1m • **bench press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **BB row:** 165x12x4 • **DB OH press-sngl(R):** 70x10x4  
-09.13 ***`Cardio  `*** **run:** 2m  
-09.12 ***`Cardio  `*** **run:** 2m  
-09.11 ***`        `***   
+2023.09.17 ***`        `***   
+2023.09.16 ***`Misc    `*** **elliptical:** 20 min  
+2023.09.15 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x12x3 • **SSB lunge:** 110x20x2  
+2023.09.14 ***`Upper   `*** **run:** 1m • **bench press:** 135x10x4 • **BB curl-rvs:** 75x12x4 • **BB row:** 165x12x4 • **DB OH press-sngl(R):** 70x10x4  
+2023.09.13 ***`Cardio  `*** **run:** 2m  
+2023.09.12 ***`Cardio  `*** **run:** 2m  
+2023.09.11 ***`        `***   
 **Mon** - rest. **Tue** - good run. **Wed** - really good run. **Thur** - tried bench press for the first time since April but the left shoulder still hurts during the movement the same as during the OHP; curl also causes left shoulder pain; the rest was all good. **Fri** - had a really good run in the morning but didn't feel my strongest in the afternoon; squat was moderate. **Sat** - good elliptical session. **Sun** - rest; DOMS in the legs. **Recap** - better week.
 
-09.10 ***`        `***   
-09.09 ***`Misc    `*** **elliptical:** 20 min  
-09.08 ***`Misc    `*** **elliptical:** 20 min  
-09.07 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **tri pushdown:** 25x3  
-09.06 ***`        `***   
-09.05 ***`        `***   
-09.04 ***`Misc    `*** **elliptical:** 20 min  
+2023.09.10 ***`        `***   
+2023.09.09 ***`Misc    `*** **elliptical:** 20 min  
+2023.09.08 ***`Misc    `*** **elliptical:** 20 min  
+2023.09.07 ***`Misc    `*** **run:** 1m • **pullups:** 10x3 • **tri pushdown:** 25x3  
+2023.09.06 ***`        `***   
+2023.09.05 ***`        `***   
+2023.09.04 ***`Misc    `*** **elliptical:** 20 min  
 **Mon** - elliptical felt good; no left shoulder pain; add into cardio rotation. **Tue** - rest. **Wed** - rest. **Thur** - good workout at the hotel gym. **Fri** - elliptical felt good; no shoulder pain. **Sat** - another good elliptical workout. **Sun** - rest. **Recap** - mediocre week hampered by travel.
 
-09.03 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
-09.02 ***`        `***   
-09.01 ***`        `***   
-08.31 ***`        `***   
-08.30 ***`        `***   
-08.29 ***`        `***   
-08.28 ***`        `***   
+2023.09.03 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+2023.09.02 ***`        `***   
+2023.09.01 ***`        `***   
+2023.08.31 ***`        `***   
+2023.08.30 ***`        `***   
+2023.08.29 ***`        `***   
+2023.08.28 ***`        `***   
 **Mon/Tue/Wed/Thur/Fri/Sat** - rest. **Sun** - pullups felt good. **Recap** - poor week hampered by travel.
 
-08.27 ***`Cardio  `*** **run:** 1m  
-08.26 ***`Cardio  `*** **swim:** 1000y  
-08.25 ***`Cardio  `*** **swim:** 1000y  
-08.24 ***`Cardio  `*** **run:** 2m  
-08.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
-08.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x7x4, 180x12x3 • **SSB lunge-rvs:** 110x20x2  
-08.21 ***`        `***   
+2023.08.27 ***`Cardio  `*** **run:** 1m  
+2023.08.26 ***`Cardio  `*** **swim:** 1000y  
+2023.08.25 ***`Cardio  `*** **swim:** 1000y  
+2023.08.24 ***`Cardio  `*** **run:** 2m  
+2023.08.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+2023.08.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x7x4, 180x12x3 • **SSB lunge-rvs:** 110x20x2  
+2023.08.21 ***`        `***   
 **Mon** - rest. **Tue** - good workout; squat was moderate/heavy and a bit lighter than last week. **Wed** - pullups felt strong. **Thur** - good run. **Fri** - good swim at Terranea. **Sat** - swim felt better than the day before. **Sun** - good run. **Recap** - good cardio week but not great overall.
 
-08.20 ***`        `***   
-08.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 95x10x4 • **BB row:** 135x12x4 • **BB row:** 185x10x4 • **DB OH press-sngl(R):** 70x10x4  
-08.18 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x7x4, 175x10x3 • **SSB lunge:** 110x20x3  
-08.17 ***`Cardio  `*** **run:** 1m  
-08.16 ***`Cardio  `*** **run:** 2m  
-08.15 ***`Cardio  `*** **run:** 2m  
-08.14 ***`        `***   
+2023.08.20 ***`        `***   
+2023.08.19 ***`Upper   `*** **run:** 2m • **BB OH press:** 95x10x4 • **BB row:** 135x12x4 • **BB row:** 185x10x4 • **DB OH press-sngl(R):** 70x10x4  
+2023.08.18 ***`Lower   `*** **run:** 1m • **SSB squat:** 230x7x4, 175x10x3 • **SSB lunge:** 110x20x3  
+2023.08.17 ***`Cardio  `*** **run:** 1m  
+2023.08.16 ***`Cardio  `*** **run:** 2m  
+2023.08.15 ***`Cardio  `*** **run:** 2m  
+2023.08.14 ***`        `***   
 **Mon** - rest. **Tue** - feeling better finally; decent run. **Wed** - feeling better yet but still not 100%. **Thur** - back to normal. **Fri** - squat was moderate/heavy with good form. **Sat** - first time doing BB OHP since injuring my left shoulder in April; it hurt quite a bit during the movement; I'm going to keep pushing it through the pain and see if anything changes; first time doing BB row in over two years; add it back into rotation since I'm not deadlifting; DB OH press was moderate/heavy. **Sun** - rest. **Recap** - poor week.
 
-08.13 ***`        `***   
-08.12 ***`        `***   
-08.11 ***`        `***   
-08.10 ***`        `***   
-08.09 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x10x3 • **lat pulldown:** 210x10x3 • **tri pushdown:** 25x3  
-08.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
-08.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+2023.08.13 ***`        `***   
+2023.08.12 ***`        `***   
+2023.08.11 ***`        `***   
+2023.08.10 ***`        `***   
+2023.08.09 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x10x3 • **lat pulldown:** 210x10x3 • **tri pushdown:** 25x3  
+2023.08.08 ***`Lower   `*** **run:** 1m • **leg press:** 400x12x4 • **back extn:** 80x12x4 • **DB lunge:** 55x20x3  
+2023.08.07 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 **Mon** - travel day. **Tue** - good workout at the MTV gym. **Wed** - didn't feel my strongest in the morning; OHP was heavy. **Thur/Fri/Sat/Sun** - sick. **Recap** - poor week hampered by illness.
 
-08.06 ***`        `***   
-08.05 ***`        `***   
-08.04 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
-08.03 ***`Cardio  `*** **run:** 2m  
-08.02 ***`Cardio  `*** **run:** 2m  
-08.01 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
-07.31 ***`        `***   
+2023.08.06 ***`        `***   
+2023.08.05 ***`        `***   
+2023.08.04 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
+2023.08.03 ***`Cardio  `*** **run:** 2m  
+2023.08.02 ***`Cardio  `*** **run:** 2m  
+2023.08.01 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
+2023.07.31 ***`        `***   
 **Mon** - rest. **Tue** - pullups felt pretty strong. **Wed** - good run. **Thur** - good run. **Fri** - pullups felt strong again. **Sat/Sun** - rest in Catalina. **Recap** - poor week.
 
-07.30 ***`        `***   
-07.29 ***`        `***   
-07.28 ***`Cardio  `*** **swim:** 1000y  
-07.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 115x20x2  
-07.26 ***`Cardio  `*** **swim:** 500y  
-07.25 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x10x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
-07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
+2023.07.30 ***`        `***   
+2023.07.29 ***`        `***   
+2023.07.28 ***`Cardio  `*** **swim:** 1000y  
+2023.07.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 115x20x2  
+2023.07.26 ***`Cardio  `*** **swim:** 500y  
+2023.07.25 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x10x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
+2023.07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
 **Mon** - didn't feel great but had a decent workout; go up on DB lunge. **Tue** - OHP was heavy, especially the last set. **Wed** - quick swim at Cortina pool felt good. **Thur** - felt surprisingly strong in the morning after breakfast; squat was moderate/heavy; go up next week. **Fri** - good swim. **Sat** - rest. **Sun** - rest but got a decent cardio workout carpet cleaning. **Recap** - OK week.
 
-07.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
-07.22 ***`        `***   
-07.21 ***`Cardio  `*** **run:** 2m  
-07.20 ***`Upper   `*** **run:** 2m • **DB OH press-sngl(R):** 80x10x3 • **lat pulldown:** 190x10x3 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
-07.19 ***`        `***   
-07.18 ***`Cardio  `*** **run:** 2m  
-07.17 ***`Cardio  `*** **run:** 2m  
+2023.07.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
+2023.07.22 ***`        `***   
+2023.07.21 ***`Cardio  `*** **run:** 2m  
+2023.07.20 ***`Upper   `*** **run:** 2m • **DB OH press-sngl(R):** 80x10x3 • **lat pulldown:** 190x10x3 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
+2023.07.19 ***`        `***   
+2023.07.18 ***`Cardio  `*** **run:** 2m  
+2023.07.17 ***`Cardio  `*** **run:** 2m  
 **Monday** - good run. **Tue** - another good run. **Wed** - rest. **Thur** - good workout; OHP was moderate/heavy and felt stronger than last week. **Fri** - good run and then painting all day. **Sat** - rest. **Sun** - first time doing pullups in over a month; slight lat soreness the next day but no shoulder pain. **Recap** - poor week.
 
-07.16 ***`Cardio  `*** **run:** 2m  
-07.15 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
-07.14 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x8x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
-07.13 ***`Cardio  `*** **run:** 2m  
-07.12 ***`Cardio  `*** **run:** 2m  
-07.11 ***`Lower   `*** **run:** 2m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
-07.10 ***`Cardio  `*** **run:** 2m  
+2023.07.16 ***`Cardio  `*** **run:** 2m  
+2023.07.15 ***`Lower   `*** **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 110x20x3  
+2023.07.14 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x8x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
+2023.07.13 ***`Cardio  `*** **run:** 2m  
+2023.07.12 ***`Cardio  `*** **run:** 2m  
+2023.07.11 ***`Lower   `*** **run:** 2m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x3  
+2023.07.10 ***`Cardio  `*** **run:** 2m  
 **Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good run. **Fri** - good workout; OHP was moderate/heavy. **Sat** - squat was moderate heavy with good form; this is the heaviest squat I've done since hurting my back in April. **Sun** - got a good cardio workout from painting all day. **Recap** - OK week; need to start doing at least 4 sessions.
 
-07.09 ***`        `***   
-07.08 ***`        `***   
-07.07 ***`Cardio  `*** **run:** 2m  
-07.06 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x8x4 • **lat pulldown:** 205x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
-07.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
-07.04 ***`Cardio  `*** **run:** 2m  
-07.03 ***`Cardio  `*** **run:** 2m  
+2023.07.09 ***`        `***   
+2023.07.08 ***`        `***   
+2023.07.07 ***`Cardio  `*** **run:** 2m  
+2023.07.06 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x8x4 • **lat pulldown:** 205x10x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
+2023.07.05 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x2  
+2023.07.04 ***`Cardio  `*** **run:** 2m  
+2023.07.03 ***`Cardio  `*** **run:** 2m  
 **Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout; OHP was moderate/heavy; lat pulldown was heavy; go down one click for now. **Fri** - ok run; felt tired. **Sat** - rest. **Sun** - rest. **Recap** - poor week.
 
-07.02 ***`        `***   
-07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x12x1  
-06.30 ***`Upper   `*** **run:** 2m • **DB OH press-sngl(R):** 80x10x4 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x4  
-06.29 ***`        `***   
-06.28 ***`Cardio  `*** **run:** 2m  
-06.27 ***`Cardio  `*** **run:** 2m  
-06.26 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 75x8x3 • **lat pulldown:** 160x12x3 • **tri pushdown:** 20x3 • **machine row:** 205x15x3  
+2023.07.02 ***`        `***   
+2023.07.01 ***`Lower   `*** **run:** 2m • **SSB squat:** 210x8x4, 160x12x1  
+2023.06.30 ***`Upper   `*** **run:** 2m • **DB OH press-sngl(R):** 80x10x4 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x4  
+2023.06.29 ***`        `***   
+2023.06.28 ***`Cardio  `*** **run:** 2m  
+2023.06.27 ***`Cardio  `*** **run:** 2m  
+2023.06.26 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 75x8x3 • **lat pulldown:** 160x12x3 • **tri pushdown:** 20x3 • **machine row:** 205x15x3  
 **Mon** - first time doing an Upper day in over a month; OHP still didn't agree with the left shoulder; kept the intensity moderate but a good workout overall. **Tue** - feel a bit banged up from yesterday. **Wed** - good run. **Thur** - rest. **Fri** - OHP was moderate/heavy and felt stronger than the last time. **Sat** - good run; squat was moderate heavy with good form. **Sun** - rest. **Recap** - even better week with three good workouts; do four next week.
 
 06.25 ***`Lower   `*** **run:** 1m • **SSB squat:** 200x9x4, 165x12x3 • **SSB lunge:** 110x20x2  

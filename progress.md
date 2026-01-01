@@ -3,16 +3,17 @@
 
 ### 2025
 
-| Period           | SSB Squat        | BB Bench Press       | DB Bench Press   | BB OH Press          | DB OH Press-sngl    | Pullups         |
-| :--------------- | :--------------: | :------------------: | :--------------: | :------------------: | :-----------------: | :-------------: |
-| Jan - Feb - Mar  |   230x08x2       |   225x10x4           |   100x10x4       |   165x10x2           |    80x10x4          |      10x4       |
-| Apr - May - Jun  |   210x08x4       | **245x10**, 245x08x4 |   100x12x4       |   175x06x4           |    80x10x4          |      12x4       |
-| Jul - Aug - Sep  |   180x08x4       |   255x06x4, 265x05x2 |   100x10x4       |   165x10x4           |    90x06x2, 80x10x4 |   40x07x4       |
-| Oct - Nov - Dec  | **280**          | **275x04**, 245x07x4 |   100x12x2       |   175x07x2, 165x10x4 |    80x10x4          |   45x07x4, 12x4 |
+| Period           | SSB Squat        | BB Bench Press       | DB Bench Press   | BB OH Press          | DB OH Press-sngl    | Pullups            |
+| :--------------- | :--------------: | :------------------: | :--------------: | :------------------: | :-----------------: | :----------------: |
+| Jan - Feb - Mar  |   230x08x2       |   225x10x4           |   100x10x4       |   165x10x2           |    80x10x4          |      10x4          |
+| Apr - May - Jun  |   210x08x4       | **245x10**, 245x08x4 |   100x12x4       |   175x06x4           |    80x10x4          |      12x4          |
+| Jul - Aug - Sep  |   180x08x4       |   255x06x4, 265x05x2 |   100x10x4       |   165x10x4           |    90x06x2, 80x10x4 |   40x07x4          |
+| Oct - Nov - Dec  | **280**          | **275x04**, 245x07x4 |   100x12x2       |   175x07x2, 165x10x4 |    80x10x4          | **45x09**, 45x07x4 |
 
 **Videos**  
 - [Bench press: 245x10](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-245x10.mp4)
 - [Bench press: 275x04](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-275x04.mp4)
+- [Pullups: 45x09](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-25x09.mp4)
 
 *****
 
