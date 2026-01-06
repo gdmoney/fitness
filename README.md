@@ -2,14 +2,25 @@
 
 
 *****
-**[Goals](/goals.md) • [Progress](/progress.md) • [Training Plan](/training-plan.md) • [2024](#2024) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
+**[Goals](/goals.md) • [Progress](/progress.md) • [Training Plan](/training-plan.md) • [2025](#2025) • [2024](#2024) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
 
 *****
 
+2026.01.05 ***`Cardio`*** **elpt:** 15 min  
+**Mon** - good elliptical session. **Tue** - 
+
+*****
+
+## 2025
+
+2026.01.04 ***`Upper `*** **elpt:** 15 min • **DB bench press:** 100x18x1, 90x15x3 • **DB row-sngl:** 100x15x4  
+2026.01.03 ***`Cardio`*** **run:** 1m  
+2026.01.02 ***`Upper `*** **run:** 1m • **BB OH press:** 185x3x1, 165x10x3 • **pullups-astd:** 10x4 • **dips-astd:** 10x4  
+2026.01.01 ***`      `***   
 2025.12.31 ***`Upper `*** **run:** 1m • **pullups:** 45x9x1, 10x3 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.12.30 ***`Lower `*** **elpt:** 15 min • **SSB squat:** 260x1, 280x1, 180x10x4 • **farmer's walk:** 215x1mx4  
 2025.12.29 ***`Upper `*** **elpt:** 10 min • **bench press:** 275x4x1, 225x10x2, 205x10x2 • **DB curl:** 20x5  
-**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7. **Tue** - 280 is a PR but I wasn't happy with the depth. **Wed** - good workout; 45lbs for 9 is a PR but I wasn't happy with the ROM; go for 10 next year; go up on cable x-over. **Thur** - 
+**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7. **Tue** - 280 is a PR but I wasn't happy with the depth. **Wed** - good workout; 45lbs for 9 is a PR but the ROM could've been better; go for 10 next year; go up on cable x-over. **Thur** - rest day. **Fri** - got lightheaded during the top set so I had to stop, otherwise I think the strength was there for 10 reps; I'm confident I can hit this next year. **Sat** - good run. **Sun** - I'm quite happy with 18 on DB bench press which is a PR; I'm confident I can hit 20 next year. **Recap** - good week to close out the montht and the year strong. Total number of sets: 52. December missed workouts: 1.
 
 2025.12.28 ***`Cardio`*** **ab wheel:** 25x4  
 2025.12.27 ***`Cardio`*** **run:** 2m  
@@ -30,7 +41,7 @@
 **Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; press was moderat/heavy; pulldown felt strong; dips also felt strong. **Fri** - good workout; need to figure out a way to make the leg press more challenging. **Sat** - decent workout; didn't feel my strongest. **Sun** - good workout; bench was moderate/heavy. **Recap** - good week. Total number of sets: 52.
 
 2025.12.14 ***`Cardio`*** **run:** 1m  
-2025.11.13 ***`      `***   
+2025.12.13 ***`      `***   
 2025.12.12 ***`Cardio`*** **run:** 1m  
 2025.12.11 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.12.10 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
