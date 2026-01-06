@@ -6,8 +6,9 @@
 
 *****
 
+2026.01.06 ***`Cardio`*** **elpt:** 15 min  
 2026.01.05 ***`Cardio`*** **elpt:** 15 min  
-**Mon** - good elliptical session. **Tue** - 
+**Mon** - good elliptical session. **Tue** - good elliptical sessionl. **Wed** - 
 
 *****
 

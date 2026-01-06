@@ -1,6 +1,20 @@
 ## Progress
 
 
+### 2026
+
+| Period           | SSB Squat        | BB Bench Press       | DB Bench Press   | BB OH Press          | DB OH Press-sngl    | Pullups            |
+| :--------------- | :--------------: | :------------------: | :--------------: | :------------------: | :-----------------: | :----------------: |
+| Jan - Feb - Mar  |                  |                      |                  |                      |                     |                    |
+| Apr - May - Jun  |                  |                      |                  |                      |                     |                    |
+| Jul - Aug - Sep  |                  |                      |                  |                      |                     |                    |
+| Oct - Nov - Dec  |                  |                      |                  |                      |                     |                    |
+
+**Videos**
+
+
+*****
+
 ### 2025
 
 | Period           | SSB Squat        | BB Bench Press       | DB Bench Press   | BB OH Press          | DB OH Press-sngl    | Pullups            |
