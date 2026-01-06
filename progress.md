@@ -13,7 +13,7 @@
 **Videos**  
 - [Bench press: 245x10](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-245x10.mp4)
 - [Bench press: 275x04](https://gd-public-bucket.s3.us-west-2.amazonaws.com/bench-press-275x04.mp4)
-- [Pullups: 45x09](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-25x09.mp4)
+- [Pullups: 45x09](https://gd-public-bucket.s3.us-west-2.amazonaws.com/pullups-45x09.mp4)
 - [DB bench press: 100x18](https://gd-public-bucket.s3.us-west-2.amazonaws.com/db-bench-press-100x18.mp4)
 
 *****
