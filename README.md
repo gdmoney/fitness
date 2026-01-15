@@ -6,9 +6,19 @@
 
 *****
 
+2026.01.14 ***`Cardio`*** **run:** 1m  
+2026.01.13 ***`Upper `*** **pushups:** 20x5  
+2026.01.12 ***`Cardio`*** **elpt:** 15 min  
+**Mon** - good elliptical session early in the morning. **Tue** - hotel pushups in MTV. **Wed** - good run. **Thur** - 
+
+2026.01.11 ***`Cardio`*** **run:** 1m  
+2026.01.10 ***`Cardio`*** **elpt:** 15 min  
+2026.01.09 ***`Cardio`*** **elpt:** 15 min  
+2026.01.08 ***`Cardio`*** **run:** 1m  
+2026.01.07 ***`Cardio`*** **elpt:** 15 min  
 2026.01.06 ***`Cardio`*** **elpt:** 15 min  
 2026.01.05 ***`Cardio`*** **elpt:** 15 min  
-**Mon** - good elliptical session. **Tue** - good elliptical sessionl. **Wed** - 
+**Mon - Fri** - good cardio only/recovery week. Total number of sets: 0.
 
 *****
 
