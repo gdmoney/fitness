@@ -7,17 +7,17 @@
 *****
 
 2026.01.20 ***`Cardio`*** **run:** 1m  
-2026.01.19 ***`Upper `*** **run:** 1m • **pec fly:** 20x4 • **DB bench press-incl:** 15x8 • **cable x-over:** 15x8  
-**Mon** - good workout with Charles at the Casa gym. **Tue** - decent run despite not feeling great. **Wed** - 
+2026.01.19 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - decent run despite not feeling great. **Wed** - 
 
-2026.01.18 ***`Cardio`*** **run:** 1m  
+2026.01.18 ***`Upper `*** **run:** 1m • **pec fly:** 20x4 • **DB bench press-incl:** 15x8 • **cable x-over:** 15x8  
 2026.01.17 ***`Cardio`*** **elpt:** 15 min  
 2026.01.16 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 90x10x4 • **DB curl:** 45x10x4  
 2026.01.15 ***`Cardio`*** **elpt:** 15 min  
 2026.01.14 ***`Cardio`*** **run:** 1m  
 2026.01.13 ***`Upper `*** **pushups:** 20x5  
 2026.01.12 ***`Cardio`*** **elpt:** 15 min  
-**Mon** - good elliptical session early in the morning. **Tue** - hotel pushups in MTV. **Wed** - good run. **Thur** - good run. **Fri** - good workout; OHP felt strong; it moved better with slower form; add curls more consistently. **Sat** - good elliptical session. **Sun** - good run. **Recap** - poor week. Total number of sets: 22.
+**Mon** - good elliptical session early in the morning. **Tue** - hotel pushups in MTV. **Wed** - good run. **Thur** - good run. **Fri** - good workout; OHP felt strong; it moved better with slower form; add curls more consistently. **Sat** - good elliptical session. **Sun** - good workout with Charles at the Casa gym. **Recap** - mediocre week. Total number of sets: 40.
 
 2026.01.11 ***`Cardio`*** **run:** 1m  
 2026.01.10 ***`Cardio`*** **elpt:** 15 min  
