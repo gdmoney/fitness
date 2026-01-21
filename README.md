@@ -6,9 +6,10 @@
 
 *****
 
+2026.01.21 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x4 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
 2026.01.20 ***`Cardio`*** **run:** 1m  
 2026.01.19 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - decent run despite not feeling great. **Wed** - 
+**Mon** - good run. **Tue** - decent run despite not feeling great. **Wed** - good workout; OHP felt strong and the form was good; dips felt good and were painless. **Thur** - 
 
 2026.01.18 ***`Upper `*** **run:** 1m • **pec fly:** 20x4 • **DB bench press-incl:** 15x8 • **cable x-over:** 15x8  
 2026.01.17 ***`Cardio`*** **elpt:** 15 min  

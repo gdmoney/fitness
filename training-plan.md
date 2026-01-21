@@ -3,14 +3,14 @@
 
 ### 2026
 
-| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      |
-| :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
-| **`Legs   `** | SSB squat         | Hatfield squat    | leg press         | lunge / rvs lunge | leg curl / extn   |
-| **`Hinge  `** | back extension    |                   |                   |                   |                   |
-| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    |
-| **`Pull   `** | DB row            | pullups / chinups | lat pulldown      | machine row       | upright row       |
-| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB/DB curl / rvs  |
-| **`Cardio `** | run               | elliptical        | ab wheel          |                   |                   |
+| Movement      | Exercise - 1      | Exercise - 2      | Exercise - 3      | Exercise - 4      | Exercise - 5      | Exercise - 6      |
+| :------------ | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
+| **`Legs   `** | SSB squat         | Hatfield squat    | leg press         | lunge / rvs lunge | leg curl / extn   |                   |
+| **`Hinge  `** | back extension    |                   |                   |                   |                   |                   |
+| **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    | dips              |
+| **`Pull   `** | DB row            | pullups / chinups | lat pulldown      | machine row       | upright row       |                   |
+| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB/DB curl / rvs  |                   |
+| **`Cardio `** | run               | elliptical        | ab wheel          |                   |                   |                   |
 
 *****
 
