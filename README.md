@@ -6,11 +6,19 @@
 
 *****
 
+2026.01.28 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
+2026.01.27 ***`Cardio`*** **run:** 1m  
+2026.01.26 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - good workout; press felt strong; dips also felt better than last week. **Thur** - 
+
+2026.01.25 ***`      `***   
+2026.01.24 ***`Cardio`*** **elpt:** 15 min  
+2026.01.23 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.01.22 ***`Cardio`*** **elpt:** 15 min  
 2026.01.21 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x4 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
 2026.01.20 ***`Cardio`*** **run:** 1m  
 2026.01.19 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - decent run despite not feeling great. **Wed** - good workout; OHP felt strong and the form was good; dips felt good and were painless. **Thur** - good elliptical session. **Fri** - 
+**Mon** - good run. **Tue** - decent run despite not feeling great. **Wed** - good workout; OHP felt strong and the form was good; dips felt good and were painless. **Thur** - good elliptical session. **Fri** - good workout; legs felt strong. **Sat** - good elliptical session. **Sun** - recovery day after previous night's festivities. **Recap** - poor week with only two strength sessions. Total number of sets: 24.
 
 2026.01.18 ***`Upper `*** **run:** 1m • **pec fly:** 20x4 • **DB bench press-incl:** 15x8 • **cable x-over:** 15x8  
 2026.01.17 ***`Cardio`*** **elpt:** 15 min  
