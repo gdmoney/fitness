@@ -6,10 +6,11 @@
 
 *****
 
+2026.01.29 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 55x20x2 • **DB lunge-rvs:** 55x20x2  
 2026.01.28 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
 2026.01.27 ***`Cardio`*** **run:** 1m  
 2026.01.26 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout; press felt strong; dips also felt better than last week. **Thur** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout; press felt strong; dips also felt better than last week. **Thur** - good workout. **Fri** - 
 
 2026.01.25 ***`      `***   
 2026.01.24 ***`Cardio`*** **elpt:** 15 min  
