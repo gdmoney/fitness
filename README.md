@@ -6,6 +6,9 @@
 
 *****
 
+2026.02.02 ***`Upper `*** **run:** 1m • **pullups:** 10x34 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
+**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** - 
+
 2026.02.01 ***`Cardio`*** **run:** 1m  
 2026.01.31 ***`Cardio`*** **elpt:** 10 min  
 2026.01.30 ***`Cardio`*** **run:** 1m  
@@ -13,7 +16,7 @@
 2026.01.28 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
 2026.01.27 ***`Cardio`*** **run:** 1m  
 2026.01.26 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout; press felt strong; dips also felt better than last week. **Thur** - good workout. **Fri** - lower body was sore from the lunges. **Sat** - still sore. **Sun** - good run at Luka's soccer game. **Recap** - poor week with only 2 strength workouts. January missed workouts: 2.
+**Mon** - good run. **Tue** - good run. **Wed** - good workout; press felt strong; dips also felt better than last week. **Thur** - good workout. **Fri** - lower body was sore from the lunges. **Sat** - still sore. **Sun** - good run at Luka's soccer game. **Recap** - poor week with only 2 strength workouts. Total number of sets: 24. January missed workouts: 2.
 
 2026.01.25 ***`      `***   
 2026.01.24 ***`Cardio`*** **elpt:** 15 min  
