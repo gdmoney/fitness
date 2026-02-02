@@ -7,7 +7,7 @@
 *****
 
 2026.02.02 ***`Upper `*** **run:** 1m • **pullups:** 10x34 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
-**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** -
+**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** - 
 
 2026.02.01 ***`Cardio`*** **run:** 1m  
 2026.01.31 ***`Cardio`*** **elpt:** 10 min  
