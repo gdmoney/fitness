@@ -6,8 +6,9 @@
 
 *****
 
+2026.02.03 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
 2026.02.02 ***`Upper `*** **run:** 1m • **pullups:** 10x34 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
-**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** -
+**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** - good workout; OHP felt surprisingly strong. **Wed** - 
 
 2026.02.01 ***`Cardio`*** **run:** 1m  
 2026.01.31 ***`Cardio`*** **elpt:** 10 min  
