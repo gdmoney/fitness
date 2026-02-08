@@ -6,11 +6,14 @@
 
 *****
 
+2025.02.08 ***`Upper `*** **elpt:** 15 min • **bench press:** 245x6x4 • **shoulder press-mchn:** 180x10x4 • **machine row:** 200x12x4  
+2026.02.07 ***`      `***   
+2026.02.06 ***`Cardio`*** **run:** 1m  
 2026.02.05 ***`Lower `*** **elpt:** 15 min • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.02.04 ***`Cardio`*** **run:** 1m  
 2026.02.03 ***`Upper `*** **elpt:** 15 min • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
-2026.02.02 ***`Upper `*** **run:** 1m • **pullups:** 10x34 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
-**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** - good workout; OHP felt surprisingly strong. **Wed** - good run. **Thur** - good workout; leg press is no longer challenging. **Fri** - 
+2026.02.02 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
+**Mon** - decent workout despite feeling tired; pullups felt good. **Tue** - good workout; OHP felt surprisingly strong. **Wed** - good run. **Thur** - good workout; leg press is no longer challenging. **Fri** - good run. **Sat** - recovery day after previous night's festivities. **Sun** - good workout; bench was moderate/heavy; I really need to start benching more consistently. **Recap** - good week. Total number of sets: 50.
 
 2026.02.01 ***`Cardio`*** **run:** 1m  
 2026.01.31 ***`Cardio`*** **elpt:** 10 min  
