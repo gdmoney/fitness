@@ -6,10 +6,11 @@
 
 *****
 
+2026.02.12 ***`Lower `*** **run:** 1m • **SSB squat:** 160x10x8  
 2026.02.11 ***`Cardio`*** **elpt:** 15 min  
 2026.02.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2,170x8x2,160x10x2 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
-2026.02.09 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout; felt strong after sleeping well; OHP felt really strong; go up on dips. **Wed** - didn't feel great after sleeping poorly. **Thur** - 
+2026.02.09 ***`Cardio`*** **run:** 2m  
+**Mon** - good run. **Tue** - good workout; felt strong after sleeping well; OHP felt really strong; go up on dips. **Wed** - didn't feel great after sleeping poorly. **Thur** - good workout; focused on good form and full ROM. **Fri** - 
 
 2025.02.08 ***`Upper `*** **elpt:** 15 min • **bench press:** 245x6x4 • **shoulder press-mchn:** 180x10x4 • **machine row:** 200x12x4  
 2026.02.07 ***`      `***   
