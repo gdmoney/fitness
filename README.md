@@ -6,14 +6,19 @@
 
 *****
 
+2026.02.18 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 200x12x3 • **dips:** 10x3  
+2026.02.17 ***`Cardio`*** **elpt:** 15 min  
+2026.02.16 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **BB curl-rvs:** 75x15x4 • **upright row:** 85x15x4  
+**Mon** - good workout; got a good pump from higher rep sets. **Tue** - good elliptical session. **Wed** - good workout; OHP felt strong once again. **Thur** - 
 
+2025.02.15 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 215x10x2, 195x12x1 • **DB row-sngl:** 90x15x3  
 2026.02.14 ***`Cardio`*** **elpt:** 15 min  
 2026.02.13 ***`Upper `*** **run:** 1m • **pullups:** 10x8 • **tri pushdown:** 20x4  
 2026.02.12 ***`Lower `*** **run:** 1m • **SSB squat:** 160x10x8  
 2026.02.11 ***`Cardio`*** **elpt:** 15 min  
 2026.02.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2,170x8x2,160x10x2 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
 2026.02.09 ***`Cardio`*** **run:** 2m  
-**Mon** - good run. **Tue** - good workout; felt strong after sleeping well; OHP felt really strong; go up on dips. **Wed** - didn't feel great after sleeping poorly. **Thur** - good workout; focused on good form and full ROM. **Fri** - good workout; pullups felt strong. **Sat** - good cardio session. **Sun** - 
+**Mon** - good run. **Tue** - good workout; felt strong after sleeping well; OHP felt really strong; go up on dips. **Wed** - didn't feel great after sleeping poorly. **Thur** - good workout; focused on good form and full ROM. **Fri** - good workout; pullups felt strong. **Sat** - good cardio session. **Sun** - good workout; bench felt stronger than last week; stay consistent with it. **Recap** - solid week. Total number of sets: 42.
 
 2025.02.08 ***`Upper `*** **elpt:** 15 min • **bench press:** 245x6x4 • **shoulder press-mchn:** 180x10x4 • **machine row:** 200x12x4  
 2026.02.07 ***`      `***   
