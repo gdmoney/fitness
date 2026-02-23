@@ -6,10 +6,17 @@
 
 *****
 
+2025.02.23 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x8x2, 205x10x2 • **lat pulldown:** 200x12x4  
+**Mon** - good workout; bench was moderate/heavy and felt strong. **Tue** - 
+
+2026.02.22 ***`Cardio`*** **run:** 1m  
+2026.02.17 ***`Cardio`*** **elpt:** 15 min  
+2026.02.17 ***`Cardio`*** **run:** 1m  
+2026.02.17 ***`Cardio`*** **elpt:** 15 min  
 2026.02.18 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 200x12x3 • **dips:** 10x3  
 2026.02.17 ***`Cardio`*** **elpt:** 15 min  
 2026.02.16 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **BB curl-rvs:** 75x15x4 • **upright row:** 85x15x4  
-**Mon** - good workout; got a good pump from higher rep sets. **Tue** - good elliptical session. **Wed** - good workout; OHP felt strong once again. **Thur** - 
+**Mon** - good workout; got a good pump from higher rep sets. **Tue** - good elliptical session. **Wed** - good workout; OHP felt strong once again. **Thur** - good cardio session. **Fri** - good run. **Sat** - good cardio session and hike with Luka. **Sun** - good run. **Recap** - poor week. Total number of sets: 24.
 
 2025.02.15 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 215x10x2, 195x12x1 • **DB row-sngl:** 90x15x3  
 2026.02.14 ***`Cardio`*** **elpt:** 15 min  
