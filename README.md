@@ -6,8 +6,10 @@
 
 *****
 
+2026.02.25 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
+2026.02.24 ***`Cardio`*** **run:** 1m  
 2026.02.23 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x8x2, 205x10x2 • **lat pulldown:** 200x12x4  
-**Mon** - good workout; bench was moderate/heavy and felt strong. **Tue** - 
+**Mon** - good workout; bench was moderate/heavy and felt strong. **Tue** - good run. **Wed** - good workout but I really need to figure out a way to overload the leg press. **Thur** - 
 
 2026.02.22 ***`Cardio`*** **run:** 1m  
 2026.02.21 ***`Cardio`*** **elpt:** 15 min  
