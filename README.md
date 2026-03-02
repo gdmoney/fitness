@@ -6,10 +6,15 @@
 
 *****
 
+
+2026.03.01 ***`Cardio`*** **run:** 1m  
+2026.02.28 ***`Cardio`*** **run:** 1m  
+2026.02.27 ***`Upper `*** **run:** 1m • **DB bench press-incl:** 75x15x4 • **machine row:** 200x12x4  
+2026.02.26 ***`Cardio`*** **run:** 1m  
 2026.02.25 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.02.24 ***`Cardio`*** **run:** 1m  
 2026.02.23 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x8x2, 205x10x2 • **lat pulldown:** 200x12x4  
-**Mon** - good workout; bench was moderate/heavy and felt strong. **Tue** - good run. **Wed** - good workout but I really need to figure out a way to overload the leg press. **Thur** - 
+**Mon** - good workout; bench was moderate/heavy and felt strong. **Tue** - good run. **Wed** - good workout but I really need to figure out a way to overload the leg press. **Thur** - good run. **Fri** - good workout; incline DB bench felt good without any shoulder issues. **Sat** - good run. **Sun** - good run. **Recap** - mediocre week. Total number of sets: 10+12+8=30. February missed workouts: 1.
 
 2026.02.22 ***`Cardio`*** **run:** 1m  
 2026.02.21 ***`Cardio`*** **elpt:** 15 min  
