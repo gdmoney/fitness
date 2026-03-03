@@ -6,8 +6,8 @@
 
 *****
 
-2026.03.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2,170x8x2,160x10x2 • **lat pulldown:** 200x12x4 • **dips:** 10x4  
-**Mon** - 
+2026.03.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2 • **shoulder-press-mchn:** 200x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
+**Mon** - good workout; press felt strong; weighted dips felt good. **Tue** - 
 
 2026.03.01 ***`Cardio`*** **run:** 1m  
 2026.02.28 ***`Cardio`*** **run:** 1m  
