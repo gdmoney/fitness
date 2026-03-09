@@ -6,12 +6,14 @@
 
 *****
 
+2026.03.08 ***`      `***   
+2026.03.07 ***`Cardio`*** **elpt:** 15 min  
 2026.03.06 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2026.03.05 ***`Cardio`*** **run:** 1m  
 2026.03.04 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.03.03 ***`Cardio`*** **ab wheel:** 25x4  
 2026.03.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2 • **shoulder-press-mchn:** 200x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
-**Mon** - good workout; press felt strong; weighted dips felt good; pulldown also felt string. **Tue** - had a 5am call time. **Wed** - good workout. **Thur** - good run. **Fri** - good workout despite not sleeping well; pullups felt strong. **Sat** - 
+**Mon** - good workout; press felt strong; weighted dips felt good; pulldown also felt string. **Tue** - had a 5am call time. **Wed** - good workout. **Thur** - good run. **Fri** - good workout despite not sleeping well; pullups felt strong. **Sat** - good cardio session. **Sun** - rest day. **Recap** - mediocre week. Total number of sets: 40.
 
 2026.03.01 ***`Cardio`*** **run:** 1m  
 2026.02.28 ***`Cardio`*** **run:** 1m  
