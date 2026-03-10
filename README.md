@@ -33,7 +33,7 @@
 2026.02.16 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **BB curl-rvs:** 75x15x4 • **upright row:** 85x15x4  
 **Mon** - good workout; got a good pump from higher rep sets. **Tue** - good elliptical session. **Wed** - good workout; OHP felt strong once again. **Thur** - good cardio session. **Fri** - good run. **Sat** - good cardio session and hike with Luka. **Sun** - good run. **Recap** - poor week. Total number of sets: 24.
 
-2025.02.15 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 215x10x2, 195x12x1 • **DB row-sngl:** 90x15x3  
+2026.02.15 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 215x10x2, 195x12x1 • **DB row-sngl:** 90x15x3  
 2026.02.14 ***`Cardio`*** **elpt:** 15 min  
 2026.02.13 ***`Upper `*** **run:** 1m • **pullups:** 10x8 • **tri pushdown:** 20x4  
 2026.02.12 ***`Lower `*** **run:** 1m • **SSB squat:** 160x10x8  
@@ -42,7 +42,7 @@
 2026.02.09 ***`Cardio`*** **run:** 2m  
 **Mon** - good run. **Tue** - good workout; felt strong after sleeping well; OHP felt really strong; go up on dips. **Wed** - didn't feel great after sleeping poorly. **Thur** - good workout; focused on good form and full ROM. **Fri** - good workout; pullups felt strong. **Sat** - good cardio session. **Sun** - good workout; bench felt stronger than last week; stay consistent with it. **Recap** - solid week. Total number of sets: 42.
 
-2025.02.08 ***`Upper `*** **elpt:** 15 min • **bench press:** 245x6x4 • **shoulder press-mchn:** 180x10x4 • **machine row:** 200x12x4  
+2026.02.08 ***`Upper `*** **elpt:** 15 min • **bench press:** 245x6x4 • **shoulder press-mchn:** 180x10x4 • **machine row:** 200x12x4  
 2026.02.07 ***`      `***   
 2026.02.06 ***`Cardio`*** **run:** 1m  
 2026.02.05 ***`Lower `*** **elpt:** 15 min • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
@@ -490,7 +490,7 @@
 2025.03.02 ***`Upper `*** **run:** 1m • **bench press:** 195x10x3 • **DB OHP-sngl:** 70x10x4 • **DB bench press:** 70x10x3  
 2025.03.01 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x3, 160x10x3  
 2025.02.28 ***`Cardio`*** **run:** 1m • **elpt:** 5 min  
-2025.02.14 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
+2025.02.27 ***`Upper `*** **run:** 1m • **lat pulldown:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.02.26 ***`Upper `*** **run:** 1m • **DB bench press:** 90x10x4 • **DB row-sngl:** 80x15x4 • **hammer curl:** 40x10x4  
 2025.02.25 ***`Upper `*** **ab wheel:** 25x4 • **pullups:** 10x6  
 2025.02.24 ***`Upper `*** **ab wheel:** 25x4 • **BB OH press:** 145x10x4 • **pullups-astd:** 12x4  
@@ -1300,7 +1300,7 @@
 2023.06.15 ***`Cardio  `*** **run:** 2m  
 2023.06.14 ***`Cardio  `*** **run:** 2m  
 2023.06.13 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
-2023.6.12 ***`        `***   
+2023.06.12 ***`        `***   
 **Mon** - rest; still feeling ill. **Tue** - good run; starting to feel a little better. **Wed/Thur/Fri** - still not feeling great. **Sat** - rest. **Sun** - first time doing squat in two months; it was moderate with good form; surprisingly I haven't lost much strength. **Recap** - poor week hampered by illness but at least I got good cardio in.
 
 2023.06.11 ***`        `***   
@@ -1316,7 +1316,7 @@
 2023.06.03 ***`        `***   
 2023.06.02 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x2  
 2023.06.01 ***`Cardio  `*** **run:** 2m  
-02023.5.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
+2023.05.31 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 2023.05.30 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 2023.05.29 ***`        `***   
 **Mon** - rest. **Tue** - was sleep deprived but still had a decent workout. **Wed** - didn't feel great and only got 3 sets in. **Thur** - felt better and had a good run. **Fri** - didn't feel great. **Sat** - rest. **Sun** - rest. **Recap** - poor week.
@@ -1996,13 +1996,13 @@
 - **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
 
 2021.12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x15x4  
-2021.12.26 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
+2021.12.25 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
 2021.12.24 ***`Upper-2 `*** **rest**  
 2021.12.23 ***`Rest    `***   
 2021.12.22 ***`Lower-2 `*** **rest**  
 2021.12.21 ***`Upper-1 `*** **BB OH press:** 135x10x4 • **DB row-sngl:** 90x24x3  
-2021.12.21 ***`Lower-1 `*** **back squat:** 195x8x4  
-- **Mon** - rest. **Tue** - doubled up; did technique work on squat, working on lower bar placement and keeping the torso more upright; OH press was moderate/heavy; DB row-sngl was light. **Wed, Thur, Fri, Sat** - rest. **Sun** -doubled up; squat was moderate on intensity but heavy on cardio; OH press was moderate/heavy; DB row-sngl was light/moderate. **Recap** - poor week, hampered by the holidays and rain, but at least I finished it strong. OH press keeps progressing and my back continues to improve.
+2021.12.20 ***`Lower-1 `*** **back squat:** 195x8x4  
+- **Mon** - rest. **Tue** - doubled up; did technique work on squat, working on lower bar placement and keeping the torso more upright; OH press was moderate/heavy; DB row-sngl was light. **Wed, Thur, Fri, Sat** - rest. **Sun** - doubled up; squat was moderate on intensity but heavy on cardio; OH press was moderate/heavy; DB row-sngl was light/moderate. **Recap** - poor week, hampered by the holidays and rain, but at least I finished it strong. OH press keeps progressing and my back continues to improve.
 
 2021.12.19 ***`Upper-3 `*** **rest**  
 2021.12.18 ***`Lower-3 `*** **BB OH press-ntrl:** 135x10x3 • **DB row-sngl:** 90x24x3 • **DB OH press:** 52x15x3 • **chinups:** 10x3  
@@ -2040,8 +2040,7 @@
 2021.11.22 ***`Lower-1 `***   
 - **Mon** - back injury turned out to be significantly worse than I had hoped. **Tue** - back felt better but still hurt. **Wed** - back felt much better; run didn't aggravate it. **Thur** - another rest day. **Fri**, **Sat**, **Sun** - back continiued to get better. **Recap** - back injury hampered progress, but it worked out well because I was due for a deload week after 10 weeks of increasingly high intensity training. Next week is a travel week so I'll have to augment before I start a new program cycle.
 
-2021.11.21 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 325x5x3 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
-2021.11.21 ***`Upper-2 `*** **pullups-ntrl:** 10x3  
+2021.11.21 ***`Lower-3 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x3 • **deadlift:** 325x5x3 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
 2021.11.20 ***`Rest    `***  
 2021.11.19 ***`Rest    `***  
 2021.11.18 ***`Rest    `***  
@@ -2050,13 +2049,13 @@
 2021.11.15 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 230x6x4 • **RDL:** 235x8x4  
 - **Mon** - squat was heavy; ROM was good but I have a tendency to lean forward occasionally; RDL was moderate/heavy with good form; stay at this weight another week. **Tue** - OH press was moderate and lighter than the last time, even though I did 17 reps; pullups felt good, no elbow pain. **Wed** - DB squat was really tough, especially on the cardio; I was sleep deprived which I'm sure didn't help. **Thur**, **Fri**, **Sat** - rest days. **Sun** - doubled up; pullups were moderate; deadlift was heavy and I tweaked by back on the 3rd set due to poor form; forgot to wear the belt. **Recap** - OK week; I'm hoping my back injury isn't serious.
 
-2021.11.18 ***`Rest    `***  11.14 ***`Flex    `***   
-2021.11.18 ***`Rest    `***  11.13 ***`Lower-3 `***   
-2021.11.18 ***`Rest    `***  11.12 ***`Upper-2 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
-2021.11.18 ***`Rest    `***  11.11 ***`Rest    `***  
-2021.11.18 ***`Rest    `***  11.10 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
-2021.11.18 ***`Rest    `***  11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
-2021.11.18 ***`Rest    `***  11.08 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 225x8x4 • **RDL:** 225x8x4  
+2021.11.14 ***`Flex    `***   
+2021.11.13 ***`Lower-3 `***   
+2021.11.12 ***`Upper-2 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
+2021.11.11 ***`Rest    `***  
+2021.11.10 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
+2021.11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
+2021.11.08 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 225x8x4 • **RDL:** 225x8x4  
 - **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - first time doing 12 reps on the wtd DB squat; weight was moderate but I got quite winded. **Fri** - OH press was moderate and a little lighter than on Tue. **Sat** - ended up taking a rest day as it was Tina's B-day party. **Sun** - anotehr R&R day. **Recap** - decent week; add chinups next week.
 
 2021.11.07 ***`Flex    `*** **rest**  
@@ -2092,7 +2091,7 @@
 2021.10.14 ***`Upper-2 `*** **elliptical:** 15 min • **DB OH press:** 52x15x3 • **DB row-sngl:** 90x20x4 • **BB curl:** 75x10x4  
 2021.10.13 ***`Lower-2 `*** **run:** 2 miles @ 7:15 pace (trdml) • **DB squat-wtd:** 165x10x4 • **DB lunge-rvs:** 52x20x3  
 2021.10.12 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 105x12x4 • **DB row-sngl:** 90x20x4 • **BB curl:** 70x12x4  
-2021.10.12 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
+2021.10.11 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 205x8x4 • **RDL:** 195x8x4  
 - **Mon** - bitched out. **Tue** - doubled up; didn't feel all that strong in the AM so the squat was moderate/heavy; form was mediocre at first but improved in the last two sets; RDL was also moderate/heavy with decent form; OH press was heavier than I expected so I cut the reps down to 12; stick to DB vs BB row for now to avoid added strain on my lower back; curl felt lighter than last week. **Wed** - squat was moderate with good form; lunge really hammered the quads; stick with reverse lunge for now for better quad activation. **Thur** - OH press was moderate; curl keeps getting lighter but have a slight shoulder ache the next morning. **Sat** - deadlift was moderate; form is still not great; I'm rounding my back too much. **Sun** - felt like shit all day but the run felt great and my sprints were fast. **Recap** - solid week; still settling into the schedule and the program but I'm definitely making progress.
 
 2021.10.10 ***`Upper-3 `*** **run:** 2 miles - tempo (street) • **DB OH press:** 52x15x4 • **DB row-sngl:** 90x20x4 • **BB curl:** 65x10x4  
@@ -2154,7 +2153,7 @@
 2021.08.27 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace  
 2021.08.26 ***`Cardio-2`*** **elliptical:** 40 min  
 2021.08.25 ***`Cardio-1`*** **run:** 4 miles @ 9:00 pace  
-2021.08.25 ***`Cardio-2`*** **elliptical:** 40 min  
+2021.08.24 ***`Cardio-2`*** **elliptical:** 40 min  
 2021.08.23 ***`Cardio-1`*** **run:** 3 miles @ 9:00 pace  
 - **Mon** - felt easy; plan was to do 4 miles but I ran out of time; get up 30 minutes earlier. **Tue** - felt like shit and rested. **Wed** - doubled up with elliptical in the am and run in the pm; both were pretty easy. **Thur** - good sweat session. **Fri** - felt easy but broke good sweat; go for 8:30 pace next week. **Sat** - hit the hotel gym in the AM; elliptical machine didn't feel right so I cut it short; pulldowns and goblet squat felt great; keep adding resistance exercises. **Sun** - decided to work out instead of taking a rest day; no pain on DB OH press. **Recap** - solid week; I'm continuing to make good progress on cardio and I'm starting to add strength exercises once again.
 
@@ -2196,7 +2195,7 @@
 
 2021.07.25 ***`Rest    `*** **rest**  
 2021.07.24 ***`Upper-3 `*** **suitcase hold:** 90x60x3 • **DB OH press:** 20x20x3 • **rear delt iso hold:** 30x3  
-2021.07.24 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
+2021.07.23 ***`Lower-3 `*** **back squat:** 215x8x3 • **hip thrust:** 150x15x4 • **good morning:** 65x15x3  
 2021.07.22 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 10x15x3  
 2021.07.21 ***`Lower-2 `*** **deadlift:** 295x3x5 • **goblet squat:** 90x20x4  
 2021.07.20 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
@@ -2209,14 +2208,16 @@
 2021.07.15 ***`Upper-2 `*** **DB bench press:** 40x25x3 • **rear delt fly:** 10x20x3 • **Lu raise:** 5x15x3  
 2021.07.14 ***`Lower-2 `*** **deadlift:** 290x3x5 • **goblet squat:** 90x15x4  
 2021.07.13 ***`Cardio-1`*** **rest**  
-2021.07.12 ***`Upper-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3  
-2021.07.12 ***`Lower-1 `*** **back squat:** 240x4x5 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
+2021.07.12 ***`Lower-1 `*** **OH press:** 60x15x3 • **OH shrug:** 60x15x3 • **back squat:** 240x4x5 • **RDL:** 215x8x4 • **front rack lunge:** 90x20x4 • **plank-wtd:** 25x60x3  
 - Started Block 2 (6 weeks) of Alec Enkiri's program. **Week 1:** **Mon** - used a belt on squat for the first time since my last PR attempt and it helped; front rack lunge was light but balancing made it challenging; weighted plank was tough; OH press last set was a bit tougher than expected but w/o shoulder pain. **Tue** - ended up taking a rest day as I was quite tired from Monday's workout. **Wed** - deadlift was a bit lighter than I expected with good form; it's easier to stay focused and maintain good form with lower rep sets; goblet squat was light/moderate; go for 20 reps next week. **Thur** - skipped rack chin-up as it didn't agree with my right elbow; DB bench press was painless. **Fri** - squat was light/moderate with improved form; good morning felt light. **Sat** - suitcase hold aggravates the elbow a little, don't extend the arm fully. **Sun** - rest. **Recap** - solid week; lower movements are going really well and the elbow is improving.
 
 2021.07.11 ***`Rest    `*** **rest**  
 2021.07.10 ***`Lower-3 `*** **rest**  
+2021.07.09 ***`Rest    `*** **rest**  
+2021.07.08 ***`Rest    `*** **rest**  
 2021.07.07 ***`Lower-2 `*** **deadlift:** 285x5x4 • **back squat:** 205x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
 2021.07.06 ***`Lower-1 `*** **back squat:** 235x5x4 • **RDL:** 205x8x4 • **reverse lunge:** 80x10x4 • **plank:** 60secx3  
+2021.07.05 ***`Rest    `*** **rest**  
 - **Mon** - rest day hanging out with Goga. **Tue** - squat was moderate/heavy with good form; noticed the bar is uneven with the left side being lower. **Wed** - deadlift was significantly easier than last week, even with back-to-back Lower days; starting with the hips lower helps by engaging the legs more. **Thur/Fri/Sat/Sun** - rest days visiting Zuka in WC. **Recap** - short but decent week. Elbow is finally starting to feel better.
 
 2021.07.04 ***`Rest    `*** **rest**  
@@ -2225,6 +2226,7 @@
 2021.07.01 ***`Lower-2 `*** **deadlift:** 280x5x4 • **back squat:** 200x8x3 • **hip thrust:** 145x15x4 • **side plank:** 60secx3  
 2021.06.30 ***`Cardio-1`*** **rest**  
 2021.06.29 ***`Lower-1 `*** **back squat:** 230x5x4 • **RDL:** 205x8x4 • **reverse lunge:** 80x10x4 • **plank:** 60secx3  
+2021.06.28 ***`Rest    `*** **rest**  
 - **Mon** - rest day, felt like shit after sleeping poorly. **Tue** - squat was moderate/heavy, form was good; RDL form was also better. **Wed** - rest. **Thur** - deadlift was tough; squat was light/moderate. **Fri** - rest day. **Sat** - squat was medium/heavy with good form. **Sun** - rest. **Recap** - OK week; lower movements are going well and the shoulder is pain free but the right forearm/elbow pain still persists.
 
 2021.06.27 ***`Rest    `*** **rest**  
@@ -2233,6 +2235,7 @@
 2021.06.24 ***`Lower-2 `*** **deadlift:** 275x5x4 • **back squat:** 195x8x3 • **hip thrust:** 140x15x4 • **side plank:** 60secx3  
 2021.06.23 ***`Cardio-1`*** **run:** 2 miles - sprints  
 2021.06.22 ***`Lower-1 `*** **back squat:** 225x5x4 • **RDL:** 195x8x4 • **reverse lunge:** 70x10x4 • **plank:** 60secx3  
+2021.06.21 ***`Rest    `*** **rest**  
 - **Mon** - rest day, felt like shit after drinking on Sun. **Tue** - squat was heavy but I kept good form; surprisingly the last two sets felt easier; RDL form was also better; go up to 75 sec on plank. **Wed** - went for a run in the AM which felt good. **Thur** - deadlift was moderate, form was better but I'm still re-bending the knees a bit; squat was moderate with good form. **Fri** - AM run. **Sat** - squat moderate with good form. **Recap** - better week overall; shoulder and elbow rehab exercises seem to be working; both are feeling better. Probably stick with lower body only exercises next week.
 
 2021.06.20 ***`Rest    `*** **rest**  
@@ -2245,7 +2248,7 @@
 - **Mon** - RDL form was better, keep focusing on greater ROM but with a straight back and on loading the hamstrings. **Tue** - both Push and Pull movements felt stronger than last week; slight forearm pain on pullups. **Wed** - rest. **Thur** - focused on good deadlift form, I think it's getting a little better. **Fri** - lifted at LFJCC for the first time and aggravated my right shoulder and forearm/elbow again on Larsen press. **Sat** - rest. **Sun** - rest/wrenching. **Recap** - week was going great until I re-injured myself, so not a good week overall.
 
 2021.06.13 ***`Rest    `*** **rest**  
-02021.6.12 ***`Cardio-2`*** **rest**  
+2021.06.12 ***`Cardio-2`*** **rest**  
 2021.06.11 ***`Upper-2 `*** **BB OH press:** 105x8x4 • **Larsen press:** 155x8x4 • **chinup-wtd:** 15x8x4 • **tri ext:** 65x12x4 • **Lu raise:** 5x15x3  
 2021.06.10 ***`Lower-2 `*** **deadlift:** 265x5x4 • **back squat:** 185x8x3 • **hip thrust:** 135x15x4 • **side plank:** 60secx3  
 2021.06.09 ***`Cardio-1`*** **rest**  
@@ -2267,8 +2270,8 @@
 2021.05.28 ***`Pull-2 `*** **rest**  
 2021.05.27 ***`Legs-2 `*** **rest**  
 2021.05.26 ***`Push-1 `*** **DB bench press:** 40x20x5 • **DB OH press:** 40x20x5  
-2021.05.26 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row-sngl:** 90x24x5 • **DB shrug:** 90x12x5  
-2021.05.25 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
+2021.05.25 ***`Pull-1 `*** **BB row:** 205x8x5 • **DB row-sngl:** 90x24x5 • **DB shrug:** 90x12x5  
+2021.05.24 ***`Legs-1 `*** **back squat:** 225x8x5 • **RDL:** 225x8x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 - **Mon** - rest day. **Tue** - squat was heavy, form was mediocre overall but the ROM was still good; RDL was light. **Wed** - rest day. **Thur** - felt strong on the row but it aggravated my forearm again. **Fri** - rest day; forearm hurt like a bitch. **Sat** - rest day; ended up wrenching most of the day **Sun** - rest/wrench day again. **Recap** - shitty week hampered by ongoing forearm and shouler injuries; only put in two days of work.
 
 2021.05.23 ***`Cardio `*** **rest**  
@@ -2286,7 +2289,7 @@
 2021.05.13 ***`Pull-2 `*** **BB row:** 185x12x5 • **DB row-sngl:** 90x24x5  
 2021.05.12 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 185x12x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 2021.05.11 ***`Push-1 `*** **BB bench press:** 185x12x5 • **OH press-psd:** 115x10x3  
-2021.05.11 ***`Pull-1 `*** **pullups-ntrl:** 16 • **BB row** 185x12x5 • **DB row-sngl:** 90x24x5  
+2021.05.10 ***`Pull-1 `*** **pullups-ntrl:** 16 • **BB row** 185x12x5 • **DB row-sngl:** 90x24x5  
 - **Mon** - was hung over and bitched out. **Tue** - doubled up on Push and Pull. Bench was moderate for the first 3 sets and then heavy; OH press was moderate. Right shoulder pain got worse after bench, left one is fine. **Wed** - squat was moderate: RDL was light; minimal shoulder pain. **Thur** - row seems to be the only pulling movement that doesn't cause shoulder pain; slight leg/glute soreness. **Fri** - rested since I can't do any Push movements. **Sat** - paused squat was moderate/heavy; RDL was even lighter than on Wed; go up on BSS next week; no shoulder or forearm pain. **Sun** - rested. **Recap** - not a good week overall due to the right shoulder injury, but it's feeling much better so I remain hopeful that it will heal fully in 2 more weeks.
 
 2021.05.09 ***`Cardio `*** **rest**  
@@ -2304,7 +2307,7 @@
 2021.04.29 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x6x3 • **pullups-ntrl:** 6x2 • **chinups:** 6x2  
 2021.04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x8x3 • **good morning:** 95x6x3 • **BB lunge:** 95x10x2  
 2021.04.27 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x12x3  
-2021.04.27 ***`Pull-1 `*** **pullups-ntrl:** 10x2 • **chinups** 6x2 • **BB row:** 135x8x3  
+2021.04.26 ***`Pull-1 `*** **pullups-ntrl:** 10x2 • **chinups** 6x2 • **BB row:** 135x8x3  
 - **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it the most on BB row. **Wed** - felt the forearm a bit on the RDL but it's wasn't bad; light deadlift should be ok to start with. **Thur** - curl didn't cause any forearm pain, go up in weight. **Fri** - felt good. **Sat** - no forearm pain on deadlift, start loading it up again. **Sun** - rest. **Recap** - better week overall, felt good to start doing Pull movements again.
 
 2021.04.25 ***`Push-2 `*** **BB OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
@@ -2326,8 +2329,7 @@
 - **Week 5:** 4 reps on main movements. **Mon** - right forearm still hurts so I can't do any pulling movements. **Tue** - bench was moderate/heavy, form was better; developed an ache in my right shoulder. **Wed** - surprisingly, squat was only moderate; go for reps 5-6 next week with 235; pecs were quite sore. **Thur** - forearm is getting better but it's not healed yet. **Fri** - OH press was moderate/heavy; bench was heavy; no pain. **Sat** - back squat was heavy; front squat was moderate/heavy; go up 115 on lunge. **Sun** - rested. **Recap** - I'm happy with Push and Legs but forearm still hurts so I didn't do any Pull movements or deadlift.
 
 2021.04.11 ***`Cardio `*** **swim:** 1,000 meters  
-2021.04.10 ***`Cardio `*** **swim:** 1,200 yards  
-2021.04.10 ***`Legs-2 `*** **back squat-psd:** 205x5x5 • **front squat:** 155x8x5  
+2021.04.10 ***`Legs-2 `*** **swim:** 1,200 yards • **back squat-psd:** 205x5x5 • **front squat:** 155x8x5  
 2021.04.09 ***`Push-2 `*** **BB OH press:** 160x6x3, 135x10x2 • **bench press-psd:** 250x3x5  
 2021.04.08 ***`Pull-2 `*** **rest**  
 2021.04.07 ***`Legs-1 `*** **back squat:** 215x6x5 • **good morning:** 125x12x5 • **air lunge:** 40x5  
@@ -2359,15 +2361,15 @@
 2021.03.18 ***`Pull-2 `*** **BB row:** 190x12x5 • **BB curl:** 110x12x3 • **BB curl-rvs:** 75x12x3 • **pullups:** 10x2 • **chinups:** 10x2  
 2021.03.17 ***`Legs-1 `*** **back squat:** 185x12x5 • **RDL:** 195x12x5 • **good morning:** 115x12x5 • **DB lunge:** 52x20x3  
 2021.03.16 ***`Push-1 `*** **BB bench press:** 190x12x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x3 • **lat/front raise:** 30x20x3  
-2021.03.16 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
+2021.03.15 ***`Pull-1 `*** **pullups:** 8x2 • **chinups:** 8x2 • **BB row:** 190x12x5  
 - Started a new 8-week program. +5 pounds on bench, OH/push press, BB row, and BB curl. +10 pounds on deadlift and RDL.
 - **Week 1:** 12 reps on main movements. **Mon** - got rained out. **Tue** - doubled up on Pull and Push; superset bench and BB row; the last bench set was tough; pull was a little weak, probably due to Sunday's max pullup test; no pain. **Wed** - started at 4 PM, chest was sore but otherwise felt good; beltless squats were tough, especially the last two sets, but I kept good form throughout. **Thur** - started at 6:30 PM, chest and legs were sore but felt good. **Fri** - legs were still sore but felt good; OH press and bench press last sets were tough. **Sat** - front squat form needs work, bar kept sliding forward and down; go up in weight on BSS. **Sun** - back and shoulders were sore so the walk felt good to loosen up.
 
 2021.03.14 ***`Pullups`*** **pullups:**  18  
 2021.03.13 ***`Cardio `*** **run:** 2 miles - tempo  
 2021.03.12 ***`OH Prss`*** **BB OH press:** 95x4, 115x2, 135x1, 155x1x2, 165x1, 175x1, 180x1  
-2021.03.12 ***`DL     `*** **deadlift:** 135x8, 185x4, 225x2, 275x1, 295x1, 315x1, 335x1, 355x1, 375x1, 405xFx2  
-2021.03.09 ***`Bench  `*** **BB bench press:** 135x4, 155x4, 185x3, 205x3, 225x2, 245x2, 265x1, 285x1, 295x1, 305x1, 315x1  
+2021.03.11 ***`DL     `*** **deadlift:** 135x8, 185x4, 225x2, 275x1, 295x1, 315x1, 335x1, 355x1, 375x1, 405xFx2  
+2021.03.10 ***`Bench  `*** **BB bench press:** 135x4, 155x4, 185x3, 205x3, 225x2, 245x2, 265x1, 285x1, 295x1, 305x1, 315x1  
 2021.03.09 ***`Squat  `*** **back squat:** 95x4, 135x2, 160x2, 185x2, 205x1, 225x1, 245x1, 265x1, 275x1  
 2021.03.08 ***`Cardio `*** **run:** 2 miles - tempo  
 - **Week 8:** 1 rep max tests. **Mon** - rested one more day after a long weekend trip to Vegas. **Tue** - started at around 5:30 PM, felt strong but not my strongest. **Squat:** tried to focus on good form and depth; the last lift was challenging but I probably could've gone up another 10#; I'm still happy with the 275 PR though because my form this time was much better than my last 275. **Bench**: lighter weights were moving fast, heavier weights felt a little slower than usual; form was OK but I noticed in the videos that my butt was coming off the bench slightly and I kept shuffling my feet after unracking the bar; overall I'm very happy with the 315 PR and I feel better about being on track to 325 by the EOY. **Wed** - rest day, no aches or pain. **Thur** - rest day. **Fri** - started in the morning around 9:30; felt strong. **Deadlift:** felt good; form was better but I still need to stand up a little later so that my back isn't doing most of the heavy pulling; I missed 405 twice (second attempt was much closer than the first) but I'm still happy with the 375 PR; I'm going to change my 2021 goal to 425; add grip work and maybe start experimenting with mixed grip. **OH Press:** needs a lot of work, my form is inconsistent; I started out with thumbless grip but switched to a regular grip at 175; I got a 180 PR but I'm not thrilled with it due to poor form. **Sat** - rest and light cardio, no aches or pain. **Sun** - was slightly hung over but 18 pullups is still solid.
@@ -2376,7 +2378,7 @@
 2021.03.06 ***`Legs-2 `*** **rest**  
 2021.03.05 ***`Push-2 `*** **BB OH press:** 95x8x3 • **bench press-psd:** 135x8x3 • **deadlift:** 155x6x3  
 2021.03.04 ***`Pull-2 `*** **BB row:** 135x8x3 • **BB curl:** 75x8x3 • **BB curl-rvs:** 45x10x3 • **pullups:** 5x2 • **chinups:** 5x2  
-2021.03.04 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x2  
+2021.03.03 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x6x3 • **good morning:** 95x8x3 • **DB lunge:** 25x20x2  
 2021.03.02 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x15x3 • **lat/front raise:** 15x25x3  
 2021.03.01 ***`Pull-1 `*** **pullups-wtd:** 30x5x2 • **chinups-wtd** 30x5x2 • **BB row:** 135x8x3  
 - **Week 7:** deload week - 50% of 1RM intentsity, 50% volume (2-3 sets instead of 3-5), 6-8 reps. **Mon** - used a 30# DB for weighted pullups instead of the 60# weight vest; felt more like a warmup than a workout. **Tue** - everything felt really light again. **Wed** - got rained out. **Thur** - doubled up on Legs and Pull. **Fri** - added deadlift to the Push day; only OH press felt like work.
@@ -2419,15 +2421,15 @@
 
 2021.01.31 ***`Cardio `*** **run:** 1 mile jog with Meu  
 2021.01.30 ***`Pull-2 `*** **BB row-OH/UH:** 195x10x6 • **BB curl:** 115x10x3 • **BB curl-rvs:** 75x12x3  
-2021.01.30 ***`Push-2 `*** **BB OH press:** 135x10x5 • **bench press-psd:** 175x10x5  
+2021.01.29 ***`Push-2 `*** **BB OH press:** 135x10x5 • **bench press-psd:** 175x10x5  
 2021.01.28 ***`Legs-2 `*** **deadlift:** 245x10x5  
 2021.01.27 ***`Pull-1 `*** **BB row-OH/UH:** 195x10x10  
 2021.01.26 ***`Push-1 `*** **BB bench press:** 205x10x5  
-2021.01.26 ***`Legs-1 `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x1  
+2021.01.25 ***`Legs-1 `*** **back squat:** 205x10x5 • **RDL:** 205x10x5 • **good morning:** 105x10x5 • **DB lunge:** 52x30x1  
 - **Week 2:** 10 reps on main movements. **Mon** - got rained out. **Tue** - worked out in the AM and didn't feel strong. Squats were challenging and I aggravated my side injury again. RDL, GM, and lunge were OK. Bench felt light but was really painful so I decided to skip push press and accessory work. **Wed** - side pain was bearable on rows but really bad on pullups and curls so I skipped those. **Thur** - some pain on deadlift but was bearable; didn't want to risk it on squats. **Fri** - got rained out. **Sat** - did both push and pull in the AM; felt pretty good; pain is still there but it's tolerable.
 
 2021.01.24 ***`Cardio `*** **run:** 2 miles - sprints  
-2021.01.24 ***`Pull-2 `*** **BB row-OH/UH:** 185x12x6 • **BB curl:** 105x12x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
+2021.01.23 ***`Pull-2 `*** **BB row-OH/UH:** 185x12x6 • **BB curl:** 105x12x3 • **BB curl-rvs:** 75x12x3 • **pullups-psd:** 8x3 • **chinups-psd:** 8x3  
 2021.01.22 ***`Push-2 `*** **push press:** 135x12x3 • **bench press-psd:** 165x10x5 • **DB fly:** 40x15x3 • **lat/front raise:** 30x25x3  
 2021.01.21 ***`Legs-2 `*** **deadlift:** 225x12x5 • **back squat-psd:** 135x10x5 • **DB lunge:** 52x30x2  
 2021.01.20 ***`Pull-1 `*** **pullups:** 10x3 • **chinups:** 10x3 • **BB row-OH/UH:** 185x12x6 • **DB curl:** 52x10x3  

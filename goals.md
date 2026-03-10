@@ -21,7 +21,7 @@
 
 ### 2025
 
-- [ ]  Have fewer missed workouts than last year (29 missed days)
+- [ ]  Have fewer missed workouts than last year (28 missed days)
 - [x]  Stay injury free
 - [x]  Improve posture
 - [x]  Lose weight
@@ -32,7 +32,7 @@
 - [ ]  SSB squat:      260x10
 - [ ]  Pullups-wtd:     45x10
 
-**Recap**: mixed year overall. I didn't hit any of my strength goals which was disappointing but I did have 5 PRs. On the plus side, I managed to stay injury free for the second year in a row. I also managed to lose a little bit of weight while maintaining or increasing my strength on several lifts. **Highlights:** no lifts really stand out. If I had to pick something it would be bench press 275 for 4 and DB bench press 100 for 18. **Misses:** too many missed workouts once again. Having 12 missed days in February due to illness really set me back. Target less than 18 missed days next year. Squat lack of progress was also disappointing. **Plans for next year:** stick with the current program. Continue to focus on building a strong foundation with higher rep ranges but mix in more frequent heavy days. Try to lose a bit more weight. **Yearly totals:** TBD resistance + cardio days, TBD cardio only days, 29 missed days.
+**Recap**: mixed year overall. I didn't hit any of my strength goals which was disappointing but I did have 5 PRs. On the plus side, I managed to stay injury free for the second year in a row. I also managed to lose a little bit of weight while maintaining or increasing my strength on several lifts. **Highlights:** no lifts really stand out. If I had to pick something it would be bench press 275 for 4 and DB bench press 100 for 18. **Misses:** too many missed workouts once again. Having 12 missed days in February due to illness really set me back. Target less than 18 missed days next year. Squat lack of progress was also disappointing. **Plans for next year:** stick with the current program. Continue to focus on building a strong foundation with higher rep ranges but mix in more frequent heavy days. Try to lose a bit more weight. **Yearly totals:** 169 resistance + cardio days, 170 cardio only days, 28 missed days.
 
 *****
 
