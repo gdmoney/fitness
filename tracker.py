@@ -56,7 +56,7 @@ def parse_readme():
                 continue
 
             s = SETS_RE.search(line)
-            if s and section_year is not None and section_year >= 2023:
+            if s and section_year is not None and section_year >= 2021:
                 if yearly[section_year]["sets"] is None:
                     yearly[section_year]["sets"] = 0
                 yearly[section_year]["sets"] += int(s.group(1))

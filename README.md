@@ -1521,7 +1521,7 @@
 2022.12.28 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
 2022.12.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge-rvs:** 110x20x2  
 2022.12.26 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20x4 • **pushups:** 25x4  
-**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** - good workout; squat was moderate with good form; go up in weight next week. **Wed** - pullups at the park. **Thur** - rest. **Fri** - rest. **Sat** - didn't feel my strongest in the morning but still hit my goal with the 200 PR; probably could've done a couple more with the 90 if I had done it before the 100 attempt; couldn't do any with my left. **Sun** - rest. **Recap** - mediocre week hampered by rain but I'm really happy with my OHP PR.
+**Mon** - OHP was only moderate and felt strong; go up to 90 next week. **Tue** - good workout; squat was moderate with good form; go up in weight next week. **Wed** - pullups at the park. **Thur** - rest. **Fri** - rest. **Sat** - didn't feel my strongest in the morning but still hit my goal with the 200 PR; probably could've done a couple more with the 90 if I had done it before the 100 attempt; couldn't do any with my left. **Sun** - rest. **Recap** - mediocre week hampered by rain but I'm really happy with my OHP PR. Total number of sets: 2828.
 
 2022.12.25 ***`        `***   
 2022.12.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
@@ -1993,7 +1993,7 @@
 2021.12.29 ***`Rest    `***   
 2021.12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
 2021.12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
-- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger.
+- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger. Total number of sets: 2677.
 
 2021.12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x15x4  
 2021.12.25 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
