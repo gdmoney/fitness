@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(git checkout:*)",
-      "Bash(netstat -ano | findstr :8765 | findstr LISTENING)"
+      "Bash(netstat -ano | findstr :8765 | findstr LISTENING)",
+      "Bash(powershell -Command \"Get-NetTCPConnection -LocalPort 8765 -ErrorAction SilentlyContinue | Select-Object -ExpandProperty OwningProcess | ForEach-Object { Stop-Process -Id \\([int]$_\\) -Force -ErrorAction SilentlyContinue }; Start-Sleep -Milliseconds 500; Start-Process python -ArgumentList 'tracker.py' -WorkingDirectory 'C:\\\\Users\\\\gdavitiani\\\\Documents\\\\GitHub\\\\fitness'\")",
+      "Bash(netstat -ano | findstr \":8765 \" | findstr LISTENING)",
+      "Bash(powershell -Command \"Stop-Process -Id 26720 -Force; Start-Sleep -Milliseconds 500; Start-Process python -ArgumentList 'tracker.py' -WorkingDirectory 'C:\\\\Users\\\\gdavitiani\\\\Documents\\\\GitHub\\\\fitness'\")",
+      "Bash(python -c \"\nimport tracker, sys\nsys.stdout.reconfigure\\(encoding='utf-8'\\)\nwith open\\('README.md', encoding='utf-8'\\) as f:\n    for raw in f:\n        line = raw.strip\\(\\)\n        m = tracker.LINE_RE.match\\(line\\)\n        if not m: continue\n        year = int\\(m.group\\(1\\)\\)\n        if year != 2024: continue\n        label = m.group\\(2\\).strip\\(\\).lower\\(\\)\n        content = m.group\\(3\\).strip\\(\\).lower\\(\\)\n        if not label or label == 'rest' or content == '**rest**': continue\n        if label == 'cardio': continue\n        if tracker.CARDIO_RE.search\\(content\\): continue\n        print\\(line\\)\n\")"
     ]
   }
 }

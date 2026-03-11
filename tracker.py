@@ -17,13 +17,14 @@ from collections import defaultdict
 PORT = 8765
 README_PATH = Path(__file__).parent / "README.md"
 
-LINE_RE    = re.compile(r'^(\d{4})\.\d{2}\.\d{2}\s+\*\*\*`([^`]*)`\*\*\*')
+LINE_RE    = re.compile(r'^(\d{4})\.\d{2}\.\d{2}\s+\*\*\*`([^`]*)`\*\*\*(.*)')
 SECTION_RE = re.compile(r'^##\s+(\d{4})\s*$')
 SETS_RE    = re.compile(r'Total number of sets:\s*(\d+)')
+CARDIO_RE  = re.compile(r'\b(run|elliptical|elpt|swim|bike|cycle|jog)\b', re.IGNORECASE)
 
 
 def parse_readme():
-    yearly = defaultdict(lambda: {"resistance": 0, "cardio": 0, "missed": 0, "sets": None})
+    yearly = defaultdict(lambda: {"resistance": 0, "resistance_only": 0, "cardio": 0, "missed": 0, "sets": None})
     section_year = None
 
     with open(README_PATH, encoding="utf-8") as f:
@@ -42,13 +43,16 @@ def parse_readme():
                     continue
                 if section_year is None:
                     section_year = year
-                label = m.group(2).strip().lower()
-                if not label or label == "rest":
+                label   = m.group(2).strip().lower()
+                content = m.group(3).strip().lower()
+                if not label or label == "rest" or content == "**rest**":
                     yearly[year]["missed"] += 1
                 elif label == "cardio":
                     yearly[year]["cardio"] += 1
-                else:
+                elif CARDIO_RE.search(content):
                     yearly[year]["resistance"] += 1
+                else:
+                    yearly[year]["resistance_only"] += 1
                 continue
 
             s = SETS_RE.search(line)
@@ -61,12 +65,13 @@ def parse_readme():
 
 
 def build_html(data):
-    years = list(data.keys())
-    resistance = [data[y]["resistance"] for y in years]
-    cardio     = [data[y]["cardio"]     for y in years]
-    missed     = [data[y]["missed"]     for y in years]
-    sets       = [data[y]["sets"]       for y in years]
-    totals     = [resistance[i] + cardio[i] + missed[i] for i in range(len(years))]
+    years            = list(data.keys())
+    resistance       = [data[y]["resistance"]      for y in years]
+    resistance_only  = [data[y]["resistance_only"] for y in years]
+    cardio           = [data[y]["cardio"]           for y in years]
+    missed           = [data[y]["missed"]           for y in years]
+    sets             = [data[y]["sets"]             for y in years]
+    totals           = [resistance[i] + resistance_only[i] + cardio[i] + missed[i] for i in range(len(years))]
 
     sets_years = [y for y in years if data[y]["sets"] is not None]
     sets_vals  = [data[y]["sets"] for y in sets_years]
@@ -78,6 +83,7 @@ def build_html(data):
         rows += f"""
         <tr>
           <td>{y}</td>
+          <td class="num">{resistance_only[i]}</td>
           <td class="num">{resistance[i]}</td>
           <td class="num">{cardio[i]}</td>
           <td class="num">{missed[i]}</td>
@@ -125,7 +131,7 @@ def build_html(data):
     /* Summary cards */
     .cards {{
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       gap: 16px;
       margin-bottom: 40px;
     }}
@@ -157,9 +163,10 @@ def build_html(data):
       margin-top: 4px;
     }}
 
-    .card.resistance .card-value {{ color: #60a5fa; }}
-    .card.cardio     .card-value {{ color: #34d399; }}
-    .card.missed     .card-value {{ color: #f87171; }}
+    .card.resistance      .card-value {{ color: #60a5fa; }}
+    .card.resistance-only .card-value {{ color: #818cf8; }}
+    .card.cardio          .card-value {{ color: #34d399; }}
+    .card.missed          .card-value {{ color: #f87171; }}
 
     /* Chart */
     .section {{
@@ -229,15 +236,19 @@ def build_html(data):
       vertical-align: middle;
     }}
 
-    .dot-r {{ background: #60a5fa; }}
-    .dot-c {{ background: #34d399; }}
-    .dot-m {{ background: #f87171; }}
-    .dot-s {{ background: #fb923c; }}
+    .dot-r  {{ background: #60a5fa; }}
+    .dot-ro {{ background: #818cf8; }}
+    .dot-c  {{ background: #34d399; }}
+    .dot-m  {{ background: #f87171; }}
+    .dot-s  {{ background: #fb923c; }}
 
     td.sets {{ color: #fb923c; }}
     td.dim  {{ color: #334155; }}
 
-    @media (max-width: 600px) {{
+    @media (max-width: 800px) {{
+      .cards {{ grid-template-columns: repeat(2, 1fr); }}
+    }}
+    @media (max-width: 480px) {{
       .cards {{ grid-template-columns: 1fr; }}
     }}
   </style>
@@ -248,13 +259,18 @@ def build_html(data):
     <p class="subtitle">Yearly workout totals</p>
 
     <div class="cards">
+      <div class="card resistance-only">
+        <div class="card-label">Resistance</div>
+        <div class="card-value">{sum(resistance_only)}</div>
+        <div class="card-sub">total days across all years</div>
+      </div>
       <div class="card resistance">
         <div class="card-label">Resistance + Cardio</div>
         <div class="card-value">{sum(resistance)}</div>
         <div class="card-sub">total days across all years</div>
       </div>
       <div class="card cardio">
-        <div class="card-label">Cardio Only</div>
+        <div class="card-label">Cardio</div>
         <div class="card-value">{sum(cardio)}</div>
         <div class="card-sub">total days across all years</div>
       </div>
@@ -278,8 +294,9 @@ def build_html(data):
         <thead>
           <tr>
             <th>Year</th>
+            <th class="num"><span class="dot dot-ro"></span>Resistance</th>
             <th class="num"><span class="dot dot-r"></span>Resistance + Cardio</th>
-            <th class="num"><span class="dot dot-c"></span>Cardio Only</th>
+            <th class="num"><span class="dot dot-c"></span>Cardio</th>
             <th class="num"><span class="dot dot-m"></span>Missed / Rest</th>
             <th class="num">Total</th>
             <th class="num"><span class="dot dot-s"></span>Total Sets</th>
@@ -299,6 +316,13 @@ def build_html(data):
         labels: {json.dumps(years)},
         datasets: [
           {{
+            label: 'Resistance',
+            data: {json.dumps(resistance_only)},
+            backgroundColor: '#818cf8',
+            borderRadius: 4,
+            borderSkipped: false,
+          }},
+          {{
             label: 'Resistance + Cardio',
             data: {json.dumps(resistance)},
             backgroundColor: '#3b82f6',
@@ -306,7 +330,7 @@ def build_html(data):
             borderSkipped: false,
           }},
           {{
-            label: 'Cardio Only',
+            label: 'Cardio',
             data: {json.dumps(cardio)},
             backgroundColor: '#10b981',
             borderRadius: 4,
