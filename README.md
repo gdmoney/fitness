@@ -6,6 +6,13 @@
 
 *****
 
+2026.03.13 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10,8 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2  
+2026.03.12 ***`Cardio`*** **run:** 1m  
+2026.03.11 ***`Cardio`*** **run:** 1m  
+2026.03.10 ***`Cardio`*** **run:** 1m  
+2026.03.09 ***`      `***   
+**Mon** - rest day. **Tue** - didn't feel great. **Wed** - felt better. **Thur** - felt normal and had a good run. **Fri** - good workout; bench felt strong; first time doing DB OHP in 3 months; it felt heavier than normal. **Sat** - 
+
 2026.03.08 ***`      `***   
 2026.03.07 ***`Cardio`*** **elpt:** 15 min  
 2026.03.06 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
