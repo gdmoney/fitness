@@ -6,12 +6,17 @@
 
 *****
 
+2026.03.16 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
+**Mon** - 
+
+2026.03.15 ***`Cardio`*** **run:** 2m  
+2026.03.14 ***`Cardio`*** **run:** 2m  
 2026.03.13 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10,8 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2  
 2026.03.12 ***`Cardio`*** **run:** 1m  
 2026.03.11 ***`Cardio`*** **run:** 1m  
 2026.03.10 ***`Cardio`*** **run:** 1m  
 2026.03.09 ***`      `***   
-**Mon** - rest day. **Tue** - didn't feel great. **Wed** - felt better. **Thur** - felt normal and had a good run. **Fri** - good workout; bench felt strong; first time doing DB OHP in 3 months; it felt heavier than normal. **Sat** - 
+**Mon** - rest day. **Tue** - didn't feel great. **Wed** - felt better. **Thur** - felt normal and had a good run. **Fri** - good workout; bench felt strong; first time doing DB OHP in 3 months; it felt heavier than normal. **Sat** - good run. **Sun** - good run. **Recap** - poor week. Total number of sets: 10.
 
 2026.03.08 ***`      `***   
 2026.03.07 ***`Cardio`*** **elpt:** 15 min  
