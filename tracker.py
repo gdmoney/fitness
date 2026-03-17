@@ -7,6 +7,7 @@ Then open http://localhost:8765 in your browser.
 
 import re
 import json
+from datetime import datetime
 import http.server
 import socketserver
 import webbrowser
@@ -71,23 +72,25 @@ def build_html(data):
     cardio           = [data[y]["cardio"]           for y in years]
     missed           = [data[y]["missed"]           for y in years]
     sets             = [data[y]["sets"]             for y in years]
-    totals           = [resistance[i] + resistance_only[i] + cardio[i] + missed[i] for i in range(len(years))]
+
 
     sets_years = [y for y in years if data[y]["sets"] is not None]
     sets_vals  = [data[y]["sets"] for y in sets_years]
 
+    current_year = datetime.now().year
     rows = ""
     for y in reversed(years):
         i = years.index(y)
         sets_cell = f'<td class="num sets">{sets[i]:,}</td>' if sets[i] is not None else '<td class="num dim">—</td>'
+        row_class = ' class="current-year"' if y == current_year else ''
         rows += f"""
-        <tr>
-          <td>{y}</td>
-          <td class="num">{resistance_only[i]}</td>
+        <tr{row_class}>
+          <td class="num">{y}</td>
           <td class="num">{resistance[i]}</td>
+          <td class="num">{resistance_only[i]}</td>
           <td class="num">{cardio[i]}</td>
           <td class="num">{missed[i]}</td>
-          <td class="num total">{totals[i]}</td>
+
           {sets_cell}
         </tr>"""
 
@@ -131,7 +134,7 @@ def build_html(data):
     /* Summary cards */
     .cards {{
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(5, 1fr);
       gap: 16px;
       margin-bottom: 40px;
     }}
@@ -167,6 +170,7 @@ def build_html(data):
     .card.resistance-only .card-value {{ color: #818cf8; }}
     .card.cardio          .card-value {{ color: #34d399; }}
     .card.missed          .card-value {{ color: #f87171; }}
+    .card.sets            .card-value {{ color: #fb923c; }}
 
     /* Chart */
     .section {{
@@ -225,7 +229,8 @@ def build_html(data):
     }}
 
     td.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
-    td.total {{ color: #f8fafc; font-weight: 600; }}
+    tr.current-year td {{ background: #252a3a; }}
+
 
     .dot {{
       display: inline-block;
@@ -256,28 +261,33 @@ def build_html(data):
 <body>
   <div class="container">
     <h1>Fitness Tracker</h1>
-    <p class="subtitle">Yearly workout totals</p>
+    <p class="subtitle">Yearly workout totals · {years[0]}–{years[-1]}</p>
 
     <div class="cards">
-      <div class="card resistance-only">
-        <div class="card-label">Resistance</div>
-        <div class="card-value">{sum(resistance_only)}</div>
-        <div class="card-sub">total days across all years</div>
-      </div>
       <div class="card resistance">
         <div class="card-label">Resistance + Cardio</div>
-        <div class="card-value">{sum(resistance)}</div>
-        <div class="card-sub">total days across all years</div>
+        <div class="card-value">{sum(resistance):,}</div>
+        <div class="card-sub">total workouts across all years</div>
+      </div>
+      <div class="card resistance-only">
+        <div class="card-label">Resistance Only</div>
+        <div class="card-value">{sum(resistance_only):,}</div>
+        <div class="card-sub">total workouts across all years</div>
       </div>
       <div class="card cardio">
-        <div class="card-label">Cardio</div>
-        <div class="card-value">{sum(cardio)}</div>
-        <div class="card-sub">total days across all years</div>
+        <div class="card-label">Cardio Only</div>
+        <div class="card-value">{sum(cardio):,}</div>
+        <div class="card-sub">total workouts across all years</div>
       </div>
       <div class="card missed">
         <div class="card-label">Missed / Rest</div>
-        <div class="card-value">{sum(missed)}</div>
-        <div class="card-sub">total days across all years</div>
+        <div class="card-value">{sum(missed):,}</div>
+        <div class="card-sub">total workouts across all years</div>
+      </div>
+      <div class="card sets">
+        <div class="card-label">Total Sets</div>
+        <div class="card-value">{sum(s for s in sets if s is not None):,}</div>
+        <div class="card-sub">total sets across all years</div>
       </div>
     </div>
 
@@ -289,16 +299,23 @@ def build_html(data):
     </div>
 
     <div class="section">
+      <div class="section-title">Sets per Year</div>
+      <div class="chart-wrap">
+        <canvas id="sets-chart"></canvas>
+      </div>
+    </div>
+
+    <div class="section">
       <div class="section-title">Yearly Breakdown</div>
       <table>
         <thead>
           <tr>
             <th>Year</th>
-            <th class="num"><span class="dot dot-ro"></span>Resistance</th>
             <th class="num"><span class="dot dot-r"></span>Resistance + Cardio</th>
-            <th class="num"><span class="dot dot-c"></span>Cardio</th>
+            <th class="num"><span class="dot dot-ro"></span>Resistance Only</th>
+            <th class="num"><span class="dot dot-c"></span>Cardio Only</th>
             <th class="num"><span class="dot dot-m"></span>Missed / Rest</th>
-            <th class="num">Total</th>
+
             <th class="num"><span class="dot dot-s"></span>Total Sets</th>
           </tr>
         </thead>
@@ -316,13 +333,6 @@ def build_html(data):
         labels: {json.dumps(years)},
         datasets: [
           {{
-            label: 'Resistance',
-            data: {json.dumps(resistance_only)},
-            backgroundColor: '#818cf8',
-            borderRadius: 4,
-            borderSkipped: false,
-          }},
-          {{
             label: 'Resistance + Cardio',
             data: {json.dumps(resistance)},
             backgroundColor: '#3b82f6',
@@ -330,7 +340,14 @@ def build_html(data):
             borderSkipped: false,
           }},
           {{
-            label: 'Cardio',
+            label: 'Resistance Only',
+            data: {json.dumps(resistance_only)},
+            backgroundColor: '#818cf8',
+            borderRadius: 4,
+            borderSkipped: false,
+          }},
+          {{
+            label: 'Cardio Only',
             data: {json.dumps(cardio)},
             backgroundColor: '#10b981',
             borderRadius: 4,
@@ -376,8 +393,66 @@ def build_html(data):
           }},
           y: {{
             stacked: true,
+            max: 366,
             grid: {{ color: '#1a1f2e' }},
             ticks: {{ color: '#64748b' }}
+          }}
+        }}
+      }}
+    }});
+
+    const setsCtx = document.getElementById('sets-chart').getContext('2d');
+    new Chart(setsCtx, {{
+      type: 'bar',
+      data: {{
+        labels: {json.dumps(sets_years)},
+        datasets: [
+          {{
+            label: 'Total Sets',
+            data: {json.dumps(sets_vals)},
+            backgroundColor: '#fb923c',
+            borderRadius: 4,
+            borderSkipped: false,
+          }},
+        ]
+      }},
+      options: {{
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {{
+          legend: {{
+            position: 'top',
+            labels: {{
+              color: '#94a3b8',
+              font: {{ size: 12 }},
+              boxWidth: 12,
+              boxHeight: 12,
+              borderRadius: 3,
+            }}
+          }},
+          tooltip: {{
+            backgroundColor: '#1e2130',
+            borderColor: '#2d3348',
+            borderWidth: 1,
+            titleColor: '#f8fafc',
+            bodyColor: '#94a3b8',
+            padding: 12,
+            callbacks: {{
+              label: (ctx) => ` ${{ctx.parsed.y.toLocaleString()}} sets`,
+            }}
+          }}
+        }},
+        scales: {{
+          x: {{
+            grid: {{ color: '#1a1f2e' }},
+            ticks: {{ color: '#64748b' }}
+          }},
+          y: {{
+            grid: {{ color: '#1a1f2e' }},
+            ticks: {{
+              color: '#64748b',
+              callback: (v) => v.toLocaleString(),
+            }}
           }}
         }}
       }}
