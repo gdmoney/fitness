@@ -6,8 +6,8 @@
 
 *****
 
-2026.03.16 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
-**Mon** - 
+2026.03.16 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 185x12x4 • **dips-wtd:** 25x10x2  
+**Mon** - good workout; OHP felt strong; lowered the weight on the pulldown to focus on lat engagement. **Tue** - 
 
 2026.03.15 ***`Cardio`*** **run:** 2m  
 2026.03.14 ***`Cardio`*** **run:** 2m  
