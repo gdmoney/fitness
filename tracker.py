@@ -326,9 +326,18 @@ def build_html(data):
   </div>
 
   <script>
+    const legendSpacingPlugin = {{
+      id: 'legendSpacing',
+      beforeInit(chart) {{
+        const fit = chart.legend.fit.bind(chart.legend);
+        chart.legend.fit = function() {{ fit(); this.height += 28; }};
+      }}
+    }};
+
     const ctx = document.getElementById('chart').getContext('2d');
     new Chart(ctx, {{
       type: 'bar',
+      plugins: [legendSpacingPlugin],
       data: {{
         labels: {json.dumps(years)},
         datasets: [
@@ -404,6 +413,7 @@ def build_html(data):
     const setsCtx = document.getElementById('sets-chart').getContext('2d');
     new Chart(setsCtx, {{
       type: 'bar',
+      plugins: [legendSpacingPlugin],
       data: {{
         labels: {json.dumps(sets_years)},
         datasets: [
