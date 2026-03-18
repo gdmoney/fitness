@@ -2,7 +2,7 @@
 
 
 *****
-**[Goals](/goals.md) • [Progress](/progress.md) • [Training Plan](/training-plan.md) • [2025](#2025) • [2024](#2024) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
+**[Stats](/fitness/stats.html) • [Goals](/goals.md) • [Progress](/progress.md) • [Training Plan](/training-plan.md) • [2025](#2025) • [2024](#2024) • [2023](#2023) • [2022](#2022) • [2021](#2021) • [2020](#2020)**  
 
 *****
 
