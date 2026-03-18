@@ -29,11 +29,24 @@ jobs:
       - name: Generate stats.html
         run: python tracker.py --export
 
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Install Jekyll
+        run: gem install bundler jekyll
+
       - uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: jekyll build --source . --destination ./_site
+
+      - name: Copy stats.html into Jekyll output
+        run: cp stats.html ./_site/stats.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ./_site
 
       - name: Deploy to GitHub Pages
         id: deployment
