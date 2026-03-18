@@ -293,7 +293,7 @@ def build_html(data):
     </div>
 
     <div class="section">
-      <div class="section-title">Days per Year</div>
+      <div class="section-title">Workouts per Year</div>
       <div class="chart-wrap">
         <canvas id="chart"></canvas>
       </div>
