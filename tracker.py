@@ -6,6 +6,7 @@ Then open http://localhost:8765 in your browser.
 """
 
 import re
+import sys
 import json
 from datetime import datetime
 import http.server
@@ -497,12 +498,17 @@ def open_browser():
 
 
 if __name__ == "__main__":
-    threading.Thread(target=open_browser, daemon=True).start()
-    print(f"Fitness Tracker running at http://localhost:{PORT}")
-    print("Press Ctrl+C to stop.")
-    with socketserver.TCPServer(("", PORT), Handler) as httpd:
-        httpd.allow_reuse_address = True
-        try:
-            httpd.serve_forever()
-        except KeyboardInterrupt:
-            print("\nStopped.")
+    if "--export" in sys.argv:
+        output = Path(__file__).parent / "stats.html"
+        output.write_text(build_html(parse_readme()), encoding="utf-8")
+        print(f"Exported to {output}")
+    else:
+        threading.Thread(target=open_browser, daemon=True).start()
+        print(f"Fitness Tracker running at http://localhost:{PORT}")
+        print("Press Ctrl+C to stop.")
+        with socketserver.TCPServer(("", PORT), Handler) as httpd:
+            httpd.allow_reuse_address = True
+            try:
+                httpd.serve_forever()
+            except KeyboardInterrupt:
+                print("\nStopped.")
