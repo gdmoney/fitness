@@ -6,7 +6,7 @@
 
 *****
 
-2026.03.19 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
+2026.03.19 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2026.03.18 ***`Cardio`*** **run:** 1m  
 2026.03.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.03.16 ***`Upper `*** **run:** 1m • **BB OH press:** 175x8x2, 155x10x2, 135x15x2 • **lat pulldown:** 185x12x4 • **dips-wtd:** 25x10x2  
