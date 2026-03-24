@@ -6,6 +6,10 @@
 
 *****
 
+2026.03.24 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10x2 • **DB OHP:** 70x10x4  
+2026.03.23 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout; bench felt strong; OHP also felt stronger than last week. **Wed** - 
+
 2026.03.22 ***`Cardio`*** **run:** 1m  
 2026.03.21 ***`Cardio`*** **run:** 1m  
 2026.03.20 ***`Upper `*** **run:** 1m • **skull crushers:** 90x15x4 • **BB curl-rvs:** 80x12x4 • **upright row:** 90x15x4  

@@ -5,7 +5,7 @@
 
 | Period           | SSB Squat        | BB Bench Press       | DB Bench Press   | BB OH Press          | DB OH Press-sngl    | Pullups            |
 | :--------------- | :--------------: | :------------------: | :--------------: | :------------------: | :-----------------: | :----------------: |
-| Jan - Feb - Mar  |   160x10x8       |   245x06x4           |    90x10x4       | **175x08x4**         |                     |      12x4          |
+| Jan - Feb - Mar  |   160x10x8       |   245x08x2           |    90x10x4       |   175x08x4           |                     |      12x4          |
 | Apr - May - Jun  |                  |                      |                  |                      |                     |                    |
 | Jul - Aug - Sep  |                  |                      |                  |                      |                     |                    |
 | Oct - Nov - Dec  |                  |                      |                  |                      |                     |                    |
@@ -65,10 +65,10 @@ Q4
 
 | Period           | SSB Squat        | BB Bench Press   | DB Bench Press   | BB OH Press      | DB OH Press-sngl | Pullups          |
 | :--------------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
-| Jan - Feb - Mar  |   215x08x4       |                  |                  |   165x08x4       |   80x12x4 (R&L)  |   10x5           |
+| Jan - Feb - Mar  |   215x08x4       |                  |                  |   165x08x4       |   80x12x4        |   10x5           |
 | Apr - May - Jun  |   220x07x4       |   195x08x4       |                  |   155x08x4       |   90x07x4 (R)    |   12x5           |
 | Jul - Aug - Sep  |   230x07x4       |   145x10x4       |                  |   105x10x4       |   70x10x4 (R)    |   10x5           |
-| Oct - Nov - Dec  |   220x08x4       |   205x10x4       |    70x15x4       |   145x10x4       |   70x10x4 (R&L)  |   10x5           |
+| Oct - Nov - Dec  |   220x08x4       |   205x10x4       |    70x15x4       |   145x10x4       |   70x10x4        |   10x5           |
 
 *****
 
@@ -79,7 +79,7 @@ Q4
 | Jan - Feb - Mar |              |              |              |              |   70x8             | 80x6                |
 | Apr - May - Jun |              |              |              |   150x10     |   75x8             | 80x7                |
 | Jul - Aug - Sep |              |              |              |   155x7      |   70x10            | 80x7                |
-| Oct - Nov - Dec |              |              |              | **200**      |   75x8             | 80x10(R&L), 90x6(R) |
+| Oct - Nov - Dec |              |              |              | **200**      |   75x8             | 80x10, 90x6(R)      |
 
 *****
 
