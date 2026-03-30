@@ -6,13 +6,14 @@
 
 *****
 
+2026.03.29 ***`Cardio`*** **run:** 1m  
 2026.03.28 ***`Upper `*** **run:** 1m • **bench press:** 100x12x4 • **DB row-sngl:** 90x15x4  
 2026.03.27 ***`Cardio`*** **run:** 1m  
 2026.03.26 ***`Cardio`*** **run:** 1m  
 2026.03.25 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.03.24 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10x2 • **DB OHP:** 70x10x4  
 2026.03.23 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout; bench felt strong; OHP also felt stronger than last week. **Wed** - good workout. **Thur** - good run. **Fri** - good run. **Sat** - good workout; bench felt strong. **Sun** - 
+**Mon** - good run. **Tue** - good workout; bench felt strong; OHP also felt stronger than last week. **Wed** - good workout. **Thur** - good run. **Fri** - good run. **Sat** - good workout; bench felt strong. **Sun** - good run. **Recap** - mediocre week. Total number of sets: 28.
 
 2026.03.22 ***`Cardio`*** **run:** 1m  
 2026.03.21 ***`Cardio`*** **run:** 1m  
