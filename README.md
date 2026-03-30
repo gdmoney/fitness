@@ -6,6 +6,9 @@
 
 *****
 
+2026.03.30 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2, 160x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
+**Mon** - great workout; everything felt strong. **Tue** - 
+
 2026.03.29 ***`Cardio`*** **run:** 1m  
 2026.03.28 ***`Upper `*** **run:** 1m • **bench press:** 100x12x4 • **DB row-sngl:** 90x15x4  
 2026.03.27 ***`Cardio`*** **run:** 1m  
