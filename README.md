@@ -6,14 +6,20 @@
 
 *****
 
+2026.04.06 ***`Cardio`*** **run:** 1m  
+**Mon** - good run but still feeling under the weather. **Tue** - 
+
+2026.04.05 ***`Cardio`*** **run:** 1m  
+2026.04.04 ***`      `***   
+2026.04.03 ***`Cardio`*** **run:** 1m  
 2026.04.02 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x4 • **leg curl:** 15x4  
 2026.04.01 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2026.03.31 ***`Cardio`*** **run:** 1m  
 2026.03.30 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2, 160x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
-**Mon** - great workout; everything felt strong. **Tue** - good run. **Wed** - good workout; pullups felt strong. **Thur** - good workout. **Fri** - 
+**Mon** - great workout; everything felt strong. **Tue** - good run. **Wed** - good workout; pullups felt strong. **Thur** - good workout. **Fri** - **Sat** - rest/sick day. **Sun** - felt better but still under the weather. **Recap** - decent week hampered by a mild illness. Total number of sets: 40. March missed workouts: 2.
 
 2026.03.29 ***`Cardio`*** **run:** 1m  
-2026.03.28 ***`Upper `*** **run:** 1m • **bench press:** 100x12x4 • **DB row-sngl:** 90x15x4  
+2026.03.28 ***`Upper `*** **run:** 1m • **DB bench press:** 100x12x4 • **DB row-sngl:** 90x15x4  
 2026.03.27 ***`Cardio`*** **run:** 1m  
 2026.03.26 ***`Cardio`*** **run:** 1m  
 2026.03.25 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
