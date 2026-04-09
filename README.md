@@ -6,8 +6,11 @@
 
 *****
 
+2026.04.09 ***`Cardio`*** **elpt:** 15 min  
+2026.04.08 ***`Cardio`*** **run:** 1m  
+2026.04.07 ***`Cardio`*** **run:** 1m  
 2026.04.06 ***`Cardio`*** **run:** 1m  
-**Mon** - good run but still feeling under the weather. **Tue** - 
+**Mon** - good run but still feeling under the weather. **Tue** - still  under the weather. **Wed** - back to work but still under the weather. **Thur** - good elliptical session but still under the weather. **Fri** - 
 
 2026.04.05 ***`Cardio`*** **run:** 1m  
 2026.04.04 ***`      `***   
