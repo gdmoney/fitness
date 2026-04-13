@@ -6,6 +6,9 @@
 
 *****
 
+2026.04.13 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **skull crushers:** 90x12x4 • **BB curl-rvs:** 80x12x3 • **upright row:** 90x12x3  
+**Mon** - good workout getting back into it but still feeling under the weather; dips felt strong. **Tue** - 
+
 2026.04.12 ***`Cardio`*** **run:** 2m  
 2026.04.11 ***`Cardio`*** **elpt:** 15 min  
 2026.04.10 ***`Cardio`*** **run:** 1m  
