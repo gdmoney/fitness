@@ -6,11 +6,14 @@
 
 *****
 
+2026.04.12 ***`Cardio`*** **run:** 2m  
+2026.04.11 ***`Cardio`*** **elpt:** 15 min  
+2026.04.10 ***`Cardio`*** **run:** 1m  
 2026.04.09 ***`Cardio`*** **elpt:** 15 min  
 2026.04.08 ***`Cardio`*** **run:** 1m  
 2026.04.07 ***`Cardio`*** **run:** 1m  
 2026.04.06 ***`Cardio`*** **run:** 1m  
-**Mon** - good run but still feeling under the weather. **Tue** - still  under the weather. **Wed** - back to work but still under the weather. **Thur** - good elliptical session but still under the weather. **Fri** - 
+**Mon** - good run but still feeling under the weather. **Tue** - still  under the weather. **Wed** - back to work but still under the weather. **Thur** - good elliptical session but still under the weather. **Fri** - good run. **Sat** - good elliptical session. **Sun** - good run. **Recap** - poor week hampered by illness but on the positive note I still didn't miss a single day. Total number of sets: 0.
 
 2026.04.05 ***`Cardio`*** **run:** 1m  
 2026.04.04 ***`      `***   
