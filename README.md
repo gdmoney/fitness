@@ -6,10 +6,11 @@
 
 *****
 
+2026.04.16 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 170x8x2, 150x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2026.04.15 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.04.14 ***`Cardio`*** **run:** 1m  
 2026.04.13 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **skull crushers:** 90x12x4 • **BB curl-rvs:** 80x12x3 • **upright row:** 90x12x3  
-**Mon** - good workout getting back into it but still feeling under the weather; dips felt strong. **Tue** - good run. **Wed** - good workout; feeling almost back to normal. **Thur** - 
+**Mon** - good workout getting back into it but still feeling under the weather; dips felt strong. **Tue** - good run. **Wed** - good workout; feeling almost back to normal. **Thur** - good workout; OHP felt a bit heavier than before put still strong; pulldown felt strong. **Fri** - 
 
 2026.04.12 ***`Cardio`*** **run:** 2m  
 2026.04.11 ***`Cardio`*** **elpt:** 15 min  
