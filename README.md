@@ -6,6 +6,11 @@
 
 *****
 
+2026.04.26 ***`Cardio`*** **elpt:** 15 min  
+2026.04.25 ***`Cardio`*** **elpt:** 15 min  
+
+
+
 2026.04.21 ***`Upper `*** **run:** 1m • **bench press:** 245x9,8,5,5 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2  
 2026.04.20 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout; wanted to test my strength on bench so I went AMRAP with 245 and I got 9 which is only 1 shy of my PR; start doing DB OHP more frequently. **Wed** - 
