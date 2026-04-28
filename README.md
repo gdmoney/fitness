@@ -6,6 +6,10 @@
 
 *****
 
+2026.04.28 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
+2026.04.27 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good workout despite not feeling my strongest; OHP felt a bit heavy, especially on the last set; bench press felt surprisingly strong. **Wed** - 
+
 2026.04.26 ***`Cardio`*** **elpt:** 15 min  
 2026.04.25 ***`Cardio`*** **elpt:** 15 min  
 
