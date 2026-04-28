@@ -12,12 +12,12 @@
 
 2026.04.26 ***`Cardio`*** **elpt:** 15 min  
 2026.04.25 ***`Cardio`*** **elpt:** 15 min  
-
-
-
+2026.04.24 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4  
+2026.04.23 ***`Lower `*** **elpt:** 15 min • **SSB squat:** 180x8x4  
+2026.04.22 ***`Cardio`*** **run:** 1m  
 2026.04.21 ***`Upper `*** **run:** 1m • **bench press:** 245x9,8,5,5 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2  
 2026.04.20 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout; wanted to test my strength on bench so I went AMRAP with 245 and I got 9 which is only 1 shy of my PR; start doing DB OHP more frequently. **Wed** - 
+**Mon** - good run. **Tue** - good workout; wanted to test my strength on bench so I went AMRAP with 245 and I got 9 which is only 1 shy of my PR; start doing DB OHP more frequently. **Wed** - good run. **Thur** - squat felt strong; I really need to start squatting more frequently. **Fri** - pullups felt strong. **Sat** - good elliptical session. **Sun** - good elliptical session. **Recap** - poor week. Total number of sets: 18.
 
 2026.04.19 ***`Cardio`*** **elpt:** 15 min  
 2026.04.18 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
