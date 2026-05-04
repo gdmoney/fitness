@@ -6,13 +6,17 @@
 
 *****
 
-2026.05.02 ***`Lower `*** **elpt:** 15 min • **SSB squat:** 180x8x4  
+2026.05.04 ***`Cardio`*** **run:** 1m  
+**Mon** - good run but lower body is still sore. **Tue** - 
+
+2026.05.03 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **DB row-sngl:** 90x15x4  
+2026.05.02 ***`Lower `*** **run:** 1m • **SSB squat:** 180x8x8  
 2026.05.01 ***`Cardio`*** **run:** 1m  
 2026.04.30 ***`Cardio`*** **run:** 1m  
 2026.04.29 ***`Cardio`*** **run:** 1m  
 2026.04.28 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x3,8 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2026.04.27 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout despite not feeling my strongest; OHP felt a bit heavy, especially on the last set; bench press felt surprisingly strong. **Wed** - good run. **Thur** - good run. **Fri** - good run. **Sat** - good workout; go up on weight next week. **Sun** - 
+**Mon** - good run. **Tue** - good workout despite not feeling my strongest; OHP felt a bit heavy, especially on the last set; bench press felt surprisingly strong. **Wed** - good run. **Thur** - good run. **Fri** - good run. **Sat** - good workout; go up on weight next week. **Sun** - bench felt heavy. **Recap** - mediocre week. Total number of sets: 26. April missed workouts: 1.
 
 2026.04.26 ***`Cardio`*** **elpt:** 15 min  
 2026.04.25 ***`Cardio`*** **elpt:** 15 min  
