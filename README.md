@@ -6,8 +6,10 @@
 
 *****
 
+2026.05.06 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
+2026.05.05 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **lat pulldown:** 200x12x4 • **DB OH Press:** 65x12x4  
 2026.05.04 ***`Cardio`*** **run:** 1m  
-**Mon** - good run but lower body is still sore. **Tue** - 
+**Mon** - good run but lower body is still sore. **Tue** - good workout; OHP felt strong. **Wed** - good workout. **Thur** - 
 
 2026.05.03 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **DB row-sngl:** 90x15x4  
 2026.05.02 ***`Lower `*** **run:** 1m • **SSB squat:** 180x8x8  
@@ -23,7 +25,7 @@
 2026.04.24 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4  
 2026.04.23 ***`Lower `*** **elpt:** 15 min • **SSB squat:** 180x8x4  
 2026.04.22 ***`Cardio`*** **run:** 1m  
-2026.04.21 ***`Upper `*** **run:** 1m • **bench press:** 245x9,8,5,5 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2  
+2026.04.21 ***`Upper `*** **run:** 1m • **bench press:** 245x9,8,5,5 • **DB row-sngl:** 90x15x4 • **DB OH Press:** 70x10x2  
 2026.04.20 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout; wanted to test my strength on bench so I went AMRAP with 245 and I got 9 which is only 1 shy of my PR; start doing DB OHP more frequently. **Wed** - good run. **Thur** - squat felt strong; I really need to start squatting more frequently. **Fri** - pullups felt strong. **Sat** - good elliptical session. **Sun** - good elliptical session. **Recap** - poor week. Total number of sets: 18.
 
@@ -59,7 +61,7 @@
 2026.03.27 ***`Cardio`*** **run:** 1m  
 2026.03.26 ***`Cardio`*** **run:** 1m  
 2026.03.25 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
-2026.03.24 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10x2 • **DB OHP:** 70x10x4  
+2026.03.24 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10x2 • **DB OH Press:** 70x10x4  
 2026.03.23 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout; bench felt strong; OHP also felt stronger than last week. **Wed** - good workout. **Thur** - good run. **Fri** - good run. **Sat** - good workout; bench felt strong. **Sun** - good run. **Recap** - mediocre week. Total number of sets: 28.
 
@@ -74,7 +76,7 @@
 
 2026.03.15 ***`Cardio`*** **run:** 2m  
 2026.03.14 ***`Cardio`*** **run:** 2m  
-2026.03.13 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10,8 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2  
+2026.03.13 ***`Upper `*** **run:** 1m • **bench press:** 245x8x2, 225x10,8 • **DB row-sngl:** 90x15x4 • **DB OH Press:** 70x10x2  
 2026.03.12 ***`Cardio`*** **run:** 1m  
 2026.03.11 ***`Cardio`*** **run:** 1m  
 2026.03.10 ***`Cardio`*** **run:** 1m  
@@ -261,7 +263,7 @@
 2025.10.24 ***`Cardio`*** **elpt:** 10 min  
 2025.10.23 ***`Cardio`*** **elpt:** 10 min  
 2025.10.22 ***`Cardio`*** **run:** 1m  
-2025.10.21 ***`Upper `*** **run:** 1m • **bench press:** 275x3x2, 255x6x2 • **DB row-sngl:** 100x15x4 • **DB OHP**: 70x10x2  
+2025.10.21 ***`Upper `*** **run:** 1m • **bench press:** 275x3x2, 255x6x2 • **DB row-sngl:** 100x15x4 • **DB OH Press**: 70x10x2  
 2025.10.20 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout; bench felt stronger than last week. **Wed** - good run. **Thur/Fri/Sat/Sun** - good cardio workouts at the Aria gym. **Recap** - poor week hampered by travel but at least I managed to get good cardio in. Total number of sets: 10.
 
@@ -373,7 +375,7 @@
 2025.07.28 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
 **Mon** - good workout. **Tue** - good workout; press was moderate/heavy. **Wed** - good run. **Thur** - good workout; felt strong. **Fri** - good workout; curl and row were too light. **Sat** - good workout; bench felt stronger than last week. **Sun** - good workout. **Recap** - good week. Total number of sets: 60. July missed workouts: 1.
 
-2025.07.27 ***`Upper `*** **run:** 1m • **bench press:** 265x5,5,4,4 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x12x4  
+2025.07.27 ***`Upper `*** **run:** 1m • **bench press:** 265x5,5,4,4 • **DB row-sngl:** 100x15x4 • **DB OH Press:** 70x12x4  
 2025.07.26 ***`Cardio`*** **swim:** 1000y  
 2025.07.25 ***`Cardio`*** **run:** 1m  
 2025.07.24 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **dips-astd:** 10x4  
@@ -391,7 +393,7 @@
 2025.07.14 ***`Lower `*** **run:** 1m • **leg press:** 300x12x3 • **DB lunge:** 65x12x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
 **Mon** - good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - one more good workout at the Terranea gym. **Thur** - good swim. **Fri** - good run. **Sat** - decent workout despite not feeling my strongest in the morning; bench was moderate/heavy; slight shoulder ache afterwards but went away the next day; OHP felt strong. **Sun** - good arm workout with Charles at the Casa gym. **Recap** - good week with 5 solid workouts. Total number of sets: 74.
 
-2025.07.13 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x4  
+2025.07.13 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **DB row-sngl:** 90x15x4 • **DB OH Press:** 70x10x4  
 2025.07.12 ***`Cardio`*** **swim:** 1000y  
 2025.07.11 ***`Cardio`*** **run:** 1m  
 2025.07.10 ***`Cardio`*** **run:** 1m  
@@ -409,7 +411,7 @@
 2025.06.30 ***`Upper `*** **ab wheel:** 25x4 • **skull crushers:** 95x15x4 • **BB curl-rvs:** 95x10x4 • **upright row:** 95x12x4  
 **Mon** - good workout. **Tue** - good run. **Wed** - good workout. **Thur** - felt like crap. **Fri** - stomach didn't feel right for the second day in a row and decided to take a rest day. **Sat** - still didn't feel good; bench felt heavy. **Sun** - feeling better. **Recap** - poor week. Total number of sets: 40.
 
-2025.06.29 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,6 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
+2025.06.29 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,6 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x2 • **DB OH Press:** 70x10x2  
 2025.06.28 ***`Cardio`*** **run:** 1m  
 2025.06.27 ***`Cardio`*** **swim:** 1000y  
 2025.06.26 ***`Cardio`*** **swim:** 1000y  
@@ -428,7 +430,7 @@
 **Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good swim at Ned Baumer. **Sat** - travel day. **Sun** - good run at the New York hotel gym. **Recap** - decent cardio only week but not great overall.
 
 2025.06.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 230x12x4 • **DB lunge:** 70x10x4  
-2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **upright row:** 95x12x4  
+2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OH Press:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **upright row:** 95x12x4  
 2025.06.13 ***`Cardio`*** **swim:** 500y  
 2025.06.12 ***`Cardio`*** **run:** 1m  
 2025.06.11 ***`Cardio`*** **run:** 1m  
@@ -445,7 +447,7 @@
 2025.06.02 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout. **Wed** - good run. **Thur** - good workout; press was moderate/heavy; bench was moderate until the last few reps. **Fri** - good run. **Sat** - good workout. **Sun** - good run. **Recap** - OK week. Total number of sets: 40.
 
-2025.06.01 ***`Upper `*** **run:** 1m • **bench press:** 245x8x4 • **farmer's walk:** 260x1minx4 • **DB OHP-sngl:** 80x10x2 • **DB OHP:** 70x10x2  
+2025.06.01 ***`Upper `*** **run:** 1m • **bench press:** 245x8x4 • **farmer's walk:** 260x1minx4 • **DB OHP-sngl:** 80x10x2 • **DB OH Press:** 70x10x2  
 2025.05.31 ***`Upper `*** **run:** 1m • **pullups:** 12x4 • **cable x-over:** 50x15x4 • **tri pushdown:** 20x4  
 2025.05.30 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x4  
 2025.05.29 ***`Upper `*** **run:** 1m • **BB OH press:** 175x6x4 • **lat pulldown:** 200x10x4  
@@ -499,7 +501,7 @@
 2025.04.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2  
 **Mon** - good workout; go up on back extension. **Tue** - good run. **Wed** - good workout after work; felt pretty strong despite feeling tired. **Thur** - good workout; shoulder press felt strong. **Fri** - good run on a travel day. **Sat** - good workout at the Seattle hotel gym. **Sun** - another good workout at the hotel gym. **Recap** - good week, travel notwithstanding. Total number of sets: 46.
 
-2025.04.20 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **DB row-sngl:** 100x15x4 • **DB OHP:** 70x10x2  
+2025.04.20 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **DB row-sngl:** 100x15x4 • **DB OH Press:** 70x10x2  
 2025.04.19 ***`Cardio`*** **run:** 1m  
 2025.04.18 ***`Cardio`*** **run:** 1m  
 2025.04.17 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x4 • **lat pulldown:** 175x12x4 • **DB bench press:** 75x20,20,18,16  
@@ -890,7 +892,7 @@
 2024.06.24 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 **Mon** - good cardio session to start the AMRAP week. **Tue** - good outdoor run. **Wed** - another good outdoor run. **Thur** - rest. **Fri** - felt pretty strong in the morning; I'm happy with 14 on the bench; DB bench felt a bit off; I should be able to get a couple more reps soon; on squat got the same number of reps but it felt a bit stronger; go up in weight. **Sat** - light cardio. **Sun** - didn't feel great in the morning but I'll take the 8. **Recap** - solid AMRAP week with 3 PRs. Total number of sets: 8. June missed workouts: 3.
 
-2024.06.23 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x2 • **DB OHP-sngl:** 80x10x2  
+2024.06.23 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OH Press:** 70x10x2 • **DB OHP-sngl:** 80x10x2  
 2024.06.22 ***`Misc  `*** **run:** 1m • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x4 • **ab wheel:** 20x4  
 2024.06.21 ***`Upper `*** **run:** 1m • **pullups:** 25x8x3 • **cable x-over:** 15x3  
 2024.06.20 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x3 • **lat pulldown:** 12x3 • **machine row:** 15x3  
@@ -926,7 +928,7 @@
 2024.05.27 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4, 180x10x3 • **DB lunge:** 52x20x2 • **DB lunge-rvs:** 52x20x2  
 **Mon** - first time squatting in 2 months; it was moderate/heavy with good form. **Tue** - cable crunch felt good; add it to the program. **Wed** - OHP was heavy; only managed 9 reps on the last 2 sets; pull felt strong. **Thur** - was short on time; pullups felt strong. **Fri** - good workout; farmer's walk felt stronger than last week. **Sat** - good outdoor run. **Sun** - good elliptical session. **Recap** - mediocre week; only got 3 resistance days in. Total number of sets: 44. May missed workouts: 0.
 
-2024.05.26 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 70x10x4 • **farmer's walk:** 225x45sx3  
+2024.05.26 ***`Upper `*** **run:** 1m • **DB bench press:** 100x10x4 • **DB row-sngl:** 90x15x4 • **DB OH Press:** 70x10x4 • **farmer's walk:** 225x45sx3  
 2024.05.25 ***`Misc  `*** **elpt:** 20 min • **tri pushdown:** 25x4 • **str-arm pulldown:** 15x4 • **ab wheel:** 20x4  
 2024.05.24 ***`Upper `*** **run:** 0.75m • **pullups:** 50x5x4 • **cable x-over:** 15x3 • **machine row:** 250x15x3  
 2024.05.23 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 190x12x4  
