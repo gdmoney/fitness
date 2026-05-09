@@ -6,10 +6,14 @@
 
 *****
 
+2026.05.10 ***`      `***   
+2026.05.09 ***`      `***   
+2026.05.08 ***`      `***   
+2026.05.07 ***`Cardio`*** **run:** 1m  
 2026.05.06 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.05.05 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **lat pulldown:** 200x12x4 • **DB OH Press:** 65x12x4  
 2026.05.04 ***`Cardio`*** **run:** 1m  
-**Mon** - good run but lower body is still sore. **Tue** - good workout; OHP felt strong. **Wed** - good workout. **Thur** - 
+**Mon** - good run but lower body is still sore. **Tue** - good workout; OHP felt strong. **Wed** - good workout. **Thur** - good run on surgery day. **Fri/Sat/Sun** - post surgery rest/recovery. **Recap** - poor week hampered by surgery. Total number of sets: 24.
 
 2026.05.03 ***`Upper `*** **run:** 1m • **bench press:** 225x10x4 • **DB row-sngl:** 90x15x4  
 2026.05.02 ***`Lower `*** **run:** 1m • **SSB squat:** 180x8x8  
