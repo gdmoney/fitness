@@ -6,7 +6,7 @@
 
 *****
 
-2026.05.13 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 20x4 • **str arm pulldown:** 20x4  
+2026.05.13 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 20x4 • **str-arm pulldown:** 20x4  
 2026.05.12 ***`      `***   
 2026.05.11 ***`      `***   
 **Mon/Tue** - post surgery rest/recovery. **Wed** - good workout getting back into it.
@@ -259,7 +259,7 @@
 **Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workou; OHP felt a bit heavy but my form was good. **Fri** - good workout; pullups felt strong. **Sat** - got a great cardio workout at Luka's soccer family day. **Sun** - good run. **Recap** - poor week. Total number of sets: 18.
 
 2025.11.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x7x4 • **lat raise:** 15x4 • **front raise**: 15x4 • **rear raise:** 15x4  
-2025.11.01 ***`Upper `*** **run:** 1m • **pullups:** 45x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4  
+2025.11.01 ***`Upper `*** **run:** 1m • **pullups:** 45x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 25x4  
 2025.10.31 ***`Cardio`*** **run:** 1m • **ab wheel:** 25x4  
 2025.10.30 ***`Cardio`*** **elpt:** 10 min  
 2025.10.29 ***`Cardio`*** **elpt:** 10 min  
@@ -295,7 +295,7 @@
 **Mon** - rest day after the weekend's festivities in LB. **Tue** - first time squatting in several months; it felt good; start doing it more frequently. **Wed** - goood run but feeling a bit under the weather. **Thur** - good run. **Fri** - good workout; OHP felt strong. **Sat** - good run. **Sun** - good workout; bench was heavy. **Recap** - decent week. Total number of sets: 22.
 
 2025.10.05 ***`Cardio`*** **run:** 1m  
-2025.10.04 ***`Upper `*** **run:** 1m • **pullups:** 45x7x2, 25x8x2 • **tri pushdown:** 25x4 • **str arm pulldown:** 25x4 • **skull crushers:** 95x12x4 • **upright row:** 95x15x4  
+2025.10.04 ***`Upper `*** **run:** 1m • **pullups:** 45x7x2, 25x8x2 • **tri pushdown:** 25x4 • **str-arm pulldown:** 25x4 • **skull crushers:** 95x12x4 • **upright row:** 95x15x4  
 2025.10.03 ***`Full  `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **DB lunge:** 65x12x2 • **shoulder press-smith:** 170x8x2, 160x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2025.10.02 ***`Cardio`*** **run:** 1m  
 2025.10.01 ***`      `***   
