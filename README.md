@@ -6,6 +6,11 @@
 
 *****
 
+2026.05.13 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 20x4 • **str arm pulldown:** 20x4  
+2026.05.12 ***`      `***   
+2026.05.11 ***`      `***   
+**Mon/Tue** - post surgery rest/recovery. **Wed** - good workout getting back into it.
+
 2026.05.10 ***`      `***   
 2026.05.09 ***`      `***   
 2026.05.08 ***`      `***   
