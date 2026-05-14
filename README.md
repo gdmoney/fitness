@@ -6,10 +6,11 @@
 
 *****
 
+2026.05.14 ***`Upper `*** **run:** 1m • **skull crushers:** 90x12x4 • **upright row:** 90x12x4 • **BB curl-rvs:** 80x12x4  
 2026.05.13 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 20x4 • **str-arm pulldown:** 20x4  
 2026.05.12 ***`      `***   
 2026.05.11 ***`      `***   
-**Mon/Tue** - post surgery rest/recovery. **Wed** - good workout getting back into it.
+**Mon/Tue** - post surgery rest/recovery. **Wed** - good workout getting back into it. **Thur** - good workout; skull crushers and row felt moderate; curl felt heavier than usual. **Fri** - 
 
 2026.05.10 ***`      `***   
 2026.05.09 ***`      `***   
