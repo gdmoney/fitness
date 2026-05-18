@@ -6,11 +6,17 @@
 
 *****
 
+2026.05.18 ***`Upper `*** **run:** 1m • **pullups:** 10xn  
+**Mon** - 
+
+2026.05.17 ***`Cardio`*** **run:** 1m  
+2026.05.16 ***`Cardio`*** **run:** 1m  
+2026.05.15 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2026.05.14 ***`Upper `*** **run:** 1m • **skull crushers:** 90x12x4 • **upright row:** 90x12x4 • **BB curl-rvs:** 80x12x4  
 2026.05.13 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 20x4 • **str-arm pulldown:** 20x4  
 2026.05.12 ***`      `***   
 2026.05.11 ***`      `***   
-**Mon/Tue** - post surgery rest/recovery. **Wed** - good workout getting back into it. **Thur** - good workout; skull crushers and row felt moderate; curl felt heavier than usual. **Fri** - 
+**Mon/Tue** - post surgery rest/recovery. **Wed** - good workout getting back into it. **Thur** - good workout; skull crushers and row felt moderate; curl felt heavier than usual. **Fri** - good workout; dips felt a bit heavy; pulldown and bench felt strong. **Sat** - good run. **Sun** - good run. **Recap** - decent week. Total number of sets: 34.
 
 2026.05.10 ***`      `***   
 2026.05.09 ***`      `***   
