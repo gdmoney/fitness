@@ -6,8 +6,11 @@
 
 *****
 
-2026.05.18 ***`Upper `*** **run:** 1m • **pullups:** 10x6  
-**Mon** - 
+2026.05.21 ***`Cardio`*** **run:** 1m  
+2026.05.20 ***`Cardio`*** **run:** 1m  
+2026.05.19 ***`Cardio`*** **run:** 1m  
+2026.05.18 ***`Upper `*** **run:** 1m • **pullups:** 10x8  
+**Mon** - good pullup day. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - 
 
 2026.05.17 ***`Cardio`*** **run:** 1m  
 2026.05.16 ***`Cardio`*** **run:** 1m  
