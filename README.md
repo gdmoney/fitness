@@ -6,9 +6,10 @@
 
 *****
 
+2026.05.27 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 25x4 • **ab wheel:** 25x4  
 2026.05.26 ***`Cardio`*** **run:** 1m  
 2026.05.25 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - 
 
 2026.05.24 ***`      `***   
 2026.05.23 ***`Cardio`*** **run:** 1m  
