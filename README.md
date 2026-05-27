@@ -6,11 +6,18 @@
 
 *****
 
+2026.05.26 ***`Cardio`*** **run:** 1m  
+2026.05.25 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - 
+
+2026.05.24 ***`      `***   
+2026.05.23 ***`Cardio`*** **run:** 1m  
+2026.05.22 ***`Cardio`*** **run:** 1m  
 2026.05.21 ***`Cardio`*** **run:** 1m  
 2026.05.20 ***`Cardio`*** **run:** 1m  
 2026.05.19 ***`Cardio`*** **run:** 1m  
 2026.05.18 ***`Upper `*** **run:** 1m • **pullups:** 10x8  
-**Mon** - good pullup day. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - 
+**Mon** - good pullup day. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good run. **Sat** - good run. **Sun** - rest day. **Recap** - poor week. Total number of sets: 8.
 
 2026.05.17 ***`Cardio`*** **run:** 1m  
 2026.05.16 ***`Cardio`*** **run:** 1m  
