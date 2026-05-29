@@ -6,10 +6,11 @@
 
 *****
 
+2026.05.28 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x3 • **skull crushers:** 90x12x3 • **upright row:** 90x15x3 • **BB curl-rvs:** 80x12x3  
 2026.05.27 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 25x4 • **ab wheel:** 25x4  
 2026.05.26 ***`Cardio`*** **run:** 1m  
 2026.05.25 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout despite not feeling my strongest. **Fri** - 
 
 2026.05.24 ***`      `***   
 2026.05.23 ***`Cardio`*** **run:** 1m  
