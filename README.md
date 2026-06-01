@@ -6,7 +6,7 @@
 
 *****
 
-2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vert traction:** 10x3  
+2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vertical traction:** 10x3  
 2026.05.30 ***`Cardio`*** **run:** 1m  
 2026.05.29 ***`Cardio`*** **run:** 1m  
 2026.05.28 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x3 • **skull crushers:** 90x12x3 • **upright row:** 90x15x3 • **BB curl-rvs:** 80x12x3  
