@@ -6,11 +6,14 @@
 
 *****
 
+2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vert traction:** 10x3  
+2026.05.30 ***`Cardio`*** **run:** 1m  
+2026.05.29 ***`Cardio`*** **run:** 1m  
 2026.05.28 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x3 • **skull crushers:** 90x12x3 • **upright row:** 90x15x3 • **BB curl-rvs:** 80x12x3  
 2026.05.27 ***`Upper `*** **elpt:** 15 min • **pullups:** 10x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 25x4 • **ab wheel:** 25x4  
 2026.05.26 ***`Cardio`*** **run:** 1m  
 2026.05.25 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout despite not feeling my strongest. **Fri** - 
+**Mon** - good run. **Tue** - good run. **Wed** - good workout. **Thur** - good workout despite not feeling my strongest. **Fri** - good run. **Sat** - good run. **Sun** - light but still a good workout at the Encore gym. **Recap** - decent week. Total number of sets: 40. May missed workouts: 6.
 
 2026.05.24 ***`      `***   
 2026.05.23 ***`Cardio`*** **run:** 1m  
