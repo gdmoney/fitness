@@ -6,11 +6,14 @@
 
 *****
 
+2026.06.07 ***`Cardio`*** **bike:** 30 min
+2026.06.06 ***`      `***   
+2026.06.05 ***`Cardio`*** **run:** 1m  
 2026.06.04 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **tri pushdown:** 20x4  
 2026.06.03 ***`Cardio`*** **run:** 1m  
 2026.06.02 ***`Lower `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.06.01 ***`Lower `*** **run:** 1m • **back extn:** 80x15x4 • **leg raise:** 15x4  
-**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym. **Fri** - 
+**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and idt was deterined to be muscle strain/inflamation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
 
 2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vertical traction:** 10x3  
 2026.05.30 ***`Cardio`*** **run:** 1m  
