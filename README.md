@@ -6,7 +6,10 @@
 
 *****
 
-2026.06.07 ***`Cardio`*** **bike:** 30 min
+2026.06.08 ***`Cardio`*** **bike:** 30 min  
+**Mon** - good cardio session; sticking with the stationary bike until the pec strain is healed. **Tue** - 
+
+2026.06.07 ***`Cardio`*** **bike:** 30 min  
 2026.06.06 ***`      `***   
 2026.06.05 ***`Cardio`*** **run:** 1m  
 2026.06.04 ***`Upper `*** **run:** 1m • **dips-wtd:** 45x10x4 • **tri pushdown:** 20x4  
