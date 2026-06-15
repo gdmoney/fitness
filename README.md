@@ -6,11 +6,17 @@
 
 *****
 
+2026.06.15 ***`Cardio`*** **bike:** 20 min  
+**Mon** - cardio only recovery day. **Tue** - 
+
+2026.06.14 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **DB row-sngl:** 80x15x4 • **upright row:** 85x12x4 • **BB curl-rvs:** 75x12x4  
+2026.06.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
+2026.06.12 ***`Cardio`*** **bike:** 30 min  
 2026.06.11 ***`Cardio`*** **bike:** 30 min  
 2026.06.10 ***`Cardio`*** **bike:** 30 min  
 2026.06.09 ***`Cardio`*** **bike:** 30 min  
 2026.06.08 ***`Cardio`*** **bike:** 30 min  
-**Mon** - good cardio session; sticking with the stationary bike until the pec strain is healed. **Tue** - another good cardio session. **Wed** - another good cardio session. **Thur** - another good cardio session. **Fri** - 
+**Mon** - good cardio session; sticking with the stationary bike until the pec strain is healed. **Tue** - another good cardio session. **Wed** - another good cardio session. **Thur** - another good cardio session. **Fri** - one last cardio only day. **Sat** - good lower day. **Sun** - first upper workout since the pec injury last week; none of the upper movements irritated it. **Recap** - poor week hampered by injury. Total number of sets: 28.
 
 2026.06.07 ***`Cardio`*** **bike:** 30 min  
 2026.06.06 ***`      `***   
@@ -19,7 +25,7 @@
 2026.06.03 ***`Cardio`*** **run:** 1m  
 2026.06.02 ***`Lower `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.06.01 ***`Lower `*** **run:** 1m • **back extn:** 80x15x4 • **leg raise:** 15x4  
-**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and idt was deterined to be muscle strain/inflamation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
+**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and idt was deterined to be a pec muscle strain/inflamation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
 
 2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vertical traction:** 10x3  
 2026.05.30 ***`Cardio`*** **run:** 1m  
