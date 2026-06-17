@@ -6,9 +6,10 @@
 
 *****
 
+2026.06.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2026.06.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 180x10x4 • **pullups-astd:** 15x4 • **tri pushdown:** 20x4  
 2026.06.15 ***`Cardio`*** **bike:** 20 min  
-**Mon** - cardio only recovery day. **Tue** - good workout but didn't feel my strongest. **Wed** - 
+**Mon** - cardio only recovery day. **Tue** - good workout but didn't feel my strongest. **Wed** - good workout. **Thur** - 
 
 2026.06.14 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **DB row-sngl:** 80x15x4 • **upright row:** 85x12x4 • **BB curl-rvs:** 75x12x4  
 2026.06.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
