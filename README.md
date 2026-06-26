@@ -6,8 +6,12 @@
 
 *****
 
+2026.06.26 ***`Cardio`*** **bike:** 20 min • **elpt:** 10 min  
+2026.06.25 ***`Lower `*** **run:** 1m • **leg press:** 12x3 • **back extn:** 15x3 • **leg raise:** 15x4  
+2026.06.24 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **rear delt-mchn:** 15x4  
+2026.06.23 ***`Cardio`*** **run:** 1m  
 2026.06.22 ***`Cardio`*** **run:** 1m  
-**Mon** - felt a bit tired. **Tue** - 
+**Mon** - felt a bit tired. **Tue** - good run; felt better. **Wed** - good workout at the MTV gym. **Thur** - another good workout at the MTV gym. **Fri** - good cardio day. **Sat** - 
 
 2026.06.21 ***`Cardio`*** **elliptical:** 15 min  
 2026.06.20 ***`Cardio`*** **run:** 1m  
@@ -16,7 +20,7 @@
 2026.06.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2026.06.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 180x10x4 • **pullups-astd:** 15x4 • **tri pushdown:** 20x4  
 2026.06.15 ***`Cardio`*** **bike:** 20 min  
-**Mon** - cardio only recovery day. **Tue** - good workout but didn't feel my strongest. **Wed** - good workout. **Thur** - good workout; felt stronger on all the movements than last week. **Fri** - good workout; no pec pain. **Sat** - good run. **Sun** - good elliptical session; no pec pain. **Recap** - decent week getting back into the flow after an injury; should be back to my regular programming starting next week. Total number of sets: 44.
+**Mon** - cardio only recovery day. **Tue** - good workout but didn't feel my strongest. **Wed** - good workout. **Thur** - good workout; felt stronger on all the movements than last week. **Fri** - good workout; no pec pain. **Sat** - good run. **Sun** - good elliptical session; no pec pain. **Recap** - decent week getting back into the flow after pec injury; should be back to my regular programming starting next week. Total number of sets: 44.
 
 2026.06.14 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **DB row-sngl:** 80x15x4 • **upright row:** 85x12x4 • **BB curl-rvs:** 75x12x4  
 2026.06.13 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
