@@ -6,12 +6,18 @@
 
 *****
 
+2026.06.30 ***`Cardio`*** **run:** 1m  
+2026.06.29 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** -  
+
+2026.06.28 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **upright row:** 95x15x4 • **BB curl-rvs:** 85x12x4  
+2026.06.27 ***`Upper `*** **run:** 1m • **bench press:** 225x8x4 • **DB row-sngl:** 90x15x4  
 2026.06.26 ***`Cardio`*** **bike:** 20 min • **elpt:** 10 min  
 2026.06.25 ***`Lower `*** **run:** 1m • **leg press:** 12x3 • **back extn:** 15x3 • **leg raise:** 15x4  
 2026.06.24 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **rear delt-mchn:** 15x4  
 2026.06.23 ***`Cardio`*** **run:** 1m  
 2026.06.22 ***`Cardio`*** **run:** 1m  
-**Mon** - felt a bit tired. **Tue** - good run; felt better. **Wed** - good workout at the MTV gym. **Thur** - another good workout at the MTV gym. **Fri** - good cardio day. **Sat** - 
+**Mon** - felt a bit tired. **Tue** - good run; felt better. **Wed** - good workout at the MTV gym. **Thur** - another good workout at the MTV gym. **Fri** - good cardio day. **Sat** - decent workout; bench felt a bit heavy but it's not surprising since I haven't benched in almost 2 months. **Sun** good workout; skull crushers felt strong. **Recap** - good week, travel notwithstanding. Total number of sets: 46.
 
 2026.06.21 ***`Cardio`*** **elliptical:** 15 min  
 2026.06.20 ***`Cardio`*** **run:** 1m  
