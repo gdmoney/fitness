@@ -6,9 +6,14 @@
 
 *****
 
+2026.07.05 ***`Cardio`*** **bike:** 20 min  
+2026.07.04 ***`Cardio`*** **elliptical:** 15 min  
+2026.07.03 ***`      `***   
+2026.07.02 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **upright row:** 95x15x4 • **BB curl-rvs:** 85x12x4  
+2026.07.01 ***`Cardio`*** **bike:** 20 min  
 2026.06.30 ***`Cardio`*** **run:** 1m  
 2026.06.29 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** -  
+**Mon** - good run. **Tue** - good run. **Wed** -  good cardio day. **Thur** - good workout; skull crushers have been feeling strong. **Fri** - rest day after Hoover's birthday festivities the night before. **Sat** - good elliptical session. **Sun** - good bike session. **Recap** - poor week overall but lots of good cardio sessions. Total number of sts: 12. June missed workouts: 1. 
 
 2026.06.28 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **upright row:** 95x15x4 • **BB curl-rvs:** 85x12x4  
 2026.06.27 ***`Upper `*** **run:** 1m • **bench press:** 225x8x4 • **DB row-sngl:** 90x15x4  
