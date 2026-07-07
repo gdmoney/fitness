@@ -6,6 +6,9 @@
 
 *****
 
+2026.07.06 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x2  
+**Mon** - good workout; OHP felt a bit heavy but I maintained good form; bench felt strong. **Tue** - 
+
 2026.07.05 ***`Cardio`*** **bike:** 20 min  
 2026.07.04 ***`Cardio`*** **elliptical:** 15 min  
 2026.07.03 ***`      `***   
