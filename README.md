@@ -6,8 +6,17 @@
 
 *****
 
+2026.07.13 ***`Cardio`*** **swim:** 500 yards  
+**Mon** - feeling better; pain is still there but it's manageable; swim felt good and didn't aggravate the injury. **Tue** - 
+
+2026.07.12 ***`      `***   
+2026.07.11 ***`      `***   
+2026.07.10 ***`      `***   
+2026.07.09 ***`      `***   
+2026.07.08 ***`      `***   
+2026.07.07 ***`Lower `*** **run:** 1m • **SSB squat:** 180x8x4  
 2026.07.06 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x2  
-**Mon** - good workout; OHP felt a bit heavy but I maintained good form; bench felt strong. **Tue** - 
+**Mon** - good workout; OHP felt a bit heavy but I maintained good form; bench felt strong. **Tue** - got injured on the 5th set; heard and felt a crack on the way down and my back gave out; went to the ER in the evening, they did a CT scan and found disc protrusion (aka herniated/bulding disc) at L3-L4 causing moderate narrowing of the left neural foramen; I was discharged around midnight and prescribed Percocet for the pain. **Wed - Sun** - rest and recovery; stayed mostly in bed Wed and Thur; Fri and Sat I was able to move around more but still in significant pain; finally felt a little better on Sun. **Recap** - poor week with a major injury setback. Total number of sets: 14.
 
 2026.07.05 ***`Cardio`*** **bike:** 20 min  
 2026.07.04 ***`Cardio`*** **elliptical:** 15 min  
