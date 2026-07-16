@@ -6,9 +6,11 @@
 
 *****
 
+2026.07.16 ***`Upper `*** **swim:** 500 yards • **pullups-astd:** 10x4 • **dips-astd:** 10x4  
+2026.07.15 ***`Cardio`*** **swim:** 500 yards  
 2026.07.14 ***`Cardio`*** **swim:** 500 yards  
 2026.07.13 ***`Cardio`*** **swim:** 500 yards  
-**Mon** - feeling better; pain is still there but it's manageable; swim felt good and didn't aggravate the injury. **Tue** - feeling about the same as yesterday; still had leg pain overnight which got better after getting up and walking around; swim felt good again. **Wed** - 
+**Mon** - feeling better; pain is still there but it's manageable; swim felt good and didn't aggravate the injury. **Tue** - feeling about the same as yesterday; still had leg pain overnight which got better after getting up and walking around; swim felt good again. **Wed** - swim felt good again. **Thur** - slept poorly last due to alot of knee pain; no pain on pullups and dips. **Fri** - 
 
 2026.07.12 ***`      `***   
 2026.07.11 ***`      `***   
