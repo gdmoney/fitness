@@ -6,8 +6,9 @@
 
 *****
 
-2026.07.20 ***`Cardio`*** **swim:** 500 yards  
-**Mon** - good swim. **Tue** - 
+2026.07.21 ***`Cardio`*** **swim:** 500 yards  
+2026.07.20 ***`Cardio`*** **swim:** 750 yards  
+**Mon** - good swim in the morning and in the afternoon. **Tue** - good swim. **Wed** - 
 
 2026.07.19 ***`Cardio`*** **swim:** 500 yards  
 2026.07.18 ***`Cardio`*** **swim:** 500 yards  
