@@ -6,9 +6,14 @@
 
 *****
 
+2026.07.26 ***`Cardio`*** **bike:** 20 min  
+2026.07.25 ***`Cardio`*** **swim:** 500 yards  
+2026.07.24 ***`Cardio`*** **swim:** 500 yards  
+2026.07.23 ***`Cardio`*** **swim:** 500 yards  
+2026.07.22 ***`Cardio`*** **swim:** 500 yards  
 2026.07.21 ***`Cardio`*** **swim:** 500 yards  
 2026.07.20 ***`Cardio`*** **swim:** 750 yards  
-**Mon** - good swim in the morning and in the afternoon. **Tue** - good swim. **Wed** - 
+**Mon** - good swim in the morning and in the afternoon. **Tue** - good swim. **Wed** - good swim. **Thur** - good swim. **Fri** - good swim. **Sat** - good swim. **Sun** - first time doing the stationary bike since the back injury; it felt good. **Recap** - second and hopefully the last post injury recovery week; starting resistance training next week. Total number of sets: 0.
 
 2026.07.19 ***`Cardio`*** **swim:** 500 yards  
 2026.07.18 ***`Cardio`*** **swim:** 500 yards  
