@@ -6,6 +6,12 @@
 
 *****
 
+2026.07.30 ***`Upper `*** **elpt:** 15 min • **pullups-astd:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
+2026.07.29 ***`Upper `*** **swim:** 500 yards • **bench press:** 195x10x4 • **DB row-sngl:** 80x15x4  
+2026.07.28 ***`Cardio`*** **bike:** 25 min  
+2026.07.27 ***`Cardio`*** **swim:** 500 yards  
+**Mon** - good swim. **Tue** - good bike session. **Wed** - good first resistance workout since my back injury 3 weeks ago; bench felt strong considering the long break. **Thur** - good workout; all the movements feel a bit heavier but not too bad. **Fri** - 
+
 2026.07.26 ***`Cardio`*** **bike:** 20 min  
 2026.07.25 ***`Cardio`*** **swim:** 500 yards  
 2026.07.24 ***`Cardio`*** **swim:** 500 yards  
@@ -31,7 +37,7 @@
 2026.07.08 ***`      `***   
 2026.07.07 ***`Lower `*** **run:** 1m • **SSB squat:** 180x8x4  
 2026.07.06 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x2  
-**Mon** - good workout; OHP felt a bit heavy but I maintained good form; bench felt strong. **Tue** - got injured on the 5th set; heard and felt a crack on the way down and my back gave out; went to the ER in the evening, they did a CT scan and found disc protrusion (aka herniated/bulding disc) at L3-L4 causing moderate narrowing of the left neural foramen; I was discharged around midnight and prescribed Percocet for the pain. **Wed - Sun** - rest and recovery; stayed mostly in bed Wed and Thur; Fri and Sat I was able to move around more but still in significant pain; finally felt a little better on Sun. **Recap** - poor week with a major injury setback. Total number of sets: 14.
+**Mon** - good workout; OHP felt a bit heavy but I maintained good form; bench felt strong. **Tue** - got injured on the 5th set; heard and felt a crack on the way down and my back gave out; went to the ER in the evening, they did a CT scan and found disc protrusion (aka herniated/bulging disc) at L3-L4 causing moderate narrowing of the left neural foramen; I was discharged around midnight and prescribed Percocet for the pain. **Wed - Sun** - rest and recovery; stayed mostly in bed Wed and Thur; Fri and Sat I was able to move around more but still in significant pain; finally felt a little better on Sun. **Recap** - poor week with a major injury setback. Total number of sets: 14.
 
 2026.07.05 ***`Cardio`*** **bike:** 20 min  
 2026.07.04 ***`Cardio`*** **elliptical:** 15 min  
@@ -76,7 +82,7 @@
 2026.06.03 ***`Cardio`*** **run:** 1m  
 2026.06.02 ***`Lower `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.06.01 ***`Lower `*** **run:** 1m • **back extn:** 80x15x4 • **leg raise:** 15x4  
-**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and idt was deterined to be a pec muscle strain/inflamation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
+**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and idt was deterined to be a pec muscle strain/inflammation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
 
 2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vertical traction:** 10x3  
 2026.05.30 ***`Cardio`*** **run:** 1m  
@@ -94,7 +100,7 @@
 2026.05.20 ***`Cardio`*** **run:** 1m  
 2026.05.19 ***`Cardio`*** **run:** 1m  
 2026.05.18 ***`Upper `*** **run:** 1m • **pullups:** 10x8  
-**Mon** - good pullup day. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good run. **Sat** - good run. **Sun** - rest day. **Recap** - poor week. Total number of sets: 8.
+**Mon** - good pullups day. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good run. **Sat** - good run. **Sun** - rest day. **Recap** - poor week. Total number of sets: 8.
 
 2026.05.17 ***`Cardio`*** **run:** 1m  
 2026.05.16 ***`Cardio`*** **run:** 1m  
@@ -278,7 +284,7 @@
 2025.12.31 ***`Upper `*** **run:** 1m • **pullups:** 45x9x1, 10x3 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.12.30 ***`Lower `*** **elpt:** 15 min • **SSB squat:** 260x1, 280x1, 180x10x4 • **farmer's walk:** 215x1mx4  
 2025.12.29 ***`Upper `*** **elpt:** 10 min • **bench press:** 275x4x1, 225x10x2, 205x10x2 • **DB curl:** 20x5  
-**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7. **Tue** - 280 is a PR but I wasn't happy with the depth. **Wed** - good workout; 45lbs for 9 is a PR but the ROM could've been better; go for 10 next year; go up on cable x-over. **Thur** - rest day. **Fri** - got lightheaded during the top set so I had to stop, otherwise I think the strength was there for 10 reps; I'm confident I can hit this next year. **Sat** - good run. **Sun** - I'm quite happy with 18 on DB bench press which is a PR; I'm confident I can hit 20 next year. **Recap** - good week to close out the montht and the year strong. Total number of sets: 52. December missed workouts: 1.
+**Mon** - I'm a bit disappointed I did get 5 reps on 275 but I'm not really surprised considering I haven't been benching consistently in the last few months. I need to start BB benching heavy at least once a week and I should definitely hit 5 next year and maybe even 6-7. **Tue** - 280 is a PR but I wasn't happy with the depth. **Wed** - good workout; 45 lbs for 9 is a PR but the ROM could've been better; go for 10 next year; go up on cable x-over. **Thur** - rest day. **Fri** - got lightheaded during the top set so I had to stop, otherwise I think the strength was there for 10 reps; I'm confident I can hit this next year. **Sat** - good run. **Sun** - I'm quite happy with 18 on DB bench press which is a PR; I'm confident I can hit 20 next year. **Recap** - good week to close out the month and the year strong. Total number of sets: 52. December missed workouts: 1.
 
 2025.12.28 ***`Cardio`*** **ab wheel:** 25x4  
 2025.12.27 ***`Cardio`*** **run:** 2m  
@@ -350,7 +356,7 @@
 2025.11.05 ***`Cardio`*** **run:** 1m  
 2025.11.04 ***`Cardio`*** **run:** 1m  
 2025.11.03 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workou; OHP felt a bit heavy but my form was good. **Fri** - good workout; pullups felt strong. **Sat** - got a great cardio workout at Luka's soccer family day. **Sun** - good run. **Recap** - poor week. Total number of sets: 18.
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; OHP felt a bit heavy but my form was good. **Fri** - good workout; pullups felt strong. **Sat** - got a great cardio workout at Luka's soccer family day. **Sun** - good run. **Recap** - poor week. Total number of sets: 18.
 
 2025.11.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x7x4 • **lat raise:** 15x4 • **front raise**: 15x4 • **rear raise:** 15x4  
 2025.11.01 ***`Upper `*** **run:** 1m • **pullups:** 45x7x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 25x4  
@@ -479,7 +485,7 @@
 **Mon** - good workout. **Tue** - good workout; press was moderate/heavy. **Wed** - good run. **Thur** - good workout; felt strong. **Fri** - good workout; curl and row were too light. **Sat** - good workout; bench felt stronger than last week. **Sun** - good workout. **Recap** - good week. Total number of sets: 60. July missed workouts: 1.
 
 2025.07.27 ***`Upper `*** **run:** 1m • **bench press:** 265x5,5,4,4 • **DB row-sngl:** 100x15x4 • **DB OH Press:** 70x12x4  
-2025.07.26 ***`Cardio`*** **swim:** 1000y  
+2025.07.26 ***`Cardio`*** **swim:** 1000 yards  
 2025.07.25 ***`Cardio`*** **run:** 1m  
 2025.07.24 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4 • **dips-astd:** 10x4  
 2025.07.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 205x10x4 • **lat pulldown:** 200x10x4 • **DB bench press:** 75x20x2  
@@ -490,19 +496,19 @@
 2025.07.20 ***`Upper `*** **run:** 1m • **skull crushers:** 105x10x4 • **curl variations:** 20x12 • **tricep variations:** 20x12  
 2025.07.19 ***`Upper `*** **run:** 1m • **bench press:** 255x6x4 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 90x6x2, 80x12x2    
 2025.07.18 ***`Cardio`*** **run:** 1m  
-2025.07.17 ***`Cardio`*** **swim:** 1000y  
+2025.07.17 ***`Cardio`*** **swim:** 1000 yards  
 2025.07.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 210x12x4 • **DB bench press:** 75x20x2  
 2025.07.15 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2025.07.14 ***`Lower `*** **run:** 1m • **leg press:** 300x12x3 • **DB lunge:** 65x12x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
 **Mon** - good workout at the Terranea gym. **Tue** - another good workout at the Terranea gym. **Wed** - one more good workout at the Terranea gym. **Thur** - good swim. **Fri** - good run. **Sat** - decent workout despite not feeling my strongest in the morning; bench was moderate/heavy; slight shoulder ache afterwards but went away the next day; OHP felt strong. **Sun** - good arm workout with Charles at the Casa gym. **Recap** - good week with 5 solid workouts. Total number of sets: 74.
 
 2025.07.13 ***`Upper `*** **run:** 1m • **bench press:** 245x7x4 • **DB row-sngl:** 90x15x4 • **DB OH Press:** 70x10x4  
-2025.07.12 ***`Cardio`*** **swim:** 1000y  
+2025.07.12 ***`Cardio`*** **swim:** 1000 yards  
 2025.07.11 ***`Cardio`*** **run:** 1m  
 2025.07.10 ***`Cardio`*** **run:** 1m  
 2025.07.09 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 100x15x4 • **DB bench press:** 100x10x4  
 2025.07.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
-2025.07.07 ***`Cardio`*** **run:** 1m • **swim:** 1000y  
+2025.07.07 ***`Cardio`*** **run:** 1m • **swim:** 1000 yards  
 **Mon** - good cardio day. **Tue** - good leg day. **Wed** - OHP was heavy but felt strong; only the second time doing 4 sets of 10 with 165; bench was moderate/heavy. **Thur** - good run. **Fri** - good run. **Sat** - good swim. **Sun** - good workout despite not feeling great after sleeping poorly; bench was moderate/heavy and felt stronger than last week; OHP also felt tronger. **Recap** - mediocre week. Total number of sets: 34.
 
 2025.07.06 ***`Cardio`*** **ab wheel:** 25x4  
@@ -516,8 +522,8 @@
 
 2025.06.29 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,6 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x2 • **DB OH Press:** 70x10x2  
 2025.06.28 ***`Cardio`*** **run:** 1m  
-2025.06.27 ***`Cardio`*** **swim:** 1000y  
-2025.06.26 ***`Cardio`*** **swim:** 1000y  
+2025.06.27 ***`Cardio`*** **swim:** 1000 yards  
+2025.06.26 ***`Cardio`*** **swim:** 1000 yards  
 2025.06.25 ***`Lower `*** **run:** 1m • **hack squat:** 230x10x4 • **back extn:** 90x12x4 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2025.06.24 ***`Cardio`*** **run:** 1m • **leg raise:** 15x4  
 2025.06.23 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 150x8x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 95x15,12  
@@ -525,7 +531,7 @@
 
 2025.06.22 ***`Cardio`*** **run:** 1m  
 2025.06.21 ***`      `***   
-2025.06.20 ***`Cardio`*** **swim:** 1000y  
+2025.06.20 ***`Cardio`*** **swim:** 1000 yards  
 2025.06.19 ***`Cardio`*** **run:** 1m  
 2025.06.18 ***`Cardio`*** **run:** 1m  
 2025.06.17 ***`Cardio`*** **run:** 1m  
@@ -534,7 +540,7 @@
 
 2025.06.15 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x4 • **Hatfield squat:** 230x12x4 • **DB lunge:** 70x10x4  
 2025.06.14 ***`Upper `*** **run:** 1m • **bench press:** 245x8,8,7,7 • **DB row-sngl:** 100x15x4 • **DB OH Press:** 70x10x4 • **farmer's walk:** 260x1mx4 • **BB curl-rvs:** 95x10x2 • **upright row:** 95x12x4  
-2025.06.13 ***`Cardio`*** **swim:** 500y  
+2025.06.13 ***`Cardio`*** **swim:** 500 yards  
 2025.06.12 ***`Cardio`*** **run:** 1m  
 2025.06.11 ***`Cardio`*** **run:** 1m  
 2025.06.10 ***`Cardio`*** **run:** 1m  
@@ -946,7 +952,7 @@
 2024.08.02 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x3 • **DB row-sngl:** 100x15x3 • **DB bench press:** 90x12x3  
 2024.08.01 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
 2024.07.31 ***`Lower `*** **run:** 1m • **SSB squat:** 210x8x2, 180x10x2 • **Hatfield squat:** 230x10x2, 180x12x2 • **DB lunge:** 52x20x2  
-2024.07.30 ***`Cardio`*** **swim:** 500y  
+2024.07.30 ***`Cardio`*** **swim:** 500 yards  
 2024.07.29 ***`Cardio`*** **run:** 2m  
 **Mon** good outdoor run. **Tue** - first swim in almost a year; was tired all day. **Wed** - good leg workout. **Thur** - didn't feel great. **Fri** - good workout; OHP was moderate/heavy but felt better than last week; bench was also moderate/heavy. **Sat** - good workout; pullups felt strong. **Sun** - good workout; felt strong mid morning; bench was moderate/heavy and felt lighter than last week. **Recap** - good week with 4 solid workouts, 2 days of travel notwithstanding. Total number of sets: 51. July missed workouts: 2.
 
@@ -1385,8 +1391,8 @@
 **Mon/Tue/Wed/Thur/Fri/Sat** - rest. **Sun** - pullups felt good. **Recap** - poor week hampered by travel.
 
 2023.08.27 ***`Cardio  `*** **run:** 1m  
-2023.08.26 ***`Cardio  `*** **swim:** 1000y  
-2023.08.25 ***`Cardio  `*** **swim:** 1000y  
+2023.08.26 ***`Cardio  `*** **swim:** 1000 yards  
+2023.08.25 ***`Cardio  `*** **swim:** 1000 yards  
 2023.08.24 ***`Cardio  `*** **run:** 2m  
 2023.08.23 ***`Misc    `*** **run:** 2m • **pullups:** 10x3  
 2023.08.22 ***`Lower   `*** **run:** 2m • **SSB squat:** 230x7x4, 180x12x3 • **SSB lunge-rvs:** 110x20x2  
@@ -1422,9 +1428,9 @@
 
 2023.07.30 ***`        `***   
 2023.07.29 ***`        `***   
-2023.07.28 ***`Cardio  `*** **swim:** 1000y  
+2023.07.28 ***`Cardio  `*** **swim:** 1000 yards  
 2023.07.27 ***`Lower   `*** **run:** 2m • **SSB squat:** 220x8x4, 170x12x3 • **SSB lunge-rvs:** 115x20x2  
-2023.07.26 ***`Cardio  `*** **swim:** 500y  
+2023.07.26 ***`Cardio  `*** **swim:** 500 yards  
 2023.07.25 ***`Upper   `*** **run:** 1m • **DB OH press-sngl(R):** 80x10x4 • **lat pulldown:** 190x10x4 • **tri pushdown:** 25x3 • **machine row:** 235x15x3  
 2023.07.24 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 50x20x3  
 **Mon** - didn't feel great but had a decent workout; go up on DB lunge. **Tue** - OHP was heavy, especially the last set. **Wed** - quick swim at Cortina pool felt good. **Thur** - felt surprisingly strong in the morning after breakfast; squat was moderate/heavy; go up next week. **Fri** - good swim. **Sat** - rest. **Sun** - rest but got a decent cardio workout carpet cleaning. **Recap** - OK week.
@@ -1487,8 +1493,8 @@
 2023.06.10 ***`        `***   
 2023.06.09 ***`Cardio  `*** **run:** 1m  
 2023.06.08 ***`        `***   
-2023.06.07 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
-2023.06.06 ***`Cardio  `*** **run:** 1m • **swim:** 1000y  
+2023.06.07 ***`Cardio  `*** **run:** 1m • **swim:** 1000 yards  
+2023.06.06 ***`Cardio  `*** **run:** 1m • **swim:** 1000 yards  
 2023.06.05 ***`Cardio  `*** **run:** 1m  
 **Mon** - hotel gym run. **Tue** - another good run and swim. **Wed** - same workout. **Thur** - drive back from Vegas. **Fri** - good run but feeling a bit sick. **Sat** - rest; still feeling sick. **Sun** - another rest day. **Recap** - poor week hampered by illness.
 
@@ -1512,7 +1518,7 @@
 
 2023.05.21 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 2023.05.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x3  
-2023.05.19 ***`Cardio  `*** **swim:** 1000y  
+2023.05.19 ***`Cardio  `*** **swim:** 1000 yards  
 2023.05.18 ***`        `***   
 2023.05.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 2023.05.16 ***`Upper   `*** **run:** 1m • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
@@ -1521,7 +1527,7 @@
 
 2023.05.14 ***`        `***   
 2023.05.13 ***`        `***   
-2023.05.12 ***`Cardio  `*** **swim:** 1000y  
+2023.05.12 ***`Cardio  `*** **swim:** 1000 yards  
 2023.05.11 ***`Cardio  `*** **run:** 2m  
 2023.05.10 ***`        `***   
 2023.05.09 ***`Misc    `*** **elliptical:** 20 min  
