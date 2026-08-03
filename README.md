@@ -6,12 +6,14 @@
 
 *****
 
+2026.08.02 ***`Cardio`*** **swim:** 500 yards  
+2026.08.01 ***`Cardio`*** **swim:** 500 yards  
 2026.07.31 ***`Lower `*** **swim:** 500 yards • **leg press:** 300x15x4 • **back extn:** 45x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.07.30 ***`Upper `*** **elpt:** 15 min • **pullups-astd:** 10x4 • **cable x-over:** 15x4 • **tri pushdown:** 20x4  
 2026.07.29 ***`Upper `*** **swim:** 500 yards • **bench press:** 195x10x4 • **DB row-sngl:** 80x15x4  
 2026.07.28 ***`Cardio`*** **bike:** 25 min  
 2026.07.27 ***`Cardio`*** **swim:** 500 yards  
-**Mon** - good swim. **Tue** - good bike session. **Wed** - good first resistance workout since my back injury 3 weeks ago; bench felt strong considering the long break. **Thur** - good workout; all the movements feel a bit heavier but not too bad. **Fri** - good first port-injury lower day workout; movements felt heavy but didn't have any back or leg pain. **Sat** - 
+**Mon** - good swim. **Tue** - good bike session. **Wed** - good first resistance workout since my back injury 3 weeks ago; bench felt strong considering the long break. **Thur** - good workout; all the movements feel a bit heavier but not too bad. **Fri** - good first port-injury lower day workout; movements felt heavy but didn't have any back or leg pain. **Sat** - good swim. **Sun** - good swim. **Recap** - decent week getting back into the flow after my back injury. Total number of sets: 32. July missed workouts: 6.
 
 2026.07.26 ***`Cardio`*** **bike:** 20 min  
 2026.07.25 ***`Cardio`*** **swim:** 500 yards  
