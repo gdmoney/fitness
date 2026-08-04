@@ -6,6 +6,10 @@
 
 *****
 
+2026.08.04 ***`Cardio`*** **run:** 1m  
+2026.08.03 ***`Upper `*** **elpt:** 10 min • **dips:** 10x4 • **lat pulldown:** 185x12x3 • **skull crushers:** 90x12x3  
+**Mon** - good workout. **Tue** - fist run since the injury; legs felt heavy and I felt really slow but I didn't have any pain. **Wed** - 
+
 2026.08.02 ***`Cardio`*** **swim:** 500 yards  
 2026.08.01 ***`Cardio`*** **swim:** 500 yards  
 2026.07.31 ***`Lower `*** **swim:** 500 yards • **leg press:** 300x15x4 • **back extn:** 45x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
