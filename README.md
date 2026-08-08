@@ -6,10 +6,13 @@
 
 *****
 
+2026.08.08 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x2  
+2026.08.07 ***`Cardio`*** **swim:** 250 yards  
+2026.08.06 ***`Cardio`*** **run:** 1m  
 2026.08.05 ***`Upper `*** **bike:** 20 min • **bench press:** 205x10x4 • **DB row-sngl:** 90x15x4  
 2026.08.04 ***`Cardio`*** **run:** 1m • **swim:** 500 yards  
 2026.08.03 ***`Upper `*** **elpt:** 10 min • **dips:** 10x4 • **lat pulldown:** 185x12x3 • **skull crushers:** 90x12x3  
-**Mon** - good workout. **Tue** - fist run since the injury; legs felt heavy and I felt really slow but I didn't have any pain. **Wed** - good workout; bench felt stronger than last week. **Thur** - 
+**Mon** - good workout. **Tue** - fist run since the injury; legs felt heavy and I felt really slow but I didn't have any pain. **Wed** - good workout; bench felt stronger than last week. **Thur** - good run. **Fri** - light swim at the Terranea pool. **Sat** - good workout; pullups felt surprisingly strong. **Sun** - 
 
 2026.08.02 ***`Cardio`*** **swim:** 500 yards  
 2026.08.01 ***`Cardio`*** **swim:** 500 yards  
