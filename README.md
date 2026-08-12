@@ -6,7 +6,10 @@
 
 *****
 
-
+2026.08.12 ***`Cardio`*** **run:** 1m  
+2026.08.11 ***`Cardio`*** **run:** 1m  
+2026.08.10 ***`Cardio`*** **elpt:** 15 min  
+**Mon** - good elliptical session. **Tue** - run felt better but sprinting feels awkward. **Wed** - good run with Luka; sprint is still very slow. **Thur** - 
 
 2026.08.09 ***`Cardio`*** **swim:** 500 yards  
 2026.08.08 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x2  
