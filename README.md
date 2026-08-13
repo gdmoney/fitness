@@ -6,10 +6,10 @@
 
 *****
 
-2026.08.12 ***`Cardio`*** **run:** 1m  
+2026.08.12 ***`Upper `*** **run:** 1m • **bench press:** 210x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 52x15x2  
 2026.08.11 ***`Cardio`*** **run:** 1m  
 2026.08.10 ***`Cardio`*** **elpt:** 15 min  
-**Mon** - good elliptical session. **Tue** - run felt better but sprinting feels awkward. **Wed** - good run with Luka; sprint is still very slow. **Thur** - 
+**Mon** - good elliptical session. **Tue** - run felt better but sprinting feels awkward. **Wed** - good run with Luka; bench was moderate and then heavy the last two sets; first time doing overhead movement since my back injury; no pain so incorporate it back into the program. **Thur** - 
 
 2026.08.09 ***`Cardio`*** **swim:** 500 yards  
 2026.08.08 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown:** 25x4 • **str-arm pulldown:** 20x2  
