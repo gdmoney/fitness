@@ -6,6 +6,20 @@
 
 *****
 
+2026.08.26 ***`Cardio`*** **run:** 1m  
+2026.08.25 ***`Cardio`*** **run:** 1m  
+2026.08.24 ***`Cardio`*** **run:** 1m  
+**Mon** - good run. **Tue** - good run. **Wed** - another good run. **Thur** - 
+
+2026.08.23 ***`Cardio`*** **run:** 1m  
+2026.08.22 ***`Cardio`*** **run:** 1m  
+2026.08.21 ***`Cardio`*** **run:** 1m  
+2026.08.20 ***`Cardio`*** **run:** 1m  
+2026.08.19 ***`Cardio`*** **run:** 1m  
+2026.08.18 ***`Cardio`*** **run:** 1m  
+2026.08.17 ***`Cardio`*** **run:** 1m  
+**Mon** - TO BE UPDATED
+
 2026.08.16 ***`Cardio`*** **run:** 1m  
 2026.08.15 ***`Upper `*** **elpt:** 15 min
 2026.08.14 ***`Cardio`*** **run:** 1m  
