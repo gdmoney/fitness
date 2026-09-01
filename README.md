@@ -6,19 +6,27 @@
 
 *****
 
+2026.09.01 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **machine row:** 15x4  
+2026.08.31 ***`      `***   
+**Mon** - rest day. **Tue** - light workout at the Terranea gym early in the morning. **Wed** - 
+
+2026.08.30 ***`Cardio`*** **run:** 1m  
+2026.08.29 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x3 • **upright row:** 95x15x3 • **BB curl-rvs:** 75x12x3  
+2026.08.28 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **DB chest fly:** 35x15x4 • **Tri OH extn:** 35x10x4  
+2026.08.27 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 140x10x4 • **lat pulldown:** 12x4 • **DB bench press:** 75x20x2  
 2026.08.26 ***`Cardio`*** **run:** 1m  
 2026.08.25 ***`Cardio`*** **run:** 1m  
 2026.08.24 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - another good run. **Thur** - 
+**Mon** - good run. **Tue** - good run. **Wed** - another good run. **Thur** - good workout at the Terranea gym; shoulder press didn't feel strong but my ROM was good. **Fri** - another good workout; pullups felt strong. **Sat** - yet another good workout at the Terranea gym. **Sun** - good run early in the morning. **Recap** - decent week with 3 good resistance training sessions travel notwithstanding. Total number of sets: 31. August missed workouts: 1.
 
 2026.08.23 ***`Cardio`*** **run:** 1m  
-2026.08.22 ***`Cardio`*** **run:** 1m  
+2026.08.22 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **DB row-sngl:** 90x15x4   
 2026.08.21 ***`Cardio`*** **run:** 1m  
 2026.08.20 ***`Cardio`*** **run:** 1m  
 2026.08.19 ***`Cardio`*** **run:** 1m  
 2026.08.18 ***`Cardio`*** **run:** 1m  
 2026.08.17 ***`Cardio`*** **run:** 1m  
-**Mon** - TO BE UPDATED
+**Mon - Fri** - runs kept getting faster. **Sat** - didn't feel great and the bench felt heavy. **Sun** - another good run. **Recap** - poor week with only 1 resistance day. Total number of sets: 8.
 
 2026.08.16 ***`Cardio`*** **run:** 1m  
 2026.08.15 ***`Upper `*** **elpt:** 15 min
