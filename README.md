@@ -6,10 +6,11 @@
 
 *****
 
+2026.09.03 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 140x10x4 • **lat pulldown:** 15x4  
 2026.09.02 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown** 20x4  
 2026.09.01 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **machine row:** 15x4  
 2026.08.31 ***`      `***   
-**Mon** - rest day. **Tue** - light workout at the Terranea gym early in the morning. **Wed** - good workout; pullups felt strong again. **Thur** - 
+**Mon** - rest day. **Tue** - light workout at the Terranea gym early in the morning. **Wed** - good workout; pullups felt strong again. **Thur** - good workout at the Terranea gym to wrap up the trip. **Fri** - 
 
 2026.08.30 ***`Cardio`*** **run:** 1m  
 2026.08.29 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x3 • **upright row:** 95x15x3 • **BB curl-rvs:** 75x12x3  
