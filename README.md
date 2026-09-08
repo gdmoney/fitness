@@ -6,6 +6,13 @@
 
 *****
 
+2026.09.08 ***`Upper `*** **pullups:** 10x4 • **leg raise:** 15x4  
+2026.09.07 ***`Upper `*** **elpt:** 10 min
+**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - 
+
+2026.08.06 ***`Cardio`*** **run:** 1m  
+2026.08.05 ***`Cardio`*** **run:** 1m  
+2026.08.04 ***`Cardio`*** **run:** 1m  
 2026.09.03 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 140x10x4 • **lat pulldown:** 15x4  
 2026.09.02 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown** 20x4  
 2026.09.01 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **machine row:** 15x4  
