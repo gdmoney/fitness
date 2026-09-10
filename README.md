@@ -6,9 +6,11 @@
 
 *****
 
+2026.09.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x2, 150x10x2 • **lat pulldown:** 12x4 • **DB bench press:** 70x20x2  
+2026.09.09 ***`      `***   
 2026.09.08 ***`Upper `*** **pullups:** 10x4 • **leg raise:** 15x4  
 2026.09.07 ***`Upper `*** **elpt:** 10 min  
-**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - 
+**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - had a 5 am call time. **Thur** - good workout; press was moderate/heavy; pulldown felt strong. **Fri** - 
 
 2026.08.06 ***`Cardio`*** **run:** 1m  
 2026.08.05 ***`Cardio`*** **run:** 1m  
@@ -17,7 +19,7 @@
 2026.09.02 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **tri pushdown** 20x4  
 2026.09.01 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 10x4 • **machine row:** 15x4  
 2026.08.31 ***`      `***   
-**Mon** - rest day. **Tue** - light workout at the Terranea gym early in the morning. **Wed** - good workout; pullups felt strong again. **Thur** - good workout at the Terranea gym to wrap up the trip. **Fri** - 
+**Mon** - rest day. **Tue** - light workout at the Terranea gym early in the morning. **Wed** - good workout; pullups felt strong again. **Thur** - good workout at the Terranea gym to wrap up the trip. **Fri** - good run. **Sat** - good run. **Sun** - good run. **Recap** - decent week considering travel. Total number of sets: 24
 
 2026.08.30 ***`Cardio`*** **run:** 1m  
 2026.08.29 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x3 • **upright row:** 95x15x3 • **BB curl-rvs:** 75x12x3  
@@ -250,7 +252,7 @@
 2026.03.05 ***`Cardio`*** **run:** 1m  
 2026.03.04 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.03.03 ***`Cardio`*** **ab wheel:** 25x4  
-2026.03.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2 • **shoulder-press-mchn:** 200x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
+2026.03.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2 • **shoulder press-mchn:** 200x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
 **Mon** - good workout; press felt strong; weighted dips felt good; pulldown also felt string. **Tue** - had a 5am call time. **Wed** - good workout. **Thur** - good run. **Fri** - good workout despite not sleeping well; pullups felt strong. **Sat** - good cardio session. **Sun** - rest day. **Recap** - mediocre week. Total number of sets: 40.
 
 2026.03.01 ***`Cardio`*** **run:** 1m  
