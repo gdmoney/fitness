@@ -6,11 +6,13 @@
 
 *****
 
+2026.08.12 ***`Cardio`*** **run:** 1m  
+2026.08.11 ***`Cardio`*** **run:** 1m  
 2026.09.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x2, 150x10x2 • **lat pulldown:** 12x4 • **DB bench press:** 70x20x2  
 2026.09.09 ***`      `***   
 2026.09.08 ***`Upper `*** **pullups:** 10x4 • **leg raise:** 15x4  
 2026.09.07 ***`Upper `*** **elpt:** 10 min  
-**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - had a 5 am call time. **Thur** - good workout; press was moderate/heavy; pulldown felt strong. **Fri** - 
+**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - had a 5 am call time. **Thur** - good workout; press was moderate/heavy; pulldown felt strong. **Fri** - good run. **Sat** - good run. **Sun** - 
 
 2026.08.06 ***`Cardio`*** **run:** 1m  
 2026.08.05 ***`Cardio`*** **run:** 1m  
