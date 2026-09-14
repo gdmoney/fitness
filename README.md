@@ -8,7 +8,7 @@
 
 2026.08.12 ***`Cardio`*** **run:** 1m  
 2026.08.11 ***`Cardio`*** **run:** 1m  
-2026.09.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x2, 150x10x2 • **lat pulldown:** 12x4 • **DB bench press:** 70x20x2  
+2026.09.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x2, 150x10x2 • **lat pulldown:** 185x12x4 • **DB bench press:** 70x20x2  
 2026.09.09 ***`      `***   
 2026.09.08 ***`Upper `*** **pullups:** 10x4 • **leg raise:** 15x4  
 2026.09.07 ***`Upper `*** **elpt:** 10 min  
