@@ -6,13 +6,17 @@
 
 *****
 
-2026.08.12 ***`Cardio`*** **run:** 1m  
-2026.08.11 ***`Cardio`*** **run:** 1m  
+2026.09.14 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 70x20x3  
+**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - 
+
+2026.09.12 ***`Cardio`*** **run:** 1m  
+2026.09.12 ***`Cardio`*** **run:** 1m  
+2026.09.11 ***`Cardio`*** **run:** 1m  
 2026.09.10 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x2, 150x10x2 • **lat pulldown:** 185x12x4 • **DB bench press:** 70x20x2  
 2026.09.09 ***`      `***   
 2026.09.08 ***`Upper `*** **pullups:** 10x4 • **leg raise:** 15x4  
 2026.09.07 ***`Upper `*** **elpt:** 10 min  
-**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - had a 5 am call time. **Thur** - good workout; press was moderate/heavy; pulldown felt strong. **Fri** - good run. **Sat** - good run. **Sun** - 
+**Mon** - felt tired but still a decent cardio session. **Tue** - MTV gym; pullups felt good. **Wed** - had a 5 am call time. **Thur** - good workout; press was moderate/heavy; pulldown felt strong. **Fri** - good run. **Sat** - good run. **Sun** - good run. **Recap** - poor week with only two resistance days. Total number of sets: 18.
 
 2026.08.06 ***`Cardio`*** **run:** 1m  
 2026.08.05 ***`Cardio`*** **run:** 1m  
