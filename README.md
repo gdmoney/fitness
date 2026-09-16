@@ -6,8 +6,10 @@
 
 *****
 
+2026.09.16 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **dips:** 10x4 • **cable x-over:** 45x15x4 • **tri pushdown:** 20x4  
+2026.09.15 ***`Cardio`*** **run:** 1m  
 2026.09.14 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 70x20x3  
-**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - 
+**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - good run; explosiveness is finally back. **Wed** - good workout; both pullups and dips felt strong. **Thur** - 
 
 2026.09.13 ***`Cardio`*** **run:** 1m  
 2026.09.12 ***`Cardio`*** **run:** 1m  
