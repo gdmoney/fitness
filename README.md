@@ -6,12 +6,14 @@
 
 *****
 
+2026.09.20 ***`Lower `*** **run:** 1m • **leg press:** 320x15x3 • **back extn:** 45x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **bench press:** 205x10x4  
+2026.09.19 ***`Cardio`*** **run:** 1m  
 2026.09.18 ***`Upper `*** **run:** 1m • **BB OH press:** 145x10x4 • **seated row:** 185x12x4  
 2026.09.17 ***`      `***   
 2026.09.16 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **dips:** 10x4 • **cable x-over:** 45x15x4 • **tri pushdown:** 20x4  
 2026.09.15 ***`Cardio`*** **run:** 1m  
 2026.09.14 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 70x20x3  
-**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - good run; explosiveness is finally back. **Wed** - good workout; both pullups and dips felt strong. **Thur** - rest day after a 5am call time. **Fri** - good workout; first time doing OHP since my back injury; it was moderate with good form and no back pain; go up in weight next week. **Sat** - 
+**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - good run; explosiveness is finally back. **Wed** - good workout; both pullups and dips felt strong. **Thur** - rest day after a 5am call time. **Fri** - good workout; first time doing OHP since my back injury; it was moderate with good form and no back pain; go up in weight next week. **Sat** - good run. **Sun** - good workout; first leg day in 2 months; no back pain; slowly add weight; bench felt strong. **Recap** - good week. Total number of sets: 51.
 
 2026.09.13 ***`Cardio`*** **run:** 1m  
 2026.09.12 ***`Cardio`*** **run:** 1m  
