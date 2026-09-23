@@ -6,6 +6,7 @@
 
 *****
 
+2026.09.23 ***`Upper `*** **run:** 1m • **pullups:** 10x4  
 2026.09.22 ***`Upper `*** **run:** 1m • **dips:** 10x5 • **skull crushers:** 90x15x3 • **upright row:** 90x15x3 • **BB curl-rvs:** 80x10x3  
 2026.09.21 ***`Cardio`*** **run:** 1m  
 **Mon** - good run. **Tue** - good workout despite not feeling my strongest; add weight to dips next week. **Wed** - 
