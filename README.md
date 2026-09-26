@@ -6,10 +6,12 @@
 
 *****
 
+2026.09.25 ***`Lower `*** **run:** 1m • **leg press:** 340x15x3 • **back extn:** 70x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
+2026.09.24 ***`Cardio`*** **run:** 1m  
 2026.09.23 ***`Upper `*** **run:** 1m • **pullups:** 10x4  
 2026.09.22 ***`Upper `*** **run:** 1m • **dips:** 10x5 • **skull crushers:** 90x15x3 • **upright row:** 90x15x3 • **BB curl-rvs:** 80x10x3  
 2026.09.21 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good workout despite not feeling my strongest; add weight to dips next week. **Wed** - 
+**Mon** - good run. **Tue** - good workout despite not feeling my strongest; add weight to dips next week. **Wed** - pullups felt strong. **Thur** - good run. **Fri** - good workout; legs and back felt stronger than last week. **Sat** - 
 
 2026.09.20 ***`Lower `*** **run:** 1m • **leg press:** 320x15x3 • **back extn:** 45x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **bench press:** 205x10x4  
 2026.09.19 ***`Cardio`*** **run:** 1m  
