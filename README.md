@@ -6,6 +6,18 @@
 
 *****
 
+2026.10.05 ***`Cardio`*** **run:** 1m  
+**Mon** - good run at the hotel gym. **Tue** - 
+
+2026.10.04 ***`Cardio`*** **run:** 1m  
+2026.10.03 ***`Upper `*** **run:** 1m • **pushups:** 25x4  
+2026.10.02 ***`Upper `*** **run:** 1m • **pullups:** 10x4  
+2026.10.01 ***`Cardio`*** **run:** 1m  
+2026.09.30 ***`Cardio`*** **run:** 1m  
+2026.09.29 ***`Cardio`*** **run:** 1m  
+2026.09.28 ***`Cardio`*** **run:** 1m  
+**Mon - Thur** - felt under the weather. **Fri** - felt a little bit better; pullups felt good. **Sat** - pushups felt good. **Sun** - good run at the hotel gym. **Recap** - poor week hampered by illness. Total number of sets: 8. September missed workouts: 2.
+
 2026.09.27 ***`Cardio`*** **run:** 1m  
 2026.09.26 ***`Cardio`*** **run:** 1m  
 2026.09.25 ***`Lower `*** **run:** 1m • **leg press:** 340x15x3 • **back extn:** 70x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
