@@ -6,8 +6,9 @@
 
 *****
 
+2026.10.06 ***`Cardio`*** **run:** 1m  
 2026.10.05 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the hotel gym. **Tue** - 
+**Mon** - good run at the hotel gym. **Tue** - another good run at the hotel gym. **Wed** - 
 
 2026.10.04 ***`Cardio`*** **run:** 1m  
 2026.10.03 ***`Upper `*** **run:** 1m • **pushups:** 25x4  
