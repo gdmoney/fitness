@@ -6,9 +6,11 @@
 
 *****
 
+2026.10.08 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x3  
+2026.10.07 ***`      `***   
 2026.10.06 ***`Cardio`*** **run:** 1m  
 2026.10.05 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the hotel gym. **Tue** - another good run at the hotel gym. **Wed** - 
+**Mon** - good run at the hotel gym. **Tue** - another good run at the hotel gym. **Wed** - didn't get a chance to go to the gym with the early call time but still managed to get a different kind of workout in. **Thur** - good workout; everything felt strong despite taking a few days off; press got progressively easier and the form got better; stick with 155 for now until I can hit 10 reps for 4 sets. **Fri** - 
 
 2026.10.04 ***`Cardio`*** **run:** 1m  
 2026.10.03 ***`Upper `*** **run:** 1m • **pushups:** 25x4  
@@ -35,7 +37,7 @@
 2026.09.16 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **dips:** 10x4 • **cable x-over:** 45x15x4 • **tri pushdown:** 20x4  
 2026.09.15 ***`Cardio`*** **run:** 1m  
 2026.09.14 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 200x10x4 • **lat pulldown:** 200x12x4 • **DB bench press:** 70x20x3  
-**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - good run; explosiveness is finally back. **Wed** - good workout; both pullups and dips felt strong. **Thur** - rest day after a 5am call time. **Fri** - good workout; first time doing OHP since my back injury; it was moderate with good form and no back pain; go up in weight next week. **Sat** - good run. **Sun** - good workout; first leg day in 2 months; no back pain; slowly add weight; bench felt strong. **Recap** - good week. Total number of sets: 51.
+**Mon** - good workout; all the movements felt strong; didn't quite lock out the last couple of reps on the presses. **Tue** - good run; explosiveness is finally back. **Wed** - good workout; both pullups and dips felt strong. **Thur** - rest day after a 5 am call time. **Fri** - good workout; first time doing OHP since my back injury; it was moderate with good form and no back pain; go up in weight next week. **Sat** - good run. **Sun** - good workout; first leg day in 2 months; no back pain; slowly add weight; bench felt strong. **Recap** - good week. Total number of sets: 51.
 
 2026.09.13 ***`Cardio`*** **run:** 1m  
 2026.09.12 ***`Cardio`*** **run:** 1m  
@@ -148,7 +150,7 @@
 2026.06.21 ***`Cardio`*** **elliptical:** 15 min  
 2026.06.20 ***`Cardio`*** **run:** 1m  
 2026.06.19 ***`Upper `*** **run:** 1m • **DB bench press:** 75x20x4 • **lat pulldown:** 185x12x4  
-2026.06.18 ***`Upper `*** **run:** 1m • **bike:** 20min • **skull crushers:** 85x15x4 • **upright row:** 85x15x4 • **BB curl-rvs:** 80x12x4  
+2026.06.18 ***`Upper `*** **run:** 1m • **bike:** 20min • **skull crushers:** 85x15x4 • **upright row:** 85x12x4 • **BB curl-rvs:** 80x12x4  
 2026.06.17 ***`Lower `*** **run:** 1m • **leg press:** 400x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2026.06.16 ***`Upper `*** **run:** 1m • **shoulder press-mchn:** 180x10x4 • **pullups-astd:** 15x4 • **tri pushdown:** 20x4  
 2026.06.15 ***`Cardio`*** **bike:** 20 min  
@@ -170,7 +172,7 @@
 2026.06.03 ***`Cardio`*** **run:** 1m  
 2026.06.02 ***`Lower `*** **run:** 1m • **leg press:** 15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.06.01 ***`Lower `*** **run:** 1m • **back extn:** 80x15x4 • **leg raise:** 15x4  
-**Mon** - good workout at the Encore gym. **Tue** - anotehr good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and idt was deterined to be a pec muscle strain/inflammation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
+**Mon** - good workout at the Encore gym. **Tue** - another good workout at the Encore gym. **Wed** - good cardio day. **Thur** - decent workout at the Encore gym; developed chest pain on the left side. **Fri** - still in pain; run made it worse. **Sat** - rest day; in pain all day; went to urgent care and it was determined to be a pec muscle strain/inflammation. **Sun** - felt better; bike didn't irritate it. **Recap** - decent week considering travel and injury. Total number of sets: 24.
 
 2026.05.31 ***`Upper `*** **run:** 1m • **chest press:** 10x3 • **pec fly:** 10x3 • **machine row:** 10x3 • **vertical traction:** 10x3  
 2026.05.30 ***`Cardio`*** **run:** 1m  
@@ -287,7 +289,7 @@
 2026.03.04 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.03.03 ***`Cardio`*** **ab wheel:** 25x4  
 2026.03.02 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 180x6x2 • **shoulder press-mchn:** 200x10x2 • **lat pulldown:** 200x12x4 • **dips-wtd:** 25x10x4  
-**Mon** - good workout; press felt strong; weighted dips felt good; pulldown also felt string. **Tue** - had a 5am call time. **Wed** - good workout. **Thur** - good run. **Fri** - good workout despite not sleeping well; pullups felt strong. **Sat** - good cardio session. **Sun** - rest day. **Recap** - mediocre week. Total number of sets: 40.
+**Mon** - good workout; press felt strong; weighted dips felt good; pulldown also felt string. **Tue** - had a 5 am call time. **Wed** - good workout. **Thur** - good run. **Fri** - good workout despite not sleeping well; pullups felt strong. **Sat** - good cardio session. **Sun** - rest day. **Recap** - mediocre week. Total number of sets: 40.
 
 2026.03.01 ***`Cardio`*** **run:** 1m  
 2026.02.28 ***`Cardio`*** **run:** 1m  
