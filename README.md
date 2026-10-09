@@ -6,11 +6,12 @@
 
 *****
 
+2026.10.09 ***`Lower `*** **run:** 1m • **leg press:** 360x15x3 • **back extn:** 70x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3  
 2026.10.08 ***`Upper `*** **run:** 1m • **BB OH press:** 155x8x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x3  
 2026.10.07 ***`      `***   
 2026.10.06 ***`Cardio`*** **run:** 1m  
 2026.10.05 ***`Cardio`*** **run:** 1m  
-**Mon** - good run at the hotel gym. **Tue** - another good run at the hotel gym. **Wed** - didn't get a chance to go to the gym with the early call time but still managed to get a different kind of workout in. **Thur** - good workout; everything felt strong despite taking a few days off; press got progressively easier and the form got better; stick with 155 for now until I can hit 10 reps for 4 sets. **Fri** - 
+**Mon** - good run at the hotel gym. **Tue** - another good run at the hotel gym. **Wed** - didn't get a chance to go to the gym with the early call time but still managed to get a different kind of workout in. **Thur** - good workout; everything felt strong despite taking a few days off; press got progressively easier and the form got better; stick with 155 for now until I can hit 10 reps for 4 sets. **Fri** - good workout; legs felt stronger than last time. **Sat** - 
 
 2026.10.04 ***`Cardio`*** **run:** 1m  
 2026.10.03 ***`Upper `*** **run:** 1m • **pushups:** 25x4  
