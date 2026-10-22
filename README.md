@@ -6,8 +6,20 @@
 
 *****
 
+2026.10.22 ***`      `***   
+2026.10.21 ***`      `***   
+2026.10.20 ***`      `***   
+2026.10.19 ***`      `***   
+**Mon - Thur** - out sick.
+
+2026.10.18 ***`      `***   
+2026.10.17 ***`Cardio`*** **run:** 1m  
+2026.10.16 ***`Cardio`*** **run:** 1m  
+2026.10.15 ***`Cardio`*** **run:** 1m  
+2026.10.14 ***`Cardio`*** **run:** 1m  
+2026.10.13 ***`Cardio`*** **run:** 1m  
 2026.10.12 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **dips:** 10x4  
-**Mon** - decent workout despite feeling a bit under the weather. **Tue** - 
+**Mon** - decent workout despite feeling a bit under the weather. **Tue** - good run. **Wed** - good run. **Thur** - good run. **Fri** - good run. **Sat** good run but felt a bit under the weather. **Sun** - woke up feeling ill; went to urgent care and was diagnosed with a viral infection, similar to a flu. **Recap** - poor week hampered by illness.
 
 2026.10.11 ***`Cardio`*** **run:** 1m  
 2026.10.10 ***`Cardio`*** **run:** 1m  
