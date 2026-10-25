@@ -6,11 +6,14 @@
 
 *****
 
+2026.10.25 ***`Upper `*** **DB OH Press:** 50x20x3  • **lat pulldown:** 15x3  
+2026.10.24 ***`Cardio`*** **elpt:** 10 min  
+2026.10.23 ***`      `***   
 2026.10.22 ***`      `***   
 2026.10.21 ***`      `***   
 2026.10.20 ***`      `***   
 2026.10.19 ***`      `***   
-**Mon - Thur** - out sick.
+**Mon - Fri** - out sick. **Sat** - still under the weather but finally felt well enough to work out. **Sun** - decent workout at the ARIA gym. **Recap** - poor week hampered by illness.
 
 2026.10.18 ***`      `***   
 2026.10.17 ***`Cardio`*** **run:** 1m  
