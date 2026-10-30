@@ -11,7 +11,7 @@
 2026.10.28 ***`Upper `*** **shoulder press-mchn:** 10x4  • **DB row-sngl:** 90x15x4  
 2026.10.27 ***`Upper `*** **chest press-mchn:** 10x4  • **tri pushdown:** 20x4  
 2026.10.26 ***`Upper `*** **pullups:** 10x4  • **dips:** 10x4  
-**Mon** - decent workout at the ARIA gym. **Tue** - another decent workout at the ARIA gym. **Wed** - another decent workout at the ARIA gym. **Thur** - rest day after previous night's festivities. **Fri** - good workout although still not feeling 100%. **Sat** - 
+**Mon** - decent workout at the ARIA gym. **Tue** - another decent workout at the ARIA gym. **Wed** - another decent workout at the ARIA gym. **Thur** - rest day after previous night's festivities. **Fri** - good workout despite still not feeling 100%. **Sat** - 
 
 2026.10.25 ***`Upper `*** **DB OH Press:** 50x20x3  • **lat pulldown:** 15x3  
 2026.10.24 ***`Cardio`*** **elpt:** 10 min  
@@ -164,7 +164,7 @@
 2026.07.01 ***`Cardio`*** **bike:** 20 min  
 2026.06.30 ***`Cardio`*** **run:** 1m  
 2026.06.29 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** -  good cardio day. **Thur** - good workout; skull crushers have been feeling strong. **Fri** - rest day after Hoover's birthday festivities the night before. **Sat** - good elliptical session. **Sun** - good bike session. **Recap** - poor week overall but lots of good cardio sessions. Total number of sts: 12. June missed workouts: 1. 
+**Mon** - good run. **Tue** - good run. **Wed** -  good cardio day. **Thur** - good workout; skull crushers have been feeling strong. **Fri** - rest day after Hoover's birthday festivities the night before. **Sat** - good elliptical session. **Sun** - good bike session. **Recap** - poor week overall but lots of good cardio sessions. Total number of sets: 12. June missed workouts: 1. 
 
 2026.06.28 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **upright row:** 95x15x4 • **BB curl-rvs:** 85x12x4  
 2026.06.27 ***`Upper `*** **run:** 1m • **bench press:** 225x8x4 • **DB row-sngl:** 90x15x4  
@@ -420,7 +420,7 @@
 2025.12.17 ***`Cardio`*** **run:** 2m  
 2025.12.16 ***`Cardio`*** **run:** 1m  
 2025.12.15 ***`Cardio`*** **run:** 1m  
-**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; press was moderat/heavy; pulldown felt strong; dips also felt strong. **Fri** - good workout; need to figure out a way to make the leg press more challenging. **Sat** - decent workout; didn't feel my strongest. **Sun** - good workout; bench was moderate/heavy. **Recap** - good week. Total number of sets: 52.
+**Mon** - good run. **Tue** - good run. **Wed** - good run. **Thur** - good workout; press was moderate/heavy; pulldown felt strong; dips also felt strong. **Fri** - good workout; need to figure out a way to make the leg press more challenging. **Sat** - decent workout; didn't feel my strongest. **Sun** - good workout; bench was moderate/heavy. **Recap** - good week. Total number of sets: 52.
 
 2025.12.14 ***`Cardio`*** **run:** 1m  
 2025.12.13 ***`      `***   
@@ -964,7 +964,7 @@
 2024.10.23 ***`Upper `*** **run:** 1m • **bench press:** 245x8x3 • **DB OHP-sngl:** 80x10x3  
 2024.10.22 ***`Upper `*** **run:** 1m • **lat pulldown:** 190x12x2 • **pullups-astd:** 12x2 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **machine row:** 15x3  
 2024.10.21 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge:** 50x20x2 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good lunchtime workout. **Tue** - another good lunchtime eworkout. **Wed** - good workout; bench felt strong and was medium/heavy. **Thur/Fri/Sat/Sun** - couldn't get any workouts in Vegas with early call times and early gym closures. **Recap** - poor week hampered by travel. Total number of sets: 32.
+**Mon** - good lunchtime workout. **Tue** - another good lunchtime workout. **Wed** - good workout; bench felt strong and was medium/heavy. **Thur/Fri/Sat/Sun** - couldn't get any workouts in Vegas with early call times and early gym closures. **Recap** - poor week hampered by travel. Total number of sets: 32.
 
 2024.10.20 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **DB row-sngl:** 90x15x4 • **DB bench press:** 100x10x4  
 2024.10.19 ***`Cardio`*** **run:** 1m  
@@ -1090,7 +1090,7 @@
 2024.07.17 ***`Cardio`*** **run:** 2m  
 2024.07.16 ***`Cardio`*** **run:** 2m  
 2024.07.15 ***`Cardio`*** **elpt:** 10 min  
-**Mon** - cardio felt good. **Tue** - good outdoor run. **Wed** - another good ourdoor run. **Thur** - good outdoor run. **Fri** - good outdoor run. **Sat** - good run. **Sun** - good run. **Recap** - good cardio only week. Total number of sets: 4.
+**Mon** - cardio felt good. **Tue** - good outdoor run. **Wed** - another good outdoor run. **Thur** - good outdoor run. **Fri** - good outdoor run. **Sat** - good run. **Sun** - good run. **Recap** - good cardio only week. Total number of sets: 4.
 
 2024.07.14 ***`Upper `*** **elpt:** 10 min • **pullups:** 50x5x4 • **cable x-over:** 15x4 • **tri pushdown:** 25x3 • **str-arm pulldown:** 20x3  
 2024.07.13 ***`Upper `*** **elpt:** 10 min • **BB OH press:** 155x10x2 • **bench press:** 225x10x2 • **DB row-sngl:** 100x15x4 • **BB curl-rvs:** 75x12x3 • **upright row:** 75x12x3  
@@ -1270,7 +1270,7 @@
 2024.02.28 ***`Upper `*** **elliptical:** 10 min • **BB OH press:** 140x10x4 • **DB bench press:** 85x15x4 • **DB row-sngl:** 85x15x4  
 2024.02.27 ***`Cardio`*** **elliptical:** 10 min • **rower:** 10 min • **bike:** 10 min  
 2024.02.26 ***`Lower `*** **run:** 1m • **leg press:** 400x20x3 • **back extn:** 80x12x3 • **DB lunge:** 70x20x2  
-**Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - tried different low-impact cardio movements; didn't feel much of anything on the rower; elliptical (office gym) and bike were ok. **Wed** - cut back on the cardio; both my lower and upper sessions are already sufficiently cardio-intensive; OHP was moderate with good form; bench was also moderate; no pain on either movement; stick to these weights for now. **Thur** - good elliptical session; no shoulder pain. **Fri** - farmer's walk felt stronger than last week. **Sat** - good elliptical session in the morning. **Sun** - decent workout at the hotel gym. **Recap** - good week and a good month. Total number of sets: 39. February missed workouts: 0.
+**Mon** - good workout; legs felt strong but grip was tired on lunge. **Tue** - tried different low-impact cardio movements; didn't feel much of anything on the rower; elliptical (office gym) and bike were OK. **Wed** - cut back on the cardio; both my lower and upper sessions are already sufficiently cardio-intensive; OHP was moderate with good form; bench was also moderate; no pain on either movement; stick to these weights for now. **Thur** - good elliptical session; no shoulder pain. **Fri** - farmer's walk felt stronger than last week. **Sat** - good elliptical session in the morning. **Sun** - decent workout at the hotel gym. **Recap** - good week and a good month. Total number of sets: 39. February missed workouts: 0.
 
 2024.02.25 ***`Misc  `*** **run:** 1m • **chinups:** 10x5 • **skull crushers:** 75x12x5 • **farmer's walk:** 225x60'x5  
 2024.02.24 ***`Cardio`*** **run:** 1m  
@@ -1279,7 +1279,7 @@
 2024.02.21 ***`Lower `*** **run:** 1m • **SSB squat:** 210x7x4, 180x10x3  
 2024.02.20 ***`Cardio`*** **elliptical:** 20 min  
 2024.02.19 ***`Misc  `*** **run:** 1m • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3 • **machine row:** 220x20x3 • **farmer's walk:** 200x3  
-**Mon** - good workout; kept it somewhat light to recuperate the shoulders. **Tue** - didn't feel great. **Wed** - squat was moderate with good form. **Thur** - good elliptical session. **Fri** - OHP was moderate; bench was light/moderate; go up in weight on both; slight initial shoulder pain on bench. **Sat** - good run. **Sun** - good workout; bodyweight chinups felt strong; first time doing skull crushers in a year; only a slight left shoulder ache. **Recap** - good week; shoulder and leg joints are feeling better; stick to four workouts per week for now and cut back on the elliptical and road running. Total number of sets: 46.
+**Mon** - good workout; kept it somewhat light to recuperate the shoulders. **Tue** - didn't feel great. **Wed** - squat was moderate with good form. **Thur** - good elliptical session. **Fri** - OHP was moderate; bench was light/moderate; go up in weight on both; slight initial shoulder pain on bench. **Sat** - good run. **Sun** - good workout; body weight chinups felt strong; first time doing skull crushers in a year; only a slight left shoulder ache. **Recap** - good week; shoulder and leg joints are feeling better; stick to four workouts per week for now and cut back on the elliptical and road running. Total number of sets: 46.
 
 2024.02.18 ***`Upper `*** **elliptical:** 20 min • **bench press:** 190x10x4 • **BB row:** 175x12x4  
 2024.02.17 ***`Lower `*** **run:** 2m • **SSB squat:** 210x7x4, 180x10x3  
@@ -1398,7 +1398,7 @@
 2023.11.22 ***`Misc    `*** **elliptical:** 20 min  
 2023.11.21 ***`Upper   `*** **run:** 1m • **BB OH press:** 125x10x4 • **lat pulldown:** 190x12x3 • **tri pushdown:** 25x3  
 2023.11.20 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge-rvs:** 50x20x2  
-**Mon** - good workout back at the office gym. **Tue** - OHP was moderate/heavy and felt stronger than last week; keep focusing on full ROM. **Wed** - good elliptical sesson. **Thur** - rest. **Fri** - bench was moderate/heavy; first time doing anything heavier than rep weight in over six months; no shoulder pain. **Sat** - rest. **Sun** - rest. **Recap** - solid week; feels great to be benching once again.
+**Mon** - good workout back at the office gym. **Tue** - OHP was moderate/heavy and felt stronger than last week; keep focusing on full ROM. **Wed** - good elliptical session. **Thur** - rest. **Fri** - bench was moderate/heavy; first time doing anything heavier than rep weight in over six months; no shoulder pain. **Sat** - rest. **Sun** - rest. **Recap** - solid week; feels great to be benching once again.
 
 2023.11.19 ***`Misc    `*** **elliptical:** 20 min  
 2023.11.18 ***`        `***   
@@ -1641,7 +1641,7 @@
 2023.05.17 ***`Misc    `*** **run:** 2m • **pullups:** 10x5  
 2023.05.16 ***`Upper   `*** **run:** 1m • **lat pulldown:** 175x12x3 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 2023.05.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
-**Mon** - good workout; run and legs both felt strong; first time doing back extn in almost two months; no pain. **Tue** - good workout; slight left shoulder pain during the movements. **Wed** - pullups felt strong; focused on full ROM. **Thur** - rest. **Fri** - swim felt good; a bit easier than last week. **Sat** - good workout; back extn felt better than last time; no pain; go up in weight next week. **Sun** - ligt workout. **Recap** - OK week considering the left shoulder injury; back seems to be recovered so start squatting next week.
+**Mon** - good workout; run and legs both felt strong; first time doing back extn in almost two months; no pain. **Tue** - good workout; slight left shoulder pain during the movements. **Wed** - pullups felt strong; focused on full ROM. **Thur** - rest. **Fri** - swim felt good; a bit easier than last week. **Sat** - good workout; back extn felt better than last time; no pain; go up in weight next week. **Sun** - light workout. **Recap** - OK week considering the left shoulder injury; back seems to be recovered so start squatting next week.
 
 2023.05.14 ***`        `***   
 2023.05.13 ***`        `***   
@@ -1704,7 +1704,7 @@
 2023.03.29 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 80x12x4 • **lat pulldown:** 175x12x4 • **tri pushdown:** 25x3 • **machine row:** 220x15x3  
 2023.03.28 ***`        `***   
 2023.03.27 ***`        `***   
-**Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy. **Thur** - didn't feel great and ran out of steam after 3 sets; first time doing upright row in a while. **Fri** - first time doing deadlift in over a year; it was light/moderate with good form; incorporate it into the program going forward. **Sat** - rest; slight lower back pain; not sure if it's from the deatlift. **Sun** - rest. **Recap** - poor week.
+**Mon** - rest. **Tue** - rest. **Wed** - decided to drop the weight on OHP and focus on good form; it was moderate/heavy. **Thur** - didn't feel great and ran out of steam after 3 sets; first time doing upright row in a while. **Fri** - first time doing deadlift in over a year; it was light/moderate with good form; incorporate it into the program going forward. **Sat** - rest; slight lower back pain; not sure if it's from the deadlift. **Sun** - rest. **Recap** - poor week.
 
 2023.03.26 ***`Lower   `*** **SSB squat:** 210x8x4, 160x15x3 • **SSB lunge:** 115x20x3  
 2023.03.25 ***`Misc    `*** **run:** 2m • **pullups:** 12x3  
@@ -1731,7 +1731,7 @@
 2023.03.08 ***`        `***   
 2023.03.07 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 160x12x4 • **tri pushdown:** 20x4  
 2023.03.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 60x20x3  
-**Mon** - didn't feel great but had a decent workouk. **Tue** - didn't feel great after sleeping poorly; OHP was moderate/heavy; last rep was a grinder but I got it. **Wed** - rest. **Thur** - rest. **Fri** - didn't feel great. **Sat** - was feeling a bit under the weather; squat was moderate/heavy with good form. **Sun** - still feeling ill; OHP was moderate/heavy; first time reping 165 for 9. **Recap** - good week despite illness.
+**Mon** - didn't feel great but had a decent workout. **Tue** - didn't feel great after sleeping poorly; OHP was moderate/heavy; last rep was a grinder but I got it. **Wed** - rest. **Thur** - rest. **Fri** - didn't feel great. **Sat** - was feeling a bit under the weather; squat was moderate/heavy with good form. **Sun** - still feeling ill; OHP was moderate/heavy; first time reping 165 for 9. **Recap** - good week despite illness.
 
 2023.03.05 ***`Misc    `*** **pushups:** 25x4 • **ab wheel:** 10x4  
 2023.03.04 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4  
@@ -1834,7 +1834,7 @@
 2022.12.21 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
 2022.12.20 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x3  
 2022.12.19 ***`Lower   `*** **SSB squat:** 200x8x4, 160x12x3 • **SSB lunge:** 110x20x4  
-**Mon** - squate was moderate/heavy with good form; felt surprisingly strong after slepping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - pullups are getting stronger. **Thu** - rest. **Fri** - rest. **Sat** - good workout. **Sun** - rest. **Recap** - mediocre week; only 4 workouts but at least they were all solid.
+**Mon** - squat was moderate/heavy with good form; felt surprisingly strong after sleeping poorly the night before due to day long world cup festivities; go up in weight on lunge. **Tue** - OHP was moderate/heavy; 8 reps is a PR; ran out of steam towards the end but still had a good workout. **Wed** - pullups are getting stronger. **Thu** - rest. **Fri** - rest. **Sat** - good workout. **Sun** - rest. **Recap** - mediocre week; only 4 workouts but at least they were all solid.
 
 2022.12.18 ***`        `***   
 2022.12.17 ***`Upper   `*** **DB OH press-sngl:** 80x10x4 • **DB row-sngl:** 100x15x4 • **DB OH press:** 52x20,15,10 • **pushups:** 25x4  
@@ -1843,7 +1843,7 @@
 2022.12.14 ***`Flex    `*** **run:** 2m • **pullups:** 10x5  
 2022.12.13 ***`Upper   `*** **run:** 1m • **BB OH press:** 165x7x4 • **lat pulldown:** 165x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x15x4  
 2022.12.12 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 70x12x4 • **DB lunge:** 55x20x3  
-**Mon** - good workout; felt great to be getting back into it. **Tue** - OHP was moderate/heavy and felt strong; it doesn't seem like I've lost any stength even though I didn't do a whole lot over the last two weeks. **Wed** - start doing pushups or pullups on the days when I can't go to the gym. **Thur** - rest. **Fri** - squat was moderate/heavy with good form; go up in weight next week. **Sat** - OHP was moderate/heavy. **Sun** - rest. **Recap** - good week; back in stride after poor couple of weeks.
+**Mon** - good workout; felt great to be getting back into it. **Tue** - OHP was moderate/heavy and felt strong; it doesn't seem like I've lost any strength even though I didn't do a whole lot over the last two weeks. **Wed** - start doing pushups or pullups on the days when I can't go to the gym. **Thur** - rest. **Fri** - squat was moderate/heavy with good form; go up in weight next week. **Sat** - OHP was moderate/heavy. **Sun** - rest. **Recap** - good week; back in stride after poor couple of weeks.
 
 2022.12.11 ***`        `***   
 2022.12.10 ***`        `***   
@@ -2360,7 +2360,7 @@
 2021.11.10 ***`Lower-2 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x4 • **DB lunge-rvs:** 52x20x3  
 2021.11.09 ***`Upper-1 `*** **elliptical:** 15 min • **BB OH press:** 125x12x3 • **DB row-sngl:** 90x24x4  
 2021.11.08 ***`Lower-1 `*** **run:** 2 miles - sprints • **back squat:** 225x8x4 • **RDL:** 225x8x4  
-- **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - first time doing 12 reps on the wtd DB squat; weight was moderate but I got quite winded. **Fri** - OH press was moderate and a little lighter than on Tue. **Sat** - ended up taking a rest day as it was Tina's B-day party. **Sun** - anotehr R&R day. **Recap** - decent week; add chinups next week.
+- **Mon** - squat was heavy; ROM was good but overall form wasn't great; RDL was moderate. **Tue** - OH press was moderate for the most part and heavy the last few reps. **Wed** - first time doing 12 reps on the wtd DB squat; weight was moderate but I got quite winded. **Fri** - OH press was moderate and a little lighter than on Tue. **Sat** - ended up taking a rest day as it was Tina's B-day party. **Sun** - another R&R day. **Recap** - decent week; add chinups next week.
 
 2021.11.07 ***`Flex    `*** **rest**  
 2021.11.06 ***`Lower-3 `*** **run:** 2 miles - sprints • **deadlift:** 315x5x4 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
@@ -2423,7 +2423,7 @@
 2021.09.22 ***`Cardio-1`*** **elliptical:** 30 min  
 2021.09.21 ***`Upper-1 `*** **run:** 2 miles @ 7:30 pace (trdml) • **pulldown:** 25x4 • **DB OH press:** 50x15x4  
 2021.09.20 ***`Lower-1 `*** **elliptical:** 15 min • **back squat:** 190x8x4 • **BB lunge:** 100x20x3 • **good morning:** 65x12x4  
-- **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - run was easy, go up to 7:15 next week on the treadmill; squat was brutal on the cardio, did it on a 4 min interval. **Fri** - OH press was moderate/heavy. **Sun** - ran on the treadmill instead of the track so I decided to step up the pace a bit; it was still easy/moderate. **Recap** - another solid week; shoulder is better and I made progress on all 3 fronts (lower, uppper, cardio); travel week next week so I'll have to augment.
+- **Mon** - felt horrible all day, lightheaded and nauseous, didn't even go to work, stayed horizontal most of the day; however, I had an awesome workout, probably the best one since I started lifting again 3 weeks ago, and I felt great afterwards; squat was moderate; lunge was light, go up in weight next week; GM form was better. **Tue** - run was easy; OH press was moderate/heavy. **Wed** - felt a little lethargic without having a coffee first but still sweated profusely. **Thur** - run was easy, go up to 7:15 next week on the treadmill; squat was brutal on the cardio, did it on a 4 min interval. **Fri** - OH press was moderate/heavy. **Sun** - ran on the treadmill instead of the track so I decided to step up the pace a bit; it was still easy/moderate. **Recap** - another solid week; shoulder is better and I made progress on all 3 fronts (lower, upper, cardio); travel week next week so I'll have to augment.
 
 2021.09.19 ***`Cardio-2`*** **run:** 3 miles @ 7:50 pace (Helix) • **hip thrust:** 145x15x4 • **plank:** 60secx3  
 2021.09.18 ***`Rest    `***  
@@ -2621,7 +2621,7 @@
 2021.04.21 ***`Legs-1 `*** **back squat:** 235x5x5 • **good morning:** 115x12x5 • **BB lunge:** 115x20x3  
 2021.04.20 ***`Push-1 `*** **BB bench press:** 290x2x5 • **bench dip-wtd:** 20x5 • **DB fly:** 40x12x5  
 2021.04.19 ***`Pull-1 `*** **rest**  
-- **Week 6:** 2 reps on main movements. **Mon** - rested again, forearm still hurts. **Tue** - bench was heavy but I kept good form except for the very last rep which caused pain in both shoulders; wrist wraps helped, start using them with 250+. **Wed** - squat was heavy but I maintained good form for the most part, except for the last 1-2 reps; supersetted GM and lunge. **Thur** - rested. **Fri** - rested. **Sat** - squat was moderate/heavy with good form, could've done 4 reps; lunge is getting stronger, go up to 125; skipped front squat to prevent aggravating the shoulders. **Sun** - rushed the workout in the morning and ran out of time; OH press was heavy, started the 2nd set too low and only got one rep, consider dropping the weight and focusing on full ROM. **Recap** - Another mixed week due to the nagging forearm injury.
+- **Week 6:** 2 reps on main movements. **Mon** - rested again, forearm still hurts. **Tue** - bench was heavy but I kept good form except for the very last rep which caused pain in both shoulders; wrist wraps helped, start using them with 250+. **Wed** - squat was heavy but I maintained good form for the most part, except for the last 1-2 reps; superset GM and lunge. **Thur** - rested. **Fri** - rested. **Sat** - squat was moderate/heavy with good form, could've done 4 reps; lunge is getting stronger, go up to 125; skipped front squat to prevent aggravating the shoulders. **Sun** - rushed the workout in the morning and ran out of time; OH press was heavy, started the 2nd set too low and only got one rep, consider dropping the weight and focusing on full ROM. **Recap** - Another mixed week due to the nagging forearm injury.
 
 2021.04.18 ***`Cardio `*** **rest**  
 2021.04.17 ***`Legs-2 `*** **back squat-psd:** 225x3x5 • **front squat:** 165x6x5 • **BB lunge:** 105x20x3  
