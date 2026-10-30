@@ -6,11 +6,12 @@
 
 *****
 
+2026.10.30 ***`Lower `*** **run:** 1m • **leg press:** 360x15x4 • **back extn:** 80x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.10.29 ***`      `***   
 2026.10.28 ***`Upper `*** **shoulder press-mchn:** 10x4  • **DB row-sngl:** 90x15x4  
 2026.10.27 ***`Upper `*** **chest press-mchn:** 10x4  • **tri pushdown:** 20x4  
 2026.10.26 ***`Upper `*** **pullups:** 10x4  • **dips:** 10x4  
-**Mon** - decent workout at the ARIA gym. **Tue** - another decent workout at the ARIA gym. **Wed** - another decent workout at the ARIA gym. **Thur** - rest day after previous night's festivities. **Fri** - 
+**Mon** - decent workout at the ARIA gym. **Tue** - another decent workout at the ARIA gym. **Wed** - another decent workout at the ARIA gym. **Thur** - rest day after previous night's festivities. **Fri** - good workout although still not feeling 100%. **Sat** - 
 
 2026.10.25 ***`Upper `*** **DB OH Press:** 50x20x3  • **lat pulldown:** 15x3  
 2026.10.24 ***`Cardio`*** **elpt:** 10 min  
