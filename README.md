@@ -6,6 +6,9 @@
 
 *****
 
+2026.11.02 ***`Upper `*** **run:** 1m • **skull crushers:** 80x15x4 • **upright row:** 80x15x3 • **BB curl-rvs:** 80x10x4  
+**Mon** - good workout. **Tue** - 
+
 2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machien row:** 12x4 • **DB OHP:** 65x15x2  
 2026.10.31 ***`Cardio`*** **run:** 1m  
 2026.10.30 ***`Lower `*** **run:** 1m • **leg press:** 360x15x4 • **back extn:** 80x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
