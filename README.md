@@ -6,10 +6,11 @@
 
 *****
 
+2026.11.03 ***`Cardio`*** **run:** 1m  
 2026.11.02 ***`Upper `*** **run:** 1m • **skull crushers:** 80x15x4 • **upright row:** 80x15x3 • **BB curl-rvs:** 80x10x4  
-**Mon** - good workout. **Tue** - 
+**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - 
 
-2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machien row:** 12x4 • **DB OHP:** 65x15x2  
+2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machine row:** 12x4 • **DB OHP:** 65x15x2  
 2026.10.31 ***`Cardio`*** **run:** 1m  
 2026.10.30 ***`Lower `*** **run:** 1m • **leg press:** 360x15x4 • **back extn:** 80x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.10.29 ***`      `***   
@@ -632,7 +633,7 @@
 2025.07.09 ***`Upper `*** **run:** 1m • **BB OH press:** 165x10x4 • **DB row-sngl:** 100x15x4 • **DB bench press:** 100x10x4  
 2025.07.08 ***`Lower `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 90x12x4 • **DB lunge:** 65x12x2  
 2025.07.07 ***`Cardio`*** **run:** 1m • **swim:** 1000 yards  
-**Mon** - good cardio day. **Tue** - good leg day. **Wed** - OHP was heavy but felt strong; only the second time doing 4 sets of 10 with 165; bench was moderate/heavy. **Thur** - good run. **Fri** - good run. **Sat** - good swim. **Sun** - good workout despite not feeling great after sleeping poorly; bench was moderate/heavy and felt stronger than last week; OHP also felt tronger. **Recap** - mediocre week. Total number of sets: 34.
+**Mon** - good cardio day. **Tue** - good leg day. **Wed** - OHP was heavy but felt strong; only the second time doing 4 sets of 10 with 165; bench was moderate/heavy. **Thur** - good run. **Fri** - good run. **Sat** - good swim. **Sun** - good workout despite not feeling great after sleeping poorly; bench was moderate/heavy and felt stronger than last week; OHP also felt stronger. **Recap** - mediocre week. Total number of sets: 34.
 
 2025.07.06 ***`Cardio`*** **ab wheel:** 25x4  
 2025.07.05 ***`Upper `*** **run:** 1m • **bench press:** 245x8,5,5,5 • **DB row-sngl:** 90x15x4 • **DB OHP-sngl:** 80x10x4  
@@ -1736,7 +1737,7 @@
 2023.03.08 ***`        `***   
 2023.03.07 ***`Upper   `*** **run:** 1m • **DB OH press-std:** 90x8x4 • **lat pulldown:** 160x12x4 • **tri pushdown:** 20x4  
 2023.03.06 ***`Lower   `*** **run:** 1m • **leg press:** 400x20x4 • **back extn:** 80x12x4 • **DB lunge:** 60x20x3  
-**Mon** - didn't feel great but had a decent workout. **Tue** - didn't feel great after sleeping poorly; OHP was moderate/heavy; last rep was a grinder but I got it. **Wed** - rest. **Thur** - rest. **Fri** - didn't feel great. **Sat** - was feeling a bit under the weather; squat was moderate/heavy with good form. **Sun** - still feeling ill; OHP was moderate/heavy; first time reping 165 for 9. **Recap** - good week despite illness.
+**Mon** - didn't feel great but had a decent workout. **Tue** - didn't feel great after sleeping poorly; OHP was moderate/heavy; last rep was a grinder but I got it. **Wed** - rest. **Thur** - rest. **Fri** - didn't feel great. **Sat** - was feeling a bit under the weather; squat was moderate/heavy with good form. **Sun** - still feeling ill; OHP was moderate/heavy; first time repping 165 for 9. **Recap** - good week despite illness.
 
 2023.03.05 ***`Misc    `*** **pushups:** 25x4 • **ab wheel:** 10x4  
 2023.03.04 ***`Upper   `*** **BB OH press:** 165x8x4 • **DB row-sngl:** 100x15x4  
@@ -1884,7 +1885,7 @@
 2022.11.16 ***`Upper   `*** **run:** 1m • **DB OH press:** 75x8x4 • **lat pulldown:** 160x15x4 • **tri push/extn:** 20x4 • **machine row:** 250x20x3  
 2022.11.15 ***`Lower   `*** **run:** 1m • **leg press:** 400x15x4 • **back extn:** 80x12x4 • **DB lunge-rvs:** 50x20x3  
 2022.11.14 ***`        `***   
-**Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was suboptimal; pull felt strong. **Thur** - squat was moderate with good form. **Fri** - rest. **Sat** - felt strong; OHP was moderate/heavy with good form; first time doing 7 reps with 165. **Sun** - good run. **Recap** - good week with 4 solid workouts.
+**Mon** - rest. **Tue** - good workout. **Wed** - OHP was heavy and form was sub-optimal; pull felt strong. **Thur** - squat was moderate with good form. **Fri** - rest. **Sat** - felt strong; OHP was moderate/heavy with good form; first time doing 7 reps with 165. **Sun** - good run. **Recap** - good week with 4 solid workouts.
 
 2022.11.13 ***`        `***   
 2022.11.12 ***`Upper   `*** **run:** 2m • **BB OH press:** 155x8x4 • **DB row-sngl:** 100x15x4  
@@ -2302,7 +2303,7 @@
 2021.12.29 ***`Rest    `***   
 2021.12.28 ***`Lower-1 `*** **run:** 2 miles - sprints • **goblet squat:** 90x20x4  
 2021.12.27 ***`Upper-1 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x10 • **pushups:** 20x5  
-- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torse more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger. Total number of sets: 2677.
+- **Mon** - legs were a bit sore so I switched Upper and Lower; pullups were light/moderate and felt good; did pushups for the first time since August; no shoulder pain. **Tue** - squat was moderate. **Wed** - rest. **Thur** - first time doing the Arnold press; better trap involvement than standard press. **Fri** - squat was moderate with good form; I kept the torso more upright; goblet squat was lighter than usual. **Sat** - rest. **Sun** - OH press was moderate/heavy. **Recap** - decent week; squat form is getting better and both OH press and pullups are getting stronger. Total number of sets: 2677.
 
 2021.12.26 ***`Upper-3 `*** **DB OH press:** 52x18x3 • **DB row-sngl:** 90x15x4  
 2021.12.25 ***`Lower-3 `*** **run:** 2 miles - sprints • **DB squat-wtd:** 165x12x3 • **goblet squat:** 90x20x2  
@@ -2347,7 +2348,7 @@
 2021.11.24 ***`Lower-2 `*** **run:** 2 miles - sprints  
 2021.11.23 ***`Upper-1 `***   
 2021.11.22 ***`Lower-1 `***   
-- **Mon** - back injury turned out to be significantly worse than I had hoped. **Tue** - back felt better but still hurt. **Wed** - back felt much better; run didn't aggravate it. **Thur** - another rest day. **Fri**, **Sat**, **Sun** - back continiued to get better. **Recap** - back injury hampered progress, but it worked out well because I was due for a deload week after 10 weeks of increasingly high intensity training. Next week is a travel week so I'll have to augment before I start a new program cycle.
+- **Mon** - back injury turned out to be significantly worse than I had hoped. **Tue** - back felt better but still hurt. **Wed** - back felt much better; run didn't aggravate it. **Thur** - another rest day. **Fri**, **Sat**, **Sun** - back continued to get better. **Recap** - back injury hampered progress, but it worked out well because I was due for a deload week after 10 weeks of increasingly high intensity training. Next week is a travel week so I'll have to augment before I start a new program cycle.
 
 2021.11.21 ***`Lower-3 `*** **run:** 2 miles - sprints • **pullups-ntrl:** 10x3 • **deadlift:** 325x5x3 • **hip thrust:** 175x15x4 • **good morning:** 75x12x4  
 2021.11.20 ***`Rest    `***  
@@ -2410,7 +2411,7 @@
 2021.10.06 ***`Upper-2 `*** **elliptical:** 15 min • **DB row-sngl:** 90x20x4 • **plank-wtd:** 60secx3  
 2021.10.05 ***`Lower-1 `*** **run:** 2 miles @ 7:15 pace (trdml) • **back squat:** 200x8x4 • **RDL:** 185x8x4  
 2021.10.04 ***`Upper-1 `*** **elliptical:** 15 min • **DB OH press:** 50x15x4 • **pulldown:** 25x4  
-- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - row was light/moderate and didn't aggravate my elbow; try adding BB row next week. **Thur** - track was in use so I couldn't run; used a 60lb weighted vest on DB squat; it was moderate in terms of weight but brutal on cardio. **Sat** - deadlifted for the first time since early August; tried mixed grip for the first time ever; form wasn't great but wasn't horrible either. **Sun** - felt surprisingly strong in the morning; DB OH press was moderate and felt lighter than ever before; supersetted with DB row-sngl; did curl for the first time since April and it didn't aggravate my elbow; keep doing rows and curls for another week and then add chinups and neutral grip pullups. **Recap** - good week; it feels great to deadlift and to start doing Pull movements again.
+- **Mon** - it rained so I did an Upper workout instead of Lower; OH press was heavy. **Tue** - run was easy/moderate; felt bloated after a big lunch; squat was moderate; RDL was light and it didn't aggravate my elbow, so I should be ok to deadlift. **Wed** - row was light/moderate and didn't aggravate my elbow; try adding BB row next week. **Thur** - track was in use so I couldn't run; used a 60lb weighted vest on DB squat; it was moderate in terms of weight but brutal on cardio. **Sat** - deadlifted for the first time since early August; tried mixed grip for the first time ever; form wasn't great but wasn't horrible either. **Sun** - felt surprisingly strong in the morning; DB OH press was moderate and felt lighter than ever before; superset with DB row-sngl; did curl for the first time since April and it didn't aggravate my elbow; keep doing rows and curls for another week and then add chinups and neutral grip pullups. **Recap** - good week; it feels great to deadlift and to start doing Pull movements again.
 
 2021.10.03 ***`Rest    `***  
 2021.10.02 ***`Lower-2 `*** **back squat:** 195x8x4 • **hip thrust:** 145x15x4 • **good morning:** 65x12x4 • **plank:** 60secx3  
@@ -2473,7 +2474,7 @@
 2021.08.18 ***`Cardio-1`*** **rest**  
 2021.08.17 ***`Cardio-2`*** **elliptical:** 30 min (hotel)  
 2021.08.16 ***`Cardio-1`*** **run:** 4 miles @ 9:30 pace (hotel treadmill)  
-- **Mon** - upped both mileage and pace from last week; felt good. **Tue** - hit the hotel elliptical in the morning; didn't get as good of a workout as on my home gym machine. **Wed** - travel day. **Thur** - home gym elliptical, upped the resistance slightly from last week yet it felt easier; go for 35-40 min next time. **Fri** - ran at the lake for the first time in years; felt good to run outside; maintained a decent pace for the most part. **Sat** - elliptical keeps getting easier; continue to go up in duration and intensity; followed it up with a 2 mile walk at the lake with the kids. **Sun** - rest. **Recap** - good cardio week; it's a little surpsiging how fast I'm making cardio gains; start adding low intensity Lower exercises next week now that my side is feeling better.
+- **Mon** - upped both mileage and pace from last week; felt good. **Tue** - hit the hotel elliptical in the morning; didn't get as good of a workout as on my home gym machine. **Wed** - travel day. **Thur** - home gym elliptical, upped the resistance slightly from last week yet it felt easier; go for 35-40 min next time. **Fri** - ran at the lake for the first time in years; felt good to run outside; maintained a decent pace for the most part. **Sat** - elliptical keeps getting easier; continue to go up in duration and intensity; followed it up with a 2 mile walk at the lake with the kids. **Sun** - rest. **Recap** - good cardio week; it's a little surprising how fast I'm making cardio gains; start adding low intensity Lower exercises next week now that my side is feeling better.
 
 2021.08.15 ***`Rest    `*** **rest**  
 2021.08.14 ***`Cardio-2`*** **elliptical:** 30 min  
@@ -2617,7 +2618,7 @@
 2021.04.28 ***`Legs-1 `*** **back squat:** 135x6x3 • **RDL:** 135x8x3 • **good morning:** 95x6x3 • **BB lunge:** 95x10x2  
 2021.04.27 ***`Push-1 `*** **BB bench press:** 155x8x3 • **bench dip:** 15x3 • **DB fly:** 25x12x3  
 2021.04.26 ***`Pull-1 `*** **pullups-ntrl:** 10x2 • **chinups** 6x2 • **BB row:** 135x8x3  
-- **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it the most on BB row. **Wed** - felt the forearm a bit on the RDL but it's wasn't bad; light deadlift should be ok to start with. **Thur** - curl didn't cause any forearm pain, go up in weight. **Fri** - felt good. **Sat** - no forearm pain on deadlift, start loading it up again. **Sun** - rest. **Recap** - better week overall, felt good to start doing Pull movements again.
+- **Week 7:** deload week - 50% of 1RM intentsity and 50% of regular volume (2-3 sets of 6-8 reps). **Mon** - got rained out. **Tue** - doubled up on Pull and Push; did Pull movements for the first time since injuring my forearm in Week 4; it still hurts but didn't seem to get any worse; I felt it the most on BB row. **Wed** - felt the forearm a bit on the RDL but it's wasn't bad; light deadlift should be OK to start with. **Thur** - curl didn't cause any forearm pain, go up in weight. **Fri** - felt good. **Sat** - no forearm pain on deadlift, start loading it up again. **Sun** - rest. **Recap** - better week overall, felt good to start doing Pull movements again.
 
 2021.04.25 ***`Push-2 `*** **BB OH press:** 160x1, 170x1, 180x2,1,2, 135x10x2  
 2021.04.24 ***`Legs-2 `*** **back squat-psd:** 235x3x5 • **BB lunge:** 115x20x3  
