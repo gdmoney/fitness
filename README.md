@@ -6,9 +6,10 @@
 
 *****
 
+2026.11.04 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x2, 145x10x2 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x2  
 2026.11.03 ***`Cardio`*** **run:** 1m  
 2026.11.02 ***`Upper `*** **run:** 1m • **skull crushers:** 80x15x4 • **upright row:** 80x15x3 • **BB curl-rvs:** 80x10x4  
-**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - 
+**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - good workout; OHP felt strong. **Thur** - 
 
 2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machine row:** 12x4 • **DB OHP:** 65x15x2  
 2026.10.31 ***`Cardio`*** **run:** 1m  
