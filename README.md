@@ -6,12 +6,14 @@
 
 *****
 
+2026.11.06 ***`Upper `*** **run:** 1m • **DB bench press:** 90x12x4 • **DB row-sngl:** 80x15x4 • **DB OH press:** 52x15x4  
+2026.11.05 ***`Cardio`*** **run:** 1m  
 2026.11.04 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x2, 145x10x2 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x2  
 2026.11.03 ***`Cardio`*** **run:** 1m  
 2026.11.02 ***`Upper `*** **run:** 1m • **skull crushers:** 80x15x4 • **upright row:** 80x15x3 • **BB curl-rvs:** 80x10x4  
-**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - good workout; OHP felt strong. **Thur** - 
+**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - good workout; OHP felt strong. **Thur** - good run. **Fri** - good workout; felt strong. **Sat** - 
 
-2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machine row:** 12x4 • **DB OHP:** 65x15x2  
+2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machine row:** 12x4 • **DB OH press:** 65x15x2  
 2026.10.31 ***`Cardio`*** **run:** 1m  
 2026.10.30 ***`Lower `*** **run:** 1m • **leg press:** 360x15x4 • **back extn:** 80x15x4 • **leg extn:** 15x2 • **leg curl:** 15x2  
 2026.10.29 ***`      `***   
@@ -20,7 +22,7 @@
 2026.10.26 ***`Upper `*** **pullups:** 10x4  • **dips:** 10x4  
 **Mon** - decent workout at the ARIA gym. **Tue** - another decent workout at the ARIA gym. **Wed** - another decent workout at the ARIA gym. **Thur** - rest day after previous night's festivities. **Fri** - good workout despite still not feeling 100%. **Sat** - felt better but the run still felt sluggish. **Sun** - good workout; bench felt heavy, which is not surprising since my last BB bench press workout was 6 weeks ago. **Recap** - good week, travel and lingering illness notwithstanding. Total number of sets: 46. October misses workouts: 8.
 
-2026.10.25 ***`Upper `*** **DB OH Press:** 50x20x3  • **lat pulldown:** 15x3  
+2026.10.25 ***`Upper `*** **DB OH press:** 50x20x3  • **lat pulldown:** 15x3  
 2026.10.24 ***`Cardio`*** **elpt:** 10 min  
 2026.10.23 ***`      `***   
 2026.10.22 ***`      `***   
@@ -114,7 +116,7 @@
 2026.08.15 ***`Upper `*** **elpt:** 15 min
 2026.08.14 ***`Cardio`*** **run:** 1m  
 2026.08.13 ***`Upper `*** **run:** 1m • **skull crushers:** 95x15x4 • **upright row:** 95x15x4 • **BB curl-rvs:** 75x12x4  
-2026.08.12 ***`Upper `*** **run:** 1m • **bench press:** 210x10x4 • **DB row-sngl:** 90x15x4 • **DB OHP:** 52x15x2  
+2026.08.12 ***`Upper `*** **run:** 1m • **bench press:** 210x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press:** 52x15x2  
 2026.08.11 ***`Cardio`*** **run:** 1m  
 2026.08.10 ***`Cardio`*** **elpt:** 15 min  
 **Mon** - good elliptical session. **Tue** - run felt better but sprinting feels awkward. **Wed** - good run with Luka; bench was moderate and then heavy the last two sets; first time doing overhead movement since my back injury; no pain so incorporate it back into the program. **Thur** - good workout. **Fri** - run felt a little bit faster for the first time. **Sat** - good elliptical session. **Sun** - decent run. **Recap** - poor week with only 2 strength workouts. Total number of sets: 22.
@@ -153,7 +155,7 @@
 2026.07.15 ***`Cardio`*** **swim:** 500 yards  
 2026.07.14 ***`Cardio`*** **swim:** 500 yards  
 2026.07.13 ***`Cardio`*** **swim:** 500 yards  
-**Mon** - feeling better; pain is still there but it's manageable; swim felt good and didn't aggravate the injury. **Tue** - feeling about the same as yesterday; still had leg pain overnight which got better after getting up and walking around; swim felt good again. **Wed** - swim felt good again. **Thur** - slept poorly last due to alot of knee pain; no pain on pullups and dips. **Fri** - good swim. **Sat** - good swim. **Sun** - good swim. **Recap** - good post injury recovery week; swim is starting to get stronger and feel better. Total number of sets:8.
+**Mon** - feeling better; pain is still there but it's manageable; swim felt good and didn't aggravate the injury. **Tue** - feeling about the same as yesterday; still had leg pain overnight which got better after getting up and walking around; swim felt good again. **Wed** - swim felt good again. **Thur** - slept poorly last night due to a lot of knee pain; no pain on pullups and dips. **Fri** - good swim. **Sat** - good swim. **Sun** - good swim. **Recap** - good post injury recovery week; swim is starting to get stronger and feel better. Total number of sets:8.
 
 2026.07.12 ***`      `***   
 2026.07.11 ***`      `***   
