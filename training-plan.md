@@ -8,9 +8,9 @@
 | **`Legs   `** | SSB squat         | Hatfield squat    | leg press         | lunge / rvs lunge | leg curl / extn   |                   |
 | **`Hinge  `** | back extension    |                   |                   |                   |                   |                   |
 | **`Push   `** | BB bench press    | DB bench press    | BB OHP            | DB OHP / single   | shoulder press    | dips              |
-| **`Pull   `** | DB row            | pullups / chinups | lat pulldown      | machine row       | upright row       |                   |
-| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB/DB curl / rvs  |                   |
-| **`Cardio `** | run               | elliptical        | ab wheel          |                   |                   |                   |
+| **`Pull   `** | pullups / chinups | lat pulldown      | machine row       | upright row       |                   |                   |
+| **`Misc   `** | tri pushdown      | skull crushers    | farmer's walk     | cable cross-over  | BB/DB curl / rvs  | ab wheel          |
+| **`Cardio `** | run               | elliptical        | stationary bike   |                   |                   |                   |
 
 *****
 
