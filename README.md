@@ -6,12 +6,17 @@
 
 *****
 
+2026.11.09 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 45x15x4 • **tri pushdown:** 20x4 • **dips:** 10x4  
+**Mon** - good workout; pullups felt strong. **Tue** - 
+
+2026.11.08 ***`Cardio`*** **run:** 1m  
+2026.11.07 ***`Cardio`*** **run:** 1m  
 2026.11.06 ***`Upper `*** **run:** 1m • **DB bench press:** 90x12x4 • **DB row-sngl:** 80x15x4 • **DB OH press:** 52x15x4  
 2026.11.05 ***`Cardio`*** **run:** 1m  
 2026.11.04 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x2, 145x10x2 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x2  
 2026.11.03 ***`Cardio`*** **run:** 1m  
-2026.11.02 ***`Upper `*** **run:** 1m • **skull crushers:** 80x15x4 • **upright row:** 80x15x3 • **BB curl-rvs:** 80x10x4  
-**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - good workout; OHP felt strong. **Thur** - good run. **Fri** - good workout; felt strong. **Sat** - 
+2026.11.02 ***`Upper `*** **run:** 1m • **skull crushers:** 80x15x4 • **upright row:** 80x15x4 • **BB curl-rvs:** 80x10x4  
+**Mon** - good workout. **Tue** - good run; starting to get the explosiveness back. **Wed** - good workout; OHP felt strong. **Thur** - good run. **Fri** - good workout; felt strong. **Sat** - good run. **Sun** - good run. **Recap** - mediocre week. Total number of sets: 34.
 
 2026.11.01 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machine row:** 12x4 • **DB OH press:** 65x15x2  
 2026.10.31 ***`Cardio`*** **run:** 1m  
