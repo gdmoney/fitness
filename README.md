@@ -6,10 +6,11 @@
 
 *****
 
+2026.11.12 ***`Cardio`*** **run:** 1m  
 2026.11.11 ***`Upper `*** **run:** 1m • **bench press:** 205x10x4 • **machine row:** 185x12x4 • **DB OH press:** 55x15x2 • **shoulder press-mchn:** 185x10x2  
 2026.11.10 ***`Lower `*** **run:** 1m • **leg press:** 360x15x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **DB lunge:** 45x20x2  
 2026.11.09 ***`Upper `*** **run:** 1m • **pullups:** 10x4 • **cable x-over:** 45x15x4 • **tri pushdown:** 20x4 • **dips:** 10x4  
-**Mon** - good workout; pullups felt strong. **Tue** - good workout; first time doing DB lunge since January; left leg was noticeably weaker. **Wed** - good workout; bench felt stronger than last week with better form; go up in weight next week. **Thur** - 
+**Mon** - good workout; pullups felt strong. **Tue** - good workout; first time doing DB lunge since January; left leg was noticeably weaker. **Wed** - good workout; bench felt stronger than last week with better form; go up in weight next week. **Thur** - good run. **Fri** - 
 
 2026.11.08 ***`Cardio`*** **run:** 1m  
 2026.11.07 ***`Cardio`*** **run:** 1m  
