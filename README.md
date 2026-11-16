@@ -6,6 +6,9 @@
 
 *****
 
+2026.11.16 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **upright row:** 85x15x4 • **BB curl-rvs:** 75x10x4  
+**Mon** - light workout. **Tue** - 
+
 2026.11.15 ***`Cardio`*** **run:** 1m  
 2026.11.14 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x3  
 2026.11.13 ***`Cardio`*** **run:** 1m • **ab wheel:** 20x4  
