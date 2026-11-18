@@ -6,9 +6,10 @@
 
 *****
 
+2026.11.18 ***`Upper `*** **run:** 1m • **bench press:** 215x10x4 • **machine row:** 170x15x4 • **DB OH press:** 60x12x4  
 2026.11.17 ***`Lower `*** **run:** 1m • **DB lunge:** 35x20x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **dips:** 15x10x4  
 2026.11.16 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **upright row:** 85x15x4 • **BB curl-rvs:** 75x10x4  
-**Mon** - light workout. **Tue** - good workout; dips felt string. **Wed** - 
+**Mon** - light workout. **Tue** - good workout; dips felt string. **Wed** - good workout; bench felt strong with good form; OHP also felt strong. **Thur** - 
 
 2026.11.15 ***`Cardio`*** **run:** 1m  
 2026.11.14 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x3  
