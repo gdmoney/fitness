@@ -6,12 +6,18 @@
 
 *****
 
+2026.11.24 ***`Cardio`*** **run:** 1m  
+2026.11.23 ***`Upper `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press:** 52x20x4  
+**Mon** - good workout; bench felt strong; go up next week; OHP also felt strong. **Tue** - good run. **Wed** - 
+
+2026.11.22 ***`Upper `*** **run:** 1m • **pullups:** 10x4  
+2026.11.21 ***`Cardio`*** **run:** 1m  
 2026.11.20 ***`Upper `*** **run:** 1m • **shoulder press-smith:** 160x10x2, 150x10x2 • **lat pulldown:** 200x12x4 • **DB bench press:** 75x20x2  
 2026.11.19 ***`Cardio`*** **run:** 1m  
 2026.11.18 ***`Upper `*** **run:** 1m • **bench press:** 215x10x4 • **machine row:** 170x15x4 • **DB OH press:** 60x12x4  
 2026.11.17 ***`Lower `*** **run:** 1m • **DB lunge:** 35x20x3 • **back extn:** 80x15x3 • **leg extn:** 15x3 • **leg curl:** 15x3 • **dips:** 15x10x4  
 2026.11.16 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **upright row:** 85x15x4 • **BB curl-rvs:** 75x10x4  
-**Mon** - light workout. **Tue** - good workout; dips felt strong. **Wed** - good workout; bench felt strong with good form; OHP also felt strong. **Thur** - good run. **Fri** - good workout; OHP was moderate/heavy with good form. **Sat** - 
+**Mon** - light workout. **Tue** - good workout; dips felt strong. **Wed** - good workout; bench felt strong with good form; OHP also felt strong. **Thur** - good run. **Fri** - good workout; OHP was moderate/heavy with good form. **Sat** - good run. **Sun** - pullups felt strong. **Recap** - good week. Total number of sets: 54.
 
 2026.11.15 ***`Cardio`*** **run:** 1m  
 2026.11.14 ***`Upper `*** **run:** 1m • **BB OH press:** 155x10x4 • **lat pulldown:** 185x12x4 • **DB bench press:** 75x20x3  
