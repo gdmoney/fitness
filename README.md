@@ -6,9 +6,10 @@
 
 *****
 
+2026.11.25 ***`Upper `*** **run:** 1m • **skull crushers:** 85x15x4 • **upright row:** 85x15x4 • **BB curl-rvs:** 75x10x4 • **farmer's walk:** 170x1minx4  
 2026.11.24 ***`Cardio`*** **run:** 1m  
 2026.11.23 ***`Upper `*** **run:** 1m • **bench press:** 215x10x4 • **DB row-sngl:** 90x15x4 • **DB OH press:** 52x20x4  
-**Mon** - good workout; bench felt strong; go up next week; OHP also felt strong. **Tue** - good run. **Wed** - 
+**Mon** - good workout; bench felt strong; go up next week; OHP also felt strong. **Tue** - good run. **Wed** - good workout; go up on skull crushers next week. **Thur** - 
 
 2026.11.22 ***`Upper `*** **run:** 1m • **pullups:** 10x4  
 2026.11.21 ***`Cardio`*** **run:** 1m  
